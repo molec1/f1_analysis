@@ -1,0 +1,1303 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2007 Canadian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 6 of 17 in the <a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:%C3%8Ele_Notre-Dame_(Circuit_Gilles_Villeneuve).svg" class="image"><img alt="Île Notre-Dame (Circuit Gilles Villeneuve).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg/300px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png" decoding="async" width="300" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg/450px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg/600px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png 2x" data-file-width="1430" data-file-height="973" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2007-06-10">10 June 2007</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+XLIV Grand Prix du Canada</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Circuit_Gilles_Villeneuve" title="Circuit Gilles Villeneuve">Circuit Gilles Villeneuve</a>, <a href="/wiki/Montreal" title="Montreal">Montreal</a>, Quebec, Canada</td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Street circuit</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.361 km (2.710 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+70 laps, 305.270 km (189.686 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Warm with temperatures approaching 26&#160;°C (79&#160;°F); wind speeds up to 5.8 kilometres per hour (3.6&#160;mph)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:15.707</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:16.367 on lap 46</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></li></ul></div></td><td>
+<small><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a></li></ul></div></td><td>
+<small><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_c031f7f10414cc12b2693fb267da971c"></map><img usemap="#timeline_c031f7f10414cc12b2693fb267da971c" src="//upload.wikimedia.org/wikipedia/en/timeline/c031f7f10414cc12b2693fb267da971c.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2007 Canadian Grand Prix</b> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Auto_race" class="mw-redirect" title="Auto race">motor race</a> held on 10 June 2007 at <a href="/wiki/Circuit_Gilles_Villeneuve" title="Circuit Gilles Villeneuve">Circuit Gilles Villeneuve</a> in <a href="/wiki/Montreal" title="Montreal">Montreal</a>, Quebec, Canada.<sup id="cite_ref-race_page_2-0" class="reference"><a href="#cite_note-race_page-2">&#91;2&#93;</a></sup> It was the sixth race of the <a href="/wiki/2007_Formula_One_season" class="mw-redirect" title="2007 Formula One season">2007 Formula One season</a>. The race was won by <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>, starting from pole position, in his first season in the top formula. It was Hamilton's first win in Formula One. <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> finished second and <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a> was third, making it the first Grand Prix of the 2007 season that drivers from teams other than <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> and <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a> achieved podium positions.
+</p><p>The <a href="/wiki/Safety_car" title="Safety car">safety car</a> was deployed an unprecedented four times during the course of the race.<sup id="cite_ref-4safety_car_3-0" class="reference"><a href="#cite_note-4safety_car-3">&#91;3&#93;</a></sup> One of these periods was due to <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>'s crash, which resulted in him suffering a sprained ankle and concussion. During the race <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> and <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> were disqualified for exiting the pit lane when the red light was on.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice"><span class="tocnumber">1.2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying"><span class="tocnumber">1.3</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Race"><span class="tocnumber">1.4</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Post-race"><span class="tocnumber">1.5</span> <span class="toctext">Post-race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Qualifying_2"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Championship_standings_after_the_race"><span class="tocnumber">3</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A test session was held on May 17 and 18 at the <a href="/wiki/Circuit_Paul_Ricard" title="Circuit Paul Ricard">Paul Ricard circuit</a> in France, with the track configured to replicate the characteristics of the Circuit Gilles Villeneuve for the final two days after it had been in the style of the <a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Monaco</a> for the first two. Despite the fact that the <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a> team had dominated on the Monaco set up of the circuit, <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> were better on the Canadian set up.<sup id="cite_ref-paul_ricard_testing_1_4-0" class="reference"><a href="#cite_note-paul_ricard_testing_1-4">&#91;4&#93;</a></sup><sup id="cite_ref-paul_ricard_testing_2_5-0" class="reference"><a href="#cite_note-paul_ricard_testing_2-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> had the fastest time on the first day, with a time of 1:28.833. Rain after lunch caused the test to be halted, when the test resumed Räikkönen was forced to finish early when his car experienced electronic problems. <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a> achieved the second fastest time, two tenths of a second behind Räikkönen, with Seven tenths separating the first eight drivers. The <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> team focused on testing their suspension. <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> and <a href="/wiki/Christian_Klien" title="Christian Klien">Christian Klien</a> shared testing for the <a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda team</a> over the day, however Klien's engine failed on his first lap. <a href="/wiki/James_Rossiter" title="James Rossiter">James Rossiter</a> in the <a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a> completed the most laps with 115.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Räikkönen was also the fastest on the second day with a time of 1:28.624, with <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a> driver <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>  ending the day with the second fastest time. Fisichella also completed 111 laps, the second most of the day, behind James Rossiter's 131. <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a> was third fastest despite completing fewer laps than other drivers due to his engine failing early in the day. The testing session was stopped twice, when <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil's</a> and <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button's</a> engines failed. Red Bull continued to perform high and low downforce work and <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW</a> performed low and medium downforce work.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Fisichella was optimistic about the race after these tests saying "he had more grip, the brakes were good and the front suspension gave him a better turn-in".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>During the two weeks leading up to the Grand Prix, Räikkönen and <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> released statements to the press saying they believed that everything would be different in Canada because of the very different conditions—as shown at Paul Ricard.<sup id="cite_ref-raikkonen_pre-race_9-0" class="reference"><a href="#cite_note-raikkonen_pre-race-9">&#91;9&#93;</a></sup> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> believed McLaren had momentum from their win in Monaco, and <a href="/wiki/Martin_Whitmarsh" title="Martin Whitmarsh">Martin Whitmarsh</a> said that they were realistic about dominating the race.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Practice started on the Friday with Alonso leading at the end of both the two practice sessions. In both sessions, he outpaced his teammate and the closest Ferrari driven by Felipe Massa. <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a> were pleased with 5th place in the first session and 7th in the second from <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> despite his report that the car was "very difficult to drive". But <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>'s car suffered a fuel leak resulting in him being unable to post a timed lap in the morning session, Kubica also told the press after the fuel leak, "the car has been quite difficult to drive." Both <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> drivers finished in the top ten of the morning practice. <a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a> were slower than its customer team <a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a> in the first practice, but <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Barrichello</a> was faster than <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> in the second practice. <a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota's</a> suspension problems meant that their second practice was cut short, but not before <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> narrowly missed a <a href="/wiki/Groundhog" title="Groundhog">groundhog</a> that ran across the track. After experiencing problems with <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>'s suspension, Toyota stopped both drivers for 45 minutes as a precautionary measure. By the time they got the cars back on the track, they only managed a few extra laps until the problem recurred. <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> ended his practice day by going into the wall at turn 7, damaging the suspension. His teammate, <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Fisichella</a>, performed better, staying in the top 8 in both sessions. At the end of the afternoon practice, <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> slowed down unexpectedly before turn 8 causing <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a> to drive into the back of the Red Bull. Webber had overtaken Speed just before this incident.<sup id="cite_ref-friday_practice_1_11-0" class="reference"><a href="#cite_note-friday_practice_1-11">&#91;11&#93;</a></sup><sup id="cite_ref-friday_practice_2_12-0" class="reference"><a href="#cite_note-friday_practice_2-12">&#91;12&#93;</a></sup><sup id="cite_ref-practice_quotes_13-0" class="reference"><a href="#cite_note-practice_quotes-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-webber_speed_clash_15-0" class="reference"><a href="#cite_note-webber_speed_clash-15">&#91;15&#93;</a></sup>
+</p><p>The Saturday morning practice session was 17&#160;minutes shorter than the scheduled 60&#160;minutes, due to Kovalainen's <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a> having a suspected engine failure. The failure caused oil to be split on the track, this failure persisted during the race weekend.<sup id="cite_ref-saturday_prac_description_16-0" class="reference"><a href="#cite_note-saturday_prac_description-16">&#91;16&#93;</a></sup> This resulted in a <a href="/wiki/Racing_flags#Red_flag" title="Racing flags">red flag</a> period, from 10:33&#160;am until 10:50&#160;am local time. Hamilton led the practice with the fastest lap; with Räikkönen, Alonso and Massa posting the second, third and fourth fastest laps respectively. Sato finished the session with the fifth fastest lap in the Super Aguri car, outpacing the Honda works team for the second time during the race weekend. Toyota continued a disappointing race weekend, with the 14th and 16th fastest laps.<sup id="cite_ref-saturday_prac_results_17-0" class="reference"><a href="#cite_note-saturday_prac_results-17">&#91;17&#93;</a></sup> Their suspension problems from the day before had not been resolved, and the two drivers were given instructions to avoid the kerbs at turn 8 to minimise further damage to the suspension.<sup id="cite_ref-toyota_team_instructions_18-0" class="reference"><a href="#cite_note-toyota_team_instructions-18">&#91;18&#93;</a></sup> Red Bull came back with both of the two repaired cars entering the top ten.<sup id="cite_ref-saturday_prac_results_17-1" class="reference"><a href="#cite_note-saturday_prac_results-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lewis_Hamilton_2007_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lewis_Hamilton_2007_2.jpg/220px-Lewis_Hamilton_2007_2.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lewis_Hamilton_2007_2.jpg/330px-Lewis_Hamilton_2007_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lewis_Hamilton_2007_2.jpg/440px-Lewis_Hamilton_2007_2.jpg 2x" data-file-width="3087" data-file-height="2057" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lewis_Hamilton_2007_2.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> took the first <a href="/wiki/Pole_position" title="Pole position">pole position</a> of his career at this Grand Prix</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kubica_Canada_2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kubica_Canada_2007.jpg/220px-Kubica_Canada_2007.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kubica_Canada_2007.jpg/330px-Kubica_Canada_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kubica_Canada_2007.jpg/440px-Kubica_Canada_2007.jpg 2x" data-file-width="2348" data-file-height="1758" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kubica_Canada_2007.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> leaves the pits during qualifying</div></div></div>
+<p>In qualifying Hamilton took his first <a href="/wiki/Pole_position" title="Pole position">pole position</a> as part of a McLaren one-two. Heidfeld improved on his practice performance to take third position, in front of the Ferraris of Räikkönen and Massa.<sup id="cite_ref-hamilton_qualifies_19-0" class="reference"><a href="#cite_note-hamilton_qualifies-19">&#91;19&#93;</a></sup> Massa shared the third row with Mark Webber, who did not seem to be suffering the same braking problem that almost put teammate <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> out in the first session of qualifying, he had only one attempt at a lap in the second session as a result.<sup id="cite_ref-coulthard_brakes_20-0" class="reference"><a href="#cite_note-coulthard_brakes-20">&#91;20&#93;</a></sup> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>, Robert Kubica, Giancarlo Fisichella and Jarno Trulli completed the top ten.<sup id="cite_ref-qualifying_results_21-0" class="reference"><a href="#cite_note-qualifying_results-21">&#91;21&#93;</a></sup>
+</p><p>Consistent with previous form, the Hondas of Barrichello and Button failed to make it into the top ten; they qualified 13th and 15th respectively. <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a>, once again out-qualified the two Honda cars, just missing out on the top ten, in front of <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a>. He made it through to the second session of qualifying by 94 hundredths of a second, where he qualified in 14th. <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a> was the slowest car in the second session of qualifying putting him in 16th position.<sup id="cite_ref-qualifying_results_21-1" class="reference"><a href="#cite_note-qualifying_results-21">&#91;21&#93;</a></sup>
+</p><p><a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a> missed out on the second session of qualifying, putting his Super Aguri in 17th position, 3 places behind his teammate Sato. <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> and his team were disappointed with qualifying in 18th. <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> crashed into the wall at turn 5, damaging his rear suspension and losing his rear wing, resulting in the session being stopped temporarily.<sup id="cite_ref-hamilton_qualifies_19-1" class="reference"><a href="#cite_note-hamilton_qualifies-19">&#91;19&#93;</a></sup> Once the debris had been cleared, Kovalainen in his repaired car managed one impressive lap that put him in 13th, after which six drivers outqualified him. Kovalainen then had to make an engine change due to an engine failure and was demoted to the back of the grid.<sup id="cite_ref-kovalainen_engine_22-0" class="reference"><a href="#cite_note-kovalainen_engine-22">&#91;22&#93;</a></sup> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Wurz</a>, <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Sutil</a> and <a href="/wiki/Christijan_Albers" title="Christijan Albers">Albers</a> qualified in 19th, 20th and 21st respectively after being pushed up a place by Kovalainen's engine change.<sup id="cite_ref-qualifying_results_21-2" class="reference"><a href="#cite_note-qualifying_results-21">&#91;21&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hamilton_%2B_Alonso_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hamilton_%2B_Alonso_2007_Canada.jpg/220px-Hamilton_%2B_Alonso_2007_Canada.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hamilton_%2B_Alonso_2007_Canada.jpg/330px-Hamilton_%2B_Alonso_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hamilton_%2B_Alonso_2007_Canada.jpg/440px-Hamilton_%2B_Alonso_2007_Canada.jpg 2x" data-file-width="3504" data-file-height="2332" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hamilton_%2B_Alonso_2007_Canada.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> leads at the start of the race, whilst <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> runs wide at the first corner.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:205px;"><a href="/wiki/File:Kubica_crash.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/e/ed/Kubica_crash.jpg" decoding="async" width="203" height="152" class="thumbimage" data-file-width="203" data-file-height="152" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kubica_crash.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>'s violent crash.</div></div></div>
+<p><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> led from the start, preventing <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> from overtaking at turn one. Alonso ran wide allowing <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> to overtake him and move into second place. Alonso damaged his car in the process and subsequently ran off the track at turn one a further three times during the race.<sup id="cite_ref-alonso_weekend_23-0" class="reference"><a href="#cite_note-alonso_weekend-23">&#91;23&#93;</a></sup><sup id="cite_ref-alonso_mistakes_24-0" class="reference"><a href="#cite_note-alonso_mistakes-24">&#91;24&#93;</a></sup> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> had a <a href="/wiki/Gearbox" class="mw-redirect" title="Gearbox">gearbox</a> problem at the start of the race and was unable to select first gear causing him stall on the grid.<sup id="cite_ref-race_driver_quotes_25-0" class="reference"><a href="#cite_note-race_driver_quotes-25">&#91;25&#93;</a></sup> <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a> started from pit lane. The first accident of the race involved <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a> who clipped the rear wing of Wurz' <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> and went into the hairpin with a broken <a href="/wiki/Suspension_(vehicle)" class="mw-redirect" title="Suspension (vehicle)">suspension</a>.
+</p><p>Alonso ran across the grass at turn one again on lap 15, which resulted in him falling further behind Hamilton. Three laps later he made a similar mistake at the same turn, resulting in him sliding across the grass for the third time in the race. This caused him to drop back to fourth as it allowed Massa to go round the inside of Alonso into third.<sup id="cite_ref-alonso_weekend_23-1" class="reference"><a href="#cite_note-alonso_weekend-23">&#91;23&#93;</a></sup>
+Massa moved into second when Heidfeld pitted on lap 20. Hamilton pitted on lap 22, rejoining the race in third place.<sup id="cite_ref-Commentary_26-0" class="reference"><a href="#cite_note-Commentary-26">&#91;26&#93;</a></sup>
+</p><p>On lap 22 <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a> crashed at turn four and the <a href="/wiki/Safety_car" title="Safety car">safety car</a> had to be deployed; Hamilton had pitted just before the incident.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Thus the pit lane was closed but <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> and <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> were forced to pit in order to avoid running out of fuel, and were given ten-second stop-and-go penalties. When the pit lane was re-opened and the rest of the field pitted, Massa and <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> left the pit lane while the red light was still on. Both were later disqualified from the race on lap 51.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Circuit_Monreal_with_two_location_circled.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Circuit_Monreal_with_two_location_circled.jpg/250px-Circuit_Monreal_with_two_location_circled.jpg" decoding="async" width="250" height="228" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Circuit_Monreal_with_two_location_circled.jpg/375px-Circuit_Monreal_with_two_location_circled.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/c/c5/Circuit_Monreal_with_two_location_circled.jpg 2x" data-file-width="445" data-file-height="405" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Circuit_Monreal_with_two_location_circled.jpg" class="internal" title="Enlarge"></a></div>Circuit Gilles Villeneuve showing the location of Sutil's (red) and Kubica's (blue) crashes.</div></div></div>
+<p>The race was restarted on lap 26, and on the approach to the hairpin later in the lap <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> hit the back of <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>'s <a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>. The impact forced Kubica onto the grass at the edge of the track, where a bump launched his car into and along the concrete wall just before the hairpin. After losing three wheels, the nose and suffering major damage to the sidepods in the initial impact, the <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW</a> flipped back across the track and came to rest against the barrier in the run-off area on the other side of the track. Although initial reports said that he had broken his leg, Kubica only suffered a sprained ankle and <a href="/wiki/Concussion" title="Concussion">concussion</a>.<sup id="cite_ref-Unscathed_Kubica_out_of_hospital_29-0" class="reference"><a href="#cite_note-Unscathed_Kubica_out_of_hospital-29">&#91;29&#93;</a></sup> The safety car was deployed again after this crash.<sup id="cite_ref-Kubica_escapes_injury_after_crash_30-0" class="reference"><a href="#cite_note-Kubica_escapes_injury_after_crash-30">&#91;30&#93;</a></sup> The safety car was also deployed on lap 50, due to debris from a crash involving <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a> on the previous lap, and on lap 55 due to <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a> crashing into the wall of champions once again.
+On Lap 58, Jarno Trulli was trying to pass Wurz but later his front track rod clipped away causing him to crash.
+Cement was placed at the hairpin around Kubica's accident. Räikkönen ran wide after he misjudged the braking on the dust. The Super Aguri of <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> went past him as a result and moved into 10th place.
+On lap 37, Trulli and <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> were battling for position going into turn 1. Both span off the track in almost synchronised fashion without touching each other. This occurrence amused reporters due to it resembling a form of dance. Both drivers were able to keep going. Also on this lap <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a> made an unscheduled pit stop. He claimed after the race that a <a href="/wiki/Beaver" title="Beaver">beaver</a> had damaged his front wing although Canadian reports said it more likely to have been a <a href="/wiki/Groundhog" title="Groundhog">groundhog</a>.<sup id="cite_ref-groundhog_31-0" class="reference"><a href="#cite_note-groundhog-31">&#91;31&#93;</a></sup> One lap later <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> was forced to retire due to a gearbox problem.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> also stopped on this lap and this allowed Massa, Fisichella and Sato to move ahead of both of them. Räikkönen had his second pit stop on lap 52 at the same time as Alonso. The latter was able to pass him just after they had exited the pits side-by-side. This moved him into 5th.<sup id="cite_ref-grand_33-0" class="reference"><a href="#cite_note-grand-33">&#91;33&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alonso_%2B_Sato_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alonso_%2B_Sato_2007_Canada.jpg/220px-Alonso_%2B_Sato_2007_Canada.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alonso_%2B_Sato_2007_Canada.jpg/330px-Alonso_%2B_Sato_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alonso_%2B_Sato_2007_Canada.jpg/440px-Alonso_%2B_Sato_2007_Canada.jpg 2x" data-file-width="3016" data-file-height="2011" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alonso_%2B_Sato_2007_Canada.jpg" class="internal" title="Enlarge"></a></div>In the closing stages, <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> passed Alonso to take sixth position: the best result in the <a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a> team's history.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lewis_Hamilton_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lewis_Hamilton_2007_Canada.jpg/220px-Lewis_Hamilton_2007_Canada.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lewis_Hamilton_2007_Canada.jpg/330px-Lewis_Hamilton_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lewis_Hamilton_2007_Canada.jpg/440px-Lewis_Hamilton_2007_Canada.jpg 2x" data-file-width="1620" data-file-height="1217" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lewis_Hamilton_2007_Canada.jpg" class="internal" title="Enlarge"></a></div>Hamilton led from pole position to take the first victory of his F1 career.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Podium_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/220px-Podium_2007_Canada.jpg" decoding="async" width="220" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/330px-Podium_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/440px-Podium_2007_Canada.jpg 2x" data-file-width="1162" data-file-height="897" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Podium_2007_Canada.jpg" class="internal" title="Enlarge"></a></div>The podium celebrations.</div></div></div>
+<p>Including the two disqualifications, ten drivers failed to finish the race, six of them because of accidents including Kubica. Four of them gearbox failures. Several cars were damaged during the race: Wurz's rear wing was damaged in the incident that took out Speed, while Davidson hit a groundhog on the racetrack. This meant that the safety car had to be deployed on four occasions. At the final restart on lap sixty, all of the remaining twelve cars were on the same lap creating some close racing and a lot of overtaking. Hamilton sustained his consistent pace throughout all of the incidents and pulled clear of Heidfeld in the closing stages, taking his first race win relatively comfortably.<sup id="cite_ref-f1.com_race_report_34-0" class="reference"><a href="#cite_note-f1.com_race_report-34">&#91;34&#93;</a></sup> Barrichello dropped ten places on his final pit stop. Hamilton's championship lead was strengthened when Sato overtook the reigning world champion to move into sixth place around the outside of the final chicane, having switched to the harder tyres on his final stop.<sup id="cite_ref-alonso_weekend_23-2" class="reference"><a href="#cite_note-alonso_weekend-23">&#91;23&#93;</a></sup><sup id="cite_ref-grand_33-1" class="reference"><a href="#cite_note-grand-33">&#91;33&#93;</a></sup>
+</p><p><a href="/wiki/Austria" title="Austria">Austria</a>'s <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a> drove through the field in his <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> from 19th at the start to finish third by taking one pitstop, completing 40 laps on super soft tires. By finishing third, Wurz recorded his third career podium in the race that marked ten years since his debut race in F1. <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> finished in second place after trailing Hamilton for the majority of the race. The safety car deployments also allowed <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> to move up to fourth after starting at the back of the grid. The race was the first time in the 2007 season where a driver from a team other than <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> or <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a> made the podium.<sup id="cite_ref-f1.com_race_report_34-1" class="reference"><a href="#cite_note-f1.com_race_report-34">&#91;34&#93;</a></sup>
+</p><p>Sato overtook the <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a> of world champion <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> on lap 67, just after overtaking <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> and having overtaken Ferrari's <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> earlier in the race. He finished sixth after having a race that had seen him move from the middle of the grid; to the back of the pack and to a high of fifth before a pit-stop error caused him to move back to eleventh; were moved up 5 places in the last 15 laps. Sato was voted "Driver of the Day" on the <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> website over Hamilton's first win.
+This was the last time that <a href="/wiki/Super_Aguri" class="mw-redirect" title="Super Aguri">Super Aguri</a> scored <a href="/wiki/Formula_One" title="Formula One">Formula One</a> points, and its biggest single points haul. The team's only other point came at the <a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">2007 Spanish Grand Prix</a>.
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reaction to the race was mainly focused on Hamilton and the fact that it was his first Grand Prix victory, making him the first black driver to ever win a Formula One race. It was also thought impressive that it had taken only six races for him to win and, in the process, take the lead in the drivers' championship at the age of 22. <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a> said he was "stunned" by the victory and <a href="/wiki/Damon_Hill" title="Damon Hill">Damon Hill</a> believed "People should not underestimate what he had achieved in a short space of time". Speculation began about the possibility of him winning the drivers championship.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p><p>Alonso and the Ferrari team were disappointed with the outcome of the race. Alonso was now eight points behind Hamilton in the drivers championship, as a result of finishing 7th. Ferrari lost ground in both the constructors and driver championship, after gaining a total of just four points from the race. Alonso believed Hamilton to have been "very lucky" to have won the race and did not congratulate his teammate after the race. Hamilton's performance was felt to have been faultless and all the more impressive due to four separate deployments of the Safety Car.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p><p>As a result of his crash Kubica was unable to race at the next Grand Prix in the <a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">United States</a>. The decision to not allow him to race was made by the sport's governing body the <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a>, as they believed it was a too much of a risk for him to race in case of another crash so soon after this one. This was despite the fact Kubica had said in a statement that he was "ready to race". He was replaced by <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> for the next race.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 95%">
+
+<tbody><tr>
+<th><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th><abbr title="Car number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Q3
+</th>
+<th><abbr title="Final grid position">Grid</abbr>
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:16.576
+</td>
+<td><b>1:15.486</b>
+</td>
+<td><b>1:15.707</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:16.562
+</td>
+<td>1:15.522
+</td>
+<td>1:16.163
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:17.006
+</td>
+<td>1:15.960
+</td>
+<td>1:16.266
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><b>1:16.468</b>
+</td>
+<td>1:16.592
+</td>
+<td>1:16.411
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:16.756
+</td>
+<td>1:16.138
+</td>
+<td>1:16.570
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:17.315
+</td>
+<td>1:16.257
+</td>
+<td>1:16.913
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:17.016
+</td>
+<td>1:16.190
+</td>
+<td>1:16.919
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:17.267
+</td>
+<td>1:16.368
+</td>
+<td>1:16.993
+</td>
+<td>8
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:16.805
+</td>
+<td>1:16.288
+</td>
+<td>1:17.229
+</td>
+<td>9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:17.324
+</td>
+<td>1:16.600
+</td>
+<td>1:17.747
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a>
+</td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:17.490
+</td>
+<td>1:16.743
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:17.541
+</td>
+<td>1:16.760
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:17.011
+</td>
+<td>1:17.116
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:17.436
+</td>
+<td>1:17.304
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:17.522
+</td>
+<td>1:17.541
+</td>
+<td>
+</td>
+<td>15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:17.433
+</td>
+<td>1:17.571
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a>
+</td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:17.542
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:17.634
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:17.806
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>22<sup class="reference plainlinks nourlexpansion" id="ref_qual1"><a href="#endnote_qual1">1</a></sup>
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:18.089
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>19
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:18.536
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a>
+</td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:19.196
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>21
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</th></tr></tbody></table>
+<dl><dt>Notes</dt>
+<dd></dd></dl>
+<ul><li><span class="citation wikicite" id="endnote_qual1"><b><a href="#ref_qual1">^1</a></b></span>  – <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> was given a ten-place grid penalty after he made an unscheduled engine change. This was due to an engine failure during the Saturday practice session (P3).<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup></li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lewis_Hamilton_2007_Canada_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lewis_Hamilton_2007_Canada_2.jpg/220px-Lewis_Hamilton_2007_Canada_2.jpg" decoding="async" width="220" height="102" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lewis_Hamilton_2007_Canada_2.jpg/330px-Lewis_Hamilton_2007_Canada_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lewis_Hamilton_2007_Canada_2.jpg/440px-Lewis_Hamilton_2007_Canada_2.jpg 2x" data-file-width="1454" data-file-height="676" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lewis_Hamilton_2007_Canada_2.jpg" class="internal" title="Enlarge"></a></div>Hamilton celebrates his win on his victory lap.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nick_Heidfeld_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nick_Heidfeld_2007_Canada.jpg/220px-Nick_Heidfeld_2007_Canada.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nick_Heidfeld_2007_Canada.jpg/330px-Nick_Heidfeld_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nick_Heidfeld_2007_Canada.jpg/440px-Nick_Heidfeld_2007_Canada.jpg 2x" data-file-width="3082" data-file-height="2308" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nick_Heidfeld_2007_Canada.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> scored his best result of <a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a> with a second-place finish.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alex_Wurz_2007_Canada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alex_Wurz_2007_Canada.jpg/220px-Alex_Wurz_2007_Canada.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alex_Wurz_2007_Canada.jpg/330px-Alex_Wurz_2007_Canada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alex_Wurz_2007_Canada.jpg/440px-Alex_Wurz_2007_Canada.jpg 2x" data-file-width="2857" data-file-height="2143" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alex_Wurz_2007_Canada.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a> took the final podium position, ten years after his first F1 race.</div></div></div>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%;">
+
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr></th>
+<th><abbr title="Car number">No.</abbr></th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>2</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b></td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>70
+</td>
+<td>1:44:11.292
+</td>
+<td>1
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>9</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b></td>
+<td><b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>70
+</td>
+<td>+4.343
+</td>
+<td>3
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>17</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a></b></td>
+<td><b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>70
+</td>
+<td>+5.325
+</td>
+<td>19
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>4</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></b></td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>70
+</td>
+<td>+6.729
+</td>
+<td>22
+</td>
+<td><b>5</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>6</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b></td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>70
+</td>
+<td>+13.007
+</td>
+<td>4
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>22</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a></b></td>
+<td><b><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>70
+</td>
+<td>+16.698
+</td>
+<td>11
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>1</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></b></td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>70
+</td>
+<td>+21.936
+</td>
+<td>2
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>11</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a></b></td>
+<td><b><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>70
+</td>
+<td>+22.888
+</td>
+<td>18
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>15</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>70
+</td>
+<td>+22.960
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>16</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>70
+</td>
+<td>+23.984
+</td>
+<td>7
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>23</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a></td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>70
+</td>
+<td>+24.318
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>8</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>70
+</td>
+<td>+30.439
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>12</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a></td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>58
+</td>
+<td>Accident
+</td>
+<td>10
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>18</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>54
+</td>
+<td>Accident
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>21</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a></td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>47
+</td>
+<td>Collision damage
+</td>
+<td>21
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>14</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>36
+</td>
+<td>Gearbox
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>10</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>26
+</td>
+<td>Accident
+</td>
+<td>8
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a></td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>21
+</td>
+<td>Accident
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>19</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>8
+</td>
+<td>Collision
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>7</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>0
+</td>
+<td>Gearbox
+</td>
+<td>15
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DSQ
+</th>
+<td>5</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>51
+</td>
+<td>Disqualified
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DSQ
+</th>
+<td>3</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>51
+</td>
+<td>Disqualified
+</td>
+<td>9
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td>48
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td>40
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td>33
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td>27
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td>26
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_42-0" class="reference"><a href="#cite_note-champ-42">&#91;42&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>88
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>60
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>38
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>21
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_42-1" class="reference"><a href="#cite_note-champ-42">&#91;42&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.almanac.com/weather/history/QC/Montreal/2007-06-10">"Weather information for the "2007 Canadian Grand Prix<span class="cs1-kern-right">"</span>"</a>. The Old Farmers' Almanac<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Weather+information+for+the+%222007+Canadian+Grand+Prix%22&amp;rft.pub=The+Old+Farmers%27+Almanac&amp;rft_id=http%3A%2F%2Fwww.almanac.com%2Fweather%2Fhistory%2FQC%2FMontreal%2F2007-06-10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-race_page-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-race_page_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/races/in_detail/775/">"Race page on Formula1.com"</a>. Formula1.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070629025537/http://www.formula1.com/races/in_detail/775/">Archived</a> from the original on June 29, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Race+page+on+Formula1.com&amp;rft.pub=Formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fraces%2Fin_detail%2F775%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4safety_car-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-4safety_car_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929103058/http://www.itv-f1.com/News_Article.aspx?PO_ID=39550&amp;PO=39550">"Wurz's anniversary podium 'a dream<span class="cs1-kern-right">'</span>"</a>. ITV. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=39550&amp;PO=39550">the original</a> on September 29, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wurz%27s+anniversary+podium+%27a+dream%27&amp;rft.pub=ITV&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D39550%26PO%3D39550&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-paul_ricard_testing_1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-paul_ricard_testing_1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930214304/http://www.formula1.com/news/headlines/2007/5/6112.html">"Paul Ricard day three – Raikkonen takes charge"</a>. Formula1.com. May 18, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/5/6112.html">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Paul+Ricard+day+three+%E2%80%93+Raikkonen+takes+charge&amp;rft.date=2007-05-18&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F5%2F6112.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-paul_ricard_testing_2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-paul_ricard_testing_2_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930213441/http://www.formula1.com/news/headlines/2007/5/6116.html">"Paul Ricard day four – Raikkonen once more"</a>. Formula1.com. May 18, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/5/6116.html">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Paul+Ricard+day+four+%E2%80%93+Raikkonen+once+more&amp;rft.date=2007-05-18&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F5%2F6116.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2007" class="citation news cs1">Elizalde, Pablo (May 17, 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/58885">"Raikkonen leads the way at Paul Ricard"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070812222459/http://www.autosport.com/news/report.php/id/58885">Archived</a> from the original on August 12, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+leads+the+way+at+Paul+Ricard&amp;rft.date=2007-05-17&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F58885&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2007" class="citation news cs1">Elizalde, Pablo (May 18, 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/58916">"Raikkonen finishes Ricard test on top"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+finishes+Ricard+test+on+top&amp;rft.date=2007-05-18&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F58916&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFLostia2007" class="citation news cs1">Lostia, Michele (May 19, 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/58947">"Fisichella upbeat after Ricard test"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070821123313/http://www.autosport.com/news/report.php/id/58947">Archived</a> from the original on August 21, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fisichella+upbeat+after+Ricard+test&amp;rft.date=2007-05-19&amp;rft.aulast=Lostia&amp;rft.aufirst=Michele&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F58947&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-raikkonen_pre-race-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-raikkonen_pre-race_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/154188/mclaren-will-not-dominate-canada-raikkonen/">"McLaren will not dominate Canada – Räikkönen"</a>. GPUpdate.net. June 6, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">January 28,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=McLaren+will+not+dominate+Canada+%E2%80%93+R%C3%A4ikk%C3%B6nen&amp;rft.date=2007-06-06&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F154188%2Fmclaren-will-not-dominate-canada-raikkonen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070711091947/http://www.mclaren.com/f1season/2007/canada/preview.php">"2007 CANADIAN GRAND PRIX PREVIEW"</a>. mclaren.com. June 1, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.mclaren.com/f1season/2007/canada/preview.php">the original</a> on July 11, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=2007+CANADIAN+GRAND+PRIX+PREVIEW&amp;rft.date=2007-06-01&amp;rft_id=http%3A%2F%2Fwww.mclaren.com%2Ff1season%2F2007%2Fcanada%2Fpreview.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-friday_practice_1-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-friday_practice_1_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930204536/http://www.formula1.com/results/season/2007/775/6402/">"Friday practice 1 results"</a>. Formula1.com. June 8, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/6402">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Friday+practice+1+results&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-08&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F6402&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-friday_practice_2-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-friday_practice_2_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930204841/http://www.formula1.com/results/season/2007/775/6403/">"Friday practice 2 results"</a>. Formula1.com. June 8, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/6403/">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Friday+practice+2+results&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-08&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F6403%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-practice_quotes-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-practice_quotes_13-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930200610/http://www.formula1.com/news/headlines/2007/6/6241.html">"Friday practice – selected driver quotes"</a>. Formula1.com. June 8, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6241.html">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Friday+practice+%E2%80%93+selected+driver+quotes&amp;rft.date=2007-06-08&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6241.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080915031729/http://www.telegraph.co.uk/motoring/main.jhtml?xml=%2Fmotoring%2Fcolumnists%2Fsimonarron%2Ff1diary%2Ffiles%2Fmrsimon2.xml">"Formula One diary: Hamilton, academically"</a>. London: telegraph. July 8, 2007. Archived from <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/motoring/main.jhtml?xml=/motoring/columnists/simonarron/f1diary/files/mrsimon2.xml">the original</a> on September 15, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Formula+One+diary%3A+Hamilton%2C+academically&amp;rft.date=2007-07-08&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fmotoring%2Fmain.jhtml%3Fxml%3D%2Fmotoring%2Fcolumnists%2Fsimonarron%2Ff1diary%2Ffiles%2Fmrsimon2.xml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-webber_speed_clash-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-webber_speed_clash_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6245.html">"Webber reprimanded over Speed clash"</a>. Formula1.com. June 9, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070705061622/http://www.formula1.com/news/headlines/2007/6/6245.html">Archived</a> from the original on July 5, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Webber+reprimanded+over+Speed+clash&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6245.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-saturday_prac_description-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-saturday_prac_description_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6247.html">"Hamilton tops disrupted session"</a>. Formula1.com. June 9, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070701074221/http://www.formula1.com/news/headlines/2007/6/6247.html">Archived</a> from the original on July 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton+tops+disrupted+session&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6247.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-saturday_prac_results-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-saturday_prac_results_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-saturday_prac_results_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/6404/">"Saturday practice results"</a>. Formula1.com. June 9, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070703083615/http://www.formula1.com/results/season/2007/775/6404/">Archived</a> from the original on July 3, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saturday+practice+results&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F6404%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-toyota_team_instructions-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-toyota_team_instructions_18-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/154579/toyota-will-race-despite-suspension-problem/">"Toyota will race despite suspension problem"</a>. GPUpdate.net. June 9, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">January 28,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Toyota+will+race+despite+suspension+problem&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F154579%2Ftoyota-will-race-despite-suspension-problem%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-hamilton_qualifies-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-hamilton_qualifies_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hamilton_qualifies_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6250.html">"Hamilton grabs his maiden pole"</a>. Formula1.com. June 9, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070701061347/http://www.formula1.com/news/headlines/2007/6/6250.html">Archived</a> from the original on July 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton+grabs+his+maiden+pole&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6250.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-coulthard_brakes-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-coulthard_brakes_20-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/154694/red-bull-hopes-ride-high-with-webber/">"Red Bull hopes ride high with Webber"</a>. GPUpdate.net. June 9, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">January 28,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+Bull+hopes+ride+high+with+Webber&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F154694%2Fred-bull-hopes-ride-high-with-webber%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-qualifying_results-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-qualifying_results_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qualifying_results_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-qualifying_results_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930192229/http://www.formula1.com/results/season/2007/775/6405/">"Qualifying results"</a>. Formula1.com. June 9, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/6405/">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Qualifying+results&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F6405%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-kovalainen_engine-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-kovalainen_engine_22-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930212137/http://www.formula1.com/news/headlines/2007/6/6248.html">"Engine penalty for Kovalainen"</a>. Formula1.com. June 9, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6248.html">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Engine+penalty+for+Kovalainen&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6248.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-alonso_weekend-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-alonso_weekend_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alonso_weekend_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-alonso_weekend_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930195533/http://www.formula1.com/news/headlines/2007/6/6258.html">"Alonso, Ferrari struggle in Canada"</a>. Formula1.com. June 10, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6258.html">the original</a> on September 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alonso%2C+Ferrari+struggle+in+Canada&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6258.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-alonso_mistakes-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-alonso_mistakes_24-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6259.html">"Hamilton triumphant in Montreal"</a>. Formula1.com. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070701080014/http://www.formula1.com/news/headlines/2007/6/6259.html">Archived</a> from the original on July 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton+triumphant+in+Montreal&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6259.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-race_driver_quotes-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-race_driver_quotes_25-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6260.html">"Canadian Grand Prix – selected driver quotes"</a>. Formula1.com. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070701084246/http://www.formula1.com/news/headlines/2007/6/6260.html">Archived</a> from the original on July 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Canadian+Grand+Prix+%E2%80%93+selected+driver+quotes&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6260.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Commentary-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Commentary_26-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6738963.stm">"Canadian Grand Prix Commentary"</a>. BBC. June 10, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Canadian+Grand+Prix+Commentary&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6738963.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928111737/http://www.autoracingdaily.com/article/adrian_sutil_obviously_i_am_very_disappointed_not_to_have_finished_the_race/">"Adrian Sutil"</a>. autoracingdaily.com. June 10, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.autoracingdaily.com/article/adrian_sutil_obviously_i_am_very_disappointed_not_to_have_finished_the_race/">the original</a> on September 28, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Adrian+Sutil&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.autoracingdaily.com%2Farticle%2Fadrian_sutil_obviously_i_am_very_disappointed_not_to_have_finished_the_race%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070618141816/http://uk.eurosport.yahoo.com/10062007/23/massa-fisichella-don-t-red.html">"Massa, Fisichella don't see red"</a>. eurosport. June 10, 2007. Archived from <a rel="nofollow" class="external text" href="http://uk.eurosport.yahoo.com/10062007/23/massa-fisichella-don-t-red.html">the original</a> on June 18, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 9,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Massa%2C+Fisichella+don%27t+see+red&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fuk.eurosport.yahoo.com%2F10062007%2F23%2Fmassa-fisichella-don-t-red.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Unscathed_Kubica_out_of_hospital-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Unscathed_Kubica_out_of_hospital_29-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6739431.stm">"Unscathed Kubica out of hospital"</a>. BBC. June 10, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 2,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Unscathed+Kubica+out+of+hospital&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6739431.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Kubica_escapes_injury_after_crash-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kubica_escapes_injury_after_crash_30-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6739431.stm">"Kubica escapes injury after crash"</a>. BBC. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070618043657/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6739431.stm">Archived</a> from the original on June 18, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Kubica+escapes+injury+after+crash&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6739431.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-groundhog-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-groundhog_31-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160119202738/http://www.canada.com/topics/travel/canada/AB/story.html?id=061eb1f5-2438-46a7-8474-2903cb9764e2">"<span class="cs1-kern-left">'</span>Beaver' gets all the blame"</a>. canada.com. June 12, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.canada.com/topics/travel/canada/AB/story.html?id=061eb1f5-2438-46a7-8474-2903cb9764e2">the original</a> on January 19, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27Beaver%27+gets+all+the+blame&amp;rft.date=2007-06-12&amp;rft_id=http%3A%2F%2Fwww.canada.com%2Ftopics%2Ftravel%2Fcanada%2FAB%2Fstory.html%3Fid%3D061eb1f5-2438-46a7-8474-2903cb9764e2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927021929/http://www.bitsofnews.com/content/view/5753/42/">"F1 2007 Canada Race Report"</a>. bitsofnews.com. June 10, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.bitsofnews.com/content/view/5753/42/">the original</a> on September 27, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=F1+2007+Canada+Race+Report&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.bitsofnews.com%2Fcontent%2Fview%2F5753%2F42%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-grand-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-grand_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-grand_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070820193937/http://www.grandprix.com/race/r774racereport.html">"Some are born great, and some just survive to the finish"</a>. grandprix.com. June 10, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.grandprix.com/race/r774racereport.html">the original</a> on August 20, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Some+are+born+great%2C+and+some+just+survive+to+the+finish&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Frace%2Fr774racereport.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-f1.com_race_report-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-f1.com_race_report_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-f1.com_race_report_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6259.html">"Race report"</a>. Formula1.com. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070701080014/http://www.formula1.com/news/headlines/2007/6/6259.html">Archived</a> from the original on July 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">June 14,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Race+report&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6259.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/59686">"Hill applauds Hamilton's first win"</a>. autosport. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070714084616/http://www.autosport.com/news/report.php/id/59686">Archived</a> from the original on July 14, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hill+applauds+Hamilton%27s+first+win&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F59686&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6739559.stm">"Sky's the limit for Hamilton"</a>. BBC. June 10, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070617223530/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6739559.stm">Archived</a> from the original on June 17, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sky%27s+the+limit+for+Hamilton&amp;rft.date=2007-06-10&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6739559.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070714205125/http://www.planet-f1.com/story/0%2C18954%2C3265_2199840%2C00.html">"Ten Conclusions From The Canadian GP"</a>. planet-f1.com. June 11, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.planet-f1.com/story/0,18954,3265_2199840,00.html">the original</a> on July 14, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">July 13,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ten+Conclusions+From+The+Canadian+GP&amp;rft.date=2007-06-11&amp;rft_id=http%3A%2F%2Fwww.planet-f1.com%2Fstory%2F0%2C18954%2C3265_2199840%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-motor-racing-prix-kubica-idUSL1474955420070614">"Vettel to debut after Kubica ruled out"</a>. Reuters. June 14, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">September 1,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vettel+to+debut+after+Kubica+ruled+out&amp;rft.date=2007-06-14&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-motor-racing-prix-kubica-idUSL1474955420070614&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141228114547/http://www.formula1.com/results/season/2007/775/6405/">"FORMULA 1™ Grand Prix du Canada 2007 - Qualifying"</a>. Formula1.com. June 9, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/6405/">the original</a> on December 28, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 27,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FORMULA+1%E2%84%A2+Grand+Prix+du+Canada+2007+-+Qualifying&amp;rft.pub=Formula1.com&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F6405%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141228094838/http://www.formula1.com/news/headlines/2007/6/6248.html">"Engine penalty for Kovalainen"</a>. Formula1.com. June 9, 2007. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2007/6/6248.html">the original</a> on December 28, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 27,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Engine+penalty+for+Kovalainen&amp;rft.date=2007-06-09&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2007%2F6%2F6248.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150117075538/http://www.formula1.com/results/season/2007/775/">"FORMULA 1™ Grand Prix du Canada 2007 - Race"</a>. Formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/775/">the original</a> on January 17, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 27,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FORMULA+1%E2%84%A2+Grand+Prix+du+Canada+2007+-+Race&amp;rft.pub=Formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F775%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2007/canada/championnat.aspx">"Canada 2007 - Championship • STATS F1"</a>. <i>statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=statsf1.com&amp;rft.atitle=Canada+2007+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2007%2Fcanada%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Canadian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Canadian_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2007_Canadian_Grand_Prix" class="extiw" title="commons:Category:2007 Canadian Grand Prix"><span style="">2007 Canadian Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></td>
+<td class="mbox-text plainlist">Wikinews has related news:
+<div><ul><li><a href="https://en.wikinews.org/wiki/Lewis_Hamilton_on_his_first_pole_for_McLaren" class="extiw" title="wikinews:Lewis Hamilton on his first pole for McLaren"> Lewis Hamilton on his first pole for McLaren </a></li><li><a href="https://en.wikinews.org/wiki/Lewis_Hamilton_wins_2007_Canadian_Grand_Prix" class="extiw" title="wikinews:Lewis Hamilton wins 2007 Canadian Grand Prix"> Lewis Hamilton wins 2007 Canadian Grand Prix</a></li></ul></div></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070615143601/http://www.formula1.com/race/circuitmap/775.html">Official Formula1.com page</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930154705/http://www.manipef1.com/results/2007/canada.php">Detailed Canadian Grand Prix results</a></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">2007 Monaco Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">2007 United States Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">2006 Canadian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Canadian_Grand_Prix" title="Canadian Grand Prix">Canadian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">2008 Canadian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a class="mw-selflink selflink">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2007_Canadian_Grand_Prix&amp;params=45_30_00_N_73_31_22_W_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°30′00″N</span> <span class="longitude">73°31′22″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.50000°N 73.52278°W</span><span style="display:none">&#xfeff; / <span class="geo">45.50000; -73.52278</span></span></span></a></span></span></span>
+</p></div>

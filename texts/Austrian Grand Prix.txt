@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Austrian Grand Prix - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"37a40ff2-c891-4538-804c-b82089ef05fd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Austrian_Grand_Prix","wgTitle":"Austrian Grand Prix","wgCurRevisionId":984818647,"wgRevisionId":984818647,"wgArticleId":977205,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from March 2018","Use dmy dates from March 2018","Articles containing German-language text","Austrian Grand Prix","Formula One Grands Prix","National Grands Prix","Auto races in Austria","Recurring sporting events established in 1963","1963 establishments in Austria",
+"2003 disestablishments in Austria","2014 establishments in Austria"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Austrian_Grand_Prix","wgRelevantArticleId":977205,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7876"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready"
+,"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Circuit_Red_Bull_Ring.svg/1200px-Circuit_Red_Bull_Ring.svg.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Austrian_Grand_Prix"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Austrian_Grand_Prix"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Austrian_Grand_Prix rootpage-Austrian_Grand_Prix skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Austrian Grand Prix</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Formula One race. For other uses, see <a href="/wiki/Austrian_Grand_Prix_(disambiguation)" class="mw-disambig" title="Austrian Grand Prix (disambiguation)">Austrian Grand Prix (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r977868970">@media all and (max-width:720px){.mw-parser-output .stack-container{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-margin-clear-left{float:left;clear:left;margin-right:1em}.mw-parser-output .stack-margin-clear-right{float:right;clear:right;margin-left:1em}.mw-parser-output .stack-margin-left{float:left;margin-right:1em}.mw-parser-output .stack-margin-right{float:right;margin-left:1em}.mw-parser-output .stack-item{margin:1px;overflow:hidden}</style><div class="mw-stack stack-container stack-right"><div class="stack-item">
+<table class="infobox" style="width:22em;width:25em; font-size:85%; text-align:left"><caption><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></span> Austrian Grand Prix</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Red Bull Ring</a><br />(1997–2003, 2014–present)</td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Circuit_Red_Bull_Ring.svg" class="image"><img alt="Circuit Red Bull Ring.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Circuit_Red_Bull_Ring.svg/220px-Circuit_Red_Bull_Ring.svg.png" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Circuit_Red_Bull_Ring.svg/330px-Circuit_Red_Bull_Ring.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Circuit_Red_Bull_Ring.svg/440px-Circuit_Red_Bull_Ring.svg.png 2x" data-file-width="512" data-file-height="384" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#99ccff">Race information</th></tr><tr><th scope="row">Number of times held</th><td>39</td></tr><tr><th scope="row">First held</th><td><a href="/wiki/1963_Austrian_Grand_Prix" title="1963 Austrian Grand Prix">1963</a></td></tr><tr><th scope="row"><span class="nowrap">Most wins (drivers)</span></th><td><span class="nowrap"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a> (3)</span></td></tr><tr><th scope="row"><span class="nowrap">Most wins (constructors)</span></th><td><span class="nowrap"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a> (6)<br /><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> (6)</span></td></tr><tr><th scope="row">Circuit length</th><td>4.318<span class="nowrap">&#160;</span>km (2.683<span class="nowrap">&#160;</span>mi)</td></tr><tr><th scope="row">Race length</th><td>306.452<span class="nowrap">&#160;</span>km (190.420<span class="nowrap">&#160;</span>mi)</td></tr><tr><th scope="row">Laps</th><td>71</td></tr><tr><th colspan="2" style="text-align:center;background-color:#99ccff">Last race (<a href="/wiki/2020_Austrian_Grand_Prix" title="2020 Austrian Grand Prix">2020</a>)</th></tr><tr><th colspan="2" style="text-align:center;padding-bottom:0">Pole position</th></tr><tr><td colspan="2" style="text-align:center"><div class="hlist hlist-separated"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">V. Bottas</a></li><li><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></li><li>1:02.939</li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;padding-bottom:0">Podium</th></tr><tr><td colspan="2" style="text-align:center"><div class="plainlist" style="text-align:left;">
+<ul><li><div class="hlist hlist-separated"><ul><li><b>1.</b> <span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">V. Bottas</a></li><li><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></li><li>1:30:55.739</li></ul></div></li>
+<li><div class="hlist hlist-separated"><ul><li><b>2.</b> <span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" decoding="async" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></span> <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">C. Leclerc</a></li><li><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></li><li>+2.700</li></ul></div></li>
+<li><div class="hlist hlist-separated"><ul><li><b>3.</b> <span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lando_Norris" title="Lando Norris">L. Norris</a></li><li><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></li><li>+5.491</li></ul></div></li></ul>
+</div></td></tr><tr><th colspan="2" style="text-align:center;padding-bottom:0">Fastest lap</th></tr><tr><td colspan="2" style="text-align:center"><div class="hlist hlist-separated"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lando_Norris" title="Lando Norris">L. Norris</a></li><li><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></li><li>1:07.475</li></ul></div></td></tr><tr style="display:none"><th colspan="2">
+</th></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><a href="/wiki/File:2002_Austrian_GP.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/2002_Austrian_GP.jpg/260px-2002_Austrian_GP.jpg" decoding="async" width="260" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/2002_Austrian_GP.jpg/390px-2002_Austrian_GP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/2002_Austrian_GP.jpg/520px-2002_Austrian_GP.jpg 2x" data-file-width="698" data-file-height="514" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2002_Austrian_GP.jpg" class="internal" title="Enlarge"></a></div>The controversial <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> 1–2 crossing the finish line in <a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">2002</a>.</div></div></div>
+</div></div>
+<p>The <b>Austrian Grand Prix</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Großer Preis von Österreich</i>) is a <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a> sanctioned <a href="/wiki/Auto_racing" title="Auto racing">auto race</a> which was held in 1964, 1970–1987 and 1997–2003. The <a href="/wiki/Grand_Prix_motor_racing" title="Grand Prix motor racing">Grand Prix</a> returned to the <a href="/wiki/Formula_One" title="Formula One">Formula One</a> calendar in <a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Zeltweg_Airfield_circuit"><span class="tocnumber">1.1</span> <span class="toctext">Zeltweg Airfield circuit</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Österreichring"><span class="tocnumber">1.2</span> <span class="toctext">Österreichring</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#A1-Ring"><span class="tocnumber">1.3</span> <span class="toctext">A1-Ring</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Red_Bull_Ring"><span class="tocnumber">1.4</span> <span class="toctext">Red Bull Ring</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Official_names"><span class="tocnumber">2</span> <span class="toctext">Official names</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Winners_of_the_Austrian_Grand_Prix"><span class="tocnumber">3</span> <span class="toctext">Winners of the Austrian Grand Prix</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Repeat_winners_(drivers)"><span class="tocnumber">3.1</span> <span class="toctext">Repeat winners (drivers)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Repeat_winners_(constructors)"><span class="tocnumber">3.1.1</span> <span class="toctext">Repeat winners (constructors)</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Repeat_winners_(engine_manufacturers)"><span class="tocnumber">3.1.2</span> <span class="toctext">Repeat winners (engine manufacturers)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Year_by_year"><span class="tocnumber">3.2</span> <span class="toctext">Year by year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Austrian Grand Prix has been held at two different locations in southeastern <a href="/wiki/Austria" title="Austria">Austria</a>, the Austrian Grand Prix was originally held in <a href="/wiki/Zeltweg" title="Zeltweg">Zeltweg</a>, about 70&#160;km (43&#160;mi) west of <a href="/wiki/Graz" title="Graz">Graz</a>. Since 1969 the Austrian Grand Prix has taken place in neighbouring <a href="/wiki/Spielberg,_Styria" title="Spielberg, Styria">Spielberg</a>, with the two venues being within approximatly 4&#160;km (2.5&#160;mi) of each other.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It was first held at the <a href="/wiki/Zeltweg_Air_Base" title="Zeltweg Air Base">Zeltweg Air Base</a> for six years, before a permenant track, originally called the <a href="/wiki/Osterreichring" class="mw-redirect" title="Osterreichring">Osterreichring</a> and later known as the A-1 ring and Red Bull Ring, was built.
+</p>
+<h3><span class="mw-headline" id="Zeltweg_Airfield_circuit">Zeltweg Airfield circuit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Zeltweg Airfield circuit">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Zeltweg_Air_Base" title="Zeltweg Air Base">Zeltweg Air Base</a></div>
+<p>A non-championship event was held in 1963 at a <a href="/wiki/Race_track" title="Race track">race track</a> on the <a href="/wiki/Zeltweg_Airfield" class="mw-redirect" title="Zeltweg Airfield">Zeltweg Airfield</a> and it was won by Australian <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>. The first championship event took place in the following year, and Italian Lorenzo Bandini won his only Formula One championship race in a Ferrari. The race was a success, but the track was deemed too dangerous; it was narrow and very bumpy, and spectators complained of poor viewing areas. The <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a> removed the race from the F1 calendar until a suitable track was built.
+</p><p>The event was run in 1965 as a non-championship sports car race, the Zeltweg 200 Miles, before being adopted by the <a href="/wiki/World_Sportscar_Championship" title="World Sportscar Championship">World Sportscar Championship</a> from 1966 to 1969 as the <a href="/wiki/1000_km_Zeltweg" title="1000 km Zeltweg">1000 km Zeltweg</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id=".C3.96sterreichring"></span><span class="mw-headline" id="Österreichring">Österreichring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Österreichring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/%C3%96sterreichring" class="mw-redirect" title="Österreichring">Österreichring</a></div>
+<p>From 1970 until 1987, the event was held at the <a href="/wiki/%C3%96sterreichring" class="mw-redirect" title="Österreichring">Österreichring</a> (translated literally as "Austria circuit") (also located near <a href="/wiki/Zeltweg" title="Zeltweg">Zeltweg</a>). It was built in the scenic Styrian mountains and it was a fast, flowing track where every corner was high speed and long. The Austrian Grand Prix was designated the <a href="/wiki/European_Grand_Prix" title="European Grand Prix">European Grand Prix</a> once, 1975, when this title was an honorary designation given each year to one Grand Prix race in Europe. The very fast track was popular with drivers, and the events were moderately successful. The first race on this track was dominated by Ferrari, with their more powerful Flat-12 engines enabled them to be 10&#160;mph faster- which is a lot in racing terms. The 1971 race saw Swiss driver <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a> dominate in his BRM and Briton <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> took his second Drivers' Championship. The 1975 event was marred by the fatal accident of American <a href="/wiki/Mark_Donohue" title="Mark Donohue">Mark Donohue</a>, and the race itself was rain-soaked and was won by <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a>, winning the only F1 race of his career, and, true to form, he crashed when he crossed the finish line when the race was stopped early because the rain got worse. In 1976, home favourite <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>'s appalling crash at the Nürburgring caused him to miss the race, which was won by Briton <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">John Watson</a> in the short-lived Penske F1 team, winning his first Formula One race.
+</p><p>1976 had seen the Voest-Hugel corner changed slightly into one corner instead of two corners; but 1977 saw a slow three corner chicane installed at Voest-Hugel, which was where Donohue had crashed 2 years before. What was the fastest corner on the track was now the slowest corner there and would become known as the Hella-Licht Chicane. This race was won by Australian <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a> in a Shadow; and like Brambilla and Watson, it was his first Grand Prix victory. 1978 saw the dominant <a href="/wiki/Lotus_79" title="Lotus 79">Lotus 79s</a> on the front row, and American <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a> crashed at the Glatz Kurve on the first lap, and his teammate, Swede Ronnie Peterson took victory. 1979 started to show the superiority of turbo-charged engines on this fast and high-altitude circuit. Although Jones won again in a Williams, Jean-Pierre Jabouille and Rene Arnoux in their Renaults were able to dominate this event and the following year's race, which Jabouille won. 1981 saw three turbo-charged cars dominate the front row; and into the race, the immense power and dreadful handling of Didier Pironi's Ferrari helped him to hold up four better handling cars and get into a five-way battle for third place, which went on for a while but the four cars passed eventually passed him, one of which was <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a> who went on to win the race. 1982 saw a spectacular show in which five turbocharged cars dominated the grid; all but one of these cars retired with mechanical troubles, including Italian <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a> who had a spectacular accident at the Texaco Bends and Frenchman <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>, whose engine expired with a few laps to go while in the lead. After Prost's retirement, the race turned into a dead-heat sprint between Italian <a href="/wiki/Elio_de_Angelis" title="Elio de Angelis">Elio de Angelis</a> in a Lotus and Finn <a href="/wiki/Keke_Rosberg" title="Keke Rosberg">Keke Rosberg</a> in a Williams. Rosberg had been steadily chipping away at De Angelis; but after Prost retired, Rosberg began to make up 1.5 seconds a lap on De Angelis; and on the last lap the two so-far winless drivers battled for victory, and De Angelis was able to hold off Rosberg and win by less than half a car's length; .05 seconds. 1984 saw Lauda finally take victory at home in his McLaren, and Prost won the next two races. The 1985 race saw a fearsome crash at the Panorama Curve when <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a> spectacularly rolled his Ligier, which led to him being fired from the team. 1986 saw Austrian driver <a href="/wiki/Gerhard_Berger" title="Gerhard Berger">Gerhard Berger</a> lead the early laps in his 1,400&#160;bhp (1,044&#160;kW; 1,419&#160;PS) Benetton-BMW, but electrical problems saw his race ruined allowing Alain Prost to take the win by over a lap from the Ferraris of <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a> and <a href="/wiki/Stefan_Johansson" title="Stefan Johansson">Stefan Johansson</a>.
+</p><p>The 1987 race was restarted twice due to accidents on the narrow pit-straight grid; and this track was also deemed too dangerous by FIA standards, because of the amount of high-speed corners, lack of protection from trees and embankments and accidents at the start of many races on the narrow and confined pit straight. Increasing speeds were also a growing problem at the Österreichring, polesitter Nelson Piquet averaged 159.457&#160;mph (255.756&#160;km/h) in his 1,100&#160;hp Honda-powered Williams. Piquet finished second to his teammate, Briton <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>. Attempts to bring the race back were unsuccessful, and the event disappeared for a decade.
+</p>
+<h3><span class="mw-headline" id="A1-Ring">A1-Ring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: A1-Ring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/A1-Ring" class="mw-redirect" title="A1-Ring">A1-Ring</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Castrol_a1-ring.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castrol_a1-ring.JPG/200px-Castrol_a1-ring.JPG" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castrol_a1-ring.JPG/300px-Castrol_a1-ring.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castrol_a1-ring.JPG/400px-Castrol_a1-ring.JPG 2x" data-file-width="1191" data-file-height="893" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Castrol_a1-ring.JPG" class="internal" title="Enlarge"></a></div>Special events are commonly held before the Grand Prix.</div></div></div>
+<p>In 1995 and 1996, the Österreichring was refurbished and brought up to date, which allowed the race to run again in 1997. Since the track, which was renamed <a href="/wiki/A1-Ring" class="mw-redirect" title="A1-Ring">A1-Ring</a> after a sponsor, is located on the municipal territory of <a href="/wiki/Spielberg,_Austria" class="mw-redirect" title="Spielberg, Austria">Spielberg</a>, Spielberg was now given as the site of the Grand Prix. The whole layout was redesigned by <a href="/wiki/Hermann_Tilke" title="Hermann Tilke">Hermann Tilke</a>, and the track lost all of its long, sweeping corners, aside from the Texaco Bends (which were made shorter and slower) and the Hella-Licht chicane, Flatschach, Dr. Tiroch curve and the first half of the backstretch run up to where the Bosch-Kurve was taken out and replaced with a bypass that went directly to the second half of the fast, uphill backstretch. The <a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">2002 event</a> received negative publicity after <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> instructed <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> to cede his victory to <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>. It was a mainstay on the calendar until hosting its final race in 2003.
+</p>
+<h3><span class="mw-headline" id="Red_Bull_Ring">Red Bull Ring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Red Bull Ring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Red Bull Ring</a></div>
+<p>In July 2013, it was reported that the circuit's new owners <a href="/wiki/Red_Bull_GmbH" title="Red Bull GmbH">Red Bull GmbH</a> had reached an agreement with <a href="/wiki/Bernie_Ecclestone" title="Bernie Ecclestone">Bernie Ecclestone</a> to revive the Austrian Grand Prix after a ten-year absence from the calendar. The race was given a provisional date of July 2014.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> On 6 December, the officially released calendar included the Austrian Grand Prix on it.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Official_names">Official names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Official names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1963, 1998: Großer Preis von Österreich (no official sponsor)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li>1964, 1986–1987, 1997, 1999, 2014–2017: Grosser Preis von Österreich (no official sponsor)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li>1970–1972: Grand Prix von Österreich (no official sponsor)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li>1973: <a href="/wiki/Memphis_(cigarette)" title="Memphis (cigarette)">Memphis</a> Grand Prix von Österreich<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li>1974–1975: <a href="/wiki/Memphis_(cigarette)" title="Memphis (cigarette)">Memphis</a> Grand Prix<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li>1976: <a href="/wiki/Raiffeisen_Zentralbank" title="Raiffeisen Zentralbank">Raiffeisen</a> Grand Prix/Großer Preis von Österreich<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li>1977: Gröbl Möbel Grand Prix/Großer Preis von Österreich<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></li>
+<li>1978–1979: Grand Prix (no official sponsor)<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></li>
+<li>1980–1981: Grand Prix/Großer Preis von Österreich (no official sponsor)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup></li>
+<li>1982–1983: Grand Prix/Holiday Grand Prix (no official sponsor)<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup></li>
+<li>1984–1985: Grosser Preis von Österreich/Holiday Grand Prix (no official sponsor)<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></li>
+<li>2000–2002: Grosser <a href="/wiki/A1_Telekom_Austria" title="A1 Telekom Austria">A1</a> Preis von Österreich<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup></li>
+<li>2003: <a href="/wiki/A1_Telekom_Austria" title="A1 Telekom Austria">A1</a> Grand Prix von Österreich<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup></li>
+<li>2018: <a href="/w/index.php?title=Eyetime&amp;action=edit&amp;redlink=1" class="new" title="Eyetime (page does not exist)">Eyetime</a> Grosser Preis von Österreich<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup></li>
+<li>2019: <a href="/w/index.php?title=MyWorld&amp;action=edit&amp;redlink=1" class="new" title="MyWorld (page does not exist)">myWorld</a> Grosser Preis von Österreich<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup></li>
+<li>2020: <a href="/wiki/Rolex" title="Rolex">Rolex</a> Grosser Preis von Österreich<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Winners_of_the_Austrian_Grand_Prix">Winners of the Austrian Grand Prix</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Winners of the Austrian Grand Prix">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Repeat_winners_.28drivers.29"></span><span class="mw-headline" id="Repeat_winners_(drivers)">Repeat winners (drivers)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Repeat winners (drivers)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Drivers <b>in bold</b> are competing in the Formula One championship in the current season.</i><br />
+<i>A pink background indicates an event which was not part of the Formula One World Championship.</i>
+</p>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Wins
+</th>
+<th>Driver
+</th>
+<th>Years won
+</th></tr>
+<tr>
+<th rowspan="2">3
+</th>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td><span style="background:#fcc;"><a href="/w/index.php?title=1968_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1968 Austrian Grand Prix (page does not exist)">1968</a>, <a href="/w/index.php?title=1969_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1969 Austrian Grand Prix (page does not exist)">1969</a>*</span>, <a href="/wiki/1971_Austrian_Grand_Prix" title="1971 Austrian Grand Prix">1971</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/1983_Austrian_Grand_Prix" title="1983 Austrian Grand Prix">1983</a>, <a href="/wiki/1985_Austrian_Grand_Prix" title="1985 Austrian Grand Prix">1985</a>, <a href="/wiki/1986_Austrian_Grand_Prix" title="1986 Austrian Grand Prix">1986</a>
+</td></tr>
+<tr>
+<th rowspan="7">2
+</th>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">Ronnie Peterson</a>
+</td>
+<td><a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">1973</a>, <a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">1978</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(Formula_1)" class="mw-redirect" title="Alan Jones (Formula 1)">Alan Jones</a>
+</td>
+<td><a href="/wiki/1977_Austrian_Grand_Prix" title="1977 Austrian Grand Prix">1977</a>, <a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">1979</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>
+</td>
+<td><a href="/wiki/1998_Austrian_Grand_Prix" title="1998 Austrian Grand Prix">1998</a>, <a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">2000</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">2002</a>, <a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">2003</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">2014</a>, <a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">2015</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></b>
+</td>
+<td><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">2018</a>, <a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">2019</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a></b>
+</td>
+<td><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">2017</a>, <a href="/wiki/2020_Austrian_Grand_Prix" title="2020 Austrian Grand Prix">2020</a>
+</td></tr></tbody></table>
+<p>* Shared win with <a href="/wiki/Kurt_Ahrens,_Jr." class="mw-redirect" title="Kurt Ahrens, Jr.">Kurt Ahrens, Jr.</a>
+</p>
+<h4><span id="Repeat_winners_.28constructors.29"></span><span class="mw-headline" id="Repeat_winners_(constructors)">Repeat winners (constructors)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Repeat winners (constructors)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Teams <b>in bold</b> are competing in the Formula One championship in the current season.</i><br />
+<i>A pink background indicates an event which was not part of the Formula One World Championship.</i>
+</p>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Wins
+</th>
+<th>Constructor
+</th>
+<th colspan="2">Years won
+</th></tr>
+<tr>
+<th rowspan="2">6
+</th>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td><a href="/wiki/1964_Austrian_Grand_Prix" title="1964 Austrian Grand Prix">1964</a>, <span style="background:#fcc;"><a href="/w/index.php?title=1965_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1965 Austrian Grand Prix (page does not exist)">1965</a></span>, <a href="/wiki/1970_Austrian_Grand_Prix" title="1970 Austrian Grand Prix">1970</a>, <a href="/wiki/1999_Austrian_Grand_Prix" title="1999 Austrian Grand Prix">1999</a>, <a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">2002</a>, <a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">2003</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/McLaren" title="McLaren">McLaren</a></b>
+</td>
+<td><a href="/wiki/1984_Austrian_Grand_Prix" title="1984 Austrian Grand Prix">1984</a>, <a href="/wiki/1985_Austrian_Grand_Prix" title="1985 Austrian Grand Prix">1985</a>, <a href="/wiki/1986_Austrian_Grand_Prix" title="1986 Austrian Grand Prix">1986</a>, <a href="/wiki/1998_Austrian_Grand_Prix" title="1998 Austrian Grand Prix">1998</a>, <a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">2000</a>, <a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">2001</a>
+</td></tr>
+<tr>
+<th rowspan="1">5
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b>
+</td>
+<td><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">2014</a>, <a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">2015</a>, <a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">2016</a>, <a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">2017</a>, <a href="/wiki/2020_Austrian_Grand_Prix" title="2020 Austrian Grand Prix">2020</a>
+</td></tr>
+<tr>
+<th rowspan="1">4
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>
+</td>
+<td><a href="/wiki/1972_Austrian_Grand_Prix" title="1972 Austrian Grand Prix">1972</a>, <a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">1973</a>, <a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">1978</a>, <a href="/wiki/1982_Austrian_Grand_Prix" title="1982 Austrian Grand Prix">1982</a>
+</td></tr>
+<tr>
+<th rowspan="2">3
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Porsche" title="Porsche">Porsche</a>
+</td>
+<td><span style="background:#fcc;"><a href="/w/index.php?title=1966_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1966 Austrian Grand Prix (page does not exist)">1966</a>, <a href="/w/index.php?title=1968_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1968 Austrian Grand Prix (page does not exist)">1968</a>, <a href="/w/index.php?title=1969_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1969 Austrian Grand Prix (page does not exist)">1969</a></span>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a></b>
+</td>
+<td><a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">1979</a>, <a href="/wiki/1987_Austrian_Grand_Prix" title="1987 Austrian Grand Prix">1987</a>, <a href="/wiki/1997_Austrian_Grand_Prix" title="1997 Austrian Grand Prix">1997</a>
+</td></tr>
+<tr>
+<th rowspan="3">2
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brabham" title="Brabham">Brabham</a>
+</td>
+<td><span style="background:#fcc;"><a href="/wiki/1963_Austrian_Grand_Prix" title="1963 Austrian Grand Prix">1963</a></span>, <a href="/wiki/1974_Austrian_Grand_Prix" title="1974 Austrian Grand Prix">1974</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td><a href="/wiki/1980_Austrian_Grand_Prix" title="1980 Austrian Grand Prix">1980</a>, <a href="/wiki/1983_Austrian_Grand_Prix" title="1983 Austrian Grand Prix">1983</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a></b>
+</td>
+<td><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">2018</a>, <a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">2019</a>
+</td></tr></tbody></table>
+<h4><span id="Repeat_winners_.28engine_manufacturers.29"></span><span class="mw-headline" id="Repeat_winners_(engine_manufacturers)">Repeat winners (engine manufacturers)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Repeat winners (engine manufacturers)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Manufacturers <b>in bold</b> are competing in the Formula One championship in the current season.</i><br />
+<i>A pink background indicates an event which was not part of the Formula One World Championship.</i>
+</p>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Wins
+</th>
+<th>Manufacturer
+</th>
+<th colspan="2">Years won
+</th></tr>
+<tr>
+<th>10
+</th>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a> *
+</td>
+<td><span style="background:#fcc;"><a href="/w/index.php?title=1967_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1967 Austrian Grand Prix (page does not exist)">1967</a></span>, <a href="/wiki/1972_Austrian_Grand_Prix" title="1972 Austrian Grand Prix">1972</a>, <a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">1973</a>, <a href="/wiki/1974_Austrian_Grand_Prix" title="1974 Austrian Grand Prix">1974</a>, <a href="/wiki/1975_Austrian_Grand_Prix" title="1975 Austrian Grand Prix">1975</a>, <a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">1976</a>, <a href="/wiki/1977_Austrian_Grand_Prix" title="1977 Austrian Grand Prix">1977</a>, <a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">1978</a>, <a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">1979</a>, <a href="/wiki/1982_Austrian_Grand_Prix" title="1982 Austrian Grand Prix">1982</a>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b> **
+</td>
+<td><a href="/wiki/1998_Austrian_Grand_Prix" title="1998 Austrian Grand Prix">1998</a>, <a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">2000</a>, <a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">2001</a>, <a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">2014</a>, <a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">2015</a>, <a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">2016</a>, <a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">2017</a>, <a href="/wiki/2020_Austrian_Grand_Prix" title="2020 Austrian Grand Prix">2020</a>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td><a href="/wiki/1964_Austrian_Grand_Prix" title="1964 Austrian Grand Prix">1964</a>, <span style="background:#fcc;"><a href="/w/index.php?title=1965_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1965 Austrian Grand Prix (page does not exist)">1965</a></span>, <a href="/wiki/1970_Austrian_Grand_Prix" title="1970 Austrian Grand Prix">1970</a>, <a href="/wiki/1999_Austrian_Grand_Prix" title="1999 Austrian Grand Prix">1999</a>, <a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">2002</a>, <a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">2003</a>
+</td></tr>
+<tr>
+<th rowspan="3">3
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Porsche" title="Porsche">Porsche</a>
+</td>
+<td><span style="background:#fcc;"><a href="/w/index.php?title=1966_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1966 Austrian Grand Prix (page does not exist)">1966</a>, <a href="/w/index.php?title=1968_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1968 Austrian Grand Prix (page does not exist)">1968</a>, <a href="/w/index.php?title=1969_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1969 Austrian Grand Prix (page does not exist)">1969</a></span>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Luxembourg" title="Luxembourg"><img alt="Luxembourg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Techniques_d%27Avant_Garde" title="Techniques d&#39;Avant Garde">TAG</a> ***
+</td>
+<td><a href="/wiki/1984_Austrian_Grand_Prix" title="1984 Austrian Grand Prix">1984</a>, <a href="/wiki/1985_Austrian_Grand_Prix" title="1985 Austrian Grand Prix">1985</a>, <a href="/wiki/1986_Austrian_Grand_Prix" title="1986 Austrian Grand Prix">1986</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td><a href="/wiki/1980_Austrian_Grand_Prix" title="1980 Austrian Grand Prix">1980</a>, <a href="/wiki/1983_Austrian_Grand_Prix" title="1983 Austrian Grand Prix">1983</a>, <a href="/wiki/1997_Austrian_Grand_Prix" title="1997 Austrian Grand Prix">1997</a>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td><a href="/wiki/1987_Austrian_Grand_Prix" title="1987 Austrian Grand Prix">1987</a>, <a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">2019</a>
+</td></tr></tbody></table>
+<p>* Built by <span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>, funded by Ford (except 1967)
+</p><p>** Between 1998 and 2001 built by <span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ilmor" title="Ilmor">Ilmor</a>, funded by Mercedes
+</p><p>*** Built by <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Porsche_in_motorsport#Formula_One" title="Porsche in motorsport">Porsche</a>
+</p>
+<h3><span class="mw-headline" id="Year_by_year">Year by year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: Year by year">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%C3%96sterreichring_1977-1987.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%C3%96sterreichring_1977-1987.svg/220px-%C3%96sterreichring_1977-1987.svg.png" decoding="async" width="220" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%C3%96sterreichring_1977-1987.svg/330px-%C3%96sterreichring_1977-1987.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%C3%96sterreichring_1977-1987.svg/440px-%C3%96sterreichring_1977-1987.svg.png 2x" data-file-width="950" data-file-height="562" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%C3%96sterreichring_1977-1987.svg" class="internal" title="Enlarge"></a></div>The Österreichring with the chicane, used from 1977 to 1987</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%C3%96sterreichring_1969-1976.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C3%96sterreichring_1969-1976.svg/220px-%C3%96sterreichring_1969-1976.svg.png" decoding="async" width="220" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C3%96sterreichring_1969-1976.svg/330px-%C3%96sterreichring_1969-1976.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C3%96sterreichring_1969-1976.svg/440px-%C3%96sterreichring_1969-1976.svg.png 2x" data-file-width="950" data-file-height="562" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%C3%96sterreichring_1969-1976.svg" class="internal" title="Enlarge"></a></div>The original Österreichring, used from 1969 to 1976</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Circuit_Zeltweg.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Circuit_Zeltweg.png/220px-Circuit_Zeltweg.png" decoding="async" width="220" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Circuit_Zeltweg.png/330px-Circuit_Zeltweg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Circuit_Zeltweg.png/440px-Circuit_Zeltweg.png 2x" data-file-width="470" data-file-height="490" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Circuit_Zeltweg.png" class="internal" title="Enlarge"></a></div>Zeltweg Airfield, used from 1963 until 1968</div></div></div>
+<p><i>A pink background indicates an event which was not part of the Formula One World Championship.</i>
+</p>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Location
+</th>
+<th>Report
+</th></tr>
+<tr style="background:#fcc;">
+<th><a href="/wiki/1963_Formula_One_season" title="1963 Formula One season">1963</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td><a href="/wiki/Zeltweg_Airfield" class="mw-redirect" title="Zeltweg Airfield">Zeltweg Airfield</a>
+</td>
+<td><a href="/wiki/1963_Austrian_Grand_Prix" title="1963 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1964_Formula_One_season" title="1964 Formula One season">1964</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Lorenzo_Bandini" title="Lorenzo Bandini">Lorenzo Bandini</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><a href="/wiki/Zeltweg_Airfield" class="mw-redirect" title="Zeltweg Airfield">Zeltweg Airfield</a>
+</td>
+<td><a href="/wiki/1964_Austrian_Grand_Prix" title="1964 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr style="background:#fcc;">
+<th>1965
+</th>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a><sup id="cite_ref-guiness_36-0" class="reference"><a href="#cite_note-guiness-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td rowspan="4"><a href="/wiki/Zeltweg_Airfield" class="mw-redirect" title="Zeltweg Airfield">Zeltweg Airfield</a>
+</td>
+<td><a href="/w/index.php?title=1965_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1965 Austrian Grand Prix (page does not exist)">Report</a>
+</td></tr>
+<tr style="background:#fcc;">
+<th>1966
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Gerhard_Mitter" title="Gerhard Mitter">Gerhard Mitter</a> <br /> <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Hans_Herrmann" title="Hans Herrmann">Hans Herrmann</a><sup id="cite_ref-guiness_36-1" class="reference"><a href="#cite_note-guiness-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Porsche" title="Porsche">Porsche</a>
+</td>
+<td><a href="/w/index.php?title=1966_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1966 Austrian Grand Prix (page does not exist)">Report</a>
+</td></tr>
+<tr style="background:#fcc;">
+<th>1967
+</th>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Paul_Hawkins_(racing_driver)" title="Paul Hawkins (racing driver)">Paul Hawkins</a><sup id="cite_ref-guiness_36-2" class="reference"><a href="#cite_note-guiness-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Ford" class="mw-redirect" title="Ford">Ford</a>
+</td>
+<td><a href="/w/index.php?title=1967_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1967 Austrian Grand Prix (page does not exist)">Report</a>
+</td></tr>
+<tr style="background:#fcc;">
+<th>1968
+</th>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a><sup id="cite_ref-guiness_36-3" class="reference"><a href="#cite_note-guiness-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Porsche" title="Porsche">Porsche</a>
+</td>
+<td><a href="/w/index.php?title=1968_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1968 Austrian Grand Prix (page does not exist)">Report</a>
+</td></tr>
+<tr style="background:#fcc;">
+<th>1969
+</th>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a> <br /> <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Kurt_Ahrens,_Jr." class="mw-redirect" title="Kurt Ahrens, Jr.">Kurt Ahrens, Jr.</a><sup id="cite_ref-guiness_36-4" class="reference"><a href="#cite_note-guiness-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Porsche" title="Porsche">Porsche</a>
+</td>
+<td><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Österreichring</a>
+</td>
+<td><a href="/w/index.php?title=1969_Austrian_Grand_Prix&amp;action=edit&amp;redlink=1" class="new" title="1969 Austrian Grand Prix (page does not exist)">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1970_Formula_One_season" title="1970 Formula One season">1970</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacky_Ickx" title="Jacky Ickx">Jacky Ickx</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td rowspan="18"><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Österreichring</a>
+</td>
+<td><a href="/wiki/1970_Austrian_Grand_Prix" title="1970 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1971_Formula_One_season" title="1971 Formula One season">1971</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td><a href="/wiki/1971_Austrian_Grand_Prix" title="1971 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1972_Formula_One_season" title="1972 Formula One season">1972</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">Emerson Fittipaldi</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1972_Austrian_Grand_Prix" title="1972 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1973_Formula_One_season" title="1973 Formula One season">1973</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">Ronnie Peterson</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1974_Formula_One_season" title="1974 Formula One season">1974</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1974_Austrian_Grand_Prix" title="1974 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1975_Formula_One_season" title="1975 Formula One season">1975</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1975_Austrian_Grand_Prix" title="1975 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">1976</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">John Watson</a>
+</td>
+<td><a href="/wiki/Team_Penske" title="Team Penske">Penske</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1977_Formula_One_season" title="1977 Formula One season">1977</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a>
+</td>
+<td><a href="/wiki/Shadow_Racing_Team" class="mw-redirect" title="Shadow Racing Team">Shadow</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1977_Austrian_Grand_Prix" title="1977 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1978_Formula_One_season" title="1978 Formula One season">1978</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">Ronnie Peterson</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1979_Formula_One_season" title="1979 Formula One season">1979</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1980_Formula_One_season" title="1980 Formula One season">1980</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jabouille" title="Jean-Pierre Jabouille">Jean-Pierre Jabouille</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td><a href="/wiki/1980_Austrian_Grand_Prix" title="1980 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1981_Formula_One_World_Championship" title="1981 Formula One World Championship">1981</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>
+</td>
+<td><a href="/wiki/1981_Austrian_Grand_Prix" title="1981 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1982_Formula_One_World_Championship" title="1982 Formula One World Championship">1982</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Elio_de_Angelis" title="Elio de Angelis">Elio de Angelis</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td><a href="/wiki/1982_Austrian_Grand_Prix" title="1982 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1983_Formula_One_World_Championship" title="1983 Formula One World Championship">1983</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td><a href="/wiki/1983_Austrian_Grand_Prix" title="1983 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1984_Formula_One_World_Championship" title="1984 Formula One World Championship">1984</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Techniques_d%27Avant_Garde" title="Techniques d&#39;Avant Garde">TAG</a>
+</td>
+<td><a href="/wiki/1984_Austrian_Grand_Prix" title="1984 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1985_Formula_One_World_Championship" title="1985 Formula One World Championship">1985</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Techniques_d%27Avant_Garde" title="Techniques d&#39;Avant Garde">TAG</a>
+</td>
+<td><a href="/wiki/1985_Austrian_Grand_Prix" title="1985 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1986_Formula_One_World_Championship" title="1986 Formula One World Championship">1986</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Techniques_d%27Avant_Garde" title="Techniques d&#39;Avant Garde">TAG</a>
+</td>
+<td><a href="/wiki/1986_Austrian_Grand_Prix" title="1986 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1987_Formula_One_World_Championship" title="1987 Formula One World Championship">1987</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td><a href="/wiki/1987_Austrian_Grand_Prix" title="1987 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr style="background:#ddd;">
+<th>1988<br />–<br />1996
+</th>
+<td align="center" colspan="4"><i>Not held</i>
+</td></tr>
+<tr>
+<th><a href="/wiki/1997_Formula_One_World_Championship" title="1997 Formula One World Championship">1997</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td rowspan="7"><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">A1-Ring</a>
+</td>
+<td><a href="/wiki/1997_Austrian_Grand_Prix" title="1997 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1998_Formula_One_World_Championship" title="1998 Formula One World Championship">1998</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td><a href="/wiki/1998_Austrian_Grand_Prix" title="1998 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/1999_Formula_One_World_Championship" title="1999 Formula One World Championship">1999</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><a href="/wiki/1999_Austrian_Grand_Prix" title="1999 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr style="background:#ddd;">
+<th>2004<br />–<br />2013
+</th>
+<td align="center" colspan="4"><i>Not held</i>
+</td></tr>
+<tr>
+<th><a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td rowspan="7"><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Red Bull Ring</a>
+</td>
+<td><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td><a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2016_Formula_One_World_Championship" title="2016 Formula One World Championship">2016</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td><a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2018_Formula_One_World_Championship" title="2018 Formula One World Championship">2018</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a>
+</td>
+<td><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td><a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">Report</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/2020_Formula_One_World_Championship" title="2020 Formula One World Championship">2020</a>
+</th>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td><a href="/wiki/2020_Austrian_Grand_Prix" title="2020 Austrian Grand Prix">Report</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.google.co.uk/maps/place/Zeltweg+Air+Base/@47.2121664,14.7522495,13.75z/data=!4m5!3m4!1s0x4771cbfd9f32e243:0x234d2c12d7082a60!8m2!3d47.1995161!4d14.7481555">"Zeltweg Air Base"</a>. <i><a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Google+Maps&amp;rft.atitle=Zeltweg+Air+Base&amp;rft_id=https%3A%2F%2Fwww.google.co.uk%2Fmaps%2Fplace%2FZeltweg%2BAir%2BBase%2F%4047.2121664%2C14.7522495%2C13.75z%2Fdata%3D%214m5%213m4%211s0x4771cbfd9f32e243%3A0x234d2c12d7082a60%218m2%213d47.1995161%214d14.7481555&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.racingsportscars.com/results/Zeltweg-1965-08-22.html">"Zeltweg 200 Miles 1965 - Race Results - Racing Sports Cars"</a>. <i>www.racingsportscars.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.racingsportscars.com&amp;rft.atitle=Zeltweg+200+Miles+1965+-+Race+Results+-+Racing+Sports+Cars&amp;rft_id=https%3A%2F%2Fwww.racingsportscars.com%2Fresults%2FZeltweg-1965-08-22.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/108917/">"Austrian Grand Prix set to return to F1 calendar in 2014"</a>. <i>Autosport.com</i>. <a href="/wiki/Haymarket_Media_Group" title="Haymarket Media Group">Haymarket Publications</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport.com&amp;rft.atitle=Austrian+Grand+Prix+set+to+return+to+F1+calendar+in+2014&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F108917%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/races/calendar_preview.html">"2015"</a>. Formula1.com<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015&amp;rft.pub=Formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fraces%2Fcalendar_preview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11998.html">"1998 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1998+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11998.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11964.html">"1964 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1964+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11964.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11986.html">"1986 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1986+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11986.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11987.html">"1987 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1987+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11987.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11997.html">"1997 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1997+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11997.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11999.html">"1999 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1999+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11999.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12014.html">"2014 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2014+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12014.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12015.html">"2015 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2015+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12015.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12016.html">"2016 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2016+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12016.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12017.html">"2017 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2017+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12017.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11971.html">"1971 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1971+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11971.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11972.html">"1972 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1972+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11972.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f11973.html">"1973 Formula 1 Programmes – The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1973+Formula+1+Programmes+%E2%80%93+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11973.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11974.html">"1974 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1974+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11974.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11975.html">"1975 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1975+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11975.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f11976.html">"1976 Formula 1 Programmes – The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1976+Formula+1+Programmes+%E2%80%93+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11976.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f11977.html">"1977 Formula 1 Programmes – The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1977+Formula+1+Programmes+%E2%80%93+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11977.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11978.html">"1978 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1978+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11978.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11979.html">"1979 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1979+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11979.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11980.html">"1980 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1980+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11980.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11981.html">"1981 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1981+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11981.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11982.html">"1982 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1982+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11982.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11983.html">"1983 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1983+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11983.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11984.html">"1984 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1984+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11984.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f11985.html">"1985 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=1985+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff11985.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f12000.html">"2000 Formula 1 Programmes – The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2000+Formula+1+Programmes+%E2%80%93+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12000.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f12003.html">"2003 Formula 1 Programmes – The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2003+Formula+1+Programmes+%E2%80%93+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12003.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12018.html">"2018 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2018+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12018.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/headlines/2018/5/eyetime-to-be-title-sponsor-at-the-austrian-grand-prix.html">"eyetime to be title sponsor at the Austrian Grand Prix"</a>. <i>Formula1.com</i>. Formula One World Championship Limited. 25 May 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=eyetime+to+be+title+sponsor+at+the+Austrian+Grand+Prix&amp;rft.date=2018-05-25&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Fheadlines%2F2018%2F5%2Feyetime-to-be-title-sponsor-at-the-austrian-grand-prix.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.progcovers.com/motor/f12019.html">"2019 Formula 1 World Championship Programmes &#124; The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2019+Formula+1+World+Championship+Programmes+%26%23124%3B+The+Motor+Racing+Programme+Covers+Project&amp;rft_id=https%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12019.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/racing/2020/Austria.html">"Austria"</a>. <i>Formula1.com</i>. Formula One World Championship Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Austria&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fracing%2F2020%2FAustria.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-guiness-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-guiness_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guiness_36-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-guiness_36-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-guiness_36-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-guiness_36-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHigham1995" class="citation book cs1">Higham, Peter (1995). <i>The Guinness Guide to International Motor Racing</i>. p.&#160;350. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0851126421" title="Special:BookSources/0851126421"><bdi>0851126421</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Guinness+Guide+to+International+Motor+Racing&amp;rft.pages=350&amp;rft.date=1995&amp;rft.isbn=0851126421&amp;rft.aulast=Higham&amp;rft.aufirst=Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAustrian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Formula_One_Grands_Prix" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Formula_One_races" title="Template:Formula One races"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Formula_One_races" title="Template talk:Formula One races"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Formula_One_races&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Formula_One_Grands_Prix" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2020_Formula_One_World_Championship" title="2020 Formula One World Championship">2020 season</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/70th_Anniversary_Grand_Prix" title="70th Anniversary Grand Prix">70th Anniversary</a>&#42;</li>
+<li><a href="/wiki/Abu_Dhabi_Grand_Prix" title="Abu Dhabi Grand Prix">Abu Dhabi</a></li>
+<li><a class="mw-selflink selflink">Austrian</a></li>
+<li><a href="/wiki/Bahrain_Grand_Prix" title="Bahrain Grand Prix">Bahrain</a></li>
+<li><a href="/wiki/Belgian_Grand_Prix" title="Belgian Grand Prix">Belgian</a></li>
+<li><a href="/wiki/British_Grand_Prix" title="British Grand Prix">British</a></li>
+<li><a href="/wiki/Eifel_Grand_Prix" class="mw-redirect" title="Eifel Grand Prix">Eifel</a>&#42;</li>
+<li><a href="/wiki/Emilia_Romagna_Grand_Prix" class="mw-redirect" title="Emilia Romagna Grand Prix">Emilia Romagna</a>&#42;</li>
+<li><a href="/wiki/Hungarian_Grand_Prix" title="Hungarian Grand Prix">Hungarian</a></li>
+<li><a href="/wiki/Italian_Grand_Prix" title="Italian Grand Prix">Italian</a></li>
+<li><a href="/wiki/Portuguese_Grand_Prix" title="Portuguese Grand Prix">Portuguese</a>&#42;</li>
+<li><a href="/wiki/Russian_Grand_Prix" title="Russian Grand Prix">Russian</a></li>
+<li><a href="/wiki/Sakhir_Grand_Prix" class="mw-redirect" title="Sakhir Grand Prix">Sakhir</a>&#42;</li>
+<li><a href="/wiki/Spanish_Grand_Prix" title="Spanish Grand Prix">Spanish</a></li>
+<li><a href="/wiki/Styrian_Grand_Prix" class="mw-redirect" title="Styrian Grand Prix">Styrian</a>&#42;</li>
+<li><a href="/wiki/Turkish_Grand_Prix" title="Turkish Grand Prix">Turkish</a>&#42;</li>
+<li><a href="/wiki/Tuscan_Grand_Prix" class="mw-redirect" title="Tuscan Grand Prix">Tuscan</a>&#42;</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cancelled for 2020<sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></sup></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australian_Grand_Prix" title="Australian Grand Prix">Australian</a></li>
+<li><a href="/wiki/Azerbaijan_Grand_Prix" title="Azerbaijan Grand Prix">Azerbaijan</a></li>
+<li><a href="/wiki/Brazilian_Grand_Prix" title="Brazilian Grand Prix">Brazilian</a></li>
+<li><a href="/wiki/Canadian_Grand_Prix" title="Canadian Grand Prix">Canadian</a></li>
+<li><a href="/wiki/Chinese_Grand_Prix" title="Chinese Grand Prix">Chinese</a></li>
+<li><a href="/wiki/Dutch_Grand_Prix" title="Dutch Grand Prix">Dutch</a></li>
+<li><a href="/wiki/French_Grand_Prix" title="French Grand Prix">French</a></li>
+<li><a href="/wiki/Japanese_Grand_Prix" title="Japanese Grand Prix">Japanese</a></li>
+<li><a href="/wiki/Mexican_Grand_Prix" title="Mexican Grand Prix">Mexico City</a></li>
+<li><a href="/wiki/Monaco_Grand_Prix" title="Monaco Grand Prix">Monaco</a></li>
+<li><a href="/wiki/Singapore_Grand_Prix" title="Singapore Grand Prix">Singapore</a></li>
+<li><a href="/wiki/United_States_Grand_Prix" title="United States Grand Prix">United States</a></li>
+<li><a href="/wiki/Vietnamese_Grand_Prix" title="Vietnamese Grand Prix">Vietnamese</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Argentine_Grand_Prix" title="Argentine Grand Prix">Argentine</a></li>
+<li><a href="/wiki/Caesars_Palace_Grand_Prix" title="Caesars Palace Grand Prix">Caesars Palace</a></li>
+<li><a href="/wiki/Dallas_Grand_Prix" title="Dallas Grand Prix">Dallas</a></li>
+<li><a href="/wiki/Detroit_Grand_Prix" title="Detroit Grand Prix">Detroit</a></li>
+<li><a href="/wiki/European_Grand_Prix" title="European Grand Prix">European</a></li>
+<li><a href="/wiki/German_Grand_Prix" title="German Grand Prix">German</a></li>
+<li><a href="/wiki/Indian_Grand_Prix" title="Indian Grand Prix">Indian</a></li>
+<li><a href="/wiki/Indianapolis_500" title="Indianapolis 500">Indianapolis 500</a></li>
+<li><a href="/wiki/Korean_Grand_Prix" title="Korean Grand Prix">Korean</a></li>
+<li><a href="/wiki/Luxembourg_Grand_Prix" title="Luxembourg Grand Prix">Luxembourg</a></li>
+<li><a href="/wiki/Malaysian_Grand_Prix" title="Malaysian Grand Prix">Malaysian</a></li>
+<li><a href="/wiki/Moroccan_Grand_Prix" title="Moroccan Grand Prix">Moroccan</a></li>
+<li><a href="/wiki/Pacific_Grand_Prix" title="Pacific Grand Prix">Pacific</a></li>
+<li><a href="/wiki/Coppa_Acerbo" title="Coppa Acerbo">Pescara</a></li>
+<li><a href="/wiki/San_Marino_Grand_Prix" title="San Marino Grand Prix">San Marino</a></li>
+<li><a href="/wiki/South_African_Grand_Prix" title="South African Grand Prix">South African</a></li>
+<li><a href="/wiki/Swedish_Grand_Prix" title="Swedish Grand Prix">Swedish</a></li>
+<li><a href="/wiki/Swiss_Grand_Prix" title="Swiss Grand Prix">Swiss</a></li>
+<li><a href="/wiki/United_States_Grand_Prix_West" title="United States Grand Prix West">United States West</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proposed</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grand_Prix_of_Miami_(open_wheel_racing)" title="Grand Prix of Miami (open wheel racing)">Miami</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">&#42; &#8211; <i>Grands Prix introduced due to cancellations caused by the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>.</i><br /><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></sup> &#8211; <i>Grands Prix which were part of the original 2020 calendar, but cancelled due to the COVID-19 pandemic.</i></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20201029235855
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.080 seconds
+Real time usage: 1.339 seconds
+Preprocessor visited node count: 13270/1000000
+Post‐expand include size: 144266/2097152 bytes
+Template argument size: 19307/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 110405/5000000 bytes
+Lua time usage: 0.445/10.000 seconds
+Lua memory usage: 17.19 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1101.702      1 -total
+ 29.89%  329.286     77 Template:Flagicon
+ 24.38%  268.555      1 Template:Reflist
+ 20.80%  229.145     35 Template:Cite_web
+ 16.19%  178.385      2 Template:Infobox
+ 13.36%  147.234      1 Template:F1_race
+ 11.66%  128.473      1 Template:Lang-de
+  4.38%   48.274      3 Template:Convert
+  4.10%   45.223      1 Template:About
+  3.48%   38.305     77 Template:Flagicon/core
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:977205-0!canonical and timestamp 20201029235854 and revision id 984818647
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Austrian_Grand_Prix&amp;oldid=984818647">https://en.wikipedia.org/w/index.php?title=Austrian_Grand_Prix&amp;oldid=984818647</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Austrian_Grand_Prix" title="Category:Austrian Grand Prix">Austrian Grand Prix</a></li><li><a href="/wiki/Category:Formula_One_Grands_Prix" title="Category:Formula One Grands Prix">Formula One Grands Prix</a></li><li><a href="/wiki/Category:National_Grands_Prix" title="Category:National Grands Prix">National Grands Prix</a></li><li><a href="/wiki/Category:Auto_races_in_Austria" title="Category:Auto races in Austria">Auto races in Austria</a></li><li><a href="/wiki/Category:Recurring_sporting_events_established_in_1963" title="Category:Recurring sporting events established in 1963">Recurring sporting events established in 1963</a></li><li><a href="/wiki/Category:1963_establishments_in_Austria" title="Category:1963 establishments in Austria">1963 establishments in Austria</a></li><li><a href="/wiki/Category:2003_disestablishments_in_Austria" title="Category:2003 disestablishments in Austria">2003 disestablishments in Austria</a></li><li><a href="/wiki/Category:2014_establishments_in_Austria" title="Category:2014 establishments in Austria">2014 establishments in Austria</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:EngvarB_from_March_2018" title="Category:EngvarB from March 2018">EngvarB from March 2018</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Austrian+Grand+Prix" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Austrian+Grand+Prix" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Austrian_Grand_Prix" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Austrian_Grand_Prix" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Austrian_Grand_Prix">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Austrian_Grand_Prix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Austrian_Grand_Prix" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Austrian_Grand_Prix&amp;oldid=984818647" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Austrian_Grand_Prix&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Austrian_Grand_Prix&amp;id=984818647&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7876" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Austrian_Grand_Prix&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Austrian_Grand_Prix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Austrian_Grand_Prix" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Oostenrykse_Grand_Prix" title="Oostenrykse Grand Prix – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A7%D9%84%D9%86%D9%85%D8%B3%D8%A7_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89" title="جائزة النمسا الكبرى – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Gran_Premiu_d%27Austria" title="Gran Premiu d&#039;Austria – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Avstriya_Qran-prisi" title="Avstriya Qran-prisi – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F" title="Голяма награда на Австрия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Velika_nagrada_Austrije" title="Velika nagrada Austrije – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Priz_Bras_kirri_Aostria" title="Priz Bras kirri Aostria – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gran_Premi_d%27%C3%80ustria" title="Gran Premi d&#039;Àustria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Grand_Prix_Rakouska" title="Grand Prix Rakouska – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/%C3%98strigs_Grand_Prix" title="Østrigs Grand Prix – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Preis_von_%C3%96sterreich" title="Großer Preis von Österreich – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gran_Premio_de_Austria" title="Gran Premio de Austria – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Austriako_Sari_Nagusia" title="Austriako Sari Nagusia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Grand_Prix_automobile_d%27Autriche" title="Grand Prix automobile d&#039;Autriche – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Gran_Premio_de_Austria" title="Gran Premio de Austria – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%95%84_%EA%B7%B8%EB%9E%91%ED%94%84%EB%A6%AC" title="오스트리아 그랑프리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BE%D5%BD%D5%BF%D6%80%D5%AB%D5%A1%D5%B5%D5%AB_%D4%B3%D6%80%D5%A1%D5%B6_%D5%BA%D6%80%D5%AB" title="Ավստրիայի Գրան պրի – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Velika_nagrada_Austrije" title="Velika nagrada Austrije – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Grand_Prix_Austria" title="Grand Prix Austria – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gran_Premio_d%27Austria" title="Gran Premio d&#039;Austria – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A0%D7%93_%D7%A4%D7%A8%D7%99_%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%99%D7%94" title="גרנד פרי אוסטריה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Austrijas_Grand_Prix" title="Austrijas Grand Prix – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Formula%E2%80%931_osztr%C3%A1k_nagyd%C3%ADj" title="Formula–1 osztrák nagydíj – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80" title="ऑस्ट्रियन ग्रांप्री – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Grand_Prix_Formule_1_van_Oostenrijk" title="Grand Prix Formule 1 van Oostenrijk – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA" title="オーストリアグランプリ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/%C3%98sterrikes_Grand_Prix" title="Østerrikes Grand Prix – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grand_Prix_Austrii_Formu%C5%82y_1" title="Grand Prix Austrii Formuły 1 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grande_Pr%C3%AAmio_da_%C3%81ustria" title="Grande Prêmio da Áustria – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Marele_Premiu_al_Austriei" title="Marele Premiu al Austriei – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8" title="Гран-при Австрии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Austrian_Grand_Prix" title="Austrian Grand Prix – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Velika_nagrada_Avstrije" title="Velika nagrada Avstrije – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%90%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%98%D0%B5" title="Велика награда Аустрије – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Velika_nagrada_Austrije" title="Velika nagrada Austrije – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/It%C3%A4vallan_Grand_Prix" title="Itävallan Grand Prix – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/%C3%96sterrikes_Grand_Prix" title="Österrikes Grand Prix – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Avusturya_Grand_Prix" title="Avusturya Grand Prix – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1_%E2%80%94_%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D1%96_%D0%90%D0%B2%D1%81%D1%82%D1%80%D1%96%D1%97" title="Формула-1 — Гран-прі Австрії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B" title="奥地利大奖赛 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7876#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2020, at 08:30<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Austrian_Grand_Prix&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.080","walltime":"1.339","ppvisitednodes":{"value":13270,"limit":1000000},"postexpandincludesize":{"value":144266,"limit":2097152},"templateargumentsize":{"value":19307,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":110405,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1101.702      1 -total"," 29.89%  329.286     77 Template:Flagicon"," 24.38%  268.555      1 Template:Reflist"," 20.80%  229.145     35 Template:Cite_web"," 16.19%  178.385      2 Template:Infobox"," 13.36%  147.234      1 Template:F1_race"," 11.66%  128.473      1 Template:Lang-de","  4.38%   48.274      3 Template:Convert","  4.10%   45.223      1 Template:About","  3.48%   38.305     77 Template:Flagicon/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.445","limit":"10.000"},"limitreport-memusage":{"value":18023954,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20201029235855","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Austrian Grand Prix","url":"https:\/\/en.wikipedia.org\/wiki\/Austrian_Grand_Prix","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7876","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7876","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-11T19:27:22Z","dateModified":"2020-10-22T08:30:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b2\/Circuit_Red_Bull_Ring.svg","headline":"Formula 1 Grand Prix"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1328"});});</script>
+</body></html>

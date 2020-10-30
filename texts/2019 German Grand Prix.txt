@@ -1,0 +1,1285 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2019 German Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 11 of 21 in the <a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019 Formula One World Championship</a></small><table style="width: 100%; background: transparent;"><tbody><tr><td style="text-align:left;"><b>←&#160;</b><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">Previous&#160;race</a></td><td style="text-align: right;"><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">Next&#160;race</a><b>&#160;→</b></td></tr></tbody></table></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Hockenheim2012.svg" class="image" title="The layout of the Hockenheimring"><img alt="The layout of the Hockenheimring" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hockenheim2012.svg/220px-Hockenheim2012.svg.png" decoding="async" width="220" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hockenheim2012.svg/330px-Hockenheim2012.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hockenheim2012.svg/440px-Hockenheim2012.svg.png 2x" data-file-width="1052" data-file-height="744" /></a><div>The layout of the Hockenheimring</div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details<sup id="cite_ref-details_1-0" class="reference"><a href="#cite_note-details-1">&#91;1&#93;</a></sup><sup id="cite_ref-circuit_2-0" class="reference"><a href="#cite_note-circuit-2">&#91;2&#93;</a></sup></th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2019-07-28">28 July 2019</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+Formula 1 <a href="/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes-Benz</a> <a href="/wiki/German_Grand_Prix" title="German Grand Prix">Großer Preis von Deutschland</a> 2019</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheimring</a><br /><a href="/wiki/Hockenheim" title="Hockenheim">Hockenheim</a>, <a href="/wiki/Germany" title="Germany">Germany</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.574 km (2.842 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+64 laps, 292.736 km (181.897 mi)</td></tr><tr><th scope="row" style="width:20%;">Scheduled distance</th><td colspan="3">
+67 laps, 306.458 km (190.424 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Early rain, Late clouds</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:11.767</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:16.645 on lap 61</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></li></ul></div></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_c9cc6466736ac3f15481ab26eaad4993"></map><img usemap="#timeline_c9cc6466736ac3f15481ab26eaad4993" src="//upload.wikimedia.org/wikipedia/en/timeline/c9cc6466736ac3f15481ab26eaad4993.png" /></div></li></ul>
+</div></td></tr></tbody></table><p>The <b>2019 German Grand Prix</b> (formally known as the <b>Formula 1 Mercedes-Benz Großer Preis von Deutschland 2019</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Auto_racing" title="Auto racing">motor race</a> which was held on 28 July 2019 at the <a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheimring</a> in Germany. The race was the 11th round of the <a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019 Formula One World Championship</a> and marked the 78th running of the <a href="/wiki/German_Grand_Prix" title="German Grand Prix">German Grand Prix</a>, and the 64th time the race had been run as a World Championship event since the inaugural season in <a href="/wiki/1950_Formula_One_season" title="1950 Formula One season">1950</a>.
+</p><p>The race was won by <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a> after starting second in a dramatic wet race. <a href="/wiki/Pole_position" title="Pole position">Pole-sitter</a> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> led the race until lap 27 when he crashed behind the <a href="/wiki/Safety_car" title="Safety car">safety car</a>, losing the lead and his front wing as well as receiving a penalty for entering the pit lane on the wrong side of a safety bollard. Whilst behind the final safety car <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a> and <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a> switched to dry tyres before anyone else, allowing them to finish an unexpected third and fourth respectively.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Championship_standings_before_the_race"><span class="tocnumber">1.1</span> <span class="toctext">Championship standings before the race</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Entrants"><span class="tocnumber">1.2</span> <span class="toctext">Entrants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Practice"><span class="tocnumber">2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Qualifying"><span class="tocnumber">3</span> <span class="toctext">Qualifying</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Qualifying_classification"><span class="tocnumber">3.1</span> <span class="toctext">Qualifying classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Race"><span class="tocnumber">4</span> <span class="toctext">Race</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Race_report"><span class="tocnumber">4.1</span> <span class="toctext">Race report</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Race_start"><span class="tocnumber">4.1.1</span> <span class="toctext">Race start</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Lap_22"><span class="tocnumber">4.1.2</span> <span class="toctext">Lap 22</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Lap_34"><span class="tocnumber">4.1.3</span> <span class="toctext">Lap 34</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Lap_46"><span class="tocnumber">4.1.4</span> <span class="toctext">Lap 46</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Finish"><span class="tocnumber">4.1.5</span> <span class="toctext">Finish</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#After_the_race"><span class="tocnumber">4.2</span> <span class="toctext">After the race</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Race_classification"><span class="tocnumber">4.3</span> <span class="toctext">Race classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Championship_standings_after_the_race"><span class="tocnumber">5</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Formally known as the "Formula 1 Mercedes-Benz Großer Preis von Deutschland 2019" this was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> race held on 28 July 2019.<sup id="cite_ref-details_1-1" class="reference"><a href="#cite_note-details-1">&#91;1&#93;</a></sup> The event took place at the <a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheimring</a> near <a href="/wiki/Hockenheim" title="Hockenheim">Hockenheim</a> in <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>, Germany. It was the 11th round of 21 in the <a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019 Formula One World Championship</a>, the 78th running of the German Grand Prix and the 64th time it was run as part of the World Championship since the inaugural <a href="/wiki/1950_Formula_One_season" title="1950 Formula One season">1950</a> season.<sup id="cite_ref-:13_3-0" class="reference"><a href="#cite_note-:13-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Mercedes_in_F1" class="mw-redirect" title="Mercedes in F1">Mercedes</a> announced that they would be running a different livery in tribute to their heritage with the team as celebrating their 125th year of competing in motorsport, and their 200th F1 start.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <a href="/wiki/Racing_Point_F1_Team" title="Racing Point F1 Team">Racing Point</a> announced that they would bring a “two step” upgrade package to the weekend and the struggling Williams team announced that they too would be bringing an upgrade package.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a> announced that they would have to split their car setups for the second race running as a result of the inter-team crash at the previous race in <a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">Britain</a> with <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>'s car also carrying extra upgrades.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Championship_standings_before_the_race">Championship standings before the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Championship standings before the race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heading into the weekend it was <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> and <a href="/wiki/Mercedes_in_Formula_One" class="mw-redirect" title="Mercedes in Formula One">Mercedes</a> who held a lead of 39 and 164 points in the drivers and constructors championships respectively. The size of their leads meant that both were confirmed to still be leading their respective championships after the weekend regardless of the race result.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Entrants">Entrants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Entrants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/2019_Formula_One_World_Championship#Entries" title="2019 Formula One World Championship">2019 Formula One World Championship §&#160;Entries</a></div>
+<p>The drivers and teams entered were the same as those on the season entry list with no additional stand-in drivers for either the race or practice.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> was fastest in the first practice session followed by <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> teammate <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">Charles Leclerc</a> in second with <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> third fastest. The session passed mostly without incident with the exception being <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a> after his <a href="/wiki/Haas_VF-19" title="Haas VF-19">car</a> failed causing a brief red flag.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Ferrari managed to get first and second in the second practice session but this time with Leclerc leading Vettel by just over 1 tenth of a second, Hamilton once again finished the session in third. The session's only notable incident was <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a> crashing on the exit of turn 16.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_classification">Qualifying classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Qualifying classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:85%">
+<tbody><tr>
+<th rowspan="2"><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th rowspan="2"><abbr title="Number">Car<br />no.</abbr>
+</th>
+<th rowspan="2">Driver
+</th>
+<th rowspan="2">Constructor
+</th>
+<th colspan="3" style="background:#eaecf0; text-align:center;"><span class="nowrap">Qualifying times</span>
+</th>
+<th rowspan="2"><abbr title="Final grid position">Final<br />grid</abbr>
+</th></tr>
+<tr>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Q3
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">44
+</td>
+<td data-sort-value="HAM"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:12.852
+</td>
+<td><b>1:12.149</b>
+</td>
+<td><b>1:11.767</b>
+</td>
+<td align="center">1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">33
+</td>
+<td data-sort-value="VER"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:12.593
+</td>
+<td>1:12.427
+</td>
+<td>1:12.113
+</td>
+<td align="center">2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">77
+</td>
+<td data-sort-value="BOT"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:13.075
+</td>
+<td>1:12.424
+</td>
+<td>1:12.129
+</td>
+<td align="center">3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">10
+</td>
+<td data-sort-value="GAS"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:12.991
+</td>
+<td>1:12.385
+</td>
+<td>1:12.522
+</td>
+<td align="center">4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">7
+</td>
+<td data-sort-value="RAI"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Alfa_Romeo_in_Formula_One" title="Alfa Romeo in Formula One">Alfa Romeo Racing</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:13.066
+</td>
+<td>1:12.519
+</td>
+<td>1:12.538
+</td>
+<td align="center">5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">8
+</td>
+<td data-sort-value="GRO"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:13.146
+</td>
+<td>1:12.769
+</td>
+<td>1:12.851
+</td>
+<td align="center">6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">55
+</td>
+<td data-sort-value="SAI"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:13.221
+</td>
+<td>1:12.632
+</td>
+<td>1:12.897
+</td>
+<td align="center">7
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">11
+</td>
+<td data-sort-value="PER"><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Racing_Point_F1_Team" title="Racing Point F1 Team">Racing Point</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">BWT Mercedes</a></span>
+</td>
+<td>1:13.194
+</td>
+<td>1:12.776
+</td>
+<td>1:13.065
+</td>
+<td align="center">8
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">27
+</td>
+<td data-sort-value="HUL"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:13.186
+</td>
+<td>1:12.766
+</td>
+<td>1:13.126
+</td>
+<td align="center">9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">16
+</td>
+<td data-sort-value="LEC"><span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" decoding="async" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></span> <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">Charles Leclerc</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><b>1:12.229</b>
+</td>
+<td>1:12.344
+</td>
+<td data-sort-value="2">No time
+</td>
+<td align="center">10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">99
+</td>
+<td data-sort-value="GIO"><span class="nowrap"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Antonio_Giovinazzi" title="Antonio Giovinazzi">Antonio Giovinazzi</a></span>
+</td>
+<td><a href="/wiki/Alfa_Romeo_in_Formula_One" title="Alfa Romeo in Formula One">Alfa Romeo Racing</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:13.170
+</td>
+<td>1:12.786
+</td>
+<td style="background: silver" align="center" data-sort-value="21"><small>N/A</small>
+</td>
+<td align="center">11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td align="center">20
+</td>
+<td data-sort-value="MAG"><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span> <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:13.103
+</td>
+<td>1:12.789
+</td>
+<td style="background: silver" align="center" data-sort-value="22"><small>N/A</small>
+</td>
+<td align="center">12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td align="center">3
+</td>
+<td data-sort-value="RIC"><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:13.131
+</td>
+<td>1:12.799
+</td>
+<td style="background: silver" align="center" data-sort-value="23"><small>N/A</small>
+</td>
+<td align="center">13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td align="center">26
+</td>
+<td data-sort-value="KVY"><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:13.278
+</td>
+<td>1:13.135
+</td>
+<td style="background: silver" align="center" data-sort-value="24"><small>N/A</small>
+</td>
+<td align="center">14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td align="center">18
+</td>
+<td data-sort-value="STR"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Racing_Point_F1_Team" title="Racing Point F1 Team">Racing Point</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">BWT Mercedes</a></span>
+</td>
+<td>1:13.256
+</td>
+<td>1:13.450
+</td>
+<td style="background: silver" align="center" data-sort-value="25"><small>N/A</small>
+</td>
+<td align="center">15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td align="center">4
+</td>
+<td data-sort-value="NOR"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lando_Norris" title="Lando Norris">Lando Norris</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:13.333
+</td>
+<td style="background: silver" align="center" data-sort-value="26"><small>N/A</small>
+</td>
+<td style="background: silver" align="center" data-sort-value="26"><small>N/A</small>
+</td>
+<td align="center">19<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>17
+</th>
+<td align="center">23
+</td>
+<td data-sort-value="ALB"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Albon" title="Alexander Albon">Alexander Albon</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:13.461
+</td>
+<td style="background: silver" align="center" data-sort-value="27"><small>N/A</small>
+</td>
+<td style="background: silver" align="center" data-sort-value="27"><small>N/A</small>
+</td>
+<td align="center">16
+</td></tr>
+<tr>
+<th>18
+</th>
+<td align="center">63
+</td>
+<td data-sort-value="RUS"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/George_Russell_(racing_driver)" title="George Russell (racing driver)">George Russell</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:14.721
+</td>
+<td style="background: silver" align="center" data-sort-value="28"><small>N/A</small>
+</td>
+<td style="background: silver" align="center" data-sort-value="28"><small>N/A</small>
+</td>
+<td align="center">17
+</td></tr>
+<tr>
+<th>19
+</th>
+<td align="center">88
+</td>
+<td data-sort-value="KUB"><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:14.839
+</td>
+<td style="background: silver" align="center" data-sort-value="29"><small>N/A</small>
+</td>
+<td style="background: silver" align="center" data-sort-value="29"><small>N/A</small>
+</td>
+<td align="center">18
+</td></tr>
+<tr class="sortbottom">
+<th colspan="8" data-sort-value="999"><a href="/wiki/107%25_rule" title="107% rule">107% time</a>: 1:17.285
+</th></tr>
+<tr>
+<th data-sort-value="20">DNQ
+</th>
+<td align="center">5
+</td>
+<td data-sort-value="VET"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>No time
+</td>
+<td style="background: silver" align="center" data-sort-value="30"><small>N/A</small>
+</td>
+<td style="background: silver" align="center" data-sort-value="30"><small>N/A</small>
+</td>
+<td align="center">20<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-:2_14-0" class="reference"><a href="#cite_note-:2-14">&#91;14&#93;</a></sup>
+</th></tr></tbody></table>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – <a href="/wiki/Lando_Norris" title="Lando Norris">Lando Norris</a> was sent to the back of the grid after taking a third <a href="/wiki/MGU-K" class="mw-redirect" title="MGU-K">MGU-K</a>, a third Energy Store and a third Control Electronics.<sup id="cite_ref-:0_15-0" class="reference"><a href="#cite_note-:0-15">&#91;15&#93;</a></sup> However, because Norris set a qualifying lap time and Vettel did not, he would only drop three positions to 19th.</li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span>  – <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> failed to set a Q1 time within the 107% requirement but was given permission to race at the stewards' discretion.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> He also received a 10-place grid penalty for a third Control Electronics (CE), but his starting position remained unchanged as he was due to be starting from the back without the application of any penalties.<sup id="cite_ref-:0_15-1" class="reference"><a href="#cite_note-:0-15">&#91;15&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Race_report">Race report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Race report">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The race was scheduled for 67 laps with the <a href="/wiki/Formation_lap" class="mw-redirect" title="Formation lap">formation lap</a> due to start at 15:10 <a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">local time</a> (13:10 <a href="/wiki/UTC" class="mw-redirect" title="UTC">UTC</a>).<sup id="cite_ref-circuit_2-1" class="reference"><a href="#cite_note-circuit-2">&#91;2&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> A rule relevant to a race which has been declared as "wet" at its start was employed for the first time at this Grand Prix. The rule states that after the formation lap and zero or more additional laps behind the safety car, the race director has three options by which to proceed: a <a href="/wiki/Standing_start" title="Standing start">standing start</a> without the <a href="/wiki/Safety_car" title="Safety car">safety car</a>, a <a href="/wiki/Rolling_start" title="Rolling start">rolling start</a> without the safety car, or suspending the race. The number of additional formation laps is subtracted from the overall race distance in all 3 instances.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Race_start">Race start</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Race start">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Since at race time the track conditions were considered unsuitable due to heavy rain, all 20 cars were obligated to start on the <a href="/wiki/Rain_tyre" title="Rain tyre">wet tyres</a>. After the formation lap and three additional laps behind the safety car, the race director elected to begin the grand prix with a standing start. Accordingly, the race distance was set to 64 laps, with all four laps behind the safety car at the beginning of the race officially scored as formation laps.<sup id="cite_ref-BBC_Race_p.12_19-0" class="reference"><a href="#cite_note-BBC_Race_p.12-19">&#91;19&#93;</a></sup><sup id="cite_ref-BBC_Race_p.11_20-0" class="reference"><a href="#cite_note-BBC_Race_p.11-20">&#91;20&#93;</a></sup>
+</p><p>At the standing start the <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bulls</a> driven by <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a> and <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a> were both very slow off the starting grid and lost several places each.<sup id="cite_ref-F1_Race_live_p.1_21-0" class="reference"><a href="#cite_note-F1_Race_live_p.1-21">&#91;21&#93;</a></sup><sup id="cite_ref-StatsF1_22-0" class="reference"><a href="#cite_note-StatsF1-22">&#91;22&#93;</a></sup> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> took advantage, and ended up in third by the end of the first lap. Both <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> drivers had a first lap which saw them move up the order. <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">Charles Leclerc</a> who started in 10th was up to 6th, and <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> had improved from 20th to 14th.<sup id="cite_ref-Lap_by_lap_23-0" class="reference"><a href="#cite_note-Lap_by_lap-23">&#91;23&#93;</a></sup> Verstappen, who had dropped down due to his start, passed Räikkönen for third immediately before <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a> spun off coming out of turn 10, he hit the wall on the inside taking him out of the race. This caused the race's first safety car to appear on lap two.<sup id="cite_ref-BBC_Race_p.11_20-1" class="reference"><a href="#cite_note-BBC_Race_p.11-20">&#91;20&#93;</a></sup> As the track began to dry Vettel and <a href="/wiki/Alexander_Albon" title="Alexander Albon">Alexander Albon</a> pitted for <a href="/wiki/Intermediate_tyre" class="mw-redirect" title="Intermediate tyre">intermediate tyres</a>, with the majority of the other cars doing the same on the following lap.<sup id="cite_ref-Pit_stops_24-0" class="reference"><a href="#cite_note-Pit_stops-24">&#91;24&#93;</a></sup> The safety car period ended on lap 5.<sup id="cite_ref-StatsF1_22-1" class="reference"><a href="#cite_note-StatsF1-22">&#91;22&#93;</a></sup>
+</p><p><a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>, <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a>, <a href="/wiki/Lando_Norris" title="Lando Norris">Lando Norris</a>, <a href="/wiki/George_Russell_(racing_driver)" title="George Russell (racing driver)">George Russell</a> and <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>, all of whom stayed out on their wet tyres, quickly found themselves being overtaken by those on the intermediate tyres. All ultimately pitted for intermediates, but lost out for not having done so earlier dropping them to the back of the race.<sup id="cite_ref-Pit_stops_24-1" class="reference"><a href="#cite_note-Pit_stops-24">&#91;24&#93;</a></sup><sup id="cite_ref-Lap_by_lap_23-1" class="reference"><a href="#cite_note-Lap_by_lap-23">&#91;23&#93;</a></sup> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a> suffered an exhaust failure on lap 14, causing a <a href="/wiki/Virtual_safety_car" class="mw-redirect" title="Virtual safety car">virtual safety car</a>.<sup id="cite_ref-Guardian_live_p.3_25-0" class="reference"><a href="#cite_note-Guardian_live_p.3-25">&#91;25&#93;</a></sup> On lap 18, <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz</a> lost control of his <a href="/wiki/McLaren" title="McLaren">McLaren</a> at turn 16, causing it to run wide and aquaplane on the slippery, dragstrip area of the track, before narrowly avoiding the barriers. This caused a local yellow flag before he was able to drive off under his own power.
+</p>
+<h4><span class="mw-headline" id="Lap_22">Lap 22</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Lap 22">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By lap 22, the track had dried sufficiently that teams further down the order decided to risk <a href="/wiki/Racing_slick" title="Racing slick">slick tyres</a>. The first driver to attempt them was Magnussen in his <a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a> on soft tyres, followed shortly after by Vettel. Verstappen pitted from third position and fitted the medium tyres. <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> then pitted on lap 27 from second and was also fitted with mediums. Almost immediately after Bottas pitted, Verstappen lost control of his car and performed a 360 degree at turn 14, but managed to recover.
+</p><p>Norris's car lost power on track on lap 26, prompting a second deployment of the virtual safety car. Many teams took the opportunity to pit their drivers for dry weather tires, including Leclerc and <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>. A notable exception was Sainz; with McLaren putting on a fresh set of intermediate tyres on his car. As Hamilton was leaving the pits on soft tyres, Leclerc spun into the tyre barrier at turn 17. He tried to drive out from the gravel, but his <a href="/wiki/Ferrari_SF90" title="Ferrari SF90">Ferrari SF90</a> was beached. This ended his race, and prompted the second full safety car of the day. At the end of the lap, Hamilton, now in the lead behind the safety car, also lost control at turn 17, damaging his front wing on the wall and returning into the pit lane cutting across the track as he did so. His <a href="/wiki/Mercedes_in_Formula_One" class="mw-redirect" title="Mercedes in Formula One">Mercedes</a> team was not ready for him, and Hamilton endured a 50.3 second pit stop in which his front wing was replaced and he had switched back onto intermediate tyres. It became clear to all teams at this point that dry weather tyres were not viable, and all teams were back on intermediate tyres by the time the second safety car period ended at lap 34.
+</p>
+<h4><span class="mw-headline" id="Lap_34">Lap 34</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: Lap 34">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At the beginning of lap 34, the top five drivers in order were Verstappen, <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>, Bottas, Albon and Hamilton. Vettel, who had started last, was now in 8th. Shortly after the safety car restart, Hamilton was found to have entered the pit lane on the wrong side of a safety bollard on lap 27, and was given a five-second penalty. Meanwhile, on track, Bottas and Hamilton overtook the cars ahead of them to race second and third respectively behind Verstappen. Räikkönen avoided beaching his car in a turn 17 gravel trap on lap 39, losing numerous places. One lap later, Hülkenberg slid into another gravel trap on the same corner, and was unable to free his car. This brought out the third safety car of the day. A few drivers including race leader Verstappen pitted during this safety car period; Verstappen's stop was notable as the fastest F1 pit stop time ever at 1.88 seconds, beating the previous time of 1.91 seconds, set during the <a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">2019 British Grand Prix</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> All drivers who pitted during this safety car kept intermediate tyres, with one notable exception: <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a>, who was the only driver to fit slick tyres. The third safety car period ended on lap 46.
+</p>
+<h4><span class="mw-headline" id="Lap_46">Lap 46</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: Lap 46">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By this point in the race, the rain had stopped falling, and a clear dry line had formed on the track. Half the field pitted on lap 46 for dry weather tyres, including Verstappen and Bottas. Hamilton took the lead ahead of both. All the drivers remaining on intermediates, Hamilton included, pitted on lap 47 for slick tyres. Hamilton, because he had to serve his five-second penalty, was relegated to 12th position after his stop. Meanwhile, Stroll, the only driver to take slicks during the previous safety car, briefly inherited the lead of the race. Verstappen and then <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a> soon passed him within a lap leaving Stroll in 3rd.
+</p><p>The next several laps of the race saw Verstappen extend his race lead to more than ten seconds. Sebastian Vettel, who had started lap 46 in 8th, began showing pace on dry tyres and moving through the midfield. Lewis Hamilton spun out at turn 1, narrowly avoiding the barriers, dropping down to 13th on lap 53. The field was frozen once again on lap 56, when Valtteri Bottas, running in 4th, slid off track and into a tyre barrier in a near identical spin to Hamilton a few laps earlier, suffering front suspension damage that would end his race. Verstappen's 10 second lead disappeared as Bottas's shunt brought out the fourth and final safety car of the race. Sebastian Vettel, who had by this point moved up to 5th position, found himself in a favorable position to attack the frontrunners heading into the final few laps.
+</p>
+<h4><span class="mw-headline" id="Finish">Finish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=13" title="Edit section: Finish">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The safety car caused by Bottas's crash ended on lap 60. <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a>'s car suffered terminal damage when he collided with Albon two laps later. Verstappen extended his race lead once again, pulling over 7 seconds ahead of 2nd position by the final lap. Vettel was able to pass Sainz, Stroll, and Kvyat to finish in 2nd after starting the race in last. Kvyat, finishing 3rd, achieved Toro Rosso's first podium since Vettel's victory at the <a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">2008 Italian Grand Prix</a>. Verstappen won his second race of the last three, also picking up the point for fastest lap and the spectator voted "Driver of the Day" award.
+</p>
+<h3><span class="mw-headline" id="After_the_race">After the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=14" title="Edit section: After the race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the race, both <a href="/wiki/Alfa_Romeo_Racing" class="mw-redirect" title="Alfa Romeo Racing">Alfa Romeo</a> drivers Räikkönen and <a href="/wiki/Antonio_Giovinazzi" title="Antonio Giovinazzi">Antonio Giovinazzi</a> were penalised 30 seconds for use of driver aids at the start.<sup id="cite_ref-:1_27-0" class="reference"><a href="#cite_note-:1-27">&#91;27&#93;</a></sup> This relegated them to 12th and 13th, respectively. The penalties moved Hamilton up to 9th and prevented Mercedes from leaving the race without points for the first time since the <a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">2018 Austrian Grand Prix</a>. It further allowed Kubica, moved up to 10th, to earn his and <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>'s first and what would prove to be the only point in Williams's <a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a> campaign. An appeal against the penalties was lodged by Alfa Romeo after the race and was subsequently dismissed by the FIA World Council.
+</p>
+<h3><span class="mw-headline" id="Race_classification">Race classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=15" title="Edit section: Race classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 85%;">
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th><abbr title="Car number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th class="unsortable">Laps
+</th>
+<th class="unsortable">Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">33
+</td>
+<td data-sort-value="VER"><b><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></b>
+</td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>64
+</td>
+<td>1:44:31.275
+</td>
+<td align="center">2
+</td>
+<td align="center"><b>26</b><sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">1</a></sup>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">5
+</td>
+<td data-sort-value="VET"><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>64
+</td>
+<td>+7.333
+</td>
+<td align="center">20
+</td>
+<td align="center"><b>18</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">26
+</td>
+<td data-sort-value="KVY"><b><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>64
+</td>
+<td>+8.305
+</td>
+<td align="center">14
+</td>
+<td align="center"><b>15</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">18
+</td>
+<td data-sort-value="STR"><b><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a></b>
+</td>
+<td><b><span class="nowrap"><a href="/wiki/Racing_Point_F1_Team" title="Racing Point F1 Team">Racing Point</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">BWT Mercedes</a></span></b>
+</td>
+<td>64
+</td>
+<td>+8.966
+</td>
+<td align="center">15
+</td>
+<td align="center"><b>12</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">55
+</td>
+<td data-sort-value="SAI"><b><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>64
+</td>
+<td>+9.583
+</td>
+<td align="center">7
+</td>
+<td align="center"><b>10</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">23
+</td>
+<td data-sort-value="ALB"><b><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Albon" title="Alexander Albon">Alexander Albon</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>64
+</td>
+<td>+10.052
+</td>
+<td align="center">16
+</td>
+<td align="center"><b>8</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">8
+</td>
+<td data-sort-value="GRO"><b><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a></b>
+</td>
+<td><b><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>64
+</td>
+<td>+16.838
+</td>
+<td align="center">6
+</td>
+<td align="center"><b>6</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">20
+</td>
+<td data-sort-value="MAG"><b><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span> <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a></b>
+</td>
+<td><b><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>64
+</td>
+<td>+18.765
+</td>
+<td align="center">12
+</td>
+<td align="center"><b>4</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">44
+</td>
+<td data-sort-value="HAM"><b><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One"><b>Mercedes</b></a>
+</td>
+<td>64
+</td>
+<td>+19.667
+</td>
+<td align="center">1
+</td>
+<td align="center"><b>2</b>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">88
+</td>
+<td data-sort-value="KUB"><b><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></b>
+</td>
+<td><b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>64
+</td>
+<td>+24.987
+</td>
+<td align="center">18
+</td>
+<td align="center"><b>1</b>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">63
+</td>
+<td data-sort-value="RUS"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/George_Russell_(racing_driver)" title="George Russell (racing driver)">George Russell</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>64
+</td>
+<td>+26.404
+</td>
+<td align="center">17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td align="center">7
+</td>
+<td data-sort-value="RAI"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Alfa_Romeo_in_Formula_One" title="Alfa Romeo in Formula One">Alfa Romeo Racing</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>64
+</td>
+<td>+42.214<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">2</a></sup>
+</td>
+<td align="center">5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td align="center">99
+</td>
+<td data-sort-value="GIO"><span class="nowrap"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Antonio_Giovinazzi" title="Antonio Giovinazzi">Antonio Giovinazzi</a></span>
+</td>
+<td><a href="/wiki/Alfa_Romeo_in_Formula_One" title="Alfa Romeo in Formula One">Alfa Romeo Racing</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>64
+</td>
+<td>+43.849<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">2</a></sup>
+</td>
+<td align="center">11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14<sup class="reference plainlinks nourlexpansion" id="ref_4"><a href="#endnote_4">3</a></sup>
+</th>
+<td align="center">10
+</td>
+<td data-sort-value="GAS"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>61
+</td>
+<td>Collision
+</td>
+<td align="center">4
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="15">Ret
+</th>
+<td align="center">77
+</td>
+<td data-sort-value="BOT"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>56
+</td>
+<td>Spun off
+</td>
+<td align="center">3
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="16">Ret
+</th>
+<td align="center">27
+</td>
+<td data-sort-value="HUL"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>39
+</td>
+<td>Accident
+</td>
+<td align="center">9
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="17">Ret
+</th>
+<td align="center">16
+</td>
+<td data-sort-value="LEC"><span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" decoding="async" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></span> <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">Charles Leclerc</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>27
+</td>
+<td>Accident
+</td>
+<td align="center">10
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="18">Ret
+</th>
+<td align="center">4
+</td>
+<td data-sort-value="NOR"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lando_Norris" title="Lando Norris">Lando Norris</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>25
+</td>
+<td>Power loss
+</td>
+<td align="center">19
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="19">Ret
+</th>
+<td align="center">3
+</td>
+<td data-sort-value="RIC"><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>13
+</td>
+<td>Exhaust
+</td>
+<td align="center">13
+</td>
+<td>
+</td></tr>
+<tr>
+<th data-sort-value="20">Ret
+</th>
+<td align="center">11
+</td>
+<td data-sort-value="PER"><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Racing_Point_F1_Team" title="Racing Point F1 Team">Racing Point</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">BWT Mercedes</a></span>
+</td>
+<td>1
+</td>
+<td>Accident
+</td>
+<td align="center">8
+</td>
+<td>
+</td></tr>
+<tr class="sortbottom">
+<td colspan="8" align="center"><i><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a>: <span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a> (<a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>) – 1:16.645 (lap 61)</i>
+</td></tr>
+<tr>
+<th colspan="8"><b>Source:</b><sup id="cite_ref-:2_14-1" class="reference"><a href="#cite_note-:2-14">&#91;14&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</th></tr>
+</tbody></table>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^1</a></b></span>  – Includes one point for fastest lap.</li>
+<li><span class="citation wikicite" id="endnote_3"><b><a href="#ref_3">^2</a></b></span>  – <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> and <a href="/wiki/Antonio_Giovinazzi" title="Antonio Giovinazzi">Antonio Giovinazzi</a> originally finished 7th and 8th respectively, but both had 30 seconds added to their race times for use of driver aids at the start.<sup id="cite_ref-:1_27-1" class="reference"><a href="#cite_note-:1-27">&#91;27&#93;</a></sup></li>
+<li><span class="citation wikicite" id="endnote_4"><b><a href="#ref_4">^3</a></b></span>  – <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a> was classified as he completed more than 90% of the race distance.</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=16" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td align="left">225
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td align="left">184
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td align="left">162
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td align="left">141
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" decoding="async" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></span> <a href="/wiki/Charles_Leclerc" title="Charles Leclerc">Charles Leclerc</a>
+</td>
+<td align="left">120
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_30-0" class="reference"><a href="#cite_note-champ-30">&#91;30&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td align="left">409
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">261
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td align="left">217
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="left">70
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 3
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td align="left">42
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_30-1" class="reference"><a href="#cite_note-champ-30">&#91;30&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<dl><dt>Note</dt></dl>
+<ul><li><small>Only the top five positions for each set of standings are shown</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-details-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-details_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-details_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/racing/2019/Germany.html">"German Grand Prix 2019 – F1 Race"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=German+Grand+Prix+2019+%E2%80%93+F1+Race&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fracing%2F2019%2FGermany.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-circuit-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-circuit_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-circuit_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/racing/2019/Germany.html#circuit">"German Grand Prix 2019 – F1 Race"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=German+Grand+Prix+2019+%E2%80%93+F1+Race&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fracing%2F2019%2FGermany.html%23circuit&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-:13-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-:13_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/grand-prix-germany.aspx">"German Grand Prix"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=German+Grand+Prix&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2Fgrand-prix-germany.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.mercedes-reveal-special-heritage-livery-for-german-grand-prix.1SYTGhGJI0rHOEi0av1TmK.html">"Mercedes unveil special special heritage livery for 2019 German Grand Prix"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Mercedes+unveil+special+special+heritage+livery+for+2019+German+Grand+Prix&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.mercedes-reveal-special-heritage-livery-for-german-grand-prix.1SYTGhGJI0rHOEi0av1TmK.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.racing-point-get-two-step-upgrade-package-for-germany-and-hungary.1AhwZHRYtxwjHUcnoVhqzl.html">"Racing Point to upgrade car for German and Hungarian Grands Prix"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Racing+Point+to+upgrade+car+for+German+and+Hungarian+Grands+Prix&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.racing-point-get-two-step-upgrade-package-for-germany-and-hungary.1AhwZHRYtxwjHUcnoVhqzl.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.williams-to-back-to-back-latest-upgrade-in-germany-practice.5vHVKKMkLbj3jysPElJ5qc.html">"Williams to back-to-back latest upgrade in Germany practice"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Williams+to+back-to-back+latest+upgrade+in+Germany+practice&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.williams-to-back-to-back-latest-upgrade-in-germany-practice.5vHVKKMkLbj3jysPElJ5qc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.magnussen-gets-haas-upgrades-for-germany-grosjean-keeps-australia-spec.6f9k2Xx9XK2whjtB9yswsg.html">"Magnussen gets Haas aero upgrades for Germany as Grosjean keeps Australia spec"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Magnussen+gets+Haas+aero+upgrades+for+Germany+as+Grosjean+keeps+Australia+spec&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.magnussen-gets-haas-upgrades-for-germany-grosjean-keeps-australia-spec.6f9k2Xx9XK2whjtB9yswsg.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019/grande-bretagne/championnat.aspx">"Britain 2019 – Championship"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=Britain+2019+%E2%80%93+Championship&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019%2Fgrande-bretagne%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019.aspx">"2019"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=2019&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fia.com/file/84784/download">"2019 German Grand Prix – Entry List"</a>. Fédération Internationale de l'Automobile. 25 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2019+German+Grand+Prix+%E2%80%93+Entry+List&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2019-07-25&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F84784%2Fdownload&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.fp1-report-highlights-german-grand-prix-2019.3JyDJQdQcvehmeYfPaXsHa.html">"German Grand Prix 2019 FP1 report and video highlights: Vettel heads Ferrari at Hockenheim"</a>. <i>Formula1.com</i>. 26 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=German+Grand+Prix+2019+FP1+report+and+video+highlights%3A+Vettel+heads+Ferrari+at+Hockenheim&amp;rft.date=2019-07-26&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.fp1-report-highlights-german-grand-prix-2019.3JyDJQdQcvehmeYfPaXsHa.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.fp2-leclerc-beats-vettel-as-ferrari-lead-the-way-in-germany.28JwgGgu1fDtLZCXDTg1rE.html">"German Grand Prix 2019 FP2 report: Leclerc leads in Germany as Gasly crashes out"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=German+Grand+Prix+2019+FP2+report%3A+Leclerc+leads+in+Germany+as+Gasly+crashes+out&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.fp2-leclerc-beats-vettel-as-ferrari-lead-the-way-in-germany.28JwgGgu1fDtLZCXDTg1rE.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/2019/races/1010/germany/qualifying.html">"Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019 – Qualifying"</a>. <i>Formula1.com</i>. 27 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Formula+1+Mercedes-Benz+Grosser+Preis+von+Deutschland+2019+%E2%80%93+Qualifying&amp;rft.date=2019-07-27&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F2019%2Fraces%2F1010%2Fgermany%2Fqualifying.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-:2-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/2019/races/1010/germany/starting-grid.html">"Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019 – Starting Grid"</a>. <i>Formula1.com</i>. 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Formula+1+Mercedes-Benz+Grosser+Preis+von+Deutschland+2019+%E2%80%93+Starting+Grid&amp;rft.date=2019-07-28&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F2019%2Fraces%2F1010%2Fgermany%2Fstarting-grid.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-:0-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.norris-set-to-join-vettel-on-back-row-after-taking-new-power-unit-elements.70LNjSXrzdAqyzbDKm9s1h.html">"German Grand Prix 2019: Norris to join Vettel at the back of the grid after taking new power unit elements"</a>. <i>www.formula1.com</i>. 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.formula1.com&amp;rft.atitle=German+Grand+Prix+2019%3A+Norris+to+join+Vettel+at+the+back+of+the+grid+after+taking+new+power+unit+elements&amp;rft.date=2019-07-28&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.norris-set-to-join-vettel-on-back-row-after-taking-new-power-unit-elements.70LNjSXrzdAqyzbDKm9s1h.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fia.com/file/85244/download">"Steward Decision Doc37 – S.Vettel"</a>. <i>FIA</i>. 27 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA&amp;rft.atitle=Steward+Decision+Doc37+%E2%80%93+S.Vettel&amp;rft.date=2019-07-27&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F85244%2Fdownload&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/racing/2019/Germany/Timetable.html">"Germany timetable"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Germany+timetable&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fracing%2F2019%2FGermany%2FTimetable.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fia.com/file/78014/download/26183">"Formula One – Sporting Regulations – 2019"</a>. FIA. 15 October 2018. 36.14(c)<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Formula+One+%E2%80%93+Sporting+Regulations+%E2%80%93+2019&amp;rft.pages=36.14%28c%29&amp;rft.pub=FIA&amp;rft.date=2018-10-15&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F78014%2Fdownload%2F26183&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BBC_Race_p.12-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_Race_p.12_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/sport/live/formula1/49088576/page/12">"How the German GP unfolded"</a>. <i>BBC Sport</i>. p.&#160;12<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=How+the+German+GP+unfolded&amp;rft.pages=12&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Flive%2Fformula1%2F49088576%2Fpage%2F12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BBC_Race_p.11-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_Race_p.11_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_Race_p.11_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFEmons2019" class="citation web cs1">Emons, Michael (28 July 2019). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/live/formula1/49088576/page/11">"How the German GP unfolded"</a>. <i>BBC</i>. p.&#160;11<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC&amp;rft.atitle=How+the+German+GP+unfolded&amp;rft.pages=11&amp;rft.date=2019-07-28&amp;rft.aulast=Emons&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Flive%2Fformula1%2F49088576%2Fpage%2F11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-F1_Race_live_p.1-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-F1_Race_live_p.1_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.live-coverage-formula-1-mercedes-benz-grosser-preis-von-deutschland-2019.7yQM7Swd49YbeCvDroJO1X.html">"As it happened – Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019"</a>. <i>Formula1.com</i>. 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=As+it+happened+%E2%80%93+Formula+1+Mercedes-Benz+Grosser+Preis+von+Deutschland+2019&amp;rft.date=2019-07-28&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.live-coverage-formula-1-mercedes-benz-grosser-preis-von-deutschland-2019.7yQM7Swd49YbeCvDroJO1X.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-StatsF1-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-StatsF1_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-StatsF1_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019/allemagne.aspx">"Germany 2019"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=Germany+2019&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019%2Fallemagne.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Lap_by_lap-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lap_by_lap_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lap_by_lap_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019/allemagne/tour-par-tour.aspx">"Germany 2019 – Lap by lap"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=Germany+2019+%E2%80%93+Lap+by+lap&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019%2Fallemagne%2Ftour-par-tour.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Pit_stops-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pit_stops_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pit_stops_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/2019/races/1010/germany/pit-stop-summary.html">"Formula 1 Mercedes-Benz Grosser Preis Von Deutschland 2019 – Pit stop summary"</a>. <i>Formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Formula+1+Mercedes-Benz+Grosser+Preis+Von+Deutschland+2019+%E2%80%93+Pit+stop+summary&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F2019%2Fraces%2F1010%2Fgermany%2Fpit-stop-summary.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Guardian_live_p.3-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guardian_live_p.3_25-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHarris2019" class="citation news cs1">Harris, Daniel (28 July 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2019/jul/28/f1-german-grand-prix-live-lewis-hamilton-pole-bottas-vettel-verstappen-leclerc?page=with%3Ablock-5d3daa238f0845f89e315e19">"F1: Verstappen wins German GP, Vettel second and Hamilton 11th – as it happened"</a>. <i>The Guardian</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0261-3077">0261-3077</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=F1%3A+Verstappen+wins+German+GP%2C+Vettel+second+and+Hamilton+11th+%E2%80%93+as+it+happened&amp;rft.date=2019-07-28&amp;rft.issn=0261-3077&amp;rft.aulast=Harris&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2019%2Fjul%2F28%2Ff1-german-grand-prix-live-lewis-hamilton-pole-bottas-vettel-verstappen-leclerc%3Fpage%3Dwith%253Ablock-5d3daa238f0845f89e315e19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://inmotion.dhl/en/formula-1/fastest-pit-stop-award/">"Formula 1 DHL Fastest Pit Stop Award"</a>. 17 November 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Formula+1+DHL+Fastest+Pit+Stop+Award&amp;rft.date=2019-11-17&amp;rft_id=https%3A%2F%2Finmotion.dhl%2Fen%2Fformula-1%2Ffastest-pit-stop-award%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-:1-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/article.alfa-romeo-penalised-post-race-williams-score-first-2019-point.4z9k1dIrDmAsJAs8KtJaUx.html">"Alfa Romeo penalised post-race, Williams score first 2019 point"</a>. <i>www.formula1.com</i>. 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.formula1.com&amp;rft.atitle=Alfa+Romeo+penalised+post-race%2C+Williams+score+first+2019+point&amp;rft.date=2019-07-28&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Farticle.alfa-romeo-penalised-post-race-williams-score-first-2019-point.4z9k1dIrDmAsJAs8KtJaUx.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/2019/races/1010/germany/race-result.html">"Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019 – Race Result"</a>. <i>Formula1.com</i>. 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Formula+1+Mercedes-Benz+Grosser+Preis+von+Deutschland+2019+%E2%80%93+Race+Result&amp;rft.date=2019-07-28&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F2019%2Fraces%2F1010%2Fgermany%2Frace-result.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019/allemagne/meilleur-tour.aspx">"Germany 2019 – Best laps"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=Germany+2019+%E2%80%93+Best+laps&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019%2Fallemagne%2Fmeilleur-tour.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2019/allemagne/championnat.aspx">"Germany 2019 – Championship"</a>. <i>StatsF1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StatsF1&amp;rft.atitle=Germany+2019+%E2%80%93+Championship&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2019%2Fallemagne%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2019+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2019_German_Grand_Prix&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">2019 British Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">2019 Hungarian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2018_German_Grand_Prix" title="2018 German Grand Prix">2018 German Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/German_Grand_Prix" title="German Grand Prix">German Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b>TBD<br /><small> See: <a href="/wiki/2020_Eifel_Grand_Prix" class="mw-redirect" title="2020 Eifel Grand Prix">2020 Eifel Grand Prix</a> for next F1 race to be held in Germany</small></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2010%E2%80%9319" title="Template talk:F1GP 2010–19"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2010%E2%80%9319&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2010–19)<div style="float: right;"><a href="/wiki/Template:F1GP_2020%E2%80%9329" title="Template:F1GP 2020–29"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2019_Australian_Grand_Prix" title="2019 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2019_Bahrain_Grand_Prix" title="2019 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2019_Chinese_Grand_Prix" title="2019 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2019_Azerbaijan_Grand_Prix" title="2019 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2019_Spanish_Grand_Prix" title="2019 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2019_Monaco_Grand_Prix" title="2019 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2019_Canadian_Grand_Prix" title="2019 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2019_French_Grand_Prix" title="2019 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">GBR</a></li>
+<li><a class="mw-selflink selflink">GER</a></li>
+<li><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2019_Belgian_Grand_Prix" title="2019 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2019_Italian_Grand_Prix" title="2019 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2019_Singapore_Grand_Prix" title="2019 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2019_Russian_Grand_Prix" title="2019 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2019_Japanese_Grand_Prix" title="2019 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2019_Mexican_Grand_Prix" title="2019 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2019_United_States_Grand_Prix" title="2019 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2019_Brazilian_Grand_Prix" title="2019 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2019_Abu_Dhabi_Grand_Prix" title="2019 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2018_Formula_One_World_Championship" title="2018 Formula One World Championship">2018</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Australian_Grand_Prix" title="2018 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2018_Bahrain_Grand_Prix" title="2018 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2018_Chinese_Grand_Prix" title="2018 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2018_Azerbaijan_Grand_Prix" title="2018 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2018_Spanish_Grand_Prix" title="2018 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2018_Monaco_Grand_Prix" title="2018 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2018_Canadian_Grand_Prix" title="2018 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2018_French_Grand_Prix" title="2018 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2018_British_Grand_Prix" title="2018 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2018_German_Grand_Prix" title="2018 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2018_Hungarian_Grand_Prix" title="2018 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2018_Belgian_Grand_Prix" title="2018 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2018_Italian_Grand_Prix" title="2018 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2018_Singapore_Grand_Prix" title="2018 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2018_Russian_Grand_Prix" title="2018 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2018_Japanese_Grand_Prix" title="2018 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2018_United_States_Grand_Prix" title="2018 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2018_Mexican_Grand_Prix" title="2018 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2018_Brazilian_Grand_Prix" title="2018 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2018_Abu_Dhabi_Grand_Prix" title="2018 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2017_Australian_Grand_Prix" title="2017 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2017_Chinese_Grand_Prix" title="2017 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2017_Bahrain_Grand_Prix" title="2017 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2017_Russian_Grand_Prix" title="2017 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2017_Spanish_Grand_Prix" title="2017 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2017_Monaco_Grand_Prix" title="2017 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2017_Canadian_Grand_Prix" title="2017 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2017_Azerbaijan_Grand_Prix" title="2017 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2017_British_Grand_Prix" title="2017 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2017_Hungarian_Grand_Prix" title="2017 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2017_Belgian_Grand_Prix" title="2017 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2017_Italian_Grand_Prix" title="2017 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2017_Singapore_Grand_Prix" title="2017 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2017_Malaysian_Grand_Prix" title="2017 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2017_Japanese_Grand_Prix" title="2017 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2017_United_States_Grand_Prix" title="2017 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2017_Brazilian_Grand_Prix" title="2017 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2016_Formula_One_World_Championship" title="2016 Formula One World Championship">2016</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2016_Australian_Grand_Prix" title="2016 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2016_Bahrain_Grand_Prix" title="2016 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2016_Chinese_Grand_Prix" title="2016 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2016_Russian_Grand_Prix" title="2016 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2016_Spanish_Grand_Prix" title="2016 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2016_Monaco_Grand_Prix" title="2016 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2016_Canadian_Grand_Prix" title="2016 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2016_European_Grand_Prix" title="2016 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2016_British_Grand_Prix" title="2016 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2016_Hungarian_Grand_Prix" title="2016 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2016_German_Grand_Prix" title="2016 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2016_Belgian_Grand_Prix" title="2016 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2016_Italian_Grand_Prix" title="2016 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2016_Singapore_Grand_Prix" title="2016 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2016_Malaysian_Grand_Prix" title="2016 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2016_Japanese_Grand_Prix" title="2016 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2016_United_States_Grand_Prix" title="2016 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2016_Mexican_Grand_Prix" title="2016 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2016_Brazilian_Grand_Prix" title="2016 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2016_Abu_Dhabi_Grand_Prix" title="2016 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2015_Australian_Grand_Prix" title="2015 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2015_Malaysian_Grand_Prix" title="2015 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2015_Chinese_Grand_Prix" title="2015 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2015_Bahrain_Grand_Prix" title="2015 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2015_Spanish_Grand_Prix" title="2015 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2015_Monaco_Grand_Prix" title="2015 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2015_Canadian_Grand_Prix" title="2015 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2015_British_Grand_Prix" title="2015 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2015_Hungarian_Grand_Prix" title="2015 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2015_Belgian_Grand_Prix" title="2015 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2015_Italian_Grand_Prix" title="2015 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2015_Singapore_Grand_Prix" title="2015 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2015_Japanese_Grand_Prix" title="2015 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2015_Russian_Grand_Prix" title="2015 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2015_United_States_Grand_Prix" title="2015 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2015_Mexican_Grand_Prix" title="2015 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2015_Brazilian_Grand_Prix" title="2015 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2015_Abu_Dhabi_Grand_Prix" title="2015 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2014_Malaysian_Grand_Prix" title="2014 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2014_Bahrain_Grand_Prix" title="2014 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2014_Chinese_Grand_Prix" title="2014 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2014_Spanish_Grand_Prix" title="2014 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2014_Monaco_Grand_Prix" title="2014 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2014_Canadian_Grand_Prix" title="2014 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2014_British_Grand_Prix" title="2014 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2014_German_Grand_Prix" title="2014 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2014_Hungarian_Grand_Prix" title="2014 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2014_Belgian_Grand_Prix" title="2014 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2014_Italian_Grand_Prix" title="2014 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2014_Singapore_Grand_Prix" title="2014 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2014_Japanese_Grand_Prix" title="2014 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2014_Russian_Grand_Prix" title="2014 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2014_United_States_Grand_Prix" title="2014 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2014_Brazilian_Grand_Prix" title="2014 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2014_Abu_Dhabi_Grand_Prix" title="2014 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2013_Formula_One_World_Championship" title="2013 Formula One World Championship">2013</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2013_Australian_Grand_Prix" title="2013 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2013_Malaysian_Grand_Prix" title="2013 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2013_Chinese_Grand_Prix" title="2013 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2013_Bahrain_Grand_Prix" title="2013 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2013_Spanish_Grand_Prix" title="2013 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2013_Monaco_Grand_Prix" title="2013 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2013_Canadian_Grand_Prix" title="2013 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2013_British_Grand_Prix" title="2013 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2013_German_Grand_Prix" title="2013 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2013_Hungarian_Grand_Prix" title="2013 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2013_Belgian_Grand_Prix" title="2013 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2013_Italian_Grand_Prix" title="2013 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2013_Singapore_Grand_Prix" title="2013 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2013_Korean_Grand_Prix" title="2013 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2013_Japanese_Grand_Prix" title="2013 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2013_Indian_Grand_Prix" title="2013 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2013_Abu_Dhabi_Grand_Prix" title="2013 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2013_United_States_Grand_Prix" title="2013 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2013_Brazilian_Grand_Prix" title="2013 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2012_Australian_Grand_Prix" title="2012 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2012_Malaysian_Grand_Prix" title="2012 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2012_Chinese_Grand_Prix" title="2012 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2012_Bahrain_Grand_Prix" title="2012 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2012_Spanish_Grand_Prix" title="2012 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2012_Monaco_Grand_Prix" title="2012 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2012_Canadian_Grand_Prix" title="2012 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2012_European_Grand_Prix" title="2012 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2012_British_Grand_Prix" title="2012 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2012_German_Grand_Prix" title="2012 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2012_Hungarian_Grand_Prix" title="2012 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2012_Belgian_Grand_Prix" title="2012 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2012_Italian_Grand_Prix" title="2012 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2012_Japanese_Grand_Prix" title="2012 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2012_Korean_Grand_Prix" title="2012 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2012_Indian_Grand_Prix" title="2012 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2012_Abu_Dhabi_Grand_Prix" title="2012 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2012_United_States_Grand_Prix" title="2012 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2012_Brazilian_Grand_Prix" title="2012 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2011_Formula_One_World_Championship" title="2011 Formula One World Championship">2011</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><del><a href="/wiki/2011_Bahrain_Grand_Prix" title="2011 Bahrain Grand Prix">BHR</a></del></li>
+<li><a href="/wiki/2011_Australian_Grand_Prix" title="2011 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2011_Malaysian_Grand_Prix" title="2011 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2011_Chinese_Grand_Prix" title="2011 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2011_Turkish_Grand_Prix" title="2011 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2011_Spanish_Grand_Prix" title="2011 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2011_Monaco_Grand_Prix" title="2011 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2011_Canadian_Grand_Prix" title="2011 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2011_European_Grand_Prix" title="2011 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2011_British_Grand_Prix" title="2011 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2011_German_Grand_Prix" title="2011 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2011_Hungarian_Grand_Prix" title="2011 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2011_Belgian_Grand_Prix" title="2011 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2011_Italian_Grand_Prix" title="2011 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2011_Singapore_Grand_Prix" title="2011 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2011_Korean_Grand_Prix" title="2011 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2011_Indian_Grand_Prix" title="2011 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2011_Abu_Dhabi_Grand_Prix" title="2011 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2011_Brazilian_Grand_Prix" title="2011 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2010_Formula_One_World_Championship" title="2010 Formula One World Championship">2010</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2010_Bahrain_Grand_Prix" title="2010 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2010_Australian_Grand_Prix" title="2010 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2010_Malaysian_Grand_Prix" title="2010 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2010_Spanish_Grand_Prix" title="2010 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2010_Monaco_Grand_Prix" title="2010 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2010_Turkish_Grand_Prix" title="2010 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2010_Canadian_Grand_Prix" title="2010 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2010_European_Grand_Prix" title="2010 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2010_British_Grand_Prix" title="2010 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2010_German_Grand_Prix" title="2010 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2010_Hungarian_Grand_Prix" title="2010 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2010_Belgian_Grand_Prix" title="2010 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2010_Italian_Grand_Prix" title="2010 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2010_Singapore_Grand_Prix" title="2010 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2010_Japanese_Grand_Prix" title="2010 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2010_Brazilian_Grand_Prix" title="2010 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2010_Abu_Dhabi_Grand_Prix" title="2010 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr></tbody></table></div></div>

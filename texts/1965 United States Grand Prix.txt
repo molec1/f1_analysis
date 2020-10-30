@@ -1,0 +1,920 @@
+<div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1965 United States Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Watkins_Glen_International_Track_Map-1960-1970.svg" class="image"><img alt="Watkins Glen International Track Map-1960-1970.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Watkins_Glen_International_Track_Map-1960-1970.svg/220px-Watkins_Glen_International_Track_Map-1960-1970.svg.png" decoding="async" width="220" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Watkins_Glen_International_Track_Map-1960-1970.svg/330px-Watkins_Glen_International_Track_Map-1960-1970.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Watkins_Glen_International_Track_Map-1960-1970.svg/440px-Watkins_Glen_International_Track_Map-1960-1970.svg.png 2x" data-file-width="450" data-file-height="229" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1965-10-03">October 3, 1965</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+VIII United States Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Watkins_Glen_International" title="Watkins Glen International">Watkins Glen Grand Prix Race Course</a><br /><a href="/wiki/Watkins_Glen,_New_York" title="Watkins Glen, New York">Watkins Glen, New York</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent road course</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+3.78 km (2.35 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+110 laps, 415.8 km (258.5 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Rainy, windy, cold</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a></li></ul></div></td><td>
+<small><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:11.25</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> Graham Hill</td><td>
+<small>BRM</small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:11.9 on lap 105</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> Graham Hill</li></ul></div></td><td>
+<small>BRM</small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a></li></ul></div></td><td>
+<small><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></li></ul></div></td><td>
+<small>Brabham-Climax</small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_eb922ff6aa67ccf9c1b4ed0f27e6b566"></map><img usemap="#timeline_eb922ff6aa67ccf9c1b4ed0f27e6b566" src="//upload.wikimedia.org/wikipedia/en/timeline/eb922ff6aa67ccf9c1b4ed0f27e6b566.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>1965 United States Grand Prix</b> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held on October 3, 1965, at the <a href="/wiki/Watkins_Glen_International" title="Watkins Glen International">Watkins Glen Grand Prix Race Course</a> in <a href="/wiki/Watkins_Glen,_New_York" title="Watkins Glen, New York">Watkins Glen, New York</a>. It was race 9 of 10 in both the <a href="/wiki/1965_World_Championship_of_Drivers" class="mw-redirect" title="1965 World Championship of Drivers">1965 World Championship of Drivers</a> and the <a href="/wiki/1965_International_Cup_for_Formula_One_Manufacturers" class="mw-redirect" title="1965 International Cup for Formula One Manufacturers">1965 International Cup for Formula One Manufacturers</a>. The 110-lap race was won by <a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a> driver <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a> after he started from pole position. <a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a> finished second for the <a href="/wiki/Brabham" title="Brabham">Brabham</a> team and his teammate <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a> came in third.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Qualifying"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Race"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Lap_leaders"><span class="tocnumber">3</span> <span class="toctext">Lap leaders</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Championship_standings_after_the_race"><span class="tocnumber">4</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the last year of the 1.5-liter formula, <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a> had clinched his second Drivers' Championship (as well as winning the <a href="/wiki/Indianapolis_500" title="Indianapolis 500">Indianapolis 500</a>) before the teams arrived in North America for the season's last two races. Once again, however, it was <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a> and <a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a> who reigned at The Glen, winning for the third year in a row. Hill took pole, win and fastest lap, finishing twelve seconds ahead of the <a href="/wiki/Brabham" title="Brabham">Brabhams</a> of <a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a> and <a href="/wiki/Jack_Brabham" title="Jack Brabham">Sir Jack</a>.
+</p><p>The weekend was cold (45&#160;°F), windy (30&#160;mph), and often wet. In practice, Jim Clark—a Scot, no less—wore a sweater over his driving suit. <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> was missing the previous year's World Champion, <a href="/wiki/John_Surtees" title="John Surtees">John Surtees</a>, who had been injured in a sports car race in Canada the previous week. Hill's new BRM teammate, <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>, who had broken Clark's string of five consecutive victories with his first Grand Prix win at <a href="/wiki/1965_Italian_Grand_Prix" title="1965 Italian Grand Prix">Monza</a> three weeks before, was running at The Glen for the first time, as was Austrian <a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a>. American <a href="/wiki/Bob_Bondurant" title="Bob Bondurant">Bob Bondurant</a> was making his Formula One debut.
+</p><p>The track was shrouded in mist on Friday, as Clark switched back and forth between his <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>, with a 32-valve Climax engine, and teammate <a href="/wiki/Mike_Spence" title="Mike Spence">Mike Spence</a>'s 16-valve model. After bending the suspension on Spence's car by hitting the curb in 'The 90', Clark got back in his car and did a 1:12.7, which was fastest of the day until Hill beat it by two-tenths.
+</p><p>On Saturday, sunny but still cold, Clark and Hill continued their battle. Hill posted a 1:11.25 in the BRM, and Clark just failed to match him in his 32-valve Lotus, getting down to 1:11.35 before he sheared two teeth on a timing gear. Again, the Scot took teammate Spence's car, and he recorded a remarkable time of 1:11.16 to complete the duel. Overnight, however, the 32-valve engine was repaired, and when Clark decided to use it in the race, he would have to start from the second spot, alongside Hill. American <a href="/wiki/Richie_Ginther" title="Richie Ginther">Richie Ginther</a> used the spare <a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a> to grab third spot, as the powerful V–12 made him the fastest car down the straight. The top six on the grid were Hill, Clark, Ginther, Spence, <a href="/wiki/Lorenzo_Bandini" title="Lorenzo Bandini">Lorenzo Bandini</a>'s Ferrari and Stewart.
+</p><p>It rained on Sunday morning, but a strong wind dried the track in time for the start, and 60,000 fans watched with hoods and parkas against the changing conditions. Hill jumped into an early lead, trailed by Clark and Ginther. Stewart charged up from the third row and moved inside Ginther in the Esses, but the Honda pinched the gap closed, forcing Stewart into the curb and bending his suspension. Stewart continued, while the stunned Ginther dropped back to eighth, but the throttle cable on Stewart's car split and he limped around to the pits. By the time he rejoined the race, the rain had returned, making his bent suspension too big of a handicap, and he retired.
+</p><p>On the second lap, Clark took the lead from Hill, as the two pulled away from Bandini, Spence, Gurney and Brabham. Three laps later, Hill regained the lead, and the two British World Champions dueled until lap 12, when Hill's BRM appeared alone, and Clark coasted into the pits with a broken piston. The group of four following the leaders had been battling hard, as Spence was twice forced off the road by Bandini, and retired on lap six with a broken timing chain. Hill now led Gurney by 14 seconds, followed by Bandini and Brabham.
+</p><p>By lap 24, Hill led by almost half a lap. Then, a sudden shower soaked the track as the leader began lap 37. In 'The Loop' at the end of the back straight, Hill was caught out by the slippery surface and went straight on into the grass, then bounced along for 200 yards before regaining the track. Hill's <a href="/wiki/Dunlop_Rubber" title="Dunlop Rubber">Dunlop</a> tires were two seconds per lap slower in the wet than the Brabham team's <a href="/wiki/Goodyear_Tire_and_Rubber_Company" title="Goodyear Tire and Rubber Company">Goodyears</a>, and, aided by the off-track excursion, Gurney and Jack Brabham were able to close the sizable gap. Gurney pulled right up on the BRM's tailpipes, but in his zeal, he overdid a corner and allowed teammate Brabham by into second. Now, it was team leader Brabham's turn to have a go, and he moved ahead of Hill on the outside of 'The 90,' right before the pits. Hill had been consistently taking corners with a late apex, then power-sliding the car around the outside of the turn's exit. Hill's wide line out of the corner again carried him to the edge of the track, and with Brabham on his left, he forced the two-time Champion off and into a slow 360 across the wet grass. Gurney was back in second, and Brabham rejoined, once again in third. Gurney may have been tempted to challenge for the lead again, but a slipping clutch caused him to think better of it.
+</p><p>With the track almost completely dry near the end of the race, Hill put his foot down and set the fastest lap of the afternoon on lap 105. He came home twelve seconds ahead for his second win of the year and the completion of a remarkable three-year run at The Glen. After the season, the Watkins Glen Grand Prix Corporation was awarded the Grand Prix Drivers Association's "Best Organized Race Award," the first of three times The Glen would receive the honor.
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Time
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:11.25
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:11.35
+</td>
+<td>+0.10
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Richie_Ginther" title="Richie Ginther">Richie Ginther</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:11.40
+</td>
+<td>+0.15
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Spence" title="Mike Spence">Mike Spence</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:11.50
+</td>
+<td>+0.25
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Lorenzo_Bandini" title="Lorenzo Bandini">Lorenzo Bandini</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:11.73
+</td>
+<td>+0.48
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:11.76
+</td>
+<td>+0.51
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:12.20
+</td>
+<td>+0.95
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:12.25
+</td>
+<td>+1.00
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:12.45
+</td>
+<td>+1.20
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Joakim_Bonnier" class="mw-redirect" title="Joakim Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:12.45
+</td>
+<td>+1.20
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:12.50
+</td>
+<td>+1.25
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Ronnie_Bucknum" title="Ronnie Bucknum">Ronnie Bucknum</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:12.70
+</td>
+<td>+1.45
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:12.90
+</td>
+<td>+1.65
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Bob_Bondurant" title="Bob Bondurant">Bob Bondurant</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:12.90
+</td>
+<td>+1.65
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Pedro_Rodriguez_(racing_driver)" class="mw-redirect" title="Pedro Rodriguez (racing driver)">Pedro Rodríguez</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:13.00
+</td>
+<td>+1.75
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Richard_Attwood" title="Richard Attwood">Richard Attwood</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:13.70
+</td>
+<td>+2.45
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Mois%C3%A9s_Solana" title="Moisés Solana">Moisés Solana</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:13.70
+</td>
+<td>+2.45
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Innes_Ireland" title="Innes Ireland">Innes Ireland</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:15.00
+</td>
+<td>+3.75
+</td></tr>
+<tr>
+<th colspan="6">Source:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a></b>
+</td>
+<td><b><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a></b>
+</td>
+<td>110
+</td>
+<td>2:20:36.1
+</td>
+<td>1
+</td>
+<td><b>9</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <b><a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a></b>
+</td>
+<td><b><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>110
+</td>
+<td>+12.5 secs
+</td>
+<td>8
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <b><a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></b>
+</td>
+<td><b><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>110
+</td>
+<td>+57.5 secs
+</td>
+<td>7
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Lorenzo_Bandini" title="Lorenzo Bandini">Lorenzo Bandini</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>109
+</td>
+<td>+1 Lap
+</td>
+<td>5
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <b><a href="/wiki/Pedro_Rodriguez_(racing_driver)" class="mw-redirect" title="Pedro Rodriguez (racing driver)">Pedro Rodríguez</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>109
+</td>
+<td>+1 Lap
+</td>
+<td>15
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a></b>
+</td>
+<td><b><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>108
+</td>
+<td>+2 Laps
+</td>
+<td>13
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Richie_Ginther" title="Richie Ginther">Richie Ginther</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>108
+</td>
+<td>+2 Laps
+</td>
+<td>3
+</td>
+<td>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Joakim_Bonnier" class="mw-redirect" title="Joakim Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>107
+</td>
+<td>+3 Laps
+</td>
+<td>10
+</td>
+<td>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Bob_Bondurant" title="Bob Bondurant">Bob Bondurant</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>106
+</td>
+<td>+4 Laps
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Richard_Attwood" title="Richard Attwood">Richard Attwood</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>101
+</td>
+<td>+9 Laps
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>99
+</td>
+<td>+11 Laps
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Mois%C3%A9s_Solana" title="Moisés Solana">Moisés Solana</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>95
+</td>
+<td>+15 Laps
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Ronnie_Bucknum" title="Ronnie Bucknum">Ronnie Bucknum</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>92
+</td>
+<td>+18 Laps
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>12
+</td>
+<td>Suspension
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>11
+</td>
+<td>Engine
+</td>
+<td>2
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>11
+</td>
+<td>Oil Pressure
+</td>
+<td>9
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Spence" title="Mike Spence">Mike Spence</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>9
+</td>
+<td>Engine
+</td>
+<td>4
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Innes_Ireland" title="Innes Ireland">Innes Ireland</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>9
+</td>
+<td>Unwell
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Lap_leaders">Lap leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Lap leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a> 107 laps (1, 5-110); <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a> 3 laps (2-4).</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a>
+</td>
+<td align="left">54
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td align="left">40 (47)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>
+</td>
+<td align="left">33 (34)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Dan_Gurney" title="Dan Gurney">Dan Gurney</a>
+</td>
+<td align="left">19
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Surtees" title="John Surtees">John Surtees</a>
+</td>
+<td align="left">17
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_3-0" class="reference"><a href="#cite_note-Championship-3">&#91;3&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Pos
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td align="left">54
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td align="left">45 (61)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">26 (27)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td align="left">24 (25)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td align="left">14
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_3-1" class="reference"><a href="#cite_note-Championship-3">&#91;3&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Notes</b>: Only the top five positions are included for both sets of standings. Only best 6 results counted toward the championship. Numbers without parentheses are championship points, numbers in parentheses are total points scored.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chicanef1.com/race.pl?year=1965&amp;gp=United%20States%20GP&amp;r=1&amp;type=qual">"1965 United States GP Qualification"</a>. <i>www.chicanef1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.chicanef1.com&amp;rft.atitle=1965+United+States+GP+Qualification&amp;rft_id=http%3A%2F%2Fwww.chicanef1.com%2Frace.pl%3Fyear%3D1965%26gp%3DUnited%2520States%2520GP%26r%3D1%26type%3Dqual&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1965+United+States+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131031015526/http://www.formula1.com/results/season/1965/596/">"1965 United States Grand Prix"</a>. formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1965/596/">the original</a> on 31 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1965+United+States+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1965%2F596%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1965+United+States+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1965/etats-unis/championnat.aspx">"United States 1965 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=United+States+1965+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1965%2Fetats-unis%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1965+United+States+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1965_United_States_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Doug Nye (1978). <i>The United States Grand Prix and Grand Prize Races, 1908-1977.</i> B. T. Batsford. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7134-1263-1" title="Special:BookSources/0-7134-1263-1">0-7134-1263-1</a></li>
+<li>"Grand Prix of the United States" (January, 1966). <i>Road &amp; Track</i>, 36-38.</li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1965_Italian_Grand_Prix" title="1965 Italian Grand Prix">1965 Italian Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1965_Formula_One_season" title="1965 Formula One season">1965 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1965_Mexican_Grand_Prix" title="1965 Mexican Grand Prix">1965 Mexican Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1964_United_States_Grand_Prix" title="1964 United States Grand Prix">1964 United States Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/United_States_Grand_Prix" title="United States Grand Prix">United States Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1966_United_States_Grand_Prix" title="1966 United States Grand Prix">1966 United States Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(1960–69)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1960%E2%80%9369" title="Template talk:F1GP 1960–69"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1960%E2%80%9369&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(1960–69)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1950%E2%80%9359" title="Template:F1GP 1950–59">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1960–69) <div style="float: right;"><a href="/wiki/Template:F1GP_1970%E2%80%9379" title="Template:F1GP 1970–79"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1969_Formula_One_season" title="1969 Formula One season">1969</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1969_South_African_Grand_Prix" title="1969 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1969_Spanish_Grand_Prix" title="1969 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1969_Monaco_Grand_Prix" title="1969 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1969_Dutch_Grand_Prix" title="1969 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1969_French_Grand_Prix" title="1969 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1969_British_Grand_Prix" title="1969 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1969_German_Grand_Prix" title="1969 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1969_Italian_Grand_Prix" title="1969 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1969_Canadian_Grand_Prix" title="1969 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1969_United_States_Grand_Prix" title="1969 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1969_Mexican_Grand_Prix" title="1969 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1968_Formula_One_season" title="1968 Formula One season">1968</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1968_South_African_Grand_Prix" title="1968 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1968_Spanish_Grand_Prix" title="1968 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1968_Monaco_Grand_Prix" title="1968 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1968_Belgian_Grand_Prix" title="1968 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1968_Dutch_Grand_Prix" title="1968 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1968_French_Grand_Prix" title="1968 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1968_British_Grand_Prix" title="1968 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1968_German_Grand_Prix" title="1968 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1968_Italian_Grand_Prix" title="1968 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1968_Canadian_Grand_Prix" title="1968 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1968_United_States_Grand_Prix" title="1968 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1968_Mexican_Grand_Prix" title="1968 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1967_Formula_One_season" title="1967 Formula One season">1967</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1967_South_African_Grand_Prix" title="1967 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1967_Monaco_Grand_Prix" title="1967 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1967_Dutch_Grand_Prix" title="1967 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1967_Belgian_Grand_Prix" title="1967 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1967_French_Grand_Prix" title="1967 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1967_British_Grand_Prix" title="1967 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1967_German_Grand_Prix" title="1967 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1967_Canadian_Grand_Prix" title="1967 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1967_Italian_Grand_Prix" title="1967 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1967_United_States_Grand_Prix" title="1967 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1967_Mexican_Grand_Prix" title="1967 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1966_Formula_One_season" title="1966 Formula One season">1966</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1966_Monaco_Grand_Prix" title="1966 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1966_Belgian_Grand_Prix" title="1966 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1966_French_Grand_Prix" title="1966 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1966_British_Grand_Prix" title="1966 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1966_Dutch_Grand_Prix" title="1966 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1966_German_Grand_Prix" title="1966 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1966_Italian_Grand_Prix" title="1966 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1966_United_States_Grand_Prix" title="1966 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1966_Mexican_Grand_Prix" title="1966 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1965_Formula_One_season" title="1965 Formula One season">1965</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1965_South_African_Grand_Prix" title="1965 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1965_Monaco_Grand_Prix" title="1965 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1965_Belgian_Grand_Prix" title="1965 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1965_French_Grand_Prix" title="1965 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1965_British_Grand_Prix" title="1965 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1965_Dutch_Grand_Prix" title="1965 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1965_German_Grand_Prix" title="1965 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1965_Italian_Grand_Prix" title="1965 Italian Grand Prix">ITA</a></li>
+<li><a class="mw-selflink selflink">USA</a></li>
+<li><a href="/wiki/1965_Mexican_Grand_Prix" title="1965 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1964_Formula_One_season" title="1964 Formula One season">1964</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1964_Monaco_Grand_Prix" title="1964 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1964_Dutch_Grand_Prix" title="1964 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1964_Belgian_Grand_Prix" title="1964 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1964_French_Grand_Prix" title="1964 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1964_British_Grand_Prix" title="1964 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1964_German_Grand_Prix" title="1964 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1964_Austrian_Grand_Prix" title="1964 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1964_Italian_Grand_Prix" title="1964 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1964_United_States_Grand_Prix" title="1964 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1964_Mexican_Grand_Prix" title="1964 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1963_Formula_One_season" title="1963 Formula One season">1963</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1963_Monaco_Grand_Prix" title="1963 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1963_Belgian_Grand_Prix" title="1963 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1963_Dutch_Grand_Prix" title="1963 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1963_French_Grand_Prix" title="1963 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1963_British_Grand_Prix" title="1963 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1963_German_Grand_Prix" title="1963 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1963_Italian_Grand_Prix" title="1963 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1963_United_States_Grand_Prix" title="1963 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1963_Mexican_Grand_Prix" title="1963 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1963_South_African_Grand_Prix" title="1963 South African Grand Prix">RSA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1962_Formula_One_season" title="1962 Formula One season">1962</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1962_Dutch_Grand_Prix" title="1962 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1962_Monaco_Grand_Prix" title="1962 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1962_Belgian_Grand_Prix" title="1962 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1962_French_Grand_Prix" title="1962 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1962_British_Grand_Prix" title="1962 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1962_German_Grand_Prix" title="1962 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1962_Italian_Grand_Prix" title="1962 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1962_United_States_Grand_Prix" title="1962 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1962_South_African_Grand_Prix" title="1962 South African Grand Prix">RSA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1961_Formula_One_season" title="1961 Formula One season">1961</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1961_Monaco_Grand_Prix" title="1961 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1961_Dutch_Grand_Prix" title="1961 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1961_Belgian_Grand_Prix" title="1961 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1961_French_Grand_Prix" title="1961 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1961_British_Grand_Prix" title="1961 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1961_German_Grand_Prix" title="1961 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1961_Italian_Grand_Prix" title="1961 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1961_United_States_Grand_Prix" title="1961 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1960_Formula_One_season" title="1960 Formula One season">1960</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1960_Argentine_Grand_Prix" title="1960 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1960_Monaco_Grand_Prix" title="1960 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1960_Indianapolis_500" title="1960 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1960_Dutch_Grand_Prix" title="1960 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1960_Belgian_Grand_Prix" title="1960 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1960_French_Grand_Prix" title="1960 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1960_British_Grand_Prix" title="1960 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1960_Portuguese_Grand_Prix" title="1960 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1960_Italian_Grand_Prix" title="1960 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1960_United_States_Grand_Prix" title="1960 United States Grand Prix">USA</a></li></ul>
+</div></td></tr></tbody></table></div></div>

@@ -1,0 +1,1200 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2009 Belgian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 12 of 17 in the <a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Spa-Francorchamps_of_Belgium.svg" class="image" title="Circuit de Spa-Francorchamps"><img alt="Circuit de Spa-Francorchamps" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/220px-Spa-Francorchamps_of_Belgium.svg.png" decoding="async" width="220" height="136" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/330px-Spa-Francorchamps_of_Belgium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/440px-Spa-Francorchamps_of_Belgium.svg.png 2x" data-file-width="1416" data-file-height="875" /></a><div>Circuit de Spa-Francorchamps</div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2009-08-30">30 August 2009</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+LXV ING Belgian Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Circuit_de_Spa-Francorchamps" title="Circuit de Spa-Francorchamps">Circuit de Spa-Francorchamps</a>, <a href="/wiki/Spa,_Belgium" title="Spa, Belgium">Spa</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+7.004 km (4.352 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+44 laps, 308.176 km (191.492 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Clear but Mild</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></li></ul></div></td><td>
+<small><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:46.308</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:47.263 on lap 38</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></li></ul></div></td><td>
+<small><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_e834dd9407821f3e6c01404d465c3e55"></map><img usemap="#timeline_e834dd9407821f3e6c01404d465c3e55" src="//upload.wikimedia.org/wikipedia/en/timeline/e834dd9407821f3e6c01404d465c3e55.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2009 Belgian Grand Prix</b> (formally the <b>LXV ING Belgian Grand Prix</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held on 30 August 2009 at the <a href="/wiki/Circuit_de_Spa-Francorchamps" title="Circuit de Spa-Francorchamps">Circuit de Spa-Francorchamps</a> near the town of <a href="/wiki/Spa,_Belgium" title="Spa, Belgium">Spa</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a>. It was the 12th race of the <a href="/wiki/2009_Formula_One_season" class="mw-redirect" title="2009 Formula One season">2009 Formula One season</a>. The race was contested over 44 laps, with an overall race distance of 308.2&#160;km (191.5&#160;mi). The race was won by <a href="/wiki/2007_Formula_One_season" class="mw-redirect" title="2007 Formula One season">2007</a> world champion <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> of <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> after starting from sixth on the grid.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> of <a href="/wiki/Force_India" title="Force India">Force India</a> came second after starting from the team's first and only pole position. <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> came third after starting from eighth on the grid.
+</p><p>It was Räikkönen's first Grand Prix victory since the <a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">2008 Spanish Grand Prix</a> and Ferrari's only victory of the season. Fisichella's second position gave Force India their first ever championship points and their first podium. This race also marks Fisichella's final podium and last points in <a href="/wiki/Formula_One" title="Formula One">Formula One</a>, before he became a <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> test driver in <a href="/wiki/2010_Formula_One_World_Championship" title="2010 Formula One World Championship">2010</a>, as well as Räikkönen's 18th and last Grand Prix victory until the <a href="/wiki/2012_Abu_Dhabi_Grand_Prix" title="2012 Abu Dhabi Grand Prix">2012 Abu Dhabi Grand Prix</a> and last for Ferrari until the <a href="/wiki/2018_United_States_Grand_Prix" title="2018 United States Grand Prix">2018 United States Grand Prix</a>. This was the last race for <a href="/wiki/Luca_Badoer" title="Luca Badoer">Luca Badoer</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice_and_Qualifying"><span class="tocnumber">1.2</span> <span class="toctext">Practice and Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Race"><span class="tocnumber">1.3</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Post-race"><span class="tocnumber">1.4</span> <span class="toctext">Post-race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Qualifying"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Championship_standings_after_the_race"><span class="tocnumber">3</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> led the World Championship entering the Belgian race weekend despite not scoring a podium since <a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">early June</a>. He had an 18-point lead over <a href="/wiki/Brawn_GP" title="Brawn GP">Brawn GP</a> teammate <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>. <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> was 2½ points behind Barrichello in third and was 4½ points ahead of <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a> teammate <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>. The respective recoveries of <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> and <a href="/wiki/McLaren" title="McLaren">McLaren</a> ensured that the last two World Champions, <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> and <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>, had scored podiums in the two races leading up to Belgium. Brawn GP led Red Bull Racing by 27½ points in the Constructors' Championship. The next team, Ferrari, were 52½ points behind Red Bull and 80 points behind Brawn. Ferrari's Kimi Räikkönen, who had previously won the event three times, was the only former winner entered in the race.
+</p>
+<h3><span class="mw-headline" id="Practice_and_Qualifying">Practice and Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice and Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rain affected the first practice session of the weekend. Only 10 cars got dry lap times in while the rest of the field posting lap times in the wet. <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a> posted the fastest lap followed by Button. <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> was third followed by the two <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rossos</a>. <a href="/wiki/Force_India" title="Force India">Force India</a>'s <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> posted the fastest time off the wet runners followed by <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>. Neither Vettel nor Hamilton posted lap times.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The second session stayed dry throughout with Hamilton topping the session. <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> was second and Räikkönen third, the top three cars were separated by less than 0.7s. Fisichella kept his pace for Force India as he came sixth. This was one of the closest sessions in the history of Formula One with 18 of the 20 cars coming within less than a second from the leader. Only Rosberg and <a href="/wiki/Luca_Badoer" title="Luca Badoer">Luca Badoer</a> were more than a second away from Hamilton's time. Both Brawns struggled coming only 17th and 18th.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> This session may have seen another indication that <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a> have greatly improved their car after <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> topped the session. Another <a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a> came second with Trulli and Force India's <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a> came third. Hamilton took 9th place with Button rounding off the top ten. Red Bull's problems with the <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a> engine continued as Webber's engine had a major problem. This gave Red Bull-Renault their third engine failure in a week.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The first session would see five cars drop out and decide the final five grid positions. Badoer qualified 20th for the second race in a row, after crashing at the end of the session and bringing out the yellow flag, causing many drivers to slow down.<sup id="cite_ref-Qualy5_5-0" class="reference"><a href="#cite_note-Qualy5-5">&#91;5&#93;</a></sup> Fisichella topped the session with Trulli finishing just behind him. The other four drivers to be knocked out at the end of the session were Renault's <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a> (P19), <a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>'s <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a> (P18) and the two Toro Rossos of <a href="/wiki/Jaime_Alguersuari" title="Jaime Alguersuari">Jaime Alguersuari</a> (P17) and <a href="/wiki/S%C3%A9bastien_Buemi" title="Sébastien Buemi">Sébastien Buemi</a> (P16).<sup id="cite_ref-Qualy_6-0" class="reference"><a href="#cite_note-Qualy-6">&#91;6&#93;</a></sup> The second session would again see another five cars drop out to decide grid positions 11–15. The session was topped by the Toyota of Jarno Trulli, while BMW Sauber's <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> was second with Red Bull's Vettel coming third. Also significant in the second part of qualifying was the elimination of Brawn's Jenson Button who could only manage P14. The two McLarens of <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> (P15) and Lewis Hamilton (P12) were also knocked out along with the second Renault of Alonso (P13) and Force India's Adrian Sutil (P11).<sup id="cite_ref-Qualy_6-1" class="reference"><a href="#cite_note-Qualy-6">&#91;6&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fisichella_Belgium_2009_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fisichella_Belgium_2009_%28cropped%29.jpg/220px-Fisichella_Belgium_2009_%28cropped%29.jpg" decoding="async" width="220" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fisichella_Belgium_2009_%28cropped%29.jpg/330px-Fisichella_Belgium_2009_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fisichella_Belgium_2009_%28cropped%29.jpg/440px-Fisichella_Belgium_2009_%28cropped%29.jpg 2x" data-file-width="546" data-file-height="317" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fisichella_Belgium_2009_(cropped).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> claimed the maiden pole position for <a href="/wiki/Force_India" title="Force India">Force India</a>.</div></div></div>
+<p>The final session would see the remaining 10 grid positions be decided. Williams's new aero package was not working as they would like as Rosberg qualified P10. The two Red Bulls of Webber (P9) and Vettel (P8) seemed to struggle in conditions favouring their cars. Glock took P7 with Räikkönen, driving the only <a href="/wiki/Kinetic_energy_recovery_system" title="Kinetic energy recovery system">KERS</a> car in the top 10, coming in sixth. The two BMW Saubers' new updates seemed to be lifting the whole team as Kubica (P5) and Heidfeld (P3) achieved their best qualifying positions of the season. The only Brawn in the final session, that of Rubens Barrichello, took P4. One of the biggest surprises on an already unpredictable track, Force India took their very first pole position. It was Fisichella's first pole position since the <a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">2006 Malaysian Grand Prix</a>. Trulli took second place.<sup id="cite_ref-Qualy_6-2" class="reference"><a href="#cite_note-Qualy-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jenson_Button_2009_Belgium.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jenson_Button_2009_Belgium.jpg/220px-Jenson_Button_2009_Belgium.jpg" decoding="async" width="220" height="109" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jenson_Button_2009_Belgium.jpg/330px-Jenson_Button_2009_Belgium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jenson_Button_2009_Belgium.jpg/440px-Jenson_Button_2009_Belgium.jpg 2x" data-file-width="1768" data-file-height="875" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jenson_Button_2009_Belgium.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> failed to complete the first lap, his only failure to score points in the 2009 campaign.</div></div></div>
+<p>As the race started everyone seemed to make a good start apart from Rubens Barrichello, who almost stalled his car, causing him to drop to the back of the field. At Les Combes, at the top of the hill, a crash caused the safety car to come out.<sup id="cite_ref-Race_7-0" class="reference"><a href="#cite_note-Race-7">&#91;7&#93;</a></sup> Romain Grosjean ran into the back of Jenson Button who in turn spun 180° and collided with Grosjean for a second time, causing them to both retire. Lewis Hamilton backed off after seeing the incidents ahead of him, which caused Jaime Alguersuari to run into him; both crashed into the barrier and retired.<sup id="cite_ref-Race_7-1" class="reference"><a href="#cite_note-Race-7">&#91;7&#93;</a></sup> The safety car came in on lap 5 with Fisichella still leading and Räikkönen right behind him. Räikkönen closed up to the Force India driver through the Eau Rouge corner and passed him on the way into Les Combes. The main bulk of the first round of stops came in around lap 14. Mark Webber was released in front of Nick Heidfeld and was handed a drive through penalty, severely affecting his race.<sup id="cite_ref-Race_7-2" class="reference"><a href="#cite_note-Race-7">&#91;7&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kimi_Raikkonen_2009_Belgium.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kimi_Raikkonen_2009_Belgium.jpg/220px-Kimi_Raikkonen_2009_Belgium.jpg" decoding="async" width="220" height="103" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kimi_Raikkonen_2009_Belgium.jpg/330px-Kimi_Raikkonen_2009_Belgium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kimi_Raikkonen_2009_Belgium.jpg/440px-Kimi_Raikkonen_2009_Belgium.jpg 2x" data-file-width="1204" data-file-height="565" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kimi_Raikkonen_2009_Belgium.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> achieved Ferrari's only win of 2009.</div></div></div>
+<p>After the first stop Fisichella closed to within one second of Räikkönen. Jarno Trulli retired from the race on lap 22; after starting on the front row he had dropped to the back of the field, having pitted after a first lap collision. Fernando Alonso retired on lap 27 with a suspected wheel problem after a first corner collision with Adrian Sutil. Räikkönen and Fisichella pitted for the second time on the same lap and it was the Finn who emerged in front and kept his lead.<sup id="cite_ref-Race_7-3" class="reference"><a href="#cite_note-Race-7">&#91;7&#93;</a></sup> Vettel recorded the fastest lap of the race with a late push to try to catch the leaders but it was to no avail as Räikkönen took the chequered flag for the first time this season with Fisichella scoring Force India's first-ever points with a second-place finish. Vettel finished third, followed by the two BMW Saubers and Heikki Kovalainen finishing sixth. After dropping to the back of the field at the start, Rubens Barrichello came in seventh with Nico Rosberg picking up the final point in eighth, finishing his seven race points streak. Barrichello's car was smoking from the back for the last few laps and the car caught fire in parc fermé. Webber finished ninth for the second race in a row and scored no points.
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Podium_2009_Belgium.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Podium_2009_Belgium.jpg/220px-Podium_2009_Belgium.jpg" decoding="async" width="220" height="237" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Podium_2009_Belgium.jpg/330px-Podium_2009_Belgium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Podium_2009_Belgium.jpg/440px-Podium_2009_Belgium.jpg 2x" data-file-width="2137" data-file-height="2298" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Podium_2009_Belgium.jpg" class="internal" title="Enlarge"></a></div>The post-race podium ceremony. From left to right: <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>, <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>, <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> and <a href="/wiki/Stefano_Domenicali" title="Stefano Domenicali">Stefano Domenicali</a>.</div></div></div>
+<p>With Button failing to score, his championship lead became smaller for the second race in a row as his teammate Barrichello closed the gap by two points. Vettel's third place moved him ahead of his teammate Webber.<sup id="cite_ref-Standings_8-0" class="reference"><a href="#cite_note-Standings-8">&#91;8&#93;</a></sup> Raikkonen's win further extended Ferrari's lead in the constructors' championship over McLaren, but his teammate Luca Badoer was again under scrutiny after finishing last for the second time: reports came out of the paddock that second place man Fisichella would replace him at Ferrari for the <a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">Italian Grand Prix</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> On 31 August Force India team principal <a href="/wiki/Vijay_Mallya" title="Vijay Mallya">Vijay Mallya</a> reported that Fisichella would not be driving for <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> at <a href="/wiki/Autodromo_Nazionale_Monza" class="mw-redirect" title="Autodromo Nazionale Monza">Monza</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> However, on 3 September Fisichella was released from his contract at Force India and joined Ferrari until the end of the season.<sup id="cite_ref-Fisichella_Ferrari_11-0" class="reference"><a href="#cite_note-Fisichella_Ferrari-11">&#91;11&#93;</a></sup> Force India announced on 7 September that <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a>, the team's test driver, would replace Fisichella for the remaining five races of the season.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>On 4 September, <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a> were summoned to a meeting by Formula One's governing body, the <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">FIA</a> with the allegations of race fixing during the <a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">2008 Singapore Grand Prix</a>.<sup id="cite_ref-Race_Fix_13-0" class="reference"><a href="#cite_note-Race_Fix-13">&#91;13&#93;</a></sup> Renault faced the possibility of expulsion from the championship<sup id="cite_ref-Race_Fix_13-1" class="reference"><a href="#cite_note-Race_Fix-13">&#91;13&#93;</a></sup> as <a href="/wiki/McLaren" title="McLaren">McLaren</a> were in the <a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a> Formula One season. During the <a href="/wiki/FIA_World_Motor_Sport_Council" title="FIA World Motor Sport Council">FIA World Motor Sport Council</a> meeting later that month, Renault admitted that <a href="/wiki/Nelson_Piquet_Jr." title="Nelson Piquet Jr.">Nelson Piquet Jr.</a> had deliberately crashed under the instructions of Renault team principal <a href="/wiki/Flavio_Briatore" title="Flavio Briatore">Flavio Briatore</a> and chief engineer <a href="/wiki/Pat_Symonds" title="Pat Symonds">Pat Symonds</a>, in the hope of helping Alonso win. The Renault team were handed a disqualification from F1, which was suspended for two years pending any further rule infringements. Briatore was banned from all FIA-sanctioned events for life, while Symonds was banned for five years.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Cars that used <a href="/wiki/Regenerative_brake#Kinetic_energy_recovery_systems" title="Regenerative brake">KERS</a> are marked with "‡"</i>
+</p>
+<table class="wikitable sortable" style="font-size: 95%">
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Part 1
+</th>
+<th>Part 2
+</th>
+<th>Part 3
+</th>
+<th>Grid
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td><b>1:45.102</b>
+</td>
+<td>1:44.667
+</td>
+<td><b>1:46.308</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.140
+</td>
+<td><b>1:44.503</b>
+</td>
+<td>1:46.395
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:45.566
+</td>
+<td>1:44.709
+</td>
+<td>1:46.500
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:45.237
+</td>
+<td>1:44.834
+</td>
+<td>1:46.513
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:45.655
+</td>
+<td>1:44.557
+</td>
+<td>1:46.586
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>4‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:45.579
+</td>
+<td>1:44.953
+</td>
+<td>1:46.633
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.450
+</td>
+<td>1:44.877
+</td>
+<td>1:46.677
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:45.372
+</td>
+<td>1:44.592
+</td>
+<td>1:46.761
+</td>
+<td>8
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:45.350
+</td>
+<td>1:44.924
+</td>
+<td>1:46.788
+</td>
+<td>9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.486
+</td>
+<td>1:45.047
+</td>
+<td>1:47.362
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:45.239
+</td>
+<td>1:45.119
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>1‡
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:45.767
+</td>
+<td>1:45.122
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:45.707
+</td>
+<td>1:45.136
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:45.761
+</td>
+<td>1:45.251
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>2‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:45.705
+</td>
+<td>1:45.259
+</td>
+<td>
+</td>
+<td>15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/S%C3%A9bastien_Buemi" title="Sébastien Buemi">Sébastien Buemi</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:45.951
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Jaime_Alguersuari" title="Jaime Alguersuari">Jaime Alguersuari</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:46.302
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:46.307
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:46.359
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>19
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>3‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Luca_Badoer" title="Luca Badoer">Luca Badoer</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:46.957
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Cars that used <a href="/wiki/Regenerative_brake#Kinetic_energy_recovery_systems" title="Regenerative brake">KERS</a> are marked with "‡"</i>
+</p>
+<table class="wikitable" style="font-size:95%">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>4‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>44
+</td>
+<td>1:23:50.995
+</td>
+<td>6
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></b>
+</td>
+<td><b><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>44
+</td>
+<td>+0.939
+</td>
+<td>1
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b>
+</td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>44
+</td>
+<td>+3.875
+</td>
+<td>8
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <b><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></b>
+</td>
+<td><b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>44
+</td>
+<td>+9.966
+</td>
+<td>5
+</td>
+<td><b>5</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b>
+</td>
+<td><b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>44
+</td>
+<td>+11.276
+</td>
+<td>3
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>2‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>44
+</td>
+<td>+32.763
+</td>
+<td>15
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></b>
+</td>
+<td><b><a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>44
+</td>
+<td>+35.461
+</td>
+<td>4
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></b>
+</td>
+<td><b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>44
+</td>
+<td>+36.208
+</td>
+<td>10
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>44
+</td>
+<td>+36.959
+</td>
+<td>9
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>44
+</td>
+<td>+41.490
+</td>
+<td>7
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>44
+</td>
+<td>+42.636
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/S%C3%A9bastien_Buemi" title="Sébastien Buemi">Sébastien Buemi</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>44
+</td>
+<td>+46.106
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>44
+</td>
+<td>+54.241
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>3‡
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Luca_Badoer" title="Luca Badoer">Luca Badoer</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>44
+</td>
+<td>+1:42.177
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>26
+</td>
+<td>Wheel
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>21
+</td>
+<td>Brakes
+</td>
+<td>2
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>1‡
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Jaime_Alguersuari" title="Jaime Alguersuari">Jaime Alguersuari</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td>72
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td>56
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td>53
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td>51.5
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 2
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td>34
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_17-0" class="reference"><a href="#cite_note-champ-17">&#91;17&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>128
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>104.5
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>56
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>44
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>38.5
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_17-1" class="reference"><a href="#cite_note-champ-17">&#91;17&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2009_Belgian_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8229449.stm">"Raikkonen wins exciting Spa duel"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 30 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090831101242/http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8229449.stm">Archived</a> from the original on 31 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Raikkonen+wins+exciting+Spa+duel&amp;rft.date=2009-08-30&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Fmotorsport%2Fformula_one%2F8229449.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/6665">"Belgian GP Practice 1"</a>. <i>formula1.com</i>. Formula One Association. 28 August 2009. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5jbLwR2PO?url=http://www.formula1.com/results/season/2009/817/6665">Archived</a> from the original on 7 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=Belgian+GP+Practice+1&amp;rft.date=2009-08-28&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F6665&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/6666">"Belgian GP Practice 2"</a>. <i>formula1.com</i>. Formula One Association. 28 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091006104408/http://www.formula1.com/results/season/2009/817/6666">Archived</a> from the original on 6 October 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=Belgian+GP+Practice+2&amp;rft.date=2009-08-28&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F6666&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/6667">"Belgian GP Practice 3"</a>. <i>formula1.com</i>. Formula One Association. 29 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091005083221/http://www.formula1.com/results/season/2009/817/6667">Archived</a> from the original on 5 October 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=Belgian+GP+Practice+3&amp;rft.date=2009-08-29&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F6667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Qualy5-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Qualy5_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8227401.stm">"Belgian GP Qualifying as it happened"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 29 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Belgian+GP+Qualifying+as+it+happened&amp;rft.date=2009-08-29&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8227401.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Qualy-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Qualy_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Qualy_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Qualy_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/6668">"Belgian GP Qualifying Results"</a>. <i>formula1.com</i>. Formula One Association. 29 August 2009. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5jbLvzyff?url=http://www.formula1.com/results/season/2009/817/6668">Archived</a> from the original on 7 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=Belgian+GP+Qualifying+Results&amp;rft.date=2009-08-29&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F6668&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Race-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Race_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Race_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Race_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Race_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8228583.stm">"Belgian GP as it happened"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 30 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Belgian+GP+as+it+happened&amp;rft.date=2009-08-30&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8228583.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Standings-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Standings_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/standings/default.stm">"Championship Standings"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 30 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090516011259/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/standings/default.stm">Archived</a> from the original on 16 May 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Championship+Standings&amp;rft.date=2009-08-30&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2Fstandings%2Fdefault.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8229556.stm">"Fisichella closes on Ferrari move"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 31 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090831101512/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8229556.stm">Archived</a> from the original on 31 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Fisichella+closes+on+Ferrari+move&amp;rft.date=2009-08-31&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8229556.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8231165.stm">"Fisichella to stay put for Monza"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 31 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090904102625/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8231165.stm">Archived</a> from the original on 4 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Fisichella+to+stay+put+for+Monza&amp;rft.date=2009-08-31&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8231165.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Fisichella_Ferrari-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fisichella_Ferrari_11-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8231165.stm">"Fisichella joins Ferrari for 2009"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 3 August 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090904102625/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8231165.stm">Archived</a> from the original on 4 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Fisichella+joins+Ferrari+for+2009&amp;rft.date=2009-08-03&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8231165.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8241502.stm">"Force India give Liuzzi race seat"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 7 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Force+India+give+Liuzzi+race+seat&amp;rft.date=2009-09-07&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8241502.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Race_Fix-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Race_Fix_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Race_Fix_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8239001.stm">"Renault called to race fix charge"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 4 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Renault+called+to+race+fix+charge&amp;rft.date=2009-09-04&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8239001.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.webcitation.org/5k4HIEFgA?url=http://www.fia.com/en-GB/mediacentre/pressreleases/wmsc/2009/Pages/wmsc_210909.aspx">"FIA Press Release"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/en-GB/mediacentre/pressreleases/wmsc/2009/Pages/wmsc_210909.aspx">the original</a> on 26 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=FIA+Press+Release&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fen-GB%2Fmediacentre%2Fpressreleases%2Fwmsc%2F2009%2FPages%2Fwmsc_210909.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/6668">"Belgian GP Qualifying Results"</a>. <i>formula1.com</i>. Formula One Association. 29 August 2009. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5jbLvzyff?url=http://www.formula1.com/results/season/2009/817/6668">Archived</a> from the original on 7 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=Belgian+GP+Qualifying+Results&amp;rft.date=2009-08-29&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F6668&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141124221826/http://www.formula1.com/results/season/2009/817/">"2009 FORMULA 1 ING BELGIAN GRAND PRIX - Race Results"</a>. <i>formula1.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2009/817/">the original</a> on 24 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=formula1.com&amp;rft.atitle=2009+FORMULA+1+ING+BELGIAN+GRAND+PRIX+-+Race+Results&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2009%2F817%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2009/belgique/championnat.aspx">"Belgium 2009 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Belgium+2009+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2009%2Fbelgique%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2009+Belgian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></td>
+<td class="mbox-text plainlist">Wikinews has related news:
+<div><ul><li><a href="https://en.wikinews.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen_wins_2009_Belgian_Grand_Prix" class="extiw" title="wikinews:Kimi Räikkönen wins 2009 Belgian Grand Prix"> Kimi Räikkönen wins 2009 Belgian Grand Prix</a></li></ul></div></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2009_Belgian_Grand_Prix" class="extiw" title="commons:Category:2009 Belgian Grand Prix"><span style="">2009 Belgian Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">2009 European Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">2009 Italian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">2008 Belgian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Belgian_Grand_Prix" title="Belgian Grand Prix">Belgian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2010_Belgian_Grand_Prix" title="2010 Belgian Grand Prix">2010 Belgian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a class="mw-selflink selflink">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2009_Belgian_Grand_Prix&amp;params=50_26_14_N_5_58_17_E_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°26′14″N</span> <span class="longitude">5°58′17″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.43722°N 5.97139°E</span><span style="display:none">&#xfeff; / <span class="geo">50.43722; 5.97139</span></span></span></a></span></span></span>
+</p></div>

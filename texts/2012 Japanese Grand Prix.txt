@@ -1,0 +1,1411 @@
+<div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2012 Japanese Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 15 of 20 in the <a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Suzuka_circuit_map--2005.svg" class="image"><img alt="Suzuka circuit map--2005.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/220px-Suzuka_circuit_map--2005.svg.png" decoding="async" width="220" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/330px-Suzuka_circuit_map--2005.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/440px-Suzuka_circuit_map--2005.svg.png 2x" data-file-width="1273" data-file-height="983" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2012-10-07">7 October 2012</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+2012 Formula 1 Japanese Grand Prix<sup id="cite_ref-formal_1-0" class="reference"><a href="#cite_note-formal-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Suzuka_Circuit" class="mw-redirect" title="Suzuka Circuit">Suzuka Circuit</a>, <a href="/wiki/Suzuka,_Mie" title="Suzuka, Mie">Suzuka</a>, <a href="/wiki/Mie_Prefecture" title="Mie Prefecture">Mie</a>, <a href="/wiki/Japan" title="Japan">Japan</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.807 km (3.608 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+53 laps, 307.471 km (191.062 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+<p>Fine and Dry<sup id="cite_ref-weather_2-0" class="reference"><a href="#cite_note-weather-2">&#91;2&#93;</a></sup>
+Air Temp 23&#160;°C (73&#160;°F)<sup id="cite_ref-weather_2-1" class="reference"><a href="#cite_note-weather-2">&#91;2&#93;</a></sup>
+</p>
+<br />Track Temp 32&#160;°C (90&#160;°F)<sup id="cite_ref-weather_2-2" class="reference"><a href="#cite_note-weather-2">&#91;2&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:30.839</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:35.774 on lap 52</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kamui_Kobayashi" title="Kamui Kobayashi">Kamui Kobayashi</a></li></ul></div></td><td>
+<small><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_16c087a19f5671bdce048fb2c513eff7"></map><img usemap="#timeline_16c087a19f5671bdce048fb2c513eff7" src="//upload.wikimedia.org/wikipedia/en/timeline/16c087a19f5671bdce048fb2c513eff7.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2012 Japanese Grand Prix</b> (formally known as the <b>2012 Formula 1 Japanese Grand Prix</b>)<sup id="cite_ref-formal_1-1" class="reference"><a href="#cite_note-formal-1">&#91;1&#93;</a></sup> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race that took place at the <a href="/wiki/Suzuka_Circuit" class="mw-redirect" title="Suzuka Circuit">Suzuka Circuit</a> in <a href="/wiki/Mie_Prefecture" title="Mie Prefecture">Mie Prefecture</a>, <a href="/wiki/Japan" title="Japan">Japan</a> on 7 October 2012 at 15:00 local time.<sup id="cite_ref-7Dec_calendar_3-0" class="reference"><a href="#cite_note-7Dec_calendar-3">&#91;3&#93;</a></sup> The race was the fifteenth round of the <a href="/wiki/2012_Formula_One_season" class="mw-redirect" title="2012 Formula One season">2012 season</a>, and marked the 38th running of the <a href="/wiki/Japanese_Grand_Prix" title="Japanese Grand Prix">Japanese Grand Prix</a>.
+</p><p><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> started the race from pole position for the fourth successive year at Suzuka,<sup id="cite_ref-VET_p1_4-0" class="reference"><a href="#cite_note-VET_p1-4">&#91;4&#93;</a></sup> eventually leading the race from start to finish,<sup id="cite_ref-race_result_5-0" class="reference"><a href="#cite_note-race_result-5">&#91;5&#93;</a></sup> winning by 20 seconds over <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> – who achieved his first podium since the <a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">2010 Korean Grand Prix</a> – in second place. <a href="/wiki/Kamui_Kobayashi" title="Kamui Kobayashi">Kamui Kobayashi</a> achieved his first and only Formula One podium. It was also the first time a Japanese driver achieved a podium finish at the home race since <a href="/wiki/Aguri_Suzuki" title="Aguri Suzuki">Aguri Suzuki</a> in 1990. It was also the first time a Japanese driver finished on the podium since <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> in 2004. As of 2020<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit">&#91;update&#93;</a></sup>, it was also the last-ever podium for <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> as an engine supplier for a customer team.
+</p><p>The race was also Vettel's second career grand slam (leading every single lap from pole position and finishing with the fastest lap of the race). His first was the <a href="/wiki/2011_Indian_Grand_Prix" title="2011 Indian Grand Prix">2011 Indian Grand Prix</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice"><span class="tocnumber">1.2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying"><span class="tocnumber">1.3</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Race"><span class="tocnumber">1.4</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Post-race"><span class="tocnumber">1.5</span> <span class="toctext">Post-race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Qualifying_2"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Championship_standings_after_the_race"><span class="tocnumber">3</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> received a ten-place grid penalty for causing an avoidable accident with <a href="/wiki/Jean-%C3%89ric_Vergne" title="Jean-Éric Vergne">Jean-Éric Vergne</a> during the <a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">Singapore Grand Prix</a>,<sup id="cite_ref-MSC_pen_6-0" class="reference"><a href="#cite_note-MSC_pen-6">&#91;6&#93;</a></sup> while <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a> were both demoted five places for making unscheduled gearbox changes.<sup id="cite_ref-BUT_pen_7-0" class="reference"><a href="#cite_note-BUT_pen-7">&#91;7&#93;</a></sup><sup id="cite_ref-HUL_pen_8-0" class="reference"><a href="#cite_note-HUL_pen-8">&#91;8&#93;</a></sup>
+</p><p>Entering the Grand Prix, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> of <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> led the Drivers' Championship on a total of 194 points, 29 points clear of the second-placed <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> driver <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>. <a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a> driver <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> was third in the standings, and 16 points adrift of Vettel, despite not having won a race in 2012. <a href="/wiki/McLaren" title="McLaren">McLaren</a> driver <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>'s championship hopes were becoming increasingly slim as he lay 50 points behind Alonso in fourth place, albeit 10 points ahead of the second Red Bull of <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> and 23 ahead of his own teammate, <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>. Red Bull led the Constructors' Championship on 297 points, 36 ahead of nearest challengers McLaren, 52 ahead of Ferrari and 66 ahead of Lotus with six rounds remaining. Mercedes had lost a large amount of ground as they had just 136 points.
+</p><p>Tyre supplier Pirelli brought its silver-banded hard compound tyre as the harder "prime" tyre and the yellow-banded soft compound tyre as the softer "option" tyre, as opposed to the <a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">previous year</a> where the medium compound was used as the "prime" tyre.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In the week leading up to the race it was announced, amidst many rumours, that <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> would leave <a href="/wiki/McLaren" title="McLaren">McLaren</a> (who he had been contracted with since age 13) when his contract expired at the end of the season, and join <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a> for the following three years. After his three podium finishes for the <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a> team, it was announced that <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a> would be Hamilton's replacement, and accompany Button, at McLaren. After losing his seat at Mercedes, <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> announced his second retirement from Formula One on the Thursday before the race.
+</p>
+<h3><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Michael_Schumacher_after_crash_2012_Japan_FP2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Michael_Schumacher_after_crash_2012_Japan_FP2.jpg/220px-Michael_Schumacher_after_crash_2012_Japan_FP2.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Michael_Schumacher_after_crash_2012_Japan_FP2.jpg/330px-Michael_Schumacher_after_crash_2012_Japan_FP2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Michael_Schumacher_after_crash_2012_Japan_FP2.jpg/440px-Michael_Schumacher_after_crash_2012_Japan_FP2.jpg 2x" data-file-width="2560" data-file-height="1707" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Michael_Schumacher_after_crash_2012_Japan_FP2.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Paul_di_Resta" title="Paul di Resta">Paul di Resta</a> and <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> (picture) each crashed at Spoon curve in Free Practice 2.</div></div></div>
+<p><a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> set the first and second fastest times respectively during the first session for <a href="/wiki/McLaren" title="McLaren">McLaren</a>.<sup id="cite_ref-SkyFP1_10-0" class="reference"><a href="#cite_note-SkyFP1-10">&#91;10&#93;</a></sup> The <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> of <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> finished the session with the third fastest time, three tenths slower than Button's quickest time. His teammate, <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>, finished the session down in seventeenth place.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a> of <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> set the fourth fastest time of the session, despite having to abandon his car out on track at the Esses with one minute remaining.<sup id="cite_ref-SkyFP1_10-1" class="reference"><a href="#cite_note-SkyFP1-10">&#91;10&#93;</a></sup><sup id="cite_ref-AutosportFP1_12-0" class="reference"><a href="#cite_note-AutosportFP1-12">&#91;12&#93;</a></sup> Championship leader, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>, was eleventh, ahead of <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a> and both <a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a> cars, who had just introduced their new Double <a href="/wiki/Drag_reduction_system" title="Drag reduction system">DRS</a> to their car.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Williams' reserve driver <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> filled in for <a href="/wiki/Bruno_Senna" title="Bruno Senna">Bruno Senna</a> and finished the session eighteenth; <a href="/wiki/Giedo_van_der_Garde" title="Giedo van der Garde">Giedo van der Garde</a> did the same for <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> at <a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a> and set the twenty-third fastest time.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> There were no incidents damaging any of the cars during the session; the most notable things to happen were <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> and <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> running across the gravel at Degner, and <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a> running wide at Spoon.<sup id="cite_ref-AutosportFP1_12-1" class="reference"><a href="#cite_note-AutosportFP1-12">&#91;12&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Force_India" title="Force India">Force India</a> of <a href="/wiki/Paul_di_Resta" title="Paul di Resta">Paul di Resta</a> was the first car out on track for the first part of the qualifying session, initially using the harder compound prime tyres.<sup id="cite_ref-BBChappened_17-0" class="reference"><a href="#cite_note-BBChappened-17">&#91;17&#93;</a></sup> The <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a> team also adopted that tactic, and their driver, <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>, ran wide at the end of the Esses and bounded across the gravel before wrestling the car back to track.<sup id="cite_ref-BBChappened_17-1" class="reference"><a href="#cite_note-BBChappened-17">&#91;17&#93;</a></sup> Later in the session, after Sebastian Vettel provisionally set the fastest time on prime tyres as well, <a href="/wiki/Bruno_Senna" title="Bruno Senna">Bruno Senna</a>, in his <a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>, was impeded by the <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a> of <a href="/wiki/Jean-%C3%89ric_Vergne" title="Jean-Éric Vergne">Jean-Éric Vergne</a>.<sup id="cite_ref-F1Q_18-0" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup> On the approach to the final chicane Senna, on a flying lap, was held up by the slow-moving Vergne and gesticulated wildly out of his cockpit, forsaking his next flying lap in frustration.<sup id="cite_ref-BBChappened_17-2" class="reference"><a href="#cite_note-BBChappened-17">&#91;17&#93;</a></sup> Vergne was issued with a three-place grid penalty for the race after he made the cut for the second part in qualifying in seventeenth.<sup id="cite_ref-F1Q_18-1" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup><sup id="cite_ref-BBCQuali_19-0" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup> Vergne said that he had to slow down because he was catching Timo Glock before his flying lap.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> left his flying laps until the dying moments of the session, and after making a mistake at the second Degner curve, he found himself in last place with one last lap to make it into Q2; he was slower than Senna in the first two sectors of the circuit before crossing the line with the sixteenth fastest time, pushing Senna out.<sup id="cite_ref-F1Q_18-2" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup> The <a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a> of <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a> set the session's fastest time on the softer compound tyres, followed by the two Saubers and his teammate <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>, who also needed to use those tyres.<sup id="cite_ref-BBChappened_17-3" class="reference"><a href="#cite_note-BBChappened-17">&#91;17&#93;</a></sup>
+</p><p>Behind Senna was the <a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a> of <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> in nineteenth, albeit with a time more than a second slower than Senna.<sup id="cite_ref-QualiResult_21-0" class="reference"><a href="#cite_note-QualiResult-21">&#91;21&#93;</a></sup> His teammate, <a href="/wiki/Vitaly_Petrov" title="Vitaly Petrov">Vitaly Petrov</a>, had a disappointing session qualifying in twenty-third place, as the two <a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a> cars sandwiched an impressive <a href="/wiki/HRT_F1" class="mw-redirect" title="HRT F1">HRT</a> of <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>, with <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> taking twentieth and <a href="/wiki/Charles_Pic" title="Charles Pic">Charles Pic</a> taking twenty-second.<sup id="cite_ref-F1Q_18-3" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup> Petrov was, however, only two tenths slower than Glock, but three tenths faster than <a href="/wiki/Narain_Karthikeyan" title="Narain Karthikeyan">Narain Karthikeyan</a> who took last place on the grid.<sup id="cite_ref-F1Q_18-4" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup><sup id="cite_ref-QualiResult_21-1" class="reference"><a href="#cite_note-QualiResult-21">&#91;21&#93;</a></sup> As Vergne qualified in seventeenth place in Q2, and <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> came to the race with a ten-place grid drop penalty for causing an avoidable incident in <a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">Singapore</a> after eventually qualifying 13th – Senna, Kovalainen and Glock started two places further up on the grid in 16th, 17th and 18th respectively, and behind Vergne, de la Rosa, Pic and Petrov moved up one place on the grid to start from 20th, 21st and 22nd respectively in front of Schumacher and Karthikeyan.<sup id="cite_ref-QualiResult_21-2" class="reference"><a href="#cite_note-QualiResult-21">&#91;21&#93;</a></sup>
+</p><p>Every car used the option tyres during the second part of qualifying. Di Resta complained over his pit-to-car radio after he had to weave in and out of Webber and Grosjean on a flying lap approaching the final chicane.<sup id="cite_ref-BBChappened_17-4" class="reference"><a href="#cite_note-BBChappened-17">&#91;17&#93;</a></sup> This was not his fastest time, however, as he missed out on reaching the final part of qualifying by just half a tenth of a second, in twelfth place.<sup id="cite_ref-BBCQuali_19-1" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup><sup id="cite_ref-India_22-0" class="reference"><a href="#cite_note-India-22">&#91;22&#93;</a></sup> The Toro Rossos failed to progress in the session in sixteenth and seventeenth, with <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a> out-qualifying Vergne for the eleventh time in 2012, and the Mercedes duo of Schumacher – attempting to save tyres again with a last minute effort – and <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> in thirteenth and fifteenth respectively,<sup id="cite_ref-F1Q_18-5" class="reference"><a href="#cite_note-F1Q-18">&#91;18&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> with the Williams of <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a> splitting them.<sup id="cite_ref-F1QA_24-0" class="reference"><a href="#cite_note-F1QA-24">&#91;24&#93;</a></sup> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> was the last man out on track at the end of the session, and looked likely to beat <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>'s tenth place time but abandoned his lap and was eleventh.<sup id="cite_ref-India_22-1" class="reference"><a href="#cite_note-India-22">&#91;22&#93;</a></sup> After Hülkenberg elected not to set a time in Q3, his five-place grid penalty for a gearbox change came into effect, dropping him to fifteenth on the grid.<sup id="cite_ref-QualiResult_21-3" class="reference"><a href="#cite_note-QualiResult-21">&#91;21&#93;</a></sup><sup id="cite_ref-F1QA_24-1" class="reference"><a href="#cite_note-F1QA-24">&#91;24&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg/220px-Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg/330px-Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg/440px-Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg 2x" data-file-width="2560" data-file-height="1707" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kimi_Raikkonen_spun_at_Spoon_2012_Japan_Q3.jpg" class="internal" title="Enlarge"></a></div>Räikkönen spun at Spoon curve.</div></div></div>
+<p>The third and final session of qualifying began with a lack of action on track. However, the McLarens, Red Bulls and Lotuses all chose to do two separate flying lap efforts. After the first of these were complete, Vettel and Webber had set the first and second fastest times respectively. Webber was two tenths behind, hampered by an error at the hairpin; Button was third, followed by the Lotus cars of Grosjean and Räikkönen and Hamilton's McLaren, who despite being on a scrubbed set of tyres, was still one and a half seconds slower than Vettel. During the second phase and with time running out in the session, Räikkönen ran wide at Spoon curve, and whilst returning onto the track, spun again and stopped at the edge of the track.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Yellow flags were brought out, and Pérez was the only driver in front of Räikkönen who did not have to slow down.<sup id="cite_ref-BBCQuali_19-2" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup>
+</p><p>Vettel and Webber were both on faster laps than their previous ones, but were unable improve their times because of the yellow flags.<sup id="cite_ref-RedBull_26-0" class="reference"><a href="#cite_note-RedBull-26">&#91;26&#93;</a></sup> They maintained their grid slots, though, as the team took their first front row lock-out of the season.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Vettel claimed his fourth successive pole at the Suzuka circuit, maintaining his 100% record there and, with the 34th pole position of his career, he moved into third in the <a href="/wiki/List_of_Formula_One_polesitters" title="List of Formula One polesitters">all-time list for pole positions</a>, behind <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> and <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a>.<sup id="cite_ref-RedBull_26-1" class="reference"><a href="#cite_note-RedBull-26">&#91;26&#93;</a></sup> It was decided by the stewards that Vettel had held Fernando Alonso up during his flying lap, but he was only given a reprimand.<sup id="cite_ref-BBCQuali_19-3" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Button marginally improved his time, remaining in third place which would eventually become eighth on the grid due to a five-place grid penalty for a gearbox change. <a href="/wiki/Kamui_Kobayashi" title="Kamui Kobayashi">Kamui Kobayashi</a> took an impressive fourth place for Sauber, but immediately after he set the time it was suggested that he had not slowed down in the yellow flag area.<sup id="cite_ref-BBCQuali_19-4" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> He was allowed to keep the place on the grounds he had not used <a href="/wiki/Kinetic_energy_recovery_system" title="Kinetic energy recovery system">KERS</a> or <a href="/wiki/Drag_reduction_system" title="Drag reduction system">DRS</a> as normal. After Button's gearbox penalty, this became third place, the best ever qualifying position from a Japanese driver at his home race. Grosjean's time was next fastest, in front of Pérez, Räikkönen and Alonso.<sup id="cite_ref-BBCQuali_19-5" class="reference"><a href="#cite_note-BBCQuali-19">&#91;19&#93;</a></sup><sup id="cite_ref-QualiResult_21-4" class="reference"><a href="#cite_note-QualiResult-21">&#91;21&#93;</a></sup> Räikkönen was sixth, and Alonso said he could have easily been higher up the grid were it not for Räikkönen's spin.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Hamilton, who qualified ninth, bemoaned a poorly handling car after a set-up change.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup><sup id="cite_ref-Qualifying_33-0" class="reference"><a href="#cite_note-Qualifying-33">&#91;33&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:2012_Japanese_GP_opening_lap.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2012_Japanese_GP_opening_lap.jpg/300px-2012_Japanese_GP_opening_lap.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2012_Japanese_GP_opening_lap.jpg/450px-2012_Japanese_GP_opening_lap.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2012_Japanese_GP_opening_lap.jpg/600px-2012_Japanese_GP_opening_lap.jpg 2x" data-file-width="2560" data-file-height="1707" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2012_Japanese_GP_opening_lap.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a> was once again the center of controversy when he collided on the first lap with <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>.</div></div></div>
+<p>It was a bright and sunny afternoon in Suzuka, for the race which started a 15:00 (local time). Every driver except Jean-Èric Vergne, Charles Pic and Michael Schumacher started the race on the softer compound 'option' tyres.
+</p><p>There was a chaotic start to the race as collisions at the first turn brought out the safety car on the opening lap. Vettel led away from pole and Kobayashi had a faster start than Webber, who slotted in behind him in third. Meanwhile, Alonso was hit from behind by Räikkönen, as the front wing of the Lotus clipped Alonso's rear wheel, puncturing the tyre, sending him into a spin across the gravel and back near the track at the first corner. Räikkönen's teammate, Romain Grosjean, was too busy attempting to stay in front of the fast-starting Sauber of Peréz on his outside at the first corner, so he ran into the back of third-placed Mark Webber, spinning him round at Turn 2, breaking his own wing in the process. This crash had consequences for other drivers as well, as Bruno Senna attempted to slide into a disappearing gap on Nico Rosberg's inside in order to avoid the crash. This broke Senna's wing and forced Rosberg to retire from the race. Alonso was the other retiree from the crash, seen walking away immediately, as Webber, Senna and Grosjean all had to pit for new front wings. Webber was worst affected as he had to recover from the grass. It wasn't all bad news for all the drivers, though, as Button had made up five places to move into third, and Massa had moved up six places to fourth after they used some opportunistic weaving.
+</p><p>At the end of the safety car period, and the beginning of lap 3, Vettel sprinted away from Kobayashi, quickly establishing a three-second lead and building on it. Sergio Pérez attempted to overtake Räikkönen for fifth place at Turn 1, but he was forced wide and slotted in behind sixth place Hamilton, and in front of Hülkenberg. He managed to overtake Hamilton at the hairpin after a few laps of closing him down, locking his tyres and creeping around the apex. He then began to move back towards the fifth-placed Lotus of Räikkönen. The Caterham of Heikki Kovalainen was impressing at this point in the race by running in eleventh position. Next, Romain Grosjean was handed a ten-second stop-go penalty for the collision, he took it and returned to the track in last position. It was his seventh collision on the first lap of a race in 2012, and his eighth within the first two laps. By this point, Michael Schumacher had climbed his way from twenty-third to fourteenth, despite losing telemetry to his team.
+</p><p>Vettel and Massa were the drivers showing good pace when Button became the first driver to make a scheduled pit-stop in the race in lap 13. Räikkönen and Hülkenberg pitted the following lap from fifth and eighth positions respectively, having to make their way past Vergne and Kovalainen after their pit stops. Kobayashi pitted on lap 16 to promote Felipe Massa to second place, but kept Button behind him as both were temporarily held up by drivers yet to stop, before promptly overtaking them. Vettel and Massa pitted from first and second on lap 20 and maintained their positions, meaning Vettel had not relinquished his lead, and Massa had leap-frogged both Kobayashi and Button with a quick stop. Pérez attempted the same move he had overtaken Hamilton with the previous time at the hairpin on lap 20, but this time Hamilton moved to the inside line and Pérez carried too much speed into the corner, sliding round and getting stuck in the gravel trap. He was the third retirement of the race. On lap 22, Senna was given a drive through penalty for his contact with Rosberg at the start of the race. By this point, Mark Webber had worked his way back up to ninth place, but had to pit a few laps later.
+</p><p>Hamilton and Kobayashi pitted on lap 31, one lap after Räikkönen, who Hamilton was competing with now for fifth spot. He overtook him at Turn 1 on the following lap. On lap 34, Narain Karthikeyan retired his HRT into the garage due to vibrations in the car. Button, Massa and Vettel made pit stops on laps 35, 36 and 38 respectively, and all retained their positions in fourth, second and first, with Kobayashi in third. Michael Schumacher, who had started twenty-third and opted for a different tyre strategy, was left as the only driver on the softer tyres when he pitted on lap 37. He spent much of the remainder of the race behind the Toro Rosso of Daniel Ricciardo, fighting for tenth place, but never eventually gaining it due to some impressive defending. On lap 41, Charles Pic drove his Marussia into the pit garage with engine failure. Button spent the final stint of the race closing to within one second of Kobayashi, but never managing to overtake the Sauber driver.
+</p><p>Sebastian Vettel took the 24th victory of his career by twenty seconds and became the first driver to take consecutive victories in the 2012 season. It was also the second Grand Chelem (pole, fastest lap, and lead every lap en route to victory) of Vettel's career. Felipe Massa ended the longest streak a Ferrari driver had ever had without a podium by finishing second, taking his first since the <a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">2010 Korean Grand Prix</a>. Kobayashi became the third Japanese driver to score a Formula One podium, in front of his home crowd, with his best result of third place. The McLaren cars of Button and Hamilton finished in fourth and fifth places, followed by Räikkönen, Hülkenberg, Maldonado (who took his fourth points scoring result and first since winning in <a href="/wiki/2012_Spanish_Grand_Prix" title="2012 Spanish Grand Prix">Spain</a> nearly five months earlier), Webber and Ricciardo who completed the top ten. Michael Schumacher and Paul di Resta (who had a clutch failure at the race start) just missed out in eleventh and twelfth. Romain Grosjean retired on the final lap due to a gearbox problem.
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a consequence of his victory and Alonso's retirement, Vettel closed the gap between himself and championship leader to just four points. In an interview after the race, Mark Webber described Romain Grosjean as a "first-lap nutcase" with regard to the collision Grosjean caused between them at the race start.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%">
+<tbody><tr>
+<th><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th><abbr title="Number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Part 1
+</th>
+<th>Part 2
+</th>
+<th>Part 3
+</th>
+<th><abbr title="Final grid position">Grid</abbr>
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:32.608
+</td>
+<td><b>1:31.501</b>
+</td>
+<td><b>1:30.839</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:32.951
+</td>
+<td>1:31.950
+</td>
+<td>1:31.090
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:33.077
+</td>
+<td>1:31.772
+</td>
+<td>1:31.290
+</td>
+<td>8<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kamui_Kobayashi" title="Kamui Kobayashi">Kamui Kobayashi</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:32.042
+</td>
+<td>1:31.886
+</td>
+<td>1:31.700
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td><b>1:32.029</b>
+</td>
+<td>1:31.968
+</td>
+<td>1:31.898
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:32.147
+</td>
+<td>1:32.169
+</td>
+<td>1:32.022
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:32.459
+</td>
+<td>1:31.833
+</td>
+<td>1:32.114
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:32.221
+</td>
+<td>1:31.826
+</td>
+<td>1:32.208
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:33.061
+</td>
+<td>1:32.121
+</td>
+<td>1:32.327
+</td>
+<td>9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:32.828
+</td>
+<td>1:32.272
+</td>
+<td>no time
+</td>
+<td>15<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:32.946
+</td>
+<td>1:32.293
+</td>
+<td>
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Paul_di_Resta" title="Paul di Resta">Paul di Resta</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:32.898
+</td>
+<td>1:32.327
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:33.349
+</td>
+<td>1:32.469
+</td>
+<td>
+</td>
+<td>23<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a>
+</td>
+<td><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:32.834
+</td>
+<td>1:32.512
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:33.015
+</td>
+<td>1:32.625
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:33.059
+</td>
+<td>1:32.954
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-%C3%89ric_Vergne" title="Jean-Éric Vergne">Jean-Éric Vergne</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:33.370
+</td>
+<td>1:33.368
+</td>
+<td>
+</td>
+<td>19<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">3</a></sup>
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Bruno_Senna" title="Bruno Senna">Bruno Senna</a>
+</td>
+<td><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:33.405
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:34.657
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:35.213
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/HRT_F1" class="mw-redirect" title="HRT F1">HRT</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:35.385
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Charles_Pic" title="Charles Pic">Charles Pic</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:35.429
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>21
+</td></tr>
+<tr>
+<th>23
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Vitaly_Petrov" title="Vitaly Petrov">Vitaly Petrov</a>
+</td>
+<td><a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:35.432
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>22
+</td></tr>
+<tr>
+<th>24
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Narain_Karthikeyan" title="Narain Karthikeyan">Narain Karthikeyan</a>
+</td>
+<td><a href="/wiki/HRT_F1" class="mw-redirect" title="HRT F1">HRT</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:36.734
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>24
+</td></tr>
+<tr>
+<th colspan="8"><a href="/wiki/107%25_time" class="mw-redirect" title="107% time">107% time</a>: 1:38.471
+</th></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-VET_p1_4-1" class="reference"><a href="#cite_note-VET_p1-4">&#91;4&#93;</a></sup>
+</th></tr></tbody></table>
+<p><b>Notes:</b>
+</p>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  — <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a> each received a five-place grid penalty for unscheduled gearbox changes.<sup id="cite_ref-BUT_pen_7-1" class="reference"><a href="#cite_note-BUT_pen-7">&#91;7&#93;</a></sup><sup id="cite_ref-HUL_pen_8-1" class="reference"><a href="#cite_note-HUL_pen-8">&#91;8&#93;</a></sup></li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span>  — <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> received a ten-place grid penalty for causing an avoidable accident at the <a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">previous race</a>.<sup id="cite_ref-MSC_pen_6-1" class="reference"><a href="#cite_note-MSC_pen-6">&#91;6&#93;</a></sup></li>
+<li><span class="citation wikicite" id="endnote_3"><b><a href="#ref_3">^3</a></b></span>  — <a href="/wiki/Jean-%C3%89ric_Vergne" title="Jean-Éric Vergne">Jean-Éric Vergne</a> was given a three-place grid penalty for blocking <a href="/wiki/Bruno_Senna" title="Bruno Senna">Bruno Senna</a> during the first part of qualifying.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%">
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Laps
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>1
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b>
+</td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>1:28:56.242
+</td>
+<td>1
+</td>
+<td><b>25</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>6
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>+20.632
+</td>
+<td>10
+</td>
+<td><b>18</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>14
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kamui_Kobayashi" title="Kamui Kobayashi">Kamui Kobayashi</a></b>
+</td>
+<td><b><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>+24.538
+</td>
+<td>3
+</td>
+<td><b>15</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>3
+</td>
+<td><b><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>53
+</td>
+<td>+25.098
+</td>
+<td>8
+</td>
+<td><b>12</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>4
+</td>
+<td><b><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>53
+</td>
+<td>+46.490
+</td>
+<td>9
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>9
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b>
+</td>
+<td><b><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+50.424
+</td>
+<td>7
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>12
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a></b>
+</td>
+<td><b><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>53
+</td>
+<td>+51.159
+</td>
+<td>15
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>18
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a></b>
+</td>
+<td><b><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+52.364
+</td>
+<td>12
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>2
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a></b>
+</td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+54.675
+</td>
+<td>2
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>16
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>+1:06.919
+</td>
+<td>14
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>53
+</td>
+<td>+1:07.769
+</td>
+<td>23
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Paul_di_Resta" title="Paul di Resta">Paul di Resta</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>53
+</td>
+<td>+1:23.460
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-%C3%89ric_Vergne" title="Jean-Éric Vergne">Jean-Éric Vergne</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>53
+</td>
+<td>+1:28.645
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Bruno_Senna" title="Bruno Senna">Bruno Senna</a>
+</td>
+<td><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>53
+</td>
+<td>+1:28.709
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Vitaly_Petrov" title="Vitaly Petrov">Vitaly Petrov</a>
+</td>
+<td><a href="/wiki/Caterham_F1" title="Caterham F1">Caterham</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>22
+</td>
+<td>
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/HRT_F1" class="mw-redirect" title="HRT F1">HRT</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>51
+</td>
+<td>Gearbox
+</td>
+<td>4
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Charles_Pic" title="Charles Pic">Charles Pic</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>36
+</td>
+<td>Engine
+</td>
+<td>21
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Narain_Karthikeyan" title="Narain Karthikeyan">Narain Karthikeyan</a>
+</td>
+<td><a href="/wiki/HRT_F1" class="mw-redirect" title="HRT F1">HRT</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>32
+</td>
+<td>Vibrations
+</td>
+<td>24
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>19
+</td>
+<td>Spun off
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-race_result_5-1" class="reference"><a href="#cite_note-race_result-5">&#91;5&#93;</a></sup>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td align="left">194
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td align="left">190
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td align="left">157
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td align="left">152
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td align="left">134
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_36-0" class="reference"><a href="#cite_note-Championship-36">&#91;36&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="left">324
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="left">283
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">263
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="left">239
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td align="left">136
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_36-1" class="reference"><a href="#cite_note-Championship-36">&#91;36&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2012_Japanese_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-formal-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-formal_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-formal_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120916020015/http://www.formula1.com/races/in_detail/japan_878/circuit_diagram.html">"2012 Formula 1 Japanese Grand Prix"</a>. Formula One. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/races/in_detail/japan_878/circuit_diagram.html">the original</a> on September 16, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2012+Formula+1+Japanese+Grand+Prix&amp;rft.pub=Formula+One&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fraces%2Fin_detail%2Fjapan_878%2Fcircuit_diagram.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-weather-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-weather_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-weather_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-weather_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2012/878/7101/live_timing_popup.html#">"2012 FORMULA 1 JAPANESE GRAND PRIX (Race)"</a>. <i>formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. 7 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=formula1.com&amp;rft.atitle=2012+FORMULA+1+JAPANESE+GRAND+PRIX+%28Race%29&amp;rft.date=2012-10-07&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2012%2F878%2F7101%2Flive_timing_popup.html%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since March 2016">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-7Dec_calendar-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-7Dec_calendar_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2011" class="citation news cs1">Collantine, Keith (7 December 2011). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2011/12/07/united-states-grand-prix-remains-unchanged-2012-f1-calendar/">"United States Grand Prix remains on unchanged 2012 F1 calendar"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=United+States+Grand+Prix+remains+on+unchanged+2012+F1+calendar&amp;rft.date=2011-12-07&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2011%2F12%2F07%2Funited-states-grand-prix-remains-unchanged-2012-f1-calendar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-VET_p1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-VET_p1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-VET_p1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBeer2012" class="citation news cs1">Beer, Matt (6 October 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103119">"Vettel storms to fourth pole in a row at Suzuka"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Vettel+storms+to+fourth+pole+in+a+row+at+Suzuka&amp;rft.date=2012-10-06&amp;rft.aulast=Beer&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103119&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-race_result-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-race_result_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-race_result_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (7 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/07/2012-japanese-grand-prix-report/">"2012 Japanese Grand Prix review — Vettel's Suzuka masterclass as Alonso hits trouble"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=2012+Japanese+Grand+Prix+review+%E2%80%94+Vettel%E2%80%99s+Suzuka+masterclass+as+Alonso+hits+trouble&amp;rft.date=2012-10-07&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F07%2F2012-japanese-grand-prix-report%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-MSC_pen-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-MSC_pen_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MSC_pen_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFElizalde2012" class="citation news cs1">Elizalde, Pablo (23 September 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/102812">"Michael Schumacher gets 10-place Japan penalty for Jean-Eric Vergne clash"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Michael+Schumacher+gets+10-place+Japan+penalty+for+Jean-Eric+Vergne+clash&amp;rft.date=2012-09-23&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F102812&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BUT_pen-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-BUT_pen_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BUT_pen_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFNoble2012" class="citation news cs1">Noble, Jonathan (2 October 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103002">"Jenson Button to get gearbox-change penalty for the Japanese GP"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Jenson+Button+to+get+gearbox-change+penalty+for+the+Japanese+GP&amp;rft.date=2012-10-02&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103002&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-HUL_pen-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-HUL_pen_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HUL_pen_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFElizalde2012" class="citation news cs1">Elizalde, Pablo (6 October 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103120">"Nico Hulkenberg gets gearbox penalty"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i>. <a href="/wiki/Haymarket_Media_Group" title="Haymarket Media Group">Haymarket Media Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Nico+Hulkenberg+gets+gearbox+penalty&amp;rft.date=2012-10-06&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103120&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130111030532/http://www.formula1.com/news/headlines/2012/10/13931.html">"Pirelli reveal tyre choices for final three rounds"</a>. Formula One. 16 October 2012. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2012/10/13931.html">the original</a> on January 11, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pirelli+reveal+tyre+choices+for+final+three+rounds&amp;rft.date=2012-10-16&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2012%2F10%2F13931.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-SkyFP1-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-SkyFP1_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SkyFP1_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFWise2012" class="citation news cs1">Wise, Mike (5 October 2012). <a rel="nofollow" class="external text" href="http://www1.skysports.com/formula-1/news/12433/8139282">"Button edges Hamilton"</a>. <i><a href="/wiki/Sky_Sports" title="Sky Sports">Sky Sports</a></i>. <a href="/wiki/BSkyB" class="mw-redirect" title="BSkyB">BSkyB</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sky+Sports&amp;rft.atitle=Button+edges+Hamilton&amp;rft.date=2012-10-05&amp;rft.aulast=Wise&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww1.skysports.com%2Fformula-1%2Fnews%2F12433%2F8139282&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFSaward2012" class="citation news cs1">Saward, Joe (5 October 2012). <a rel="nofollow" class="external text" href="http://joesaward.wordpress.com/2012/10/05/the-land-of-the-rising-jenson/">"The land of the rising (Jen)son"</a>. <i>Joe Saward’s Grand Prix Blog</i>. <a href="/wiki/WordPress" title="WordPress">WordPress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Joe+Saward%E2%80%99s+Grand+Prix+Blog&amp;rft.atitle=The+land+of+the+rising+%28Jen%29son&amp;rft.date=2012-10-05&amp;rft.aulast=Saward&amp;rft.aufirst=Joe&amp;rft_id=http%3A%2F%2Fjoesaward.wordpress.com%2F2012%2F10%2F05%2Fthe-land-of-the-rising-jenson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-AutosportFP1-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-AutosportFP1_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AutosportFP1_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFStrang2012" class="citation news cs1">Strang, Simon (5 October 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103072?">"Jenson Button fastest in first practice at Suzuka"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Jenson+Button+fastest+in+first+practice+at+Suzuka&amp;rft.date=2012-10-05&amp;rft.aulast=Strang&amp;rft.aufirst=Simon&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103072%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/results/9713857.stm">"Suzuka: Free Practice Results"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Suzuka%3A+Free+Practice+Results&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2Fresults%2F9713857.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://en.espnf1.com/japan/motorsport/story/90733.html">"Lotus won't run rear wing 'device' at Suzuka"</a>. ESPN F1. 5 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lotus+won%27t+run+rear+wing+%27device%27+at+Suzuka&amp;rft.date=2012-10-05&amp;rft_id=http%3A%2F%2Fen.espnf1.com%2Fjapan%2Fmotorsport%2Fstory%2F90733.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.crash.net/f1/news/184679/1/button_fastest_as_japanese_gp_defence_gets_underway.html">"Button fastest as Japanese GP defence gets underway"</a>. Crash.net. 5 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Button+fastest+as+Japanese+GP+defence+gets+underway&amp;rft.date=2012-10-05&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Fnews%2F184679%2F1%2Fbutton_fastest_as_japanese_gp_defence_gets_underway.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFBenson2012" class="citation news cs1">Benson, Andrew (5 October 2012). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/0/formula1/19840030">"Jenson Button tops Japan first practice"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Jenson+Button+tops+Japan+first+practice&amp;rft.date=2012-10-05&amp;rft.aulast=Benson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Fformula1%2F19840030&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BBChappened-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBChappened_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBChappened_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BBChappened_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BBChappened_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BBChappened_17-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBaretto2012" class="citation web cs1">Baretto, Lawrence (6 October 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121006101609/http://www.bbc.co.uk/sport/0/formula1/19841983">"Japanese GP qualifying as it happened"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. Archived from <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/0/formula1/19841983">the original</a> on October 6, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Japanese+GP+qualifying+as+it+happened&amp;rft.date=2012-10-06&amp;rft.aulast=Baretto&amp;rft.aufirst=Lawrence&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Fformula1%2F19841983&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-F1Q-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-F1Q_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-F1Q_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-F1Q_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-F1Q_18-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-F1Q_18-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-F1Q_18-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121009044742/http://www.formula1.com/news/headlines/2012/10/13879.html">"Vettel claims fourth successive Suzuka pole"</a>. Formula One. 6 October 2012. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2012/10/13879.html">the original</a> on October 9, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vettel+claims+fourth+successive+Suzuka+pole&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2012%2F10%2F13879.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BBCQuali-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBCQuali_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBCQuali_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BBCQuali_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BBCQuali_19-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BBCQuali_19-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BBCQuali_19-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBenson2012" class="citation news cs1">Benson, Andrew (6 October 2012). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/0/formula1/19854638">"Sebastian Vettel takes pole position at Suzuka"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Sebastian+Vettel+takes+pole+position+at+Suzuka&amp;rft.date=2012-10-06&amp;rft.aulast=Benson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Fformula1%2F19854638&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/vergne-penalised-blocking-senna/">"Vergne penalised for blocking Senna"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Vergne+penalised+for+blocking+Senna&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2Fvergne-penalised-blocking-senna%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-QualiResult-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-QualiResult_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-QualiResult_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-QualiResult_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-QualiResult_21-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-QualiResult_21-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121009044824/http://www.formula1.com/results/season/2012/878/7100/">"2012 FORMULA 1 JAPANESE GRAND PRIX"</a>. Formula One. 6 October 2012. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2012/878/7100/">the original</a> on October 9, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2012+FORMULA+1+JAPANESE+GRAND+PRIX&amp;rft.pub=Formula+One&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2012%2F878%2F7100%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-India-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-India_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-India_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://articles.timesofindia.indiatimes.com/2012-10-06/top-stories/34294625_1_grid-penalty-paul-di-resta-unscheduled-gearbox-change">"Hulkenberg to start 15th, Di Resta 11th in Japan GP"</a>. <i><a href="/wiki/The_Times_of_India" title="The Times of India">The Times of India</a></i>. <a href="/wiki/The_Times_Group" title="The Times Group">The Times Group</a>. 6 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times+of+India&amp;rft.atitle=Hulkenberg+to+start+15th%2C+Di+Resta+11th+in+Japan+GP&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Farticles.timesofindia.indiatimes.com%2F2012-10-06%2Ftop-stories%2F34294625_1_grid-penalty-paul-di-resta-unscheduled-gearbox-change&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://media.daimler.com/dcmedia/0-921-1169208-1-1539512-1-0-0-0-0-0-11700-0-0-1-0-0-0-0-0.html">"2012 Japanese Grand Prix: Qualifying"</a>. <a href="/wiki/Daimler_AG" title="Daimler AG">Daimler AG</a>. 6 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=2012+Japanese+Grand+Prix%3A+Qualifying&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fmedia.daimler.com%2Fdcmedia%2F0-921-1169208-1-1539512-1-0-0-0-0-0-11700-0-0-1-0-0-0-0-0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since March 2016">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-F1QA-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-F1QA_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-F1QA_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121009044732/http://www.formula1.com/news/features/2012/10/13885.html">"Qualifying analysis – Red Bull run riot"</a>. Formula One. 6 October 2012. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/features/2012/10/13885.html">the original</a> on October 9, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Qualifying+analysis+%E2%80%93+Red+Bull+run+riot&amp;rft.pub=Formula+One&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Ffeatures%2F2012%2F10%2F13885.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.crash.net/f1/news/184760/1/raikkonen_pushed_a_little_too_hard_in_q3.html">"Raikkonen 'pushed a little too hard' in Q3"</a>. Crash.net. 6 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+%27pushed+a+little+too+hard%27+in+Q3&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Fnews%2F184760%2F1%2Fraikkonen_pushed_a_little_too_hard_in_q3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-RedBull-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-RedBull_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RedBull_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103152">"Japanese GP: Red Bull Saturday quotes"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i>. 6 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Japanese+GP%3A+Red+Bull+Saturday+quotes&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103152&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://en.espnf1.com/japan/motorsport/story/90867.html">"Front row lockout a 'great tonic' for Red Bull – Webber"</a>. ESPN F1. 6 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Front+row+lockout+a+%27great+tonic%27+for+Red+Bull+%E2%80%93+Webber&amp;rft.date=2012-10-06&amp;rft_id=http%3A%2F%2Fen.espnf1.com%2Fjapan%2Fmotorsport%2Fstory%2F90867.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/vettel-reprimanded-alonso-block-pole/">"Vettel reprimanded but keeps pole"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Vettel+reprimanded+but+keeps+pole&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2Fvettel-reprimanded-alonso-block-pole%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2012" class="citation news cs1">Elizalde, Pablo (6 October 2012). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/103143">"Kamui Kobayashi sets sights on home podium at Suzuka"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Kamui+Kobayashi+sets+sights+on+home+podium+at+Suzuka&amp;rft.date=2012-10-06&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F103143&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/alonso-rues-luck-missing/">"Alonso rues his luck after missing out on third"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Alonso+rues+his+luck+after+missing+out+on+third&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2Falonso-rues-luck-missing%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite id="CITEREFDavies2012" class="citation news cs1">Davies, Alan (6 October 2012). <a rel="nofollow" class="external text" href="http://www.whtimes.co.uk/sport/formula-1/f1_2012_japanese_grand_prix_hamilton_s_disappointing_result_1_1574047">"Hamilton's disappointing result"</a>. <i>Welwyn Hatfield Times</i>. Archant Community Media Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Welwyn+Hatfield+Times&amp;rft.atitle=Hamilton%E2%80%99s+disappointing+result&amp;rft.date=2012-10-06&amp;rft.aulast=Davies&amp;rft.aufirst=Alan&amp;rft_id=http%3A%2F%2Fwww.whtimes.co.uk%2Fsport%2Fformula-1%2Ff1_2012_japanese_grand_prix_hamilton_s_disappointing_result_1_1574047&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/hamilton-setup-change/">"Hamilton: "I was nowhere" after set-up change"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton%3A+%22I+was+nowhere%22+after+set-up+change&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2Fhamilton-setup-change%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Qualifying-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Qualifying_33-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/2012-japanese-grand-prix-prerace-analysis/">"Damage limitation for Alonso as Vettel looks strong"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Damage+limitation+for+Alonso+as+Vettel+looks+strong&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2F2012-japanese-grand-prix-prerace-analysis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.mirror.co.uk/sport/formula-1/japanese-grand-prix-mark-webber-1365686">"<span class="cs1-kern-left">'</span>First-lap nutcase': Mark Webber hits out at incident-prone Romain Grosjean"</a>. <i><a href="/wiki/Daily_Mirror" title="Daily Mirror">Daily Mirror</a></i>. 7 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+Mirror&amp;rft.atitle=%27First-lap+nutcase%27%3A+Mark+Webber+hits+out+at+incident-prone+Romain+Grosjean&amp;rft.date=2012-10-07&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Fsport%2Fformula-1%2Fjapanese-grand-prix-mark-webber-1365686&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2012" class="citation news cs1">Collantine, Keith (6 October 2012). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2012/10/06/vergne-penalised-blocking-senna/">"Vergne penalised for blocking Senna"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Vergne+penalised+for+blocking+Senna&amp;rft.date=2012-10-06&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2012%2F10%2F06%2Fvergne-penalised-blocking-senna%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2012/japon/championnat.aspx">"Japan 2012 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Japan+2012+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2012%2Fjapon%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2012+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2012_Japanese_Grand_Prix" class="extiw" title="commons:Category:2012 Japanese Grand Prix"><span style="">2012 Japanese Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">2012 Singapore Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2012_Korean_Grand_Prix" title="2012 Korean Grand Prix">2012 Korean Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">2011 Japanese Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Japanese_Grand_Prix" title="Japanese Grand Prix">Japanese Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2013_Japanese_Grand_Prix" title="2013 Japanese Grand Prix">2013 Japanese Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2010%E2%80%9319" title="Template talk:F1GP 2010–19"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2010%E2%80%9319&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2010–19)<div style="float: right;"><a href="/wiki/Template:F1GP_2020%E2%80%9329" title="Template:F1GP 2020–29"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2019_Australian_Grand_Prix" title="2019 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2019_Bahrain_Grand_Prix" title="2019 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2019_Chinese_Grand_Prix" title="2019 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2019_Azerbaijan_Grand_Prix" title="2019 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2019_Spanish_Grand_Prix" title="2019 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2019_Monaco_Grand_Prix" title="2019 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2019_Canadian_Grand_Prix" title="2019 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2019_French_Grand_Prix" title="2019 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2019_German_Grand_Prix" title="2019 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2019_Belgian_Grand_Prix" title="2019 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2019_Italian_Grand_Prix" title="2019 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2019_Singapore_Grand_Prix" title="2019 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2019_Russian_Grand_Prix" title="2019 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2019_Japanese_Grand_Prix" title="2019 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2019_Mexican_Grand_Prix" title="2019 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2019_United_States_Grand_Prix" title="2019 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2019_Brazilian_Grand_Prix" title="2019 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2019_Abu_Dhabi_Grand_Prix" title="2019 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2018_Formula_One_World_Championship" title="2018 Formula One World Championship">2018</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Australian_Grand_Prix" title="2018 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2018_Bahrain_Grand_Prix" title="2018 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2018_Chinese_Grand_Prix" title="2018 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2018_Azerbaijan_Grand_Prix" title="2018 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2018_Spanish_Grand_Prix" title="2018 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2018_Monaco_Grand_Prix" title="2018 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2018_Canadian_Grand_Prix" title="2018 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2018_French_Grand_Prix" title="2018 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2018_British_Grand_Prix" title="2018 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2018_German_Grand_Prix" title="2018 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2018_Hungarian_Grand_Prix" title="2018 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2018_Belgian_Grand_Prix" title="2018 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2018_Italian_Grand_Prix" title="2018 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2018_Singapore_Grand_Prix" title="2018 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2018_Russian_Grand_Prix" title="2018 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2018_Japanese_Grand_Prix" title="2018 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2018_United_States_Grand_Prix" title="2018 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2018_Mexican_Grand_Prix" title="2018 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2018_Brazilian_Grand_Prix" title="2018 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2018_Abu_Dhabi_Grand_Prix" title="2018 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2017_Australian_Grand_Prix" title="2017 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2017_Chinese_Grand_Prix" title="2017 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2017_Bahrain_Grand_Prix" title="2017 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2017_Russian_Grand_Prix" title="2017 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2017_Spanish_Grand_Prix" title="2017 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2017_Monaco_Grand_Prix" title="2017 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2017_Canadian_Grand_Prix" title="2017 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2017_Azerbaijan_Grand_Prix" title="2017 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2017_British_Grand_Prix" title="2017 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2017_Hungarian_Grand_Prix" title="2017 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2017_Belgian_Grand_Prix" title="2017 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2017_Italian_Grand_Prix" title="2017 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2017_Singapore_Grand_Prix" title="2017 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2017_Malaysian_Grand_Prix" title="2017 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2017_Japanese_Grand_Prix" title="2017 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2017_United_States_Grand_Prix" title="2017 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2017_Brazilian_Grand_Prix" title="2017 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2016_Formula_One_World_Championship" title="2016 Formula One World Championship">2016</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2016_Australian_Grand_Prix" title="2016 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2016_Bahrain_Grand_Prix" title="2016 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2016_Chinese_Grand_Prix" title="2016 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2016_Russian_Grand_Prix" title="2016 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2016_Spanish_Grand_Prix" title="2016 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2016_Monaco_Grand_Prix" title="2016 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2016_Canadian_Grand_Prix" title="2016 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2016_European_Grand_Prix" title="2016 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2016_British_Grand_Prix" title="2016 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2016_Hungarian_Grand_Prix" title="2016 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2016_German_Grand_Prix" title="2016 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2016_Belgian_Grand_Prix" title="2016 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2016_Italian_Grand_Prix" title="2016 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2016_Singapore_Grand_Prix" title="2016 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2016_Malaysian_Grand_Prix" title="2016 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2016_Japanese_Grand_Prix" title="2016 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2016_United_States_Grand_Prix" title="2016 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2016_Mexican_Grand_Prix" title="2016 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2016_Brazilian_Grand_Prix" title="2016 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2016_Abu_Dhabi_Grand_Prix" title="2016 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2015_Australian_Grand_Prix" title="2015 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2015_Malaysian_Grand_Prix" title="2015 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2015_Chinese_Grand_Prix" title="2015 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2015_Bahrain_Grand_Prix" title="2015 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2015_Spanish_Grand_Prix" title="2015 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2015_Monaco_Grand_Prix" title="2015 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2015_Canadian_Grand_Prix" title="2015 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2015_British_Grand_Prix" title="2015 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2015_Hungarian_Grand_Prix" title="2015 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2015_Belgian_Grand_Prix" title="2015 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2015_Italian_Grand_Prix" title="2015 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2015_Singapore_Grand_Prix" title="2015 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2015_Japanese_Grand_Prix" title="2015 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2015_Russian_Grand_Prix" title="2015 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2015_United_States_Grand_Prix" title="2015 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2015_Mexican_Grand_Prix" title="2015 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2015_Brazilian_Grand_Prix" title="2015 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2015_Abu_Dhabi_Grand_Prix" title="2015 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2014_Malaysian_Grand_Prix" title="2014 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2014_Bahrain_Grand_Prix" title="2014 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2014_Chinese_Grand_Prix" title="2014 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2014_Spanish_Grand_Prix" title="2014 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2014_Monaco_Grand_Prix" title="2014 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2014_Canadian_Grand_Prix" title="2014 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2014_British_Grand_Prix" title="2014 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2014_German_Grand_Prix" title="2014 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2014_Hungarian_Grand_Prix" title="2014 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2014_Belgian_Grand_Prix" title="2014 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2014_Italian_Grand_Prix" title="2014 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2014_Singapore_Grand_Prix" title="2014 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2014_Japanese_Grand_Prix" title="2014 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2014_Russian_Grand_Prix" title="2014 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2014_United_States_Grand_Prix" title="2014 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2014_Brazilian_Grand_Prix" title="2014 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2014_Abu_Dhabi_Grand_Prix" title="2014 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2013_Formula_One_World_Championship" title="2013 Formula One World Championship">2013</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2013_Australian_Grand_Prix" title="2013 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2013_Malaysian_Grand_Prix" title="2013 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2013_Chinese_Grand_Prix" title="2013 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2013_Bahrain_Grand_Prix" title="2013 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2013_Spanish_Grand_Prix" title="2013 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2013_Monaco_Grand_Prix" title="2013 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2013_Canadian_Grand_Prix" title="2013 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2013_British_Grand_Prix" title="2013 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2013_German_Grand_Prix" title="2013 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2013_Hungarian_Grand_Prix" title="2013 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2013_Belgian_Grand_Prix" title="2013 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2013_Italian_Grand_Prix" title="2013 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2013_Singapore_Grand_Prix" title="2013 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2013_Korean_Grand_Prix" title="2013 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2013_Japanese_Grand_Prix" title="2013 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2013_Indian_Grand_Prix" title="2013 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2013_Abu_Dhabi_Grand_Prix" title="2013 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2013_United_States_Grand_Prix" title="2013 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2013_Brazilian_Grand_Prix" title="2013 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2012_Australian_Grand_Prix" title="2012 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2012_Malaysian_Grand_Prix" title="2012 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2012_Chinese_Grand_Prix" title="2012 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2012_Bahrain_Grand_Prix" title="2012 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2012_Spanish_Grand_Prix" title="2012 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2012_Monaco_Grand_Prix" title="2012 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2012_Canadian_Grand_Prix" title="2012 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2012_European_Grand_Prix" title="2012 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2012_British_Grand_Prix" title="2012 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2012_German_Grand_Prix" title="2012 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2012_Hungarian_Grand_Prix" title="2012 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2012_Belgian_Grand_Prix" title="2012 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2012_Italian_Grand_Prix" title="2012 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">SIN</a></li>
+<li><a class="mw-selflink selflink">JPN</a></li>
+<li><a href="/wiki/2012_Korean_Grand_Prix" title="2012 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2012_Indian_Grand_Prix" title="2012 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2012_Abu_Dhabi_Grand_Prix" title="2012 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2012_United_States_Grand_Prix" title="2012 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2012_Brazilian_Grand_Prix" title="2012 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2011_Formula_One_World_Championship" title="2011 Formula One World Championship">2011</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><del><a href="/wiki/2011_Bahrain_Grand_Prix" title="2011 Bahrain Grand Prix">BHR</a></del></li>
+<li><a href="/wiki/2011_Australian_Grand_Prix" title="2011 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2011_Malaysian_Grand_Prix" title="2011 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2011_Chinese_Grand_Prix" title="2011 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2011_Turkish_Grand_Prix" title="2011 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2011_Spanish_Grand_Prix" title="2011 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2011_Monaco_Grand_Prix" title="2011 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2011_Canadian_Grand_Prix" title="2011 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2011_European_Grand_Prix" title="2011 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2011_British_Grand_Prix" title="2011 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2011_German_Grand_Prix" title="2011 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2011_Hungarian_Grand_Prix" title="2011 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2011_Belgian_Grand_Prix" title="2011 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2011_Italian_Grand_Prix" title="2011 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2011_Singapore_Grand_Prix" title="2011 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2011_Korean_Grand_Prix" title="2011 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2011_Indian_Grand_Prix" title="2011 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2011_Abu_Dhabi_Grand_Prix" title="2011 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2011_Brazilian_Grand_Prix" title="2011 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2010_Formula_One_World_Championship" title="2010 Formula One World Championship">2010</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2010_Bahrain_Grand_Prix" title="2010 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2010_Australian_Grand_Prix" title="2010 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2010_Malaysian_Grand_Prix" title="2010 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2010_Spanish_Grand_Prix" title="2010 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2010_Monaco_Grand_Prix" title="2010 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2010_Turkish_Grand_Prix" title="2010 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2010_Canadian_Grand_Prix" title="2010 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2010_European_Grand_Prix" title="2010 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2010_British_Grand_Prix" title="2010 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2010_German_Grand_Prix" title="2010 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2010_Hungarian_Grand_Prix" title="2010 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2010_Belgian_Grand_Prix" title="2010 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2010_Italian_Grand_Prix" title="2010 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2010_Singapore_Grand_Prix" title="2010 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2010_Japanese_Grand_Prix" title="2010 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2010_Brazilian_Grand_Prix" title="2010 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2010_Abu_Dhabi_Grand_Prix" title="2010 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr></tbody></table></div></div>

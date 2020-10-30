@@ -1,0 +1,1290 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2015 Australian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 1 of 19 in the <a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Albert_Lake_Park_Street_Circuit_in_Melbourne,_Australia.svg" class="image"><img alt="Albert Lake Park Street Circuit in Melbourne, Australia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg/200px-Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg.png" decoding="async" width="200" height="138" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg/300px-Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg/400px-Albert_Lake_Park_Street_Circuit_in_Melbourne%2C_Australia.svg.png 2x" data-file-width="1424" data-file-height="983" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details<sup id="cite_ref-fiadata_1-0" class="reference"><a href="#cite_note-fiadata-1">&#91;1&#93;</a></sup><sup id="cite_ref-fom_2-0" class="reference"><a href="#cite_note-fom-2">&#91;2&#93;</a></sup></th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+15&#160;March&#160;2015<span style="display:none">&#160;(<span class="bday dtstart published updated">2015-03-15</span>)</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+2015 Formula 1 <a href="/wiki/Rolex" title="Rolex">Rolex</a> <a href="/wiki/Australian_Grand_Prix" title="Australian Grand Prix">Australian Grand Prix</a></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Melbourne_Grand_Prix_Circuit" class="mw-redirect" title="Melbourne Grand Prix Circuit">Melbourne Grand Prix Circuit</a>, <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a>, <a href="/wiki/Australia" title="Australia">Australia</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Temporary street circuit</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.303&#160;km (3.295&#160;mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+58 laps, 307.574&#160;km (191.118&#160;mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Partly cloudy<br />17–18&#160;°C (63–64&#160;°F) air temperature<br />32–37&#160;°C (90–99&#160;°F) track temperature<br />6&#160;m/s (20&#160;ft/s) wind from the south<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Attendance</th><td colspan="3">
+296,000 (Weekend) 101,500 (Race Day)</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:26.327</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:30.945 on lap 50</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_8d1c9edb4dde81b0284285321e628636"></map><img usemap="#timeline_8d1c9edb4dde81b0284285321e628636" src="//upload.wikimedia.org/wikipedia/en/timeline/8d1c9edb4dde81b0284285321e628636.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2015 Australian Grand Prix</b>, formally titled the <b>2015 Formula 1 Rolex Australian Grand Prix</b>,<sup id="cite_ref-fom_2-1" class="reference"><a href="#cite_note-fom-2">&#91;2&#93;</a></sup> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Auto_racing" title="Auto racing">motor race</a> that was held on 15 March 2015 in <a href="/wiki/Melbourne,_Victoria" class="mw-redirect" title="Melbourne, Victoria">Melbourne</a>. The race was contested over fifty-eight laps of the <a href="/wiki/Melbourne_Grand_Prix_Circuit" class="mw-redirect" title="Melbourne Grand Prix Circuit">Melbourne Grand Prix Circuit</a> and was the first round of the <a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a> FIA Formula One World Championship.<sup id="cite_ref-15_calendar_4-0" class="reference"><a href="#cite_note-15_calendar-4">&#91;4&#93;</a></sup><sup id="cite_ref-15_calendar_2_5-0" class="reference"><a href="#cite_note-15_calendar_2-5">&#91;5&#93;</a></sup> The race marked the 80th race in the combined history of the <a href="/wiki/Australian_Grand_Prix" title="Australian Grand Prix">Australian Grand Prix</a> – which dates back to the <a href="/wiki/1928_Australian_Grand_Prix" title="1928 Australian Grand Prix">100 Miles Road Race</a> of 1928 – and the 20th time the event was held at the Melbourne Grand Prix Circuit.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a> driver <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> was the defending race winner.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> His team-mate, <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> started the race from pole, his fourth at the circuit and a record for the venue.<sup id="cite_ref-AUS_quali_8-0" class="reference"><a href="#cite_note-AUS_quali-8">&#91;8&#93;</a></sup> Hamilton led home Rosberg in a Mercedes 1–2 finish, with <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>'s <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> completing the podium in his first start with the team.<sup id="cite_ref-Barretto_9-0" class="reference"><a href="#cite_note-Barretto-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Pre-season_testing"><span class="tocnumber">1.1.1</span> <span class="toctext">Pre-season testing</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Driver_changes"><span class="tocnumber">1.1.2</span> <span class="toctext">Driver changes</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Manor_Marussia_team"><span class="tocnumber">1.1.3</span> <span class="toctext">Manor Marussia team</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Legal_action_against_Sauber"><span class="tocnumber">1.1.4</span> <span class="toctext">Legal action against Sauber</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Tyres"><span class="tocnumber">1.1.5</span> <span class="toctext">Tyres</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Free_practice"><span class="tocnumber">1.2</span> <span class="toctext">Free practice</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Qualifying"><span class="tocnumber">1.3</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Race"><span class="tocnumber">1.4</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Post-race"><span class="tocnumber">1.5</span> <span class="toctext">Post-race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Qualifying_2"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Championship_standings_after_the_race"><span class="tocnumber">2.3</span> <span class="toctext">Championship standings after the race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Pre-season_testing">Pre-season testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Pre-season testing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Red_Bull_RB11_16355850249_45c5240d97_o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Bull_RB11_16355850249_45c5240d97_o.jpg/220px-Red_Bull_RB11_16355850249_45c5240d97_o.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Bull_RB11_16355850249_45c5240d97_o.jpg/330px-Red_Bull_RB11_16355850249_45c5240d97_o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Bull_RB11_16355850249_45c5240d97_o.jpg/440px-Red_Bull_RB11_16355850249_45c5240d97_o.jpg 2x" data-file-width="5267" data-file-height="2963" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Red_Bull_RB11_16355850249_45c5240d97_o.jpg" class="internal" title="Enlarge"></a></div>The new <a href="/wiki/Red_Bull_RB11" title="Red Bull RB11">Red Bull RB11</a> sported a camouflage livery during testing.</div></div></div>
+<p>After a dominant performance by <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a> in the <a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a> season, pre-season testing for the 2015 season proved they would still be fastest of the field. The new <a href="/wiki/Williams_FW37" title="Williams FW37">Williams FW37</a> looked to be quick and reliable, while <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> in particular seemed to have made a big step forward.<sup id="cite_ref-ps_crash_11-0" class="reference"><a href="#cite_note-ps_crash-11">&#91;11&#93;</a></sup> Former four-time world champions <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> ran a car in black-and-white camouflage, that did nothing to disguise the fact that the Austrian team still struggled with problems concerning their <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a> engines, doing the second least laps during the first test days in <a href="/wiki/Circuito_de_Jerez" title="Circuito de Jerez">Jerez</a>.<sup id="cite_ref-ps_guardian_12-0" class="reference"><a href="#cite_note-ps_guardian-12">&#91;12&#93;</a></sup> While <a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>, <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a> and <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a> were considered to be contesting for points with considerable advances made over the winter, the new partnership between <a href="/wiki/McLaren" title="McLaren">McLaren</a> and <a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a> got off to a bad start. The team managed only 380 laps, almost half of the next worst team, <a href="/wiki/Force_India" title="Force India">Force India</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Furthermore, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>, who had signed back to the team after his controversial <a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a> season, crashed during the second testing session in <a href="/wiki/Circuit_de_Barcelona-Catalunya" title="Circuit de Barcelona-Catalunya">Barcelona</a> and missed the first race of the season.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> <a href="/wiki/Force_India" title="Force India">Force India</a> struggled to get their new car, the <a href="/wiki/Force_India_VJM08" title="Force India VJM08">VJM08</a>, on track. After missing the first test in Jerez,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> they started testing with their <a href="/wiki/Force_India_VJM07" title="Force India VJM07">2014 car</a> in Barcelona before introducing their new model late.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Driver_changes">Driver changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Driver changes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The 2015 Australian Grand Prix saw the debut of several young drivers new to Formula One and a late replacement for <a href="/wiki/McLaren" title="McLaren">McLaren</a>'s <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>. Two weeks prior to the Grand Prix, McLaren announced that Alonso would miss the inaugural 2015 race due to a <a href="/wiki/Concussion" title="Concussion">concussion</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> suffered in a crash during pre-season testing at the <a href="/wiki/Circuit_de_Barcelona-Catalunya" title="Circuit de Barcelona-Catalunya">Circuit de Barcelona-Catalunya</a>. Doctors advised Alonso not to race, avoiding further medical complications and his place was therefore taken by McLaren reserve driver, <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> who finished second on his debut at the same event in <a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">2014</a>.
+</p><p>The new drivers to Formula One included the Toro Rosso duo of <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a> and <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>, <a href="/wiki/Marussia_F1" title="Marussia F1">Manor Marussia</a>'s <a href="/wiki/Will_Stevens" title="Will Stevens">Will Stevens</a>&#160;– on a full-time basis, after one start in <a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a>&#160;– and <a href="/wiki/Roberto_Merhi" title="Roberto Merhi">Roberto Merhi</a>, and the oldest of this group, 24-year-old <a href="/wiki/Felipe_Nasr" title="Felipe Nasr">Felipe Nasr</a> racing for <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>. Most notably, Verstappen became the youngest driver in the history of Formula One, debuting at the age of 17&#160;years, 166&#160;days.
+</p>
+<h4><span class="mw-headline" id="Manor_Marussia_team">Manor Marussia team</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Manor Marussia team">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Following a tumultuous pre-season in which they went through a period of administration and were saved by late investment,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Manor Marussia arrived in Melbourne with a car that had passed its mandatory crash tests, but had completed no testing. <a href="/wiki/Formula_Renault_3.5_Series" class="mw-redirect" title="Formula Renault 3.5 Series">Formula Renault 3.5 Series</a> drivers Will Stevens and Roberto Merhi were announced as their drivers, with Merhi signed on a one-race deal.<sup id="cite_ref-Merhi_20-0" class="reference"><a href="#cite_note-Merhi-20">&#91;20&#93;</a></sup> However, the team did not participate in any practice sessions and subsequently failed to set a qualifying time, leaving the field at eighteen cars for the race.
+</p>
+<h4><span class="mw-headline" id="Legal_action_against_Sauber">Legal action against Sauber</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Legal action against Sauber">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A week before the start of the Grand Prix weekend, Dutch driver <a href="/wiki/Giedo_van_der_Garde" title="Giedo van der Garde">Giedo van der Garde</a> launched legal action against Sauber before the <a href="/wiki/Supreme_Court_of_Victoria" title="Supreme Court of Victoria">Supreme Court of Victoria</a>, to enforce a contract he entered into in June 2014 to drive for the team during the 2015 season.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> This action was based on an award that van der Garde obtained on 2 March 2015 through <a href="/wiki/International_arbitration" title="International arbitration">international arbitration</a> in Switzerland, which he initiated after the team announced in November 2014 that their 2015 drivers would instead be <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a> and Felipe Nasr.<sup id="cite_ref-Allens_22-0" class="reference"><a href="#cite_note-Allens-22">&#91;22&#93;</a></sup> On Wednesday, 11 March 2015, van der Garde succeeded by obtaining court orders compelling Sauber to permit him to drive in Melbourne. On the same day, Sauber appealed the orders made against them and also publicly announced that they would not compromise the safety of the team or other drivers by putting van der Garde in the car, since the <a href="/wiki/Sauber_C34" title="Sauber C34">C34 chassis</a> had only been tailored to fit Ericsson and Nasr.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>The appeal was heard and dismissed the following day, Thursday, 12 March 2015. As part of its legal argument, aside from raising safety concerns, Sauber also submitted that van der Garde's contract had been terminated by the team in February with the approval of the <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a> (FIA)'s <a href="/wiki/FIA_Contract_Recognition_Board" title="FIA Contract Recognition Board">Contract Recognition Board</a> in any event, and that van der Garde violated confidentiality clauses of the contract by discussing it with the media.<sup id="cite_ref-appeal_specifics_25-0" class="reference"><a href="#cite_note-appeal_specifics-25">&#91;25&#93;</a></sup> Lawyers representing Ericsson and Nasr further argued that van der Garde had not followed due process by failing to give their clients prior notice of his legal action.<sup id="cite_ref-appeal_specifics_25-1" class="reference"><a href="#cite_note-appeal_specifics-25">&#91;25&#93;</a></sup> The court upheld the previous orders to permit van der Garde to participate in the race<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> and adjourned the hearing to the following day, Friday, 13 March 2015, to hear arguments on contempt of court proceedings launched by van der Garde's legal team against Sauber's team principal, <a href="/wiki/Monisha_Kaltenborn" title="Monisha Kaltenborn">Monisha Kaltenborn</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>Some two hours after the court made its initial judgment in favour of van der Garde, the FIA published an entry list for the Australian Grand Prix that included both Nasr and Ericsson for Sauber following pre-event scrutineering.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Despite this, neither driver took to the circuit during the first practice session on the Friday<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> due to Sauber running the risk of having team assets seized for not complying with court orders.<sup id="cite_ref-Allens_22-1" class="reference"><a href="#cite_note-Allens-22">&#91;22&#93;</a></sup> Nevertheless, based on media speculation about <a href="/wiki/Bernie_Ecclestone" title="Bernie Ecclestone">Bernie Ecclestone</a>'s intervention to avoid further negative publicity on the sport,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Ericsson and Nasr did participate in that afternoon's second practice session.<sup id="cite_ref-FP2_31-0" class="reference"><a href="#cite_note-FP2-31">&#91;31&#93;</a></sup> On Saturday, 14 March 2015, the dispute reached a temporary resolution thanks to van der Garde announcing that he would forego racing in Melbourne,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> with a view to finding a more permanent solution in the future.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> The Sauber team and its new drivers for 2015 were thus able to complete Saturday's qualifying session and a point-scoring race on the Sunday.
+</p>
+<h4><span class="mw-headline" id="Tyres">Tyres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Tyres">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Pirelli" title="Pirelli">Pirelli</a> announced they would be supplying teams with the white-banded medium compound tyre as the prime selection and the yellow-banded soft compound as the option selection for the event.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Free_practice">Free practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Free practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Per the regulations for the 2015 season, three practice sessions were held, two 1.5-hour sessions on Friday and another one-hour session before qualifying on Saturday.<sup id="cite_ref-pracreg_35-0" class="reference"><a href="#cite_note-pracreg-35">&#91;35&#93;</a></sup> Mercedes confirmed their good form from pre-season testing and topped the time sheets by a considerable margin in the first two practice sessions on Friday, with <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> fastest in both outings. <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> in the <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a> was third fastest on Friday morning, some 1.2 seconds down on Rosberg's time.<sup id="cite_ref-fp1_36-0" class="reference"><a href="#cite_note-fp1-36">&#91;36&#93;</a></sup> Ferrari's new signing <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> was third on Friday afternoon, seven-tenths of a second down on Rosberg.<sup id="cite_ref-fp2_37-0" class="reference"><a href="#cite_note-fp2-37">&#91;37&#93;</a></sup> <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a> showed promising times, outperforming their sister team <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> in the first session. Only 16 cars participated on Friday morning. Sauber kept to the garage due to their legal troubles while Manor Marussia was unable to get their cars running all weekend.<sup id="cite_ref-fp1_36-1" class="reference"><a href="#cite_note-fp1-36">&#91;36&#93;</a></sup> The Saubers did go out for the second session, while local favourite <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a> and <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> missed the session due to problems with their cars.<sup id="cite_ref-fp2_37-1" class="reference"><a href="#cite_note-fp2-37">&#91;37&#93;</a></sup> McLaren's problems continued as both cars were limited to very few laps. The first session also saw another evaluation run of the new Virtual Safety Car system.<sup id="cite_ref-fp1_36-2" class="reference"><a href="#cite_note-fp1-36">&#91;36&#93;</a></sup>
+</p><p><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> got the better of his teammate during the third practice session on Saturday morning, as Rosberg only managed third behind Vettel, almost a second down on Hamilton. Both Williams and Ferrari had another good session, while Lotus got both their drivers in the top ten, raising hopes for a points finish on Sunday. Red Bull continued to struggle, with Ricciardo and <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a> down in 15th and 18th and Ricciardo's car stopping at the end of pit lane due to engine problems. Between them were the once more struggling McLaren drivers.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Qualifying consisted of three parts, 18, 15 and 12 minutes in length respectively, with five drivers eliminated from competing after each of the first two sessions.<sup id="cite_ref-pracreg_35-1" class="reference"><a href="#cite_note-pracreg-35">&#91;35&#93;</a></sup> Since the cars of Manor Marussia failed to start, only three drivers were eliminated during the first session of qualifying (Q1), all of which was run in dry conditions. The McLaren cars of <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and Kevin Magnussen struggled as expected, following their lack of pre-season testing and failed to make it into Q2, just as Sauber driver Marcus Ericsson. Mercedes and Williams' <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> were the only ones not having to use the softer tyres to proceed into the next part of qualifying.
+</p><p>The second session saw the Mercedes drivers doing only one timed run, which proved sufficient to proceed, while the <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a> and <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a> cars were split up, with <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a> and rookie Max Verstappen failing to make it through. Also eliminated were both <a href="/wiki/Force_India" title="Force India">Force India</a> drivers and the second Sauber of Felipe Nasr, though in a respectable eleventh place on the grid.
+</p><p>In Q3, <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> ran wide at turn 15 on his first flying lap and lost the chance to seek areas of improvement for his second run. <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>, who was fastest in all three sessions, capitalized on his teammate's problem and took pole position by over half a second. It was his 39th pole position and his 4th at Albert Park. The rest of the field was more than a second behind Hamilton's time, with <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> in the Williams best of the rest in third position. The two Ferrari cars of Sebastian Vettel and <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> proved their regained competitiveness by taking fourth and fifth on the grid respectively.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nico_Rosberg_obtuvo_el_segundo_lugar.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nico_Rosberg_obtuvo_el_segundo_lugar.jpg/220px-Nico_Rosberg_obtuvo_el_segundo_lugar.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nico_Rosberg_obtuvo_el_segundo_lugar.jpg/330px-Nico_Rosberg_obtuvo_el_segundo_lugar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nico_Rosberg_obtuvo_el_segundo_lugar.jpg/440px-Nico_Rosberg_obtuvo_el_segundo_lugar.jpg 2x" data-file-width="640" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nico_Rosberg_obtuvo_el_segundo_lugar.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> celebrates second place during the podium ceremony.</div></div></div>
+<p>Since the Manor Marussia cars were unable to make their race debut, there were 18 qualified cars left. Before the race began, Valtteri Bottas was sidelined due to a back injury sustained in qualifying.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> Both Daniil Kvyat's Red Bull and Kevin Magnussen's McLaren failed to make it to the grid as their cars broke down on the out-lap; Kvyat suffering transmission problems and Magnussen with an engine failure.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> This left the grid with 15 starters&#160;– the lowest number for a season-opening race since <a href="/wiki/1963_Formula_One_season" title="1963 Formula One season">1963</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> and the lowest overall since the infamous <a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">2005 United States Grand Prix</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p><p>At the start, Hamilton assumed the lead while a three-car wide tussle at turn one, involving <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>, Felipe Nasr and <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a>, resulted in Maldonado crashing out at turn two and race officials deploying the safety car. The next lap, <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>'s car failed thus taking both Lotus cars out of the race. Normal racing resumed on lap four, with Carlos Sainz Jr. falling back from fifth to his starting position in seventh place after being passed by Nasr and Daniel Ricciardo. Nasr also lost track position after being ordered by his team to relinquish a position for overtaking while still under safety car conditions.
+</p><p>Hamilton maintained in the lead until lap 25, when he made a pit stop for tyres. He resumed the lead from Rosberg after he too had to pit for new tyres. During this series of pitstops, Sebastian Vettel gained a position by passing Felipe Massa for third place. On lap 34, Max Verstappen retired while in a points-scoring position after his Toro Rosso was engulfed by smoke. On lap 42, Räikkönen also retired at turn four after a botched pitstop caused his left rear tyre to come loose. This put Jenson Button briefly into the tenth and final points position but for <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a> quickly passing the McLaren-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a> driver after a race long battle that begun at the start, for last position.
+</p><p>From there, the order remained relatively constant with Hamilton going on to take his 34th Grand Prix win. He was followed by Rosberg, Vettel, Massa and Nasr. Completing the point-scorers were Ricciardo, <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>, Ericsson, Sainz and Pérez. In all, only eleven cars finished the race with Button's McLaren being the only car to finish outside the points and everyone from sixth position down lapped.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</p><p>Ericsson, Nasr and Sainz all scored their first Formula One points, with Nasr and Sainz doing so on debut. In addition, Nasr achieved the highest placing for a Brazilian driver making their Grand Prix début.<sup id="cite_ref-Barretto_9-1" class="reference"><a href="#cite_note-Barretto-9">&#91;9&#93;</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There was satisfaction at Mercedes, with second-placed Nico Rosberg calling it "an awesome start to the season for us as a team".<sup id="cite_ref-pressconf_47-0" class="reference"><a href="#cite_note-pressconf-47">&#91;47&#93;</a></sup> Rosberg praised Lewis Hamilton's performance in particular, saying: "He drove like a world champion all weekend, so couldn't quite beat him but for sure I was trying every single lap, all the way to the maximum, and I will do all year."<sup id="cite_ref-pressconf_47-1" class="reference"><a href="#cite_note-pressconf-47">&#91;47&#93;</a></sup>
+</p><p>The dominant performance by the Mercedes cars sparked controversy in the paddock. Daniel Ricciardo issued apologies to the Australian fans after what he felt was a "boring" race.<sup id="cite_ref-boring_48-0" class="reference"><a href="#cite_note-boring-48">&#91;48&#93;</a></sup> Red Bull quarreled with their engine manufacturer Renault and lamented the dominance of their rivals, calling for the FIA to step in and apply rule changes to level the field,<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup> fearing that the public would lose interest in the sport if nothing happened.<sup id="cite_ref-telegraph_50-0" class="reference"><a href="#cite_note-telegraph-50">&#91;50&#93;</a></sup> Mercedes chief <a href="/wiki/Toto_Wolff" title="Toto Wolff">Toto Wolff</a> reacted furiously, telling his rivals to "get your fucking head down and work to sort it out", but later made it clear that he "didn't mean the f-word in relation to him" regarding the comments by <a href="/wiki/Christian_Horner" title="Christian Horner">Christian Horner</a>.<sup id="cite_ref-telegraph_50-1" class="reference"><a href="#cite_note-telegraph-50">&#91;50&#93;</a></sup> Nico Rosberg voiced hopes that their rivals would get closer over the course of the season, saying during the post-race press conference: "I hope we can have a good fight. That would be awesome."<sup id="cite_ref-pressconf_47-2" class="reference"><a href="#cite_note-pressconf-47">&#91;47&#93;</a></sup> This statement caused amusement from Sebastian Vettel, who replied: "Be honest. Do you really hope so? Seriously? You finished 30 seconds ahead of us and you hope it's going to be closer? So you hope you slow down? Is that what you're saying?"<sup id="cite_ref-pressconf_47-3" class="reference"><a href="#cite_note-pressconf-47">&#91;47&#93;</a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup>
+</p><p>Sauber was delighted by their performance over the weekend, having picked up 14 points in the very first race, compared to none in the entire previous season.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</p><p>Because Manor Marussia failed to notify the stewards of their inability to field a car, the team was summoned by the FIA to explain why they did not participate in qualifying.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup> However, the hearing provided sufficient evidence to the FIA's satisfaction that the team would have been unable to field their cars, even if they had violated curfew. Despite this, Ecclestone subsequently announced that Manor Marussia would have to cover their freight charges to and from Australia, costs normally covered by <a href="/wiki/Formula_One_Management" class="mw-redirect" title="Formula One Management">Formula One Management</a>.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=13" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 85%;">
+
+<tbody><tr>
+<th rowspan="2"><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th rowspan="2"><abbr title="Number">Car<br />no.</abbr>
+</th>
+<th rowspan="2">Driver
+</th>
+<th rowspan="2">Constructor
+</th>
+<th colspan="3"><span class="nowrap">Qualifying times</span>
+</th>
+<th rowspan="2"><abbr title="Final grid position">Final<br />grid</abbr>
+</th></tr>
+<tr>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Q3
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">44
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></span>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td><b>1:28.586</b>
+</td>
+<td><b>1:26.894</b>
+</td>
+<td><b>1:26.327</b>
+</td>
+<td align="center">1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">6
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:28.906
+</td>
+<td>1:27.097
+</td>
+<td>1:26.921
+</td>
+<td align="center">2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">19
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:29.246
+</td>
+<td>1:27.895
+</td>
+<td>1:27.718
+</td>
+<td align="center">3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">5
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></span>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:29.307
+</td>
+<td>1:27.742
+</td>
+<td>1:27.757
+</td>
+<td align="center">4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">7
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:29.754
+</td>
+<td>1:27.807
+</td>
+<td>1:27.790
+</td>
+<td align="center">5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">77
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:29.641
+</td>
+<td>1:27.796
+</td>
+<td>1:28.087
+</td>
+<td align="center">—<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:29.788
+</td>
+<td>1:28.679
+</td>
+<td>1:28.329
+</td>
+<td align="center">6
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">55
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></span>
+</td>
+<td>1:29.597
+</td>
+<td>1:28.601
+</td>
+<td>1:28.510
+</td>
+<td align="center">7
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:29.537
+</td>
+<td>1:28.589
+</td>
+<td>1:28.560
+</td>
+<td align="center">8
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">13
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a></span>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:29.847
+</td>
+<td>1:28.726
+</td>
+<td>1:29.480
+</td>
+<td align="center">9
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">12
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Nasr" title="Felipe Nasr">Felipe Nasr</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:30.430
+</td>
+<td>1:28.800
+</td>
+<td>
+</td>
+<td align="center">10
+</td></tr>
+<tr>
+<th>12
+</th>
+<td align="center">33
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:29.248
+</td>
+<td>1:28.868
+</td>
+<td>
+</td>
+<td align="center">11
+</td></tr>
+<tr>
+<th>13
+</th>
+<td align="center">26
+</td>
+<td><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:30.402
+</td>
+<td>1:29.070
+</td>
+<td>
+</td>
+<td align="center">12
+</td></tr>
+<tr>
+<th>14
+</th>
+<td align="center">27
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span>
+</td>
+<td>1:29.651
+</td>
+<td>1:29.208
+</td>
+<td>
+</td>
+<td align="center">13
+</td></tr>
+<tr>
+<th>15
+</th>
+<td align="center">11
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:29.990
+</td>
+<td>1:29.209
+</td>
+<td>
+</td>
+<td align="center">14
+</td></tr>
+<tr>
+<th>16
+</th>
+<td align="center">9
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:31.376
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">15
+</td></tr>
+<tr>
+<th>17
+</th>
+<td align="center">22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:31.422
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">16
+</td></tr>
+<tr>
+<th>18
+</th>
+<td align="center">20
+</td>
+<td><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span>&#160;&#160;<a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:32.037
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">17
+</td></tr>
+<tr>
+<th colspan="8"><a href="/wiki/107%25_rule" title="107% rule">107% time</a>: 1:34.787
+</th></tr>
+<tr>
+<th>DNP
+</th>
+<td align="center">28
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Will_Stevens" title="Will Stevens">Will Stevens</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><span class="nowrap">no time</span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNP
+</th>
+<td align="center">98
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Roberto_Merhi" title="Roberto Merhi">Roberto Merhi</a>
+</td>
+<td><a href="/wiki/Marussia_F1" title="Marussia F1">Marussia</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>no time
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-AUS_quali_8-1" class="reference"><a href="#cite_note-AUS_quali-8">&#91;8&#93;</a></sup>
+</th></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=14" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 85%;">
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th><abbr title="Car number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Laps
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">44
+</td>
+<td><b><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td><b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b>
+</td>
+<td align="center">58
+</td>
+<td>1:31:54.067
+</td>
+<td align="center">1
+</td>
+<td align="center"><b>25</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">6
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></b>
+</td>
+<td><b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b>
+</td>
+<td align="center">58
+</td>
+<td>+1.360
+</td>
+<td align="center">2
+</td>
+<td align="center"><b>18</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">5
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td align="center">58
+</td>
+<td>+34.523
+</td>
+<td align="center">4
+</td>
+<td align="center"><b>15</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">19
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b>
+</td>
+<td><b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td align="center">58
+</td>
+<td>+38.196
+</td>
+<td align="center">3
+</td>
+<td align="center"><b>12</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">12
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Nasr" title="Felipe Nasr">Felipe Nasr</a></b>
+</td>
+<td><b><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td align="center">58
+</td>
+<td>+1:35.149
+</td>
+<td align="center">10
+</td>
+<td align="center"><b>10</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">3
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a></b>
+</td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td align="center">57
+</td>
+<td>+1 Lap
+</td>
+<td align="center">6
+</td>
+<td align="center"><b>8</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">27
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a></b>
+</td>
+<td><b><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td align="center">57
+</td>
+<td>+1 Lap
+</td>
+<td align="center">13
+</td>
+<td align="center"><b>6</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">9
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a></b>
+</td>
+<td><b><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td align="center">57
+</td>
+<td>+1 Lap
+</td>
+<td align="center">15
+</td>
+<td align="center"><b>4</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">55
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td align="center">57
+</td>
+<td>+1 Lap
+</td>
+<td align="center">7
+</td>
+<td align="center"><b>2</b>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">11
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a></b>
+</td>
+<td><b><span class="nowrap"><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span></b>
+</td>
+<td align="center">57
+</td>
+<td>+1 Lap
+</td>
+<td align="center">14
+</td>
+<td align="center"><b>1</b>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td align="center">56
+</td>
+<td>+2 Laps
+</td>
+<td align="center">16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">7
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="center">40
+</td>
+<td>Wheel
+</td>
+<td align="center">5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">33
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="center">32
+</td>
+<td>Engine
+</td>
+<td align="center">11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="center">0
+</td>
+<td>Power loss
+</td>
+<td align="center">8
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">13
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pastor_Maldonado" title="Pastor Maldonado">Pastor Maldonado</a></span>
+</td>
+<td><a href="/wiki/Lotus_F1" title="Lotus F1">Lotus</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="center">0
+</td>
+<td>Collision
+</td>
+<td align="center">9
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNS
+</th>
+<td align="center">26
+</td>
+<td><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="center">0
+</td>
+<td>Gearbox
+</td>
+<td align="center">—<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNS
+</th>
+<td align="center">20
+</td>
+<td><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span>&#160;&#160;<a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td align="center">0
+</td>
+<td>Engine
+</td>
+<td align="center">—<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNS
+</th>
+<td align="center">77
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a></span>
+</td>
+<td><span class="nowrap"><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span>
+</td>
+<td align="center">0
+</td>
+<td>Injury
+</td>
+<td align="center">—<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-Barretto_9-2" class="reference"><a href="#cite_note-Barretto-9">&#91;9&#93;</a></sup>
+</th></tr>
+</tbody></table>
+<p><b>Notes:</b>
+</p>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – Both Kvyat's and Magnussen's cars failed on the way from the pitlane to the starting grid.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup></li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span>  – As <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> was unable to start the race due to a back injury suffered during qualifying and spending the night at the hospital without being cleared to race by the FIA,<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup> all cars behind him moved up one place to close the gap. However, while <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a> and <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a>'s cars failed while driving to the grid, their vacant grid spaces were not filled.</li></ul>
+<h3><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=15" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td align="left">25
+</td></tr>
+<tr>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td align="left">18
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></span>
+</td>
+<td align="left">15
+</td></tr>
+<tr>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td align="left">12
+</td></tr>
+<tr>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Nasr" title="Felipe Nasr">Felipe Nasr</a>
+</td>
+<td align="left">10
+</td></tr>
+<tr>
+<th colspan="3">Source:<sup id="cite_ref-champ_58-0" class="reference"><a href="#cite_note-champ-58">&#91;58&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td align="left">43
+</td></tr>
+<tr>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">15
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span>&#160;&#160;&#160;<a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">14
+</td></tr>
+<tr>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="left">12
+</td></tr>
+<tr>
+<td align="center">5
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></span>
+</td>
+<td align="left">8
+</td></tr>
+<tr>
+<th colspan="3">Source:<sup id="cite_ref-champ_58-1" class="reference"><a href="#cite_note-champ-58">&#91;58&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fiadata-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-fiadata_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fia.com/sites/default/files/oz_preview.pdf">"Race Preview: 2015 Australian Grand Prix"</a> <span class="cs1-format">(PDF)</span>. Fédération Internationale de l'Automobile. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530045832/http://www.fia.com/sites/default/files/oz_preview.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 30 May 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Race+Preview%3A+2015+Australian+Grand+Prix&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fsites%2Fdefault%2Ffiles%2Foz_preview.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-fom-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-fom_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fom_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150601025512/http://www.formula1.com/content/fom-website/en/championship/races/2015/Australia.html">"2015 Formula 1 Rolex Australian Grand Prix"</a>. <i>Formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/content/fom-website/en/championship/races/2015/Australia.html">the original</a> on 1 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2015+Formula+1+Rolex+Australian+Grand+Prix&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fcontent%2Ffom-website%2Fen%2Fchampionship%2Fraces%2F2015%2FAustralia.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.motorsport-total.com/f1/ergeb/2015/01/71.shtml">"GP Australien in Melbourne / Rennen"</a> &#91;GP Australia in Melbourne / Race&#93;. <i>motorsport-total.com</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=motorsport-total.com&amp;rft.atitle=GP+Australien+in+Melbourne+%2F+Rennen&amp;rft_id=http%3A%2F%2Fwww.motorsport-total.com%2Ff1%2Fergeb%2F2015%2F01%2F71.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15_calendar-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-15_calendar_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.fia.com/news/world-motor-sport-council-2014-beijing">"World Motor Sport Council 2014&#160;– Beijing"</a>. <i>FIA.com</i>. <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a>. 12 September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FIA.com&amp;rft.atitle=World+Motor+Sport+Council+2014+%E2%80%93+Beijing&amp;rft.date=2014-09-12&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fnews%2Fworld-motor-sport-council-2014-beijing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15_calendar_2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-15_calendar_2_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141209015722/http://www.fia.com/node/9172">"World Motor Sport Council 2014&#160;– Doha"</a>. <i>FIA.com</i>. <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a>. 3 December 2014. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/node/9172">the original</a> on 9 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FIA.com&amp;rft.atitle=World+Motor+Sport+Council+2014+%E2%80%93+Doha&amp;rft.date=2014-12-03&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fnode%2F9172&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150403131307/http://en.espn.co.uk/f1/motorsport/page/2597.html">"A history of the Australian Grand Prix"</a>. ESPN. Archived from <a rel="nofollow" class="external text" href="http://en.espnf1.com/f1/motorsport/page/2597.html">the original</a> on 3 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+history+of+the+Australian+Grand+Prix&amp;rft_id=http%3A%2F%2Fen.espnf1.com%2Ff1%2Fmotorsport%2Fpage%2F2597.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140414005638/http://forix.autosport.com/login.php?l=0&amp;p=gp.php%3Fl%3D0%7Cr%3D20140001%7Cc%3D2">"2014 Formula 1 Rolex Australian Grand Prix&#160;– Results"</a>. <i>FORIX</i>. <a href="/wiki/Autosport" title="Autosport">Autosport</a>. 16 March 2014. Archived from <a rel="nofollow" class="external text" href="http://forix.autosport.com/gp.php?l=0&amp;r=20140001&amp;c=2">the original</a> on 14 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FORIX&amp;rft.atitle=2014+Formula+1+Rolex+Australian+Grand+Prix+%E2%80%93+Results&amp;rft.date=2014-03-16&amp;rft_id=http%3A%2F%2Fforix.autosport.com%2Fgp.php%3Fl%3D0%26r%3D20140001%26c%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-AUS_quali-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-AUS_quali_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AUS_quali_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/content/fom-website/en/championship/results/2015-race-results/2015-australia-results/qualifying.html">"2015 Australia Grand Prix&#160;– Qualifying results"</a>. <i>Formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. 14 March 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2015+Australia+Grand+Prix+%E2%80%93+Qualifying+results&amp;rft.date=2014-03-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fcontent%2Ffom-website%2Fen%2Fchampionship%2Fresults%2F2015-race-results%2F2015-australia-results%2Fqualifying.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Barretto-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Barretto_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Barretto_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Barretto_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBarretto2015" class="citation news cs1">Barretto, Lawrence (15 March 2015). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/118069">"Lewis Hamilton beats Nico Rosberg to win"</a>. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i>. <a href="/wiki/Haymarket_Media_Group" title="Haymarket Media Group">Haymarket Publications</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Autosport&amp;rft.atitle=Lewis+Hamilton+beats+Nico+Rosberg+to+win&amp;rft.date=2015-03-15&amp;rft.aulast=Barretto&amp;rft.aufirst=Lawrence&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F118069&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFWoolcock2015" class="citation news cs1">Woolcock, Adam (15 March 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/live/2015/mar/15/australian-gp-f1-2015-live">"Australian GP: F1 2015 – as it happened"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. <a href="/wiki/Guardian_Media_Group" title="Guardian Media Group">Guardian Media Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Australian+GP%3A+F1+2015+%E2%80%93+as+it+happened&amp;rft.date=2015-03-15&amp;rft.aulast=Woolcock&amp;rft.aufirst=Adam&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Flive%2F2015%2Fmar%2F15%2Faustralian-gp-f1-2015-live&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-ps_crash-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ps_crash_11-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBarstow2015" class="citation web cs1">Barstow, Ollie (2 March 2015). <a rel="nofollow" class="external text" href="https://www.crash.net/f1/feature/215209/1/what-we-learned-during-preseason-f1-testing.html">"What we learned during pre-season F1 testing"</a>. crash.net<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+we+learned+during+pre-season+F1+testing&amp;rft.pub=crash.net&amp;rft.date=2015-03-02&amp;rft.aulast=Barstow&amp;rft.aufirst=Ollie&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Ffeature%2F215209%2F1%2Fwhat-we-learned-during-preseason-f1-testing.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-ps_guardian-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ps_guardian_12-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFWeaver2015" class="citation web cs1">Weaver, Paul (5 February 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/blog/2015/feb/05/f1-2015-jerez-10-things-we-learned">"F1 2015: 10 things we learned from the Jerez testing session"</a>. <i>guardian.co.uk</i>. The Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=guardian.co.uk&amp;rft.atitle=F1+2015%3A+10+things+we+learned+from+the+Jerez+testing+session&amp;rft.date=2015-02-05&amp;rft.aulast=Weaver&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2Fblog%2F2015%2Ffeb%2F05%2Ff1-2015-jerez-10-things-we-learned&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.crash.net/f1/results/215237/1/2015-f1-preseason-testing-laps-and-mileage.html">"2015 F1 pre-season testing - laps and mileage"</a>. crash.net. 3 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015+F1+pre-season+testing+-+laps+and+mileage&amp;rft.pub=crash.net&amp;rft.date=2015-03-03&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Fresults%2F215237%2F1%2F2015-f1-preseason-testing-laps-and-mileage.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFBenson2015" class="citation web cs1">Benson, Andrew (3 March 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150304072227/http://www.bbc.com/sport/0/formula1/31713292">"Fernando Alonso: McLaren driver to miss Australian Grand Prix"</a>. <i>bbc.com</i>. BBC. Archived from <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/0/formula1/31713292">the original</a> on 4 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bbc.com&amp;rft.atitle=Fernando+Alonso%3A+McLaren+driver+to+miss+Australian+Grand+Prix&amp;rft.date=2015-03-03&amp;rft.aulast=Benson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2F0%2Fformula1%2F31713292&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (28 January 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/01/28/force-india-rules-using-old-car-first-jerez-test/">"Force India rules out using old car at first Jerez test"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Force+India+rules+out+using+old+car+at+first+Jerez+test&amp;rft.pub=F1Fanatic&amp;rft.date=2015-01-28&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F01%2F28%2Fforce-india-rules-using-old-car-first-jerez-test%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (26 February 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/02/26/hulkenberg-will-be-first-to-drive-new-force-india/">"Hulkenberg will be first to drive new Force India"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hulkenberg+will+be+first+to+drive+new+Force+India&amp;rft.pub=F1Fanatic&amp;rft.date=2015-02-26&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F02%2F26%2Fhulkenberg-will-be-first-to-drive-new-force-india%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFMedland2015" class="citation web cs1">Medland, Chris (22 February 2015). <a rel="nofollow" class="external text" href="http://en.f1i.com/news/4431-concussed-alonso-stay-hospital-overnight.html">"Concussed Alonso to stay in hospital overnight"</a>. <i>F1i</i>. Chris Medland<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=F1i&amp;rft.atitle=Concussed+Alonso+to+stay+in+hospital+overnight&amp;rft.date=2015-02-22&amp;rft.aulast=Medland&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fen.f1i.com%2Fnews%2F4431-concussed-alonso-stay-hospital-overnight.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150311211803/http://www.formula1.com/news/headlines/2015/3/16854.html">"Alonso to miss Australian race on medical advice"</a>. <i>Formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. 3 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2015/3/16854.html">the original</a> on 11 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">3 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Alonso+to+miss+Australian+race+on+medical+advice&amp;rft.date=2015-03-03&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2015%2F3%2F16854.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREFBenson2015" class="citation web cs1">Benson, Andrew (4 February 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150207100742/http://www.bbc.co.uk/sport/0/formula1/31127165">"Marussia team could make Formula 1 return this season"</a>. BBC Sport. Archived from <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/0/formula1/31127165">the original</a> on 7 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marussia+team+could+make+Formula+1+return+this+season&amp;rft.pub=BBC+Sport&amp;rft.date=2015-02-04&amp;rft.aulast=Benson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Fformula1%2F31127165&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Merhi-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Merhi_20-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFFreeman2015" class="citation web cs1">Freeman, Glenn (9 March 2015). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/117975">"Roberto Merhi to race for Manor F1 team in Australian Grand Prix"</a>. <i>Autosport.com</i>. <a href="/wiki/Haymarket_Media_Group" title="Haymarket Media Group">Haymarket Media Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport.com&amp;rft.atitle=Roberto+Merhi+to+race+for+Manor+F1+team+in+Australian+Grand+Prix&amp;rft.date=2015-03-09&amp;rft.aulast=Freeman&amp;rft.aufirst=Glenn&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F117975&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150307163503/http://www.bbc.co.uk/sport/0/formula1/31752616">"Giedo van der Garde: Ex-Sauber test driver takes legal action"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 5 March 2015. Archived from <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/0/formula1/31752616">the original</a> on 7 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">5 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Giedo+van+der+Garde%3A+Ex-Sauber+test+driver+takes+legal+action&amp;rft.date=2015-03-05&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Fformula1%2F31752616&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Allens-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Allens_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Allens_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allens.com.au/pubs/arb/cuarb16mar15.htm">"Client Update: The driver, the racing team, the Grand Prix and the court&#160;– high-speed arbitration enforcement in the Victorian Supreme Court"</a>. Allens. 16 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Client+Update%3A+The+driver%2C+the+racing+team%2C+the+Grand+Prix+and+the+court+%E2%80%93+high-speed+arbitration+enforcement+in+the+Victorian+Supreme+Court&amp;rft.pub=Allens&amp;rft.date=2015-03-16&amp;rft_id=http%3A%2F%2Fwww.allens.com.au%2Fpubs%2Farb%2Fcuarb16mar15.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (10 March 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150311230702/http://www.f1fanatic.co.uk/2015/03/11/sauber-will-not-risk-safety-after-van-der-garde-ruling/">"Sauber will not risk safety after van der Garde ruling"</a>. <i>F1 Fanatic</i>. Keith Collantine. Archived from <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/11/sauber-will-not-risk-safety-after-van-der-garde-ruling/">the original</a> on 11 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Sauber+will+not+risk+safety+after+van+der+Garde+ruling&amp;rft.date=2015-03-10&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F11%2Fsauber-will-not-risk-safety-after-van-der-garde-ruling%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFCooper2015" class="citation news cs1">Cooper, Adam (11 March 2015). <a rel="nofollow" class="external text" href="http://adamcooperf1.com/2015/03/11/van-der-garde-case-drags-into-thursday-as-sauber-appeal-continues/">"Van der Garde case drags into Thursday as Sauber appeal continues"</a>. <i>Adam Cooper's F1 Blog</i>. <a href="/wiki/WordPress" title="WordPress">WordPress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Adam+Cooper%27s+F1+Blog&amp;rft.atitle=Van+der+Garde+case+drags+into+Thursday+as+Sauber+appeal+continues&amp;rft.date=2015-03-11&amp;rft.aulast=Cooper&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fadamcooperf1.com%2F2015%2F03%2F11%2Fvan-der-garde-case-drags-into-thursday-as-sauber-appeal-continues%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-appeal_specifics-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-appeal_specifics_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-appeal_specifics_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHoward2015" class="citation news cs1">Howard, Tom (12 March 2015). <a rel="nofollow" class="external text" href="http://www.speedcafe.com/2015/03/12/court-to-decide-van-der-garde-fate-this-afternoon/">"Court to decide van der Garde fate this afternoon"</a>. <i>Speedcafe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Speedcafe.com&amp;rft.atitle=Court+to+decide+van+der+Garde+fate+this+afternoon&amp;rft.date=2015-03-12&amp;rft.aulast=Howard&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fwww.speedcafe.com%2F2015%2F03%2F12%2Fcourt-to-decide-van-der-garde-fate-this-afternoon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation news cs1">Collantine, Keith (12 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/12/sauber-loses-appeal-against-van-der-garde-judgement/">"Sauber loses appeal against van der Garde judgement"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Sauber+loses+appeal+against+van+der+Garde+judgement&amp;rft.date=2015-03-12&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F12%2Fsauber-loses-appeal-against-van-der-garde-judgement%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite id="CITEREFCooper2015" class="citation news cs1">Cooper, Adam (13 March 2015). <a rel="nofollow" class="external text" href="http://adamcooperf1.com/2015/03/13/sauber-case-continues-but-agreement-could-be-close/">"Sauber case continues but agreement could be close"</a>. <i>Adam Cooper's F1 Blog</i>. <a href="/wiki/WordPress" title="WordPress">WordPress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Adam+Cooper%27s+F1+Blog&amp;rft.atitle=Sauber+case+continues+but+agreement+could+be+close&amp;rft.date=2015-03-13&amp;rft.aulast=Cooper&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fadamcooperf1.com%2F2015%2F03%2F13%2Fsauber-case-continues-but-agreement-could-be-close%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.fia.com/sites/default/files/championship/documents/20150312/Formula%20One%20Australian%20Grand%20Prix%202015%20Document%20-%205_0.pdf">"2015 Australian Grand Prix - Entry List"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a>. 12 March 2015. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150312173340/http://www.fia.com/sites/default/files/championship/documents/20150312/Formula%20One%20Australian%20Grand%20Prix%202015%20Document%20-%205_0.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 12 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FIA.com&amp;rft.atitle=2015+Australian+Grand+Prix+-+Entry+List&amp;rft.date=2015-03-12&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fsites%2Fdefault%2Ffiles%2Fchampionship%2Fdocuments%2F20150312%2FFormula%2520One%2520Australian%2520Grand%2520Prix%25202015%2520Document%2520-%25205_0.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFRose2015" class="citation web cs1">Rose, Gary (13 March 2015). <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/live/formula1/31748403">"Australian Grand Prix first practice"</a>. <i>BBC Sport</i>. <a href="/wiki/British_Broadcasting_Corporation" class="mw-redirect" title="British Broadcasting Corporation">British Broadcasting Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Australian+Grand+Prix+first+practice&amp;rft.date=2015-03-13&amp;rft.aulast=Rose&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Flive%2Fformula1%2F31748403&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://autoweek.com/article/formula-one/sauber-f1-teams-settles-van-der-garde-16-million">"Sauber Formula One team settles with van der Garde for $16&#160;million"</a>. AUTOWEEK. 17 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sauber+Formula+One+team+settles+with+van+der+Garde+for+%2416+million&amp;rft.date=2015-03-17&amp;rft_id=http%3A%2F%2Fautoweek.com%2Farticle%2Fformula-one%2Fsauber-f1-teams-settles-van-der-garde-16-million&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-FP2-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-FP2_31-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation news cs1">Collantine, Keith (13 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/13/mercedes-leads-ferrari-in-second-practice/">"Mercedes leads Ferrari in second practice"</a>. <i>F1 Fanatic</i>. Keith Collantine<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=F1+Fanatic&amp;rft.atitle=Mercedes+leads+Ferrari+in+second+practice&amp;rft.date=2015-03-13&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F13%2Fmercedes-leads-ferrari-in-second-practice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150315093222/http://www.formula1.com/content/fom-website/en/latest/headlines/2015/van-der-garde-drops-legal-action--won-t-race-for-sauber-in-austr.html">"Van der Garde won't race for Sauber in Australia"</a>. <i>F1.com</i>. 14 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/content/fom-website/en/latest/headlines/2015/van-der-garde-drops-legal-action--won-t-race-for-sauber-in-austr.html">the original</a> on 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=F1.com&amp;rft.atitle=Van+der+Garde+won%27t+race+for+Sauber+in+Australia&amp;rft.date=2015-03-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fcontent%2Ffom-website%2Fen%2Flatest%2Fheadlines%2F2015%2Fvan-der-garde-drops-legal-action--won-t-race-for-sauber-in-austr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite id="CITEREFCooper2015" class="citation news cs1">Cooper, Adam (14 March 2015). <a rel="nofollow" class="external text" href="http://adamcooperf1.com/2015/03/13/van-der-garde-and-sauber-reach-agreement-but-story-inot-over-yet/">"Van der Garde and Sauber reach agreement but story not over yet"</a>. <i>Adam Cooper's F1 Blog</i>. <a href="/wiki/WordPress" title="WordPress">WordPress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Adam+Cooper%27s+F1+Blog&amp;rft.atitle=Van+der+Garde+and+Sauber+reach+agreement+but+story+not+over+yet&amp;rft.date=2015-03-14&amp;rft.aulast=Cooper&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fadamcooperf1.com%2F2015%2F03%2F13%2Fvan-der-garde-and-sauber-reach-agreement-but-story-inot-over-yet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150309224731/http://www.formula1.com/news/headlines/2015/3/16856.html">"Pirelli reveal tyre choices for first four races"</a>. <i>Formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. 4 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2015/3/16856.html">the original</a> on 9 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Pirelli+reveal+tyre+choices+for+first+four+races&amp;rft.date=2015-03-04&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2015%2F3%2F16856.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pracreg-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-pracreg_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pracreg_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150905082403/http://www.formula1.com/content/fom-website/en/championship/inside-f1/rules-regs/Practice_qualifying_and_race_start_procedure.html">"Practice and qualifying"</a>. <i>formula1.com</i>. FOM. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/content/fom-website/en/championship/inside-f1/rules-regs/Practice_qualifying_and_race_start_procedure.html">the original</a> on 5 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=formula1.com&amp;rft.atitle=Practice+and+qualifying&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fcontent%2Ffom-website%2Fen%2Fchampionship%2Finside-f1%2Frules-regs%2FPractice_qualifying_and_race_start_procedure.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fp1-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-fp1_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fp1_36-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fp1_36-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (13 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/13/mercedes-fly-but-sauber-and-manor-sit-out-first-practice/">"Mercedes fly but Sauber and Manor miss first practice"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mercedes+fly+but+Sauber+and+Manor+miss+first+practice&amp;rft.pub=F1Fanatic&amp;rft.date=2015-03-13&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F13%2Fmercedes-fly-but-sauber-and-manor-sit-out-first-practice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fp2-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-fp2_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fp2_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (13 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/13/mercedes-leads-ferrari-in-second-practice/">"Mercedes leads Ferrari in second practice"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mercedes+leads+Ferrari+in+second+practice&amp;rft.pub=F1Fanatic&amp;rft.date=2015-03-13&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F13%2Fmercedes-leads-ferrari-in-second-practice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (14 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/14/hamilton-ahead-as-practice-ends-without-manor-running/">"Hamilton ahead as practice ends without Manor"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hamilton+ahead+as+practice+ends+without+Manor&amp;rft.pub=F1Fanatic&amp;rft.date=2015-03-14&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F14%2Fhamilton-ahead-as-practice-ends-without-manor-running%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollantine2015" class="citation web cs1">Collantine, Keith (14 March 2015). <a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2015/03/14/hamilton-leads-mercedes-rout-in-qualifying/">"Hamilton leads Mercedes rout in qualifying"</a>. F1Fanatic<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hamilton+leads+Mercedes+rout+in+qualifying&amp;rft.pub=F1Fanatic&amp;rft.date=2015-03-14&amp;rft.aulast=Collantine&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.f1fanatic.co.uk%2F2015%2F03%2F14%2Fhamilton-leads-mercedes-rout-in-qualifying%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite id="CITEREFWeaver2015" class="citation web cs1">Weaver, Paul (14 March 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2015/mar/14/lewis-hamilton-pole-australian-grand-prix">"Lewis Hamilton dominates to take pole position at Australian Grand Prix"</a>. <i>guardian.co.uk</i>. The Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=guardian.co.uk&amp;rft.atitle=Lewis+Hamilton+dominates+to+take+pole+position+at+Australian+Grand+Prix&amp;rft.date=2015-03-14&amp;rft.aulast=Weaver&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2015%2Fmar%2F14%2Flewis-hamilton-pole-australian-grand-prix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite id="CITEREFLinden2015" class="citation web cs1">Linden, Julian (15 March 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150321143831/http://uk.reuters.com/article/2015/03/15/uk-motor-racing-prix-bottas-idUKKBN0MB04F20150315">"Injured Bottas misses Australian GP"</a>. Reuters. Archived from <a rel="nofollow" class="external text" href="http://uk.reuters.com/article/2015/03/15/uk-motor-racing-prix-bottas-idUKKBN0MB04F20150315">the original</a> on 21 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Injured+Bottas+misses+Australian+GP&amp;rft.date=2015-03-15&amp;rft.aulast=Linden&amp;rft.aufirst=Julian&amp;rft_id=http%3A%2F%2Fuk.reuters.com%2Farticle%2F2015%2F03%2F15%2Fuk-motor-racing-prix-bottas-idUKKBN0MB04F20150315&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/118068">"F1 Australian GP: Kevin Magnussen and Daniil Kvyat fail to start"</a>. autosport.com. 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=F1+Australian+GP%3A+Kevin+Magnussen+and+Daniil+Kvyat+fail+to+start&amp;rft.pub=autosport.com&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F118068&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite id="CITEREFRose2015" class="citation web cs1">Rose, Gary (15 March 2015). <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/live/formula1/31580364">"Lewis Hamilton wins Australian Grand Prix"</a>. <i>bbc.com</i>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bbc.com&amp;rft.atitle=Lewis+Hamilton+wins+Australian+Grand+Prix&amp;rft.date=2015-03-15&amp;rft.aulast=Rose&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Flive%2Fformula1%2F31580364&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite id="CITEREFCaygill2015" class="citation web cs1">Caygill, Graham (15 March 2015). <a rel="nofollow" class="external text" href="http://www.thenational.ae/sport/formula-one/lewis-hamilton-wins-australian-gp-sebastian-vettel-nabs-podium-for-ferrari-as-only-11-finish">"Lewis Hamilton wins Australian GP; Sebastian Vettel nabs podium for Ferrari as only 11 finish"</a>. <i>thenational.ae</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thenational.ae&amp;rft.atitle=Lewis+Hamilton+wins+Australian+GP%3B+Sebastian+Vettel+nabs+podium+for+Ferrari+as+only+11+finish&amp;rft.date=2015-03-15&amp;rft.aulast=Caygill&amp;rft.aufirst=Graham&amp;rft_id=http%3A%2F%2Fwww.thenational.ae%2Fsport%2Fformula-one%2Flewis-hamilton-wins-australian-gp-sebastian-vettel-nabs-podium-for-ferrari-as-only-11-finish&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/sport/motorsport/formulaone/11473092/Australian-Grand-Prix-2015-live.html">"Australian Grand Prix 2015: as it happened"</a>. <i>The Telegraph</i>. 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft.atitle=Australian+Grand+Prix+2015%3A+as+it+happened&amp;rft.date=2015-03-15&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fsport%2Fmotorsport%2Fformulaone%2F11473092%2FAustralian-Grand-Prix-2015-live.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150316092832/http://www.formula1.com/content/fom-website/en/latest/features/2015/melbourne-stats---nasr-ends-sauber-s-pointless-streak-on-dream-d.html">"Melbourne stats - Nasr ends Sauber's pointless streak in style"</a>. <i>Formula1.com</i>. <a href="/wiki/Formula_One_Group" title="Formula One Group">Formula One Administration</a>. 15 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/content/fom-website/en/latest/features/2015/melbourne-stats---nasr-ends-sauber-s-pointless-streak-on-dream-d.html">the original</a> on 16 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Melbourne+stats+-+Nasr+ends+Sauber%27s+pointless+streak+in+style&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fcontent%2Ffom-website%2Fen%2Flatest%2Ffeatures%2F2015%2Fmelbourne-stats---nasr-ends-sauber-s-pointless-streak-on-dream-d.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pressconf-47"><span class="mw-cite-backlink">^ <a href="#cite_ref-pressconf_47-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pressconf_47-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pressconf_47-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pressconf_47-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150315105235/http://www.planetf1.com/grand-prix/australia/press-conference">"Sunday's FIA press conference"</a>. PlanetF1. 15 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.planetf1.com/grand-prix/australia/press-conference">the original</a> on 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sunday%27s+FIA+press+conference&amp;rft.pub=PlanetF1&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.planetf1.com%2Fgrand-prix%2Faustralia%2Fpress-conference&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-boring-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-boring_48-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://autoweek.com/article/formula-one/australian-gp-boring-race-according-f1-driver-ricciardo">"Australian Grand Prix a 'boring race,' according to F1 driver Ricciardo"</a>. autoweek.com. 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Australian+Grand+Prix+a+%27boring+race%2C%27+according+to+F1+driver+Ricciardo&amp;rft.pub=autoweek.com&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fautoweek.com%2Farticle%2Fformula-one%2Faustralian-gp-boring-race-according-f1-driver-ricciardo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite id="CITEREFWeaver2015" class="citation web cs1">Weaver, Paul (15 March 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2015/mar/15/red-bull-christian-horner-fia-f1-season">"Red Bull's Christian Horner asks FIA for help to save F1 season"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Red+Bull%27s+Christian+Horner+asks+FIA+for+help+to+save+F1+season&amp;rft.date=2015-03-15&amp;rft.aulast=Weaver&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2015%2Fmar%2F15%2Fred-bull-christian-horner-fia-f1-season&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-telegraph-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-telegraph_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-telegraph_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFJohnson2015" class="citation web cs1">Johnson, Daniel (15 March 2015). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/sport/motorsport/formulaone/lewishamilton/11473582/Lewis-Hamilton-wins-Australian-Grand-Prix-easily-but-sparks-furious-outburst-from-Mercedes-rivals.html">"Lewis Hamilton wins Australian Grand Prix easily but sparks furious outburst from Mercedes' rivals"</a>. <i>The Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Telegraph&amp;rft.atitle=Lewis+Hamilton+wins+Australian+Grand+Prix+easily+but+sparks+furious+outburst+from+Mercedes%27+rivals&amp;rft.date=2015-03-15&amp;rft.aulast=Johnson&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fsport%2Fmotorsport%2Fformulaone%2Flewishamilton%2F11473582%2FLewis-Hamilton-wins-Australian-Grand-Prix-easily-but-sparks-furious-outburst-from-Mercedes-rivals.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150320034743/http://www.planetf1.com/driver/3308/37382/Seb-2-Nico-0-in-press-conference">"Seb 2, Nico 0 in press conference"</a>. PlanetF1. 16 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.planetf1.com/driver/3308/37382/Seb-2-Nico-0-in-press-conference">the original</a> on 20 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Seb+2%2C+Nico+0+in+press+conference&amp;rft.pub=PlanetF1&amp;rft.date=2015-03-16&amp;rft_id=http%3A%2F%2Fwww.planetf1.com%2Fdriver%2F3308%2F37382%2FSeb-2-Nico-0-in-press-conference&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150321194334/http://www.planetf1.com/driver/3308/37154/Nasr-delighted-with-P5-in-emotional-race">"Nasr delighted with P5 in 'emotional race<span class="cs1-kern-right">'</span>"</a>. PlanetF1. 15 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.planetf1.com/driver/3308/37154/Nasr-delighted-with-P5-in-emotional-race">the original</a> on 21 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nasr+delighted+with+P5+in+%27emotional+race%27&amp;rft.pub=PlanetF1&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.planetf1.com%2Fdriver%2F3308%2F37154%2FNasr-delighted-with-P5-in-emotional-race&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2015" class="citation news cs1">Elizalde, Pablo (14 March 2015). <a rel="nofollow" class="external text" href="http://www.motorsport.com/f1/news/fia-summons-manor-after-missing-qualifying/">"FIA summons Manor after missing qualifying"</a>. <i>Motorsport.com</i>. Motorsport.com, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Motorsport.com&amp;rft.atitle=FIA+summons+Manor+after+missing+qualifying&amp;rft.date=2015-03-14&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.motorsport.com%2Ff1%2Fnews%2Ffia-summons-manor-after-missing-qualifying%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/323231/fia-clears-manor-over-qualifying-absence/">"FIA clears Manor over qualifying absence"</a>. <i>GP Update</i>. GP Update. 15 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=GP+Update&amp;rft.atitle=FIA+clears+Manor+over+qualifying+absence&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F323231%2Ffia-clears-manor-over-qualifying-absence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/323295/manor-to-pay-for-australia-freight-costs/">"Manor to pay Australian GP freight costs"</a>. <i>GP Update</i>. GP Update. 16 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=GP+Update&amp;rft.atitle=Manor+to+pay+Australian+GP+freight+costs&amp;rft.date=2015-03-16&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F323295%2Fmanor-to-pay-for-australia-freight-costs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite id="CITEREFBenson2015" class="citation news cs1">Benson, Andrew (15 March 2015). <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/live/formula1/31580364">"How the Australian GP unfolded"</a>. <i>BBC sport</i>. <a href="/wiki/British_Broadcasting_Corporation" class="mw-redirect" title="British Broadcasting Corporation">British Broadcasting Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+sport&amp;rft.atitle=How+the+Australian+GP+unfolded&amp;rft.date=2015-03-15&amp;rft.aulast=Benson&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Flive%2Fformula1%2F31580364&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150316145026/http://www.williamsf1.com/racing/news/bottas-declared-unfit-to-race-in-australian-gp">"Bottas declared unfit to race in Australian GP"</a>. <i><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams Grand Prix Engineering</a></i>. Williams Grand Prix Engineering Limited. 15 March 2015. Archived from <a rel="nofollow" class="external text" href="http://www.williamsf1.com/racing/news/bottas-declared-unfit-to-race-in-australian-gp">the original</a> on 16 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Williams+Grand+Prix+Engineering&amp;rft.atitle=Bottas+declared+unfit+to+race+in+Australian+GP&amp;rft.date=2015-03-15&amp;rft_id=http%3A%2F%2Fwww.williamsf1.com%2Fracing%2Fnews%2Fbottas-declared-unfit-to-race-in-australian-gp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_58-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2015/australie/championnat.aspx">"Australia 2015 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Australia+2015+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2015%2Faustralie%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2015+Australian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2015_Australian_Grand_Prix&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.grandprix.com.au/index.php">Official website</a></span></span></li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2015_Australian_Grand_Prix" class="extiw" title="commons:Category:2015 Australian Grand Prix"><span style="">2015 Australian Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2014_Abu_Dhabi_Grand_Prix" title="2014 Abu Dhabi Grand Prix">2014 Abu Dhabi Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2015_Malaysian_Grand_Prix" title="2015 Malaysian Grand Prix">2015 Malaysian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">2014 Australian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Australian_Grand_Prix" title="Australian Grand Prix">Australian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2016_Australian_Grand_Prix" title="2016 Australian Grand Prix">2016 Australian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2010%E2%80%9319" title="Template talk:F1GP 2010–19"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2010%E2%80%9319&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2010–19)<div style="float: right;"><a href="/wiki/Template:F1GP_2020%E2%80%9329" title="Template:F1GP 2020–29"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2019_Australian_Grand_Prix" title="2019 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2019_Bahrain_Grand_Prix" title="2019 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2019_Chinese_Grand_Prix" title="2019 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2019_Azerbaijan_Grand_Prix" title="2019 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2019_Spanish_Grand_Prix" title="2019 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2019_Monaco_Grand_Prix" title="2019 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2019_Canadian_Grand_Prix" title="2019 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2019_French_Grand_Prix" title="2019 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2019_German_Grand_Prix" title="2019 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2019_Belgian_Grand_Prix" title="2019 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2019_Italian_Grand_Prix" title="2019 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2019_Singapore_Grand_Prix" title="2019 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2019_Russian_Grand_Prix" title="2019 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2019_Japanese_Grand_Prix" title="2019 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2019_Mexican_Grand_Prix" title="2019 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2019_United_States_Grand_Prix" title="2019 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2019_Brazilian_Grand_Prix" title="2019 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2019_Abu_Dhabi_Grand_Prix" title="2019 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2018_Formula_One_World_Championship" title="2018 Formula One World Championship">2018</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Australian_Grand_Prix" title="2018 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2018_Bahrain_Grand_Prix" title="2018 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2018_Chinese_Grand_Prix" title="2018 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2018_Azerbaijan_Grand_Prix" title="2018 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2018_Spanish_Grand_Prix" title="2018 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2018_Monaco_Grand_Prix" title="2018 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2018_Canadian_Grand_Prix" title="2018 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2018_French_Grand_Prix" title="2018 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2018_British_Grand_Prix" title="2018 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2018_German_Grand_Prix" title="2018 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2018_Hungarian_Grand_Prix" title="2018 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2018_Belgian_Grand_Prix" title="2018 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2018_Italian_Grand_Prix" title="2018 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2018_Singapore_Grand_Prix" title="2018 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2018_Russian_Grand_Prix" title="2018 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2018_Japanese_Grand_Prix" title="2018 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2018_United_States_Grand_Prix" title="2018 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2018_Mexican_Grand_Prix" title="2018 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2018_Brazilian_Grand_Prix" title="2018 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2018_Abu_Dhabi_Grand_Prix" title="2018 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2017_Australian_Grand_Prix" title="2017 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2017_Chinese_Grand_Prix" title="2017 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2017_Bahrain_Grand_Prix" title="2017 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2017_Russian_Grand_Prix" title="2017 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2017_Spanish_Grand_Prix" title="2017 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2017_Monaco_Grand_Prix" title="2017 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2017_Canadian_Grand_Prix" title="2017 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2017_Azerbaijan_Grand_Prix" title="2017 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2017_British_Grand_Prix" title="2017 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2017_Hungarian_Grand_Prix" title="2017 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2017_Belgian_Grand_Prix" title="2017 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2017_Italian_Grand_Prix" title="2017 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2017_Singapore_Grand_Prix" title="2017 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2017_Malaysian_Grand_Prix" title="2017 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2017_Japanese_Grand_Prix" title="2017 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2017_United_States_Grand_Prix" title="2017 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2017_Brazilian_Grand_Prix" title="2017 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2016_Formula_One_World_Championship" title="2016 Formula One World Championship">2016</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2016_Australian_Grand_Prix" title="2016 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2016_Bahrain_Grand_Prix" title="2016 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2016_Chinese_Grand_Prix" title="2016 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2016_Russian_Grand_Prix" title="2016 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2016_Spanish_Grand_Prix" title="2016 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2016_Monaco_Grand_Prix" title="2016 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2016_Canadian_Grand_Prix" title="2016 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2016_European_Grand_Prix" title="2016 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2016_British_Grand_Prix" title="2016 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2016_Hungarian_Grand_Prix" title="2016 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2016_German_Grand_Prix" title="2016 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2016_Belgian_Grand_Prix" title="2016 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2016_Italian_Grand_Prix" title="2016 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2016_Singapore_Grand_Prix" title="2016 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2016_Malaysian_Grand_Prix" title="2016 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2016_Japanese_Grand_Prix" title="2016 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2016_United_States_Grand_Prix" title="2016 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2016_Mexican_Grand_Prix" title="2016 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2016_Brazilian_Grand_Prix" title="2016 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2016_Abu_Dhabi_Grand_Prix" title="2016 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">AUS</a></li>
+<li><a href="/wiki/2015_Malaysian_Grand_Prix" title="2015 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2015_Chinese_Grand_Prix" title="2015 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2015_Bahrain_Grand_Prix" title="2015 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2015_Spanish_Grand_Prix" title="2015 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2015_Monaco_Grand_Prix" title="2015 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2015_Canadian_Grand_Prix" title="2015 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2015_British_Grand_Prix" title="2015 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2015_Hungarian_Grand_Prix" title="2015 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2015_Belgian_Grand_Prix" title="2015 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2015_Italian_Grand_Prix" title="2015 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2015_Singapore_Grand_Prix" title="2015 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2015_Japanese_Grand_Prix" title="2015 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2015_Russian_Grand_Prix" title="2015 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2015_United_States_Grand_Prix" title="2015 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2015_Mexican_Grand_Prix" title="2015 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2015_Brazilian_Grand_Prix" title="2015 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2015_Abu_Dhabi_Grand_Prix" title="2015 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2014_Malaysian_Grand_Prix" title="2014 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2014_Bahrain_Grand_Prix" title="2014 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2014_Chinese_Grand_Prix" title="2014 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2014_Spanish_Grand_Prix" title="2014 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2014_Monaco_Grand_Prix" title="2014 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2014_Canadian_Grand_Prix" title="2014 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2014_British_Grand_Prix" title="2014 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2014_German_Grand_Prix" title="2014 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2014_Hungarian_Grand_Prix" title="2014 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2014_Belgian_Grand_Prix" title="2014 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2014_Italian_Grand_Prix" title="2014 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2014_Singapore_Grand_Prix" title="2014 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2014_Japanese_Grand_Prix" title="2014 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2014_Russian_Grand_Prix" title="2014 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2014_United_States_Grand_Prix" title="2014 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2014_Brazilian_Grand_Prix" title="2014 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2014_Abu_Dhabi_Grand_Prix" title="2014 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2013_Formula_One_World_Championship" title="2013 Formula One World Championship">2013</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2013_Australian_Grand_Prix" title="2013 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2013_Malaysian_Grand_Prix" title="2013 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2013_Chinese_Grand_Prix" title="2013 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2013_Bahrain_Grand_Prix" title="2013 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2013_Spanish_Grand_Prix" title="2013 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2013_Monaco_Grand_Prix" title="2013 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2013_Canadian_Grand_Prix" title="2013 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2013_British_Grand_Prix" title="2013 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2013_German_Grand_Prix" title="2013 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2013_Hungarian_Grand_Prix" title="2013 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2013_Belgian_Grand_Prix" title="2013 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2013_Italian_Grand_Prix" title="2013 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2013_Singapore_Grand_Prix" title="2013 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2013_Korean_Grand_Prix" title="2013 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2013_Japanese_Grand_Prix" title="2013 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2013_Indian_Grand_Prix" title="2013 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2013_Abu_Dhabi_Grand_Prix" title="2013 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2013_United_States_Grand_Prix" title="2013 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2013_Brazilian_Grand_Prix" title="2013 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2012_Australian_Grand_Prix" title="2012 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2012_Malaysian_Grand_Prix" title="2012 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2012_Chinese_Grand_Prix" title="2012 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2012_Bahrain_Grand_Prix" title="2012 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2012_Spanish_Grand_Prix" title="2012 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2012_Monaco_Grand_Prix" title="2012 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2012_Canadian_Grand_Prix" title="2012 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2012_European_Grand_Prix" title="2012 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2012_British_Grand_Prix" title="2012 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2012_German_Grand_Prix" title="2012 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2012_Hungarian_Grand_Prix" title="2012 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2012_Belgian_Grand_Prix" title="2012 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2012_Italian_Grand_Prix" title="2012 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2012_Japanese_Grand_Prix" title="2012 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2012_Korean_Grand_Prix" title="2012 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2012_Indian_Grand_Prix" title="2012 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2012_Abu_Dhabi_Grand_Prix" title="2012 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2012_United_States_Grand_Prix" title="2012 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2012_Brazilian_Grand_Prix" title="2012 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2011_Formula_One_World_Championship" title="2011 Formula One World Championship">2011</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><del><a href="/wiki/2011_Bahrain_Grand_Prix" title="2011 Bahrain Grand Prix">BHR</a></del></li>
+<li><a href="/wiki/2011_Australian_Grand_Prix" title="2011 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2011_Malaysian_Grand_Prix" title="2011 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2011_Chinese_Grand_Prix" title="2011 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2011_Turkish_Grand_Prix" title="2011 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2011_Spanish_Grand_Prix" title="2011 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2011_Monaco_Grand_Prix" title="2011 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2011_Canadian_Grand_Prix" title="2011 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2011_European_Grand_Prix" title="2011 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2011_British_Grand_Prix" title="2011 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2011_German_Grand_Prix" title="2011 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2011_Hungarian_Grand_Prix" title="2011 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2011_Belgian_Grand_Prix" title="2011 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2011_Italian_Grand_Prix" title="2011 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2011_Singapore_Grand_Prix" title="2011 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2011_Korean_Grand_Prix" title="2011 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2011_Indian_Grand_Prix" title="2011 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2011_Abu_Dhabi_Grand_Prix" title="2011 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2011_Brazilian_Grand_Prix" title="2011 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2010_Formula_One_World_Championship" title="2010 Formula One World Championship">2010</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2010_Bahrain_Grand_Prix" title="2010 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2010_Australian_Grand_Prix" title="2010 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2010_Malaysian_Grand_Prix" title="2010 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2010_Spanish_Grand_Prix" title="2010 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2010_Monaco_Grand_Prix" title="2010 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2010_Turkish_Grand_Prix" title="2010 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2010_Canadian_Grand_Prix" title="2010 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2010_European_Grand_Prix" title="2010 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2010_British_Grand_Prix" title="2010 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2010_German_Grand_Prix" title="2010 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2010_Hungarian_Grand_Prix" title="2010 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2010_Belgian_Grand_Prix" title="2010 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2010_Italian_Grand_Prix" title="2010 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2010_Singapore_Grand_Prix" title="2010 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2010_Japanese_Grand_Prix" title="2010 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2010_Brazilian_Grand_Prix" title="2010 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2010_Abu_Dhabi_Grand_Prix" title="2010 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr></tbody></table></div></div>

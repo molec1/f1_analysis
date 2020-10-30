@@ -1,0 +1,1202 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2017 Brazilian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 19 of 20 in the <a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017 Formula One World Championship</a></small><table style="width: 100%; background: transparent;"><tbody><tr><td style="text-align:left;"><b>←&#160;</b><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">Previous&#160;race</a></td><td style="text-align: right;"><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">Next&#160;race</a><b>&#160;→</b></td></tr></tbody></table></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:2014_Interlagos_circuit_map.svg" class="image" title="Layout of the Autódromo José Carlos Pace"><img alt="Layout of the Autódromo José Carlos Pace" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/2014_Interlagos_circuit_map.svg/200px-2014_Interlagos_circuit_map.svg.png" decoding="async" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/2014_Interlagos_circuit_map.svg/300px-2014_Interlagos_circuit_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/2014_Interlagos_circuit_map.svg/400px-2014_Interlagos_circuit_map.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a><div>Layout of the Autódromo José Carlos Pace</div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details<sup id="cite_ref-formal_1-0" class="reference"><a href="#cite_note-formal-1">&#91;1&#93;</a></sup></th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+12&#160;November&#160;2017<span style="display:none">&#160;(<span class="bday dtstart published updated">2017-11-12</span>)</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+Formula 1 Grande Prêmio <a href="/wiki/Heineken" title="Heineken">Heineken</a> do Brasil 2017<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace" title="Autódromo José Carlos Pace">Autódromo José Carlos Pace</a>, <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.309 km (2.677 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+71 laps, 305.909 km (190.083 mi)</td></tr><tr><th scope="row" style="width:20%;">Attendance</th><td colspan="3">
+141,218<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:08.322</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="nowrap"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></span></td><td>
+<small><span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:11.044 on lap 64</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="nowrap"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></span></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a></li></ul></div></td><td>
+<small><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_2738e1c445db488d57b976d595387935"></map><img usemap="#timeline_2738e1c445db488d57b976d595387935" src="//upload.wikimedia.org/wikipedia/en/timeline/2738e1c445db488d57b976d595387935.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2017 Brazilian Grand Prix</b> (formally known as the <b>Formula 1 Grande Prêmio Heineken do Brasil 2017</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held on 12 November 2017 at the <a href="/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace" title="Autódromo José Carlos Pace">Autódromo José Carlos Pace</a> in the <a href="/wiki/Interlagos" title="Interlagos">Interlagos</a> neighborhood of <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>. The race was the nineteenth and penultimate round of the <a href="/wiki/2017_FIA_Formula_One_World_Championship" class="mw-redirect" title="2017 FIA Formula One World Championship">2017 FIA Formula One World Championship</a> and marked the forty-sixth running of the <a href="/wiki/Brazilian_Grand_Prix" title="Brazilian Grand Prix">Brazilian Grand Prix</a>, the forty-fifth time that the race had been run as a World Championship event since the inaugural season in <a href="/wiki/1950_Formula_One_season" title="1950 Formula One season">1950</a>, and the thirty-fourth World Championship event to be held at Interlagos.
+</p><p>Mercedes driver <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> started from pole position with Ferrari's <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> and <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> behind, after World Champion <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> crashed out of qualifying early and started from the pit lane. Vettel overtook Bottas on the first corner, after which he set the pace through most of the race. Vettel won the Grand Prix, followed by Bottas and Räikkönen. Hamilton eventually climbed to fourth, closing to less than one second of a podium finish.<sup id="cite_ref-auto_5-0" class="reference"><a href="#cite_note-auto-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Free_practice"><span class="tocnumber">1.1</span> <span class="toctext">Free practice</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Qualifying"><span class="tocnumber">1.2</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Race"><span class="tocnumber">1.3</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Qualifying_2"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Championship_standings_after_the_race"><span class="tocnumber">2.3</span> <span class="toctext">Championship standings after the race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Free_practice">Free practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Free practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The three free practice session demonstrated very tight competition between <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> and <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In first and second free practice, <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> was quickest, with both Ferraris and both <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bulls</a> within one second. <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> and <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> were notably strong in these sessions. In the third session, the order was similar. However, <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a> pipped Hamilton's best time by three thousands of a second; and neither <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a> nor Massa put in a strong lap. In the final practice round, less than a tenth of a second separated the two Mercedes and two Ferraris.
+</p><p>The first practice session saw <a href="/wiki/George_Russell_(racing_driver)" title="George Russell (racing driver)">George Russell</a>'s Formula One debut appearance. There was also an unusual appearance of a test driver (<a href="/wiki/Antonio_Giovinazzi" title="Antonio Giovinazzi">Antonio Giovinazzi</a>) in the second practice session (usually, any test drivers that participate in a racing weekend, do so in the first practice session).
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Qualifying began in a dramatic fashion as World Champion Hamilton lost the back end of the car with over-steer, seemingly due to a driver error, crashing to retire from Q1 without setting a lap time. Räikkönen was fastest in Q1 and Vettel in Q2. In the final qualifying session, however, Bottas took pole position. Vettel qualified a close second, followed by Räikkönen, Verstappen and <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>. Ricciardo took a 10-place grid penalty for exceeding his quota of power unit components and started 14th on the grid. Hamilton elected to change his gearbox and power unit, so started the race from the pit lane.
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Vettel achieved a good start during the second phase of clutch control to overtake Bottas on the first corner. There were numerous retirements due to collisions on the first lap. <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a> lost the back end, clipping <a href="/wiki/Esteban_Ocon" title="Esteban Ocon">Esteban Ocon</a> off the track. Ocon's resultant retirement ended his record streak of <a href="/wiki/List_of_Formula_One_driver_records#Other_driver_records" title="List of Formula One driver records">27 races finished</a> from his Formula One debut. <a href="/wiki/Stoffel_Vandoorne" title="Stoffel Vandoorne">Stoffel Vandoorne</a> and <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a> also retired due to a collision on the first lap.
+</p><p>Hamilton, starting from the pit lane, implemented an inverted tyre strategy running to lap 44 on one set of soft tyres. After overtaking the back-markers and mid-field, he fell into first place as the leading cars – predominantly on one-stop strategies – pitted. Hamilton's only pit-stop positioned him fifth, after which he overtook Verstappen and was briefly able to challenge Räikkönen for the podium,<sup id="cite_ref-auto_5-1" class="reference"><a href="#cite_note-auto-5">&#91;5&#93;</a></sup> but unable to overtake Raikkonen in third. Ricciardo also battled up to sixth after starting fifteenth on the grid and dropping to seventeenth as collateral of the Vandoorne-Magnussen collision.
+</p><p>Setting the pace through most of the race, Vettel won the Grand Prix, followed by Bottas and Räikkönen. Including Hamilton, the top four finished within the space of 5.5 seconds, with the two Red Bulls more than 30 seconds behind. The following three positions also carried a race-long battle to the finish line, finishing within 1 second of each other. Initially overtaking on lap 5 (as the safety car was pulling into pitlane), Massa held off Alonso who remained close throughout the race.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a> also caught up to these two racers to cross the finish line barely behind Alonso.
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:85%">
+<tbody><tr>
+<th rowspan="2"><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th rowspan="2"><abbr title="Number">Car<br />no.</abbr>
+</th>
+<th rowspan="2">Driver
+</th>
+<th rowspan="2">Constructor
+</th>
+<th colspan="3"><span class="nowrap">Qualifying times</span>
+</th>
+<th rowspan="2"><abbr title="Final grid position">Final<br />grid</abbr>
+</th></tr>
+<tr>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Q3
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">77
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>1:09.452
+</td>
+<td>1:08.638
+</td>
+<td><b>1:08.322</b>
+</td>
+<td align="center">1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:09.643
+</td>
+<td><b>1:08.494</b>
+</td>
+<td>1:08.360
+</td>
+<td align="center">2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">7
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><b>1:09.405</b>
+</td>
+<td>1:09.116
+</td>
+<td>1:08.538
+</td>
+<td align="center">3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">33
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span>
+</td>
+<td>1:09.820
+</td>
+<td>1:09.050
+</td>
+<td>1:08.925
+</td>
+<td align="center">4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span>
+</td>
+<td>1:09.828
+</td>
+<td>1:09.533
+</td>
+<td>1:09.330
+</td>
+<td align="center">14<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">11
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:10.145
+</td>
+<td>1:09.760
+</td>
+<td>1:09.598
+</td>
+<td align="center">5
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">14
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:10.172
+</td>
+<td>1:09.593
+</td>
+<td>1:09.617
+</td>
+<td align="center">6
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">27
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:10.078
+</td>
+<td>1:09.726
+</td>
+<td>1:09.703
+</td>
+<td align="center">7
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">55
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:10.227
+</td>
+<td>1:09.768
+</td>
+<td>1:09.805
+</td>
+<td align="center">8
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">19
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:09.789
+</td>
+<td>1:09.612
+</td>
+<td>1:09.841
+</td>
+<td align="center">9
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">31
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Esteban_Ocon" title="Esteban Ocon">Esteban Ocon</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:10.168
+</td>
+<td>1:09.830
+</td>
+<td>
+</td>
+<td align="center">10
+</td></tr>
+<tr>
+<th>12
+</th>
+<td align="center">8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:10.148
+</td>
+<td>1:09.879
+</td>
+<td>
+</td>
+<td align="center">11
+</td></tr>
+<tr>
+<th>13
+</th>
+<td align="center">2
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Stoffel_Vandoorne" title="Stoffel Vandoorne">Stoffel Vandoorne</a></span>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:10.286
+</td>
+<td>1:10.116
+</td>
+<td>
+</td>
+<td align="center">12
+</td></tr>
+<tr>
+<th>14
+</th>
+<td align="center">20
+</td>
+<td><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span> <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:10.521
+</td>
+<td>1:10.154
+</td>
+<td>
+</td>
+<td align="center">13
+</td></tr>
+<tr>
+<th>15
+</th>
+<td align="center">28
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brendon_Hartley" title="Brendon Hartley">Brendon Hartley</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>
+</td>
+<td>1:10.625
+</td>
+<td>No time
+</td>
+<td>
+</td>
+<td align="center">18<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td></tr>
+<tr>
+<th>16
+</th>
+<td align="center">94
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Pascal_Wehrlein" title="Pascal Wehrlein">Pascal Wehrlein</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:10.678
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">15
+</td></tr>
+<tr>
+<th>17
+</th>
+<td align="center">10
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>
+</td>
+<td>1:10.686
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">19<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">3</a></sup>
+</td></tr>
+<tr>
+<th>18
+</th>
+<td align="center">18
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:10.776
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">16<sup class="reference plainlinks nourlexpansion" id="ref_4"><a href="#endnote_4">4</a></sup>
+</td></tr>
+<tr>
+<th>19
+</th>
+<td align="center">9
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:10.875
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">17<sup class="reference plainlinks nourlexpansion" id="ref_5"><a href="#endnote_5">5</a></sup>
+</td></tr>
+<tr>
+<th colspan="8"><a href="/wiki/107%25_rule" title="107% rule">107% time</a>: 1:14.263
+</th></tr>
+<tr>
+<th>—
+</th>
+<td align="center">44
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td>No time
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">PL<sup class="reference plainlinks nourlexpansion" id="ref_6"><a href="#endnote_6">6</a></sup>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</th></tr></tbody></table>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span> &#160;– <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a> received a 10-place grid penalty for exceeding his quota of power unit components.</li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span> &#160;– <a href="/wiki/Brendon_Hartley" title="Brendon Hartley">Brendon Hartley</a> received a 10-place grid penalty for exceeding his quota of power unit components.</li>
+<li><span class="citation wikicite" id="endnote_3"><b><a href="#ref_3">^3</a></b></span> &#160;– <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a> received a 25-place grid penalty for exceeding his quota of power unit components.</li>
+<li><span class="citation wikicite" id="endnote_4"><b><a href="#ref_4">^4</a></b></span> &#160;– <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a> received a 5-place grid penalty for an unscheduled gearbox change.</li>
+<li><span class="citation wikicite" id="endnote_5"><b><a href="#ref_5">^5</a></b></span> &#160;– <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a> received a 5-place grid penalty for an unscheduled gearbox change.</li>
+<li><span class="citation wikicite" id="endnote_6"><b><a href="#ref_6">^6</a></b></span> &#160;– <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> failed to set a time within the 107% requirement, but received permission from the stewards to start the race. He also started from the pit lane due to a gearbox and power unit changes.</li></ul>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 85%;">
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th><abbr title="Car number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Laps
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>71
+</td>
+<td>1:31:26.262
+</td>
+<td>2
+</td>
+<td align="center"><b>25</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td align="center">77
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a></b>
+</td>
+<td><b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b>
+</td>
+<td>71
+</td>
+<td>+2.762
+</td>
+<td>1
+</td>
+<td align="center"><b>18</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td align="center">7
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>71
+</td>
+<td>+4.600
+</td>
+<td>3
+</td>
+<td align="center"><b>15</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td align="center">44
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td><b><a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a></b>
+</td>
+<td>71
+</td>
+<td>+5.468
+</td>
+<td>PL
+</td>
+<td align="center"><b>12</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td align="center">33
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a></b>
+</td>
+<td><b><span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span></b>
+</td>
+<td>71
+</td>
+<td>+32.940
+</td>
+<td>4
+</td>
+<td align="center"><b>10</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <b><a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a></b>
+</td>
+<td><b><span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span></b>
+</td>
+<td>71
+</td>
+<td>+48.691
+</td>
+<td>14
+</td>
+<td align="center"><b>8</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td align="center">19
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b>
+</td>
+<td><b><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>71
+</td>
+<td>+1:08.882
+</td>
+<td>9
+</td>
+<td align="center"><b>6</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td align="center">14
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>71
+</td>
+<td>+1:09.363
+</td>
+<td>6
+</td>
+<td align="center"><b>4</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td align="center">11
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <b><a href="/wiki/Sergio_P%C3%A9rez" title="Sergio Pérez">Sergio Pérez</a></b>
+</td>
+<td><b><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>71
+</td>
+<td>+1:09.500
+</td>
+<td>5
+</td>
+<td align="center"><b>2</b>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td align="center">27
+</td>
+<td><b><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_H%C3%BClkenberg" title="Nico Hülkenberg">Nico Hülkenberg</a></b>
+</td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>70
+</td>
+<td>+1 Lap
+</td>
+<td>7
+</td>
+<td align="center"><b>1</b>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td align="center">55
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Sainz_Jr." title="Carlos Sainz Jr.">Carlos Sainz Jr.</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>70
+</td>
+<td>+1 Lap
+</td>
+<td>8
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<th>12
+</th>
+<td align="center">10
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre_Gasly" title="Pierre Gasly">Pierre Gasly</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>
+</td>
+<td>70
+</td>
+<td>+1 Lap
+</td>
+<td>19
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<th>13
+</th>
+<td align="center">9
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Marcus_Ericsson" title="Marcus Ericsson">Marcus Ericsson</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>70
+</td>
+<td>+1 Lap
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td align="center">94
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Pascal_Wehrlein" title="Pascal Wehrlein">Pascal Wehrlein</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>70
+</td>
+<td>+1 Lap
+</td>
+<td>15
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<th>15
+</th>
+<td align="center">8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Romain_Grosjean" title="Romain Grosjean">Romain Grosjean</a>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>69
+</td>
+<td>+2 Laps
+</td>
+<td>11
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<th>16
+</th>
+<td align="center">18
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lance_Stroll" title="Lance Stroll">Lance Stroll</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>69
+</td>
+<td>+2 Laps
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">28
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brendon_Hartley" title="Brendon Hartley">Brendon Hartley</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>
+</td>
+<td>40
+</td>
+<td>Engine
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">31
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Esteban_Ocon" title="Esteban Ocon">Esteban Ocon</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>10
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">2
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Stoffel_Vandoorne" title="Stoffel Vandoorne">Stoffel Vandoorne</a></span>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>12
+</td>
+<td align="center">
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td align="center">20
+</td>
+<td><span class="nowrap"><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387" /></a></span> <a href="/wiki/Kevin_Magnussen" title="Kevin Magnussen">Kevin Magnussen</a></span>
+</td>
+<td><a href="/wiki/Haas_F1_Team" title="Haas F1 Team">Haas</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8">Source:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</th></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td align="left">345
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td align="left">302
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Valtteri_Bottas" title="Valtteri Bottas">Valtteri Bottas</a>
+</td>
+<td align="left">280
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Daniel_Ricciardo" title="Daniel Ricciardo">Daniel Ricciardo</a>
+</td>
+<td align="left">200
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td align="left">193
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_11-0" class="reference"><a href="#cite_note-champ-11">&#91;11&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 85%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Mercedes-Benz_in_Formula_One" title="Mercedes-Benz in Formula One">Mercedes</a>
+</td>
+<td align="left">625
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">495
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <span class="nowrap"><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>-<a href="/wiki/TAG_Heuer" title="TAG Heuer">TAG Heuer</a></span>
+</td>
+<td align="left">358
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="left">177
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="left">82
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-champ_11-1" class="reference"><a href="#cite_note-champ-11">&#91;11&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-formal-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-formal_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/championship/races/2017/Brazil.html">"Brazil"</a>. <i>formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=formula1.com&amp;rft.atitle=Brazil&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fchampionship%2Fraces%2F2017%2FBrazil.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/f12017.html">"2017 Formula 1 World Championship Programmes - The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=2017+Formula+1+World+Championship+Programmes+-+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Ff12017.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFMitchell" class="citation web cs1">Mitchell, Malcolm. <a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/interlagos.html">"Interlagos - The Motor Racing Programme Covers Project"</a>. <i>www.progcovers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.progcovers.com&amp;rft.atitle=Interlagos+-+The+Motor+Racing+Programme+Covers+Project&amp;rft.aulast=Mitchell&amp;rft.aufirst=Malcolm&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Finterlagos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171209011037/https://www.gpupdate.net/en/f1-news/361717/f1-reveals-eight-per-cent-rise-in-2017-attendance/">"F1 reveals overall rise in 2017 attendance"</a>. <i><a href="/w/index.php?title=GPupdate.net&amp;action=edit&amp;redlink=1" class="new" title="GPupdate.net (page does not exist)">GPupdate.net</a></i>. <a href="/w/index.php?title=JHED_Media_BV&amp;action=edit&amp;redlink=1" class="new" title="JHED Media BV (page does not exist)">JHED Media BV</a>. 8 December 2017. Archived from <a rel="nofollow" class="external text" href="https://www.gpupdate.net/en/f1-news/361717/f1-reveals-eight-per-cent-rise-in-2017-attendance/">the original</a> on 9 December 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=GPupdate.net&amp;rft.atitle=F1+reveals+overall+rise+in+2017+attendance&amp;rft.date=2017-12-08&amp;rft_id=https%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F361717%2Ff1-reveals-eight-per-cent-rise-in-2017-attendance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-auto-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2017/nov/12/sebastian-vettel-f1-brazilian-grand-prix-lewis-hamilton-race-report">"Sebastian Vettel wins Brazilian Grand Prix after Lewis Hamilton fightback"</a>. <i>The Guardian</i>. 13 November 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Sebastian+Vettel+wins+Brazilian+Grand+Prix+after+Lewis+Hamilton+fightback&amp;rft.date=2017-11-13&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2017%2Fnov%2F12%2Fsebastian-vettel-f1-brazilian-grand-prix-lewis-hamilton-race-report&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/latest/headlines/2017/11/fp3---mercedes-and-ferrari-all-but-inseparable-at-interlagos.html">"FP3 – Mercedes and Ferrari all but inseparable at Interlagos"</a>. <i>formula1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=formula1.com&amp;rft.atitle=FP3+%E2%80%93+Mercedes+and+Ferrari+all+but+inseparable+at+Interlagos&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Flatest%2Fheadlines%2F2017%2F11%2Ffp3---mercedes-and-ferrari-all-but-inseparable-at-interlagos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171118173350/https://www.fia.com/file/63359/download?token=T3mowbXa">"2017 Brazilian Grand Prix – Race History Chart"</a>. <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a>. 12 November 2017. Archived from <a rel="nofollow" class="external text" href="https://www.fia.com/file/63359/download?token=T3mowbXa">the original</a> on 18 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2017+Brazilian+Grand+Prix+%E2%80%93+Race+History+Chart&amp;rft.pub=FIA&amp;rft.date=2017-11-12&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F63359%2Fdownload%3Ftoken%3DT3mowbXa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171118170953/https://www.fia.com/file/63343/download?token=4OHMr_kA">"2017 Brazilian Grand Prix – Qualifying Session Official Classification"</a>. <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a>. 11 November 2017. Archived from <a rel="nofollow" class="external text" href="https://www.fia.com/file/63343/download?token=4OHMr_kA">the original</a> on 18 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2017+Brazilian+Grand+Prix+%E2%80%93+Qualifying+Session+Official+Classification&amp;rft.pub=FIA&amp;rft.date=2017-11-11&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F63343%2Fdownload%3Ftoken%3D4OHMr_kA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171118171334/https://www.fia.com/file/63350/download?token=UNV0ufsG">"2017 Brazilian Grand Prix – Official Starting Grid"</a>. <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a>. 12 November 2017. Archived from <a rel="nofollow" class="external text" href="https://www.fia.com/file/63350/download?token=UNV0ufsG">the original</a> on 18 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2017+Brazilian+Grand+Prix+%E2%80%93+Official+Starting+Grid&amp;rft.pub=FIA&amp;rft.date=2017-11-12&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F63350%2Fdownload%3Ftoken%3DUNV0ufsG&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171118170445/https://www.fia.com/file/63369/download?token=PDNoC_B1">"2017 Brazilian Grand Prix – Race Official Classification"</a>. <a href="/wiki/FIA" class="mw-redirect" title="FIA">FIA</a>. 12 November 2017. Archived from <a rel="nofollow" class="external text" href="https://www.fia.com/file/63369/download?token=PDNoC_B1">the original</a> on 18 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2017+Brazilian+Grand+Prix+%E2%80%93+Race+Official+Classification&amp;rft.pub=FIA&amp;rft.date=2017-11-12&amp;rft_id=https%3A%2F%2Fwww.fia.com%2Ffile%2F63369%2Fdownload%3Ftoken%3DPDNoC_B1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2017/bresil/championnat.aspx">"Brazil 2017 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Brazil+2017+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2017%2Fbresil%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2017+Brazilian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2017_Brazilian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">2017 Mexican Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">2017 Abu Dhabi Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2016_Brazilian_Grand_Prix" title="2016 Brazilian Grand Prix">2016 Brazilian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Brazilian_Grand_Prix" title="Brazilian Grand Prix">Brazilian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2018_Brazilian_Grand_Prix" title="2018 Brazilian Grand Prix">2018 Brazilian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2010%E2%80%9319" title="Template talk:F1GP 2010–19"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2010%E2%80%9319&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2010–19)next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2010–19)<div style="float: right;"><a href="/wiki/Template:F1GP_2020%E2%80%9329" title="Template:F1GP 2020–29"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2019_Formula_One_World_Championship" title="2019 Formula One World Championship">2019</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2019_Australian_Grand_Prix" title="2019 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2019_Bahrain_Grand_Prix" title="2019 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2019_Chinese_Grand_Prix" title="2019 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2019_Azerbaijan_Grand_Prix" title="2019 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2019_Spanish_Grand_Prix" title="2019 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2019_Monaco_Grand_Prix" title="2019 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2019_Canadian_Grand_Prix" title="2019 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2019_French_Grand_Prix" title="2019 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2019_Austrian_Grand_Prix" title="2019 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2019_British_Grand_Prix" title="2019 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2019_German_Grand_Prix" title="2019 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2019_Hungarian_Grand_Prix" title="2019 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2019_Belgian_Grand_Prix" title="2019 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2019_Italian_Grand_Prix" title="2019 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2019_Singapore_Grand_Prix" title="2019 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2019_Russian_Grand_Prix" title="2019 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2019_Japanese_Grand_Prix" title="2019 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2019_Mexican_Grand_Prix" title="2019 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2019_United_States_Grand_Prix" title="2019 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2019_Brazilian_Grand_Prix" title="2019 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2019_Abu_Dhabi_Grand_Prix" title="2019 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2018_Formula_One_World_Championship" title="2018 Formula One World Championship">2018</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2018_Australian_Grand_Prix" title="2018 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2018_Bahrain_Grand_Prix" title="2018 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2018_Chinese_Grand_Prix" title="2018 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2018_Azerbaijan_Grand_Prix" title="2018 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2018_Spanish_Grand_Prix" title="2018 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2018_Monaco_Grand_Prix" title="2018 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2018_Canadian_Grand_Prix" title="2018 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2018_French_Grand_Prix" title="2018 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2018_Austrian_Grand_Prix" title="2018 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2018_British_Grand_Prix" title="2018 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2018_German_Grand_Prix" title="2018 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2018_Hungarian_Grand_Prix" title="2018 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2018_Belgian_Grand_Prix" title="2018 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2018_Italian_Grand_Prix" title="2018 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2018_Singapore_Grand_Prix" title="2018 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2018_Russian_Grand_Prix" title="2018 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2018_Japanese_Grand_Prix" title="2018 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2018_United_States_Grand_Prix" title="2018 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2018_Mexican_Grand_Prix" title="2018 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2018_Brazilian_Grand_Prix" title="2018 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2018_Abu_Dhabi_Grand_Prix" title="2018 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2017_Formula_One_World_Championship" title="2017 Formula One World Championship">2017</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2017_Australian_Grand_Prix" title="2017 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2017_Chinese_Grand_Prix" title="2017 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2017_Bahrain_Grand_Prix" title="2017 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2017_Russian_Grand_Prix" title="2017 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2017_Spanish_Grand_Prix" title="2017 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2017_Monaco_Grand_Prix" title="2017 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2017_Canadian_Grand_Prix" title="2017 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2017_Azerbaijan_Grand_Prix" title="2017 Azerbaijan Grand Prix">AZE</a></li>
+<li><a href="/wiki/2017_Austrian_Grand_Prix" title="2017 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2017_British_Grand_Prix" title="2017 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2017_Hungarian_Grand_Prix" title="2017 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2017_Belgian_Grand_Prix" title="2017 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2017_Italian_Grand_Prix" title="2017 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2017_Singapore_Grand_Prix" title="2017 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2017_Malaysian_Grand_Prix" title="2017 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2017_Japanese_Grand_Prix" title="2017 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2017_United_States_Grand_Prix" title="2017 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2017_Mexican_Grand_Prix" title="2017 Mexican Grand Prix">MEX</a></li>
+<li><a class="mw-selflink selflink">BRA</a></li>
+<li><a href="/wiki/2017_Abu_Dhabi_Grand_Prix" title="2017 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2016_Formula_One_World_Championship" title="2016 Formula One World Championship">2016</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2016_Australian_Grand_Prix" title="2016 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2016_Bahrain_Grand_Prix" title="2016 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2016_Chinese_Grand_Prix" title="2016 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2016_Russian_Grand_Prix" title="2016 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2016_Spanish_Grand_Prix" title="2016 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2016_Monaco_Grand_Prix" title="2016 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2016_Canadian_Grand_Prix" title="2016 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2016_European_Grand_Prix" title="2016 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2016_Austrian_Grand_Prix" title="2016 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2016_British_Grand_Prix" title="2016 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2016_Hungarian_Grand_Prix" title="2016 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2016_German_Grand_Prix" title="2016 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2016_Belgian_Grand_Prix" title="2016 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2016_Italian_Grand_Prix" title="2016 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2016_Singapore_Grand_Prix" title="2016 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2016_Malaysian_Grand_Prix" title="2016 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2016_Japanese_Grand_Prix" title="2016 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2016_United_States_Grand_Prix" title="2016 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2016_Mexican_Grand_Prix" title="2016 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2016_Brazilian_Grand_Prix" title="2016 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2016_Abu_Dhabi_Grand_Prix" title="2016 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2015_Formula_One_World_Championship" title="2015 Formula One World Championship">2015</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2015_Australian_Grand_Prix" title="2015 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2015_Malaysian_Grand_Prix" title="2015 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2015_Chinese_Grand_Prix" title="2015 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2015_Bahrain_Grand_Prix" title="2015 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2015_Spanish_Grand_Prix" title="2015 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2015_Monaco_Grand_Prix" title="2015 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2015_Canadian_Grand_Prix" title="2015 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2015_Austrian_Grand_Prix" title="2015 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2015_British_Grand_Prix" title="2015 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2015_Hungarian_Grand_Prix" title="2015 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2015_Belgian_Grand_Prix" title="2015 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2015_Italian_Grand_Prix" title="2015 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2015_Singapore_Grand_Prix" title="2015 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2015_Japanese_Grand_Prix" title="2015 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2015_Russian_Grand_Prix" title="2015 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2015_United_States_Grand_Prix" title="2015 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2015_Mexican_Grand_Prix" title="2015 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/2015_Brazilian_Grand_Prix" title="2015 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2015_Abu_Dhabi_Grand_Prix" title="2015 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2014_Formula_One_World_Championship" title="2014 Formula One World Championship">2014</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2014_Australian_Grand_Prix" title="2014 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2014_Malaysian_Grand_Prix" title="2014 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2014_Bahrain_Grand_Prix" title="2014 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2014_Chinese_Grand_Prix" title="2014 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2014_Spanish_Grand_Prix" title="2014 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2014_Monaco_Grand_Prix" title="2014 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2014_Canadian_Grand_Prix" title="2014 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2014_Austrian_Grand_Prix" title="2014 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2014_British_Grand_Prix" title="2014 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2014_German_Grand_Prix" title="2014 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2014_Hungarian_Grand_Prix" title="2014 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2014_Belgian_Grand_Prix" title="2014 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2014_Italian_Grand_Prix" title="2014 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2014_Singapore_Grand_Prix" title="2014 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2014_Japanese_Grand_Prix" title="2014 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2014_Russian_Grand_Prix" title="2014 Russian Grand Prix">RUS</a></li>
+<li><a href="/wiki/2014_United_States_Grand_Prix" title="2014 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2014_Brazilian_Grand_Prix" title="2014 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2014_Abu_Dhabi_Grand_Prix" title="2014 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2013_Formula_One_World_Championship" title="2013 Formula One World Championship">2013</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2013_Australian_Grand_Prix" title="2013 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2013_Malaysian_Grand_Prix" title="2013 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2013_Chinese_Grand_Prix" title="2013 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2013_Bahrain_Grand_Prix" title="2013 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2013_Spanish_Grand_Prix" title="2013 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2013_Monaco_Grand_Prix" title="2013 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2013_Canadian_Grand_Prix" title="2013 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2013_British_Grand_Prix" title="2013 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2013_German_Grand_Prix" title="2013 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2013_Hungarian_Grand_Prix" title="2013 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2013_Belgian_Grand_Prix" title="2013 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2013_Italian_Grand_Prix" title="2013 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2013_Singapore_Grand_Prix" title="2013 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2013_Korean_Grand_Prix" title="2013 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2013_Japanese_Grand_Prix" title="2013 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2013_Indian_Grand_Prix" title="2013 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2013_Abu_Dhabi_Grand_Prix" title="2013 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2013_United_States_Grand_Prix" title="2013 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2013_Brazilian_Grand_Prix" title="2013 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2012_Formula_One_World_Championship" title="2012 Formula One World Championship">2012</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2012_Australian_Grand_Prix" title="2012 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2012_Malaysian_Grand_Prix" title="2012 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2012_Chinese_Grand_Prix" title="2012 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2012_Bahrain_Grand_Prix" title="2012 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2012_Spanish_Grand_Prix" title="2012 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2012_Monaco_Grand_Prix" title="2012 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2012_Canadian_Grand_Prix" title="2012 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2012_European_Grand_Prix" title="2012 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2012_British_Grand_Prix" title="2012 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2012_German_Grand_Prix" title="2012 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2012_Hungarian_Grand_Prix" title="2012 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2012_Belgian_Grand_Prix" title="2012 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2012_Italian_Grand_Prix" title="2012 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2012_Singapore_Grand_Prix" title="2012 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2012_Japanese_Grand_Prix" title="2012 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2012_Korean_Grand_Prix" title="2012 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2012_Indian_Grand_Prix" title="2012 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2012_Abu_Dhabi_Grand_Prix" title="2012 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2012_United_States_Grand_Prix" title="2012 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2012_Brazilian_Grand_Prix" title="2012 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2011_Formula_One_World_Championship" title="2011 Formula One World Championship">2011</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><del><a href="/wiki/2011_Bahrain_Grand_Prix" title="2011 Bahrain Grand Prix">BHR</a></del></li>
+<li><a href="/wiki/2011_Australian_Grand_Prix" title="2011 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2011_Malaysian_Grand_Prix" title="2011 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2011_Chinese_Grand_Prix" title="2011 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2011_Turkish_Grand_Prix" title="2011 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2011_Spanish_Grand_Prix" title="2011 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2011_Monaco_Grand_Prix" title="2011 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2011_Canadian_Grand_Prix" title="2011 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2011_European_Grand_Prix" title="2011 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2011_British_Grand_Prix" title="2011 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2011_German_Grand_Prix" title="2011 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2011_Hungarian_Grand_Prix" title="2011 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2011_Belgian_Grand_Prix" title="2011 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2011_Italian_Grand_Prix" title="2011 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2011_Singapore_Grand_Prix" title="2011 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2011_Japanese_Grand_Prix" title="2011 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2011_Korean_Grand_Prix" title="2011 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2011_Indian_Grand_Prix" title="2011 Indian Grand Prix">IND</a></li>
+<li><a href="/wiki/2011_Abu_Dhabi_Grand_Prix" title="2011 Abu Dhabi Grand Prix">ABU</a></li>
+<li><a href="/wiki/2011_Brazilian_Grand_Prix" title="2011 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2010_Formula_One_World_Championship" title="2010 Formula One World Championship">2010</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2010_Bahrain_Grand_Prix" title="2010 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2010_Australian_Grand_Prix" title="2010 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2010_Malaysian_Grand_Prix" title="2010 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2010_Chinese_Grand_Prix" title="2010 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2010_Spanish_Grand_Prix" title="2010 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2010_Monaco_Grand_Prix" title="2010 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2010_Turkish_Grand_Prix" title="2010 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2010_Canadian_Grand_Prix" title="2010 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2010_European_Grand_Prix" title="2010 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2010_British_Grand_Prix" title="2010 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2010_German_Grand_Prix" title="2010 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2010_Hungarian_Grand_Prix" title="2010 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2010_Belgian_Grand_Prix" title="2010 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2010_Italian_Grand_Prix" title="2010 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2010_Singapore_Grand_Prix" title="2010 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2010_Japanese_Grand_Prix" title="2010 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2010_Korean_Grand_Prix" title="2010 Korean Grand Prix">KOR</a></li>
+<li><a href="/wiki/2010_Brazilian_Grand_Prix" title="2010 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2010_Abu_Dhabi_Grand_Prix" title="2010 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr></tbody></table></div></div>

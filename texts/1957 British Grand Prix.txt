@@ -1,0 +1,878 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1957 British Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Circuit_Aintree.svg" class="image"><img alt="Circuit Aintree.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/220px-Circuit_Aintree.svg.png" decoding="async" width="220" height="229" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/330px-Circuit_Aintree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/440px-Circuit_Aintree.svg.png 2x" data-file-width="470" data-file-height="490" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1957-07-20">20 July 1957</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+Grand Prix d'Europe incorporating the 10th RAC British Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Aintree_Circuit" class="mw-redirect" title="Aintree Circuit">Aintree Circuit</a>, <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, <a href="/wiki/England" title="England">England</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.828 km (3.000 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+90 laps, 434.52 km (270.00 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Overcast, dry.</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></li></ul></div></td><td>
+<small><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+2:00.2</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></td><td>
+<small><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:59.2</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></li><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a></li></ul></div></td><td>
+<small><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Luigi_Musso" title="Luigi Musso">Luigi Musso</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Hawthorn" title="Mike Hawthorn">Mike Hawthorn</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_26a3ff620052e997e2057c6711521b57"></map><img usemap="#timeline_26a3ff620052e997e2057c6711521b57" src="//upload.wikimedia.org/wikipedia/en/timeline/26a3ff620052e997e2057c6711521b57.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vanwall_VW5_Aintree_1957.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Vanwall_VW5_Aintree_1957.jpg/220px-Vanwall_VW5_Aintree_1957.jpg" decoding="async" width="220" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Vanwall_VW5_Aintree_1957.jpg/330px-Vanwall_VW5_Aintree_1957.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Vanwall_VW5_Aintree_1957.jpg/440px-Vanwall_VW5_Aintree_1957.jpg 2x" data-file-width="1285" data-file-height="951" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Vanwall_VW5_Aintree_1957.jpg" class="internal" title="Enlarge"></a></div>The winning <a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>, VW5, before the start of the race. It was shared by <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> and <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a>, who both played a part in scoring the constructor's first Formula One win.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Maserati_works_team_Aintree_1957.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Maserati_works_team_Aintree_1957.jpg/220px-Maserati_works_team_Aintree_1957.jpg" decoding="async" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Maserati_works_team_Aintree_1957.jpg/330px-Maserati_works_team_Aintree_1957.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Maserati_works_team_Aintree_1957.jpg/440px-Maserati_works_team_Aintree_1957.jpg 2x" data-file-width="1609" data-file-height="1056" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Maserati_works_team_Aintree_1957.jpg" class="internal" title="Enlarge"></a></div>All but one of the <a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a> <a href="/wiki/Maserati_250F" title="Maserati 250F">250Fs</a> retired from the race.</div></div></div>
+<p>The <b>1957 British Grand Prix</b> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Motor_race" class="mw-redirect" title="Motor race">motor race</a> held on 20 July 1957 at the <a href="/wiki/Aintree_Circuit" class="mw-redirect" title="Aintree Circuit">Aintree Circuit</a>, near <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>. It was the tenth <a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a> and it was race 5 of 8 in the <a href="/wiki/1957_World_Championship_of_Drivers" class="mw-redirect" title="1957 World Championship of Drivers">1957 World Championship of Drivers</a>. The race was won by <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> and <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>, who shared driving duties in a <a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>. It was the third and final time that a Grand Prix had been won by two drivers in a shared car. This was the first occasion that a British-built car won a World Drivers' Championship race, a feat achieved with two British drivers at their home Grand Prix.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="tocnumber">1</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Qualifying"><span class="tocnumber">1.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Race"><span class="tocnumber">1.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Shared_drives"><span class="tocnumber">3</span> <span class="toctext">Shared drives</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Championship_standings_after_the_race"><span class="tocnumber">4</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Time
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>2:00.2
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Behra" title="Jean Behra">Jean Behra</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:00.4
+</td>
+<td>+0.2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>2:00.4
+</td>
+<td>+0.2
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Juan_Manuel_Fangio" title="Juan Manuel Fangio">Juan Manuel Fangio</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:00.6
+</td>
+<td>+0.4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Hawthorn" title="Mike Hawthorn">Mike Hawthorn</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>2:01.2
+</td>
+<td>+1.0
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stuart_Lewis-Evans" title="Stuart Lewis-Evans">Stuart Lewis-Evans</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>2:01.2
+</td>
+<td>+1.0
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/23px-Flag_of_the_United_States_%281912-1959%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/35px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/46px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Harry_Schell" title="Harry Schell">Harry Schell</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:01.4
+</td>
+<td>+1.2
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Peter_Collins_(racing_driver)" title="Peter Collins (racing driver)">Peter Collins</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>2:01.8
+</td>
+<td>+1.6
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Maurice_Trintignant" title="Maurice Trintignant">Maurice Trintignant</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>2:03.2
+</td>
+<td>+3.0
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Luigi_Musso" title="Luigi Musso">Luigi Musso</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>2:03.4
+</td>
+<td>+3.2
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Menditeguy" title="Carlos Menditeguy">Carlos Menditeguy</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:05.4
+</td>
+<td>+5.2
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Les_Leston" title="Les Leston">Les Leston</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>2:05.6
+</td>
+<td>+5.4
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:07.0
+</td>
+<td>+6.8
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Horace_Gould" title="Horace Gould">Horace Gould</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:07.0
+</td>
+<td>+6.8
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Roy_Salvadori" title="Roy Salvadori">Roy Salvadori</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:07.4
+</td>
+<td>+7.2
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jack_Fairman" title="Jack Fairman">Jack Fairman</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>2:08.6
+</td>
+<td>+8.4
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Joakim_Bonnier" class="mw-redirect" title="Joakim Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:12.6
+</td>
+<td>+12.4
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bob_Gerard" title="Bob Gerard">Bob Gerard</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Bristol_Cars" title="Bristol Cars">Bristol</a>
+</td>
+<td>2:12.6
+</td>
+<td>+12.4
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>32
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ivor_Bueb" title="Ivor Bueb">Ivor Bueb</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:15.4
+</td>
+<td>+15.2
+</td></tr>
+<tr>
+<th colspan="6">Source:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a></b><br /><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></b>
+</td>
+<td><b><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a></b>
+</td>
+<td>90
+</td>
+<td>3:06:37.8
+</td>
+<td>3
+</td>
+<td><b>4</b><br /><b>5</b><sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Luigi_Musso" title="Luigi Musso">Luigi Musso</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>90
+</td>
+<td>+25.6 secs
+</td>
+<td>10
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Mike_Hawthorn" title="Mike Hawthorn">Mike Hawthorn</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>90
+</td>
+<td>+42.8 secs
+</td>
+<td>5
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Maurice_Trintignant" title="Maurice Trintignant">Maurice Trintignant</a></b><br /><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Peter_Collins_(racing_driver)" title="Peter Collins (racing driver)">Peter Collins</a>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>88
+</td>
+<td>+2 Laps
+</td>
+<td>9
+</td>
+<td><b>3</b><sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup><br />0<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Roy_Salvadori" title="Roy Salvadori">Roy Salvadori</a></b>
+</td>
+<td><b><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>85
+</td>
+<td>+5 Laps
+</td>
+<td>15
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bob_Gerard" title="Bob Gerard">Bob Gerard</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Bristol_Cars" title="Bristol Cars">Bristol</a>
+</td>
+<td>82
+</td>
+<td>+8 Laps
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stuart_Lewis-Evans" title="Stuart Lewis-Evans">Stuart Lewis-Evans</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>82
+</td>
+<td>+8 Laps
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>32
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ivor_Bueb" title="Ivor Bueb">Ivor Bueb</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>71
+</td>
+<td>+19 Laps
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>74
+</td>
+<td>Clutch
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Behra" title="Jean Behra">Jean Behra</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>69
+</td>
+<td>Clutch
+</td>
+<td>2
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Peter_Collins_(racing_driver)" title="Peter Collins (racing driver)">Peter Collins</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>53
+</td>
+<td>Water Leak
+</td>
+<td>8
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a><br /><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>51
+</td>
+<td>Engine
+</td>
+<td>1
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Juan_Manuel_Fangio" title="Juan Manuel Fangio">Juan Manuel Fangio</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>49
+</td>
+<td>Engine
+</td>
+<td>4
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jack_Fairman" title="Jack Fairman">Jack Fairman</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>46
+</td>
+<td>Engine
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Les_Leston" title="Les Leston">Les Leston</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>44
+</td>
+<td>Engine
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/23px-Flag_of_the_United_States_%281912-1959%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/35px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/46px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Harry_Schell" title="Harry Schell">Harry Schell</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>39
+</td>
+<td>Water Pump
+</td>
+<td>7
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Menditeguy" title="Carlos Menditeguy">Carlos Menditeguy</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>35
+</td>
+<td>Transmission
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Joakim_Bonnier" class="mw-redirect" title="Joakim Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>18
+</td>
+<td>Gearbox
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNS
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Horace_Gould" title="Horace Gould">Horace Gould</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>
+</td>
+<td>Accident
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Sources:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</th></tr></tbody></table>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – Includes 1 point for fastest lap</li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span>  – Trintignant received all 3 points for fourth place as it was determined that Collins did not drive a significant number of laps</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Last Grand Prix appearance for: <a href="/wiki/Bob_Gerard" title="Bob Gerard">Bob Gerard</a> and <a href="/wiki/Les_Leston" title="Les Leston">Les Leston</a>.</li>
+<li>Career Firsts: <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> (win); <a href="/wiki/Roy_Salvadori" title="Roy Salvadori">Roy Salvadori</a> (points).</li>
+<li>Third and last win of two drivers in a shared car.</li></ul>
+<h2><span class="mw-headline" id="Shared_drives">Shared drives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Shared drives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ul><li>Car #20: <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> (26 laps) and <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> (64 laps). They shared the 8 points for first place</li>
+<li>Car #16: <a href="/wiki/Maurice_Trintignant" title="Maurice Trintignant">Maurice Trintignant</a> (85 laps) and <a href="/wiki/Peter_Collins_(racing_driver)" title="Peter Collins (racing driver)">Peter Collins</a> (3 laps). Trintignant received all 3 points for fourth place as it was determined that Collins did not drive a significant number of laps.</li>
+<li>Car #18: <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> (25 laps) and <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> (26 laps).</li></ul></li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Juan_Manuel_Fangio" title="Juan Manuel Fangio">Juan Manuel Fangio</a>
+</td>
+<td align="left">25
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Luigi_Musso" title="Luigi Musso">Luigi Musso</a>
+</td>
+<td align="left">13
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 3
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td align="left">10
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 2
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/23px-Flag_of_the_United_States_%281912-1959%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/35px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/46px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Sam_Hanks" title="Sam Hanks">Sam Hanks</a>
+</td>
+<td align="left">8
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/23px-Flag_of_the_United_States_%281912-1959%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/35px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/46px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Jim_Rathmann" title="Jim Rathmann">Jim Rathmann</a>
+</td>
+<td align="left">7
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-champ_4-0" class="reference"><a href="#cite_note-champ-4">&#91;4&#93;</a></sup>
+</th></tr></tbody></table>
+<ul><li><small><b>Note</b>: Only the top five positions are included.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://chicanef1.com/race.pl?year=1957&amp;gp=British%20GP&amp;r=1&amp;type=qual">"1957 British GP Qualification"</a>. <i>www.chicanef1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.chicanef1.com&amp;rft.atitle=1957+British+GP+Qualification&amp;rft_id=http%3A%2F%2Fchicanef1.com%2Frace.pl%3Fyear%3D1957%26gp%3DBritish%2520GP%26r%3D1%26type%3Dqual&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1957+British+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/1957/races/154/great-britain.html">"1957 British Grand Prix"</a>. formula1.com<span class="reference-accessdate">. Retrieved <span class="nowrap">12 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1957+British+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F1957%2Fraces%2F154%2Fgreat-britain.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1957+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://grandprix.com/gpe/rr061.html">"Grand Prix Results: British GP, 1957"</a>. <i>GrandPrix.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071017201206/http://grandprix.com/gpe/rr061.html">Archived</a> from the original on 17 October 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Grand+Prix+Results%3A+British+GP%2C+1957&amp;rft_id=http%3A%2F%2Fgrandprix.com%2Fgpe%2Frr061.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1957+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-champ_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1957/grande-bretagne/championnat.aspx">"Britain 1957 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Britain+1957+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1957%2Fgrande-bretagne%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1957+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1957_British_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Denis_Jenkinson" title="Denis Jenkinson">Jenkinson, D.</a> 1957. <i>The 10th British Grand Prix</i>. <b>Motor Sport</b>. XXXIII/8 (August 1957), pp.&#160;420–421, 424</li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1957_British_Grand_Prix" class="extiw" title="commons:Category:1957 British Grand Prix"><span style="">1957 British Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1957_French_Grand_Prix" title="1957 French Grand Prix">1957 French Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1957_Formula_One_season" title="1957 Formula One season">1957 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1957_German_Grand_Prix" title="1957 German Grand Prix">1957 German Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1956_British_Grand_Prix" title="1956 British Grand Prix">1956 British Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1958_British_Grand_Prix" title="1958 British Grand Prix">1958 British Grand Prix</a></b>
+</td></tr>
+
+
+
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1956_Italian_Grand_Prix" title="1956 Italian Grand Prix">1956 Italian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/European_Grand_Prix" title="European Grand Prix">European Grand Prix</a></b><br /><small>(Designated European Grand Prix)</small>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1958_Belgian_Grand_Prix" title="1958 Belgian Grand Prix">1958 Belgian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Formula_One_Grands_Prix_(1950–59)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1950%E2%80%9359" title="Template:F1GP 1950–59"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1950%E2%80%9359" title="Template talk:F1GP 1950–59"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1950%E2%80%9359&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Formula_One_Grands_Prix_(1950–59)_next_»" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1950–59) <div style="float: right;"><a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1959_Formula_One_season" title="1959 Formula One season">1959</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1959_Monaco_Grand_Prix" title="1959 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1959_Indianapolis_500" title="1959 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1959_Dutch_Grand_Prix" title="1959 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1959_French_Grand_Prix" title="1959 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1959_British_Grand_Prix" title="1959 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1959_German_Grand_Prix" title="1959 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1959_Portuguese_Grand_Prix" title="1959 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1959_Italian_Grand_Prix" title="1959 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1959_United_States_Grand_Prix" title="1959 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1958_Formula_One_season" title="1958 Formula One season">1958</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1958_Argentine_Grand_Prix" title="1958 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1958_Monaco_Grand_Prix" title="1958 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1958_Dutch_Grand_Prix" title="1958 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1958_Indianapolis_500" title="1958 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1958_Belgian_Grand_Prix" title="1958 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1958_French_Grand_Prix" title="1958 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1958_British_Grand_Prix" title="1958 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1958_German_Grand_Prix" title="1958 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1958_Portuguese_Grand_Prix" title="1958 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1958_Italian_Grand_Prix" title="1958 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1958_Moroccan_Grand_Prix" title="1958 Moroccan Grand Prix">MOR</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1957_Formula_One_season" title="1957 Formula One season">1957</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1957_Argentine_Grand_Prix" title="1957 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1957_Monaco_Grand_Prix" title="1957 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1957_Indianapolis_500" title="1957 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1957_French_Grand_Prix" title="1957 French Grand Prix">FRA</a></li>
+<li><a class="mw-selflink selflink">GBR</a></li>
+<li><a href="/wiki/1957_German_Grand_Prix" title="1957 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1957_Pescara_Grand_Prix" title="1957 Pescara Grand Prix">PES</a></li>
+<li><a href="/wiki/1957_Italian_Grand_Prix" title="1957 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1956_Formula_One_season" title="1956 Formula One season">1956</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1956_Argentine_Grand_Prix" title="1956 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1956_Monaco_Grand_Prix" title="1956 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1956_Indianapolis_500" title="1956 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1956_Belgian_Grand_Prix" title="1956 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1956_French_Grand_Prix" title="1956 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1956_British_Grand_Prix" title="1956 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1956_German_Grand_Prix" title="1956 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1956_Italian_Grand_Prix" title="1956 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1955_Formula_One_season" title="1955 Formula One season">1955</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1955_Argentine_Grand_Prix" title="1955 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1955_Monaco_Grand_Prix" title="1955 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1955_Indianapolis_500" title="1955 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1955_Belgian_Grand_Prix" title="1955 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1955_Dutch_Grand_Prix" title="1955 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1955_British_Grand_Prix" title="1955 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1955_Italian_Grand_Prix" title="1955 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1954_Formula_One_season" title="1954 Formula One season">1954</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1954_Argentine_Grand_Prix" title="1954 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1954_Indianapolis_500" title="1954 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1954_Belgian_Grand_Prix" title="1954 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1954_French_Grand_Prix" title="1954 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1954_British_Grand_Prix" title="1954 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1954_German_Grand_Prix" title="1954 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1954_Swiss_Grand_Prix" title="1954 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1954_Italian_Grand_Prix" title="1954 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1954_Spanish_Grand_Prix" title="1954 Spanish Grand Prix">ESP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1953_Formula_One_season" title="1953 Formula One season">1953</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1953_Argentine_Grand_Prix" title="1953 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1953_Indianapolis_500" title="1953 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1953_Dutch_Grand_Prix" title="1953 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1953_Belgian_Grand_Prix" title="1953 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1953_French_Grand_Prix" title="1953 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1953_British_Grand_Prix" title="1953 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1953_German_Grand_Prix" title="1953 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1953_Swiss_Grand_Prix" title="1953 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1953_Italian_Grand_Prix" title="1953 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1952_Formula_One_season" title="1952 Formula One season">1952</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1952_Swiss_Grand_Prix" title="1952 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1952_Indianapolis_500" title="1952 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1952_Belgian_Grand_Prix" title="1952 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1952_French_Grand_Prix" title="1952 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1952_British_Grand_Prix" title="1952 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1952_German_Grand_Prix" title="1952 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1952_Dutch_Grand_Prix" title="1952 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1952_Italian_Grand_Prix" title="1952 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1951_Formula_One_season" title="1951 Formula One season">1951</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1951_Swiss_Grand_Prix" title="1951 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1951_Indianapolis_500" title="1951 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1951_Belgian_Grand_Prix" title="1951 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1951_French_Grand_Prix" title="1951 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1951_British_Grand_Prix" title="1951 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1951_German_Grand_Prix" title="1951 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1951_Italian_Grand_Prix" title="1951 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1951_Spanish_Grand_Prix" title="1951 Spanish Grand Prix">ESP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1950_Formula_One_season" title="1950 Formula One season">1950</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1950_British_Grand_Prix" title="1950 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1950_Monaco_Grand_Prix" title="1950 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1950_Indianapolis_500" title="1950 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1950_Swiss_Grand_Prix" title="1950 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1950_Belgian_Grand_Prix" title="1950 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1950_French_Grand_Prix" title="1950 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1950_Italian_Grand_Prix" title="1950 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr></tbody></table></div></div>

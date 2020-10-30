@@ -1,0 +1,1304 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2007 Malaysian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 2 of 17 in the <a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Sepang.svg" class="image"><img alt="Sepang.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/220px-Sepang.svg.png" decoding="async" width="220" height="181" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/330px-Sepang.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sepang.svg/440px-Sepang.svg.png 2x" data-file-width="1146" data-file-height="945" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2007-04-08">8 April 2007</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+IX Petronas Malaysian Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Sepang_International_Circuit" title="Sepang International Circuit">Sepang International Circuit</a><br /><a href="/wiki/Sepang" class="mw-redirect" title="Sepang">Sepang</a>, <a href="/wiki/Selangor" title="Selangor">Selangor</a>, <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.543 km (3.444 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+56 laps, 310.408<sup id="cite_ref-Race_Report_1-0" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> km (192.879 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Sunny<sup id="cite_ref-Race_Report_1-1" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Attendance</th><td colspan="3">
+115,794 (Weekend) <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:35.043</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:36.701 on lap 22</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_389ef99987154a6bb818a4fa0e29f08a"></map><img usemap="#timeline_389ef99987154a6bb818a4fa0e29f08a" src="//upload.wikimedia.org/wikipedia/en/timeline/389ef99987154a6bb818a4fa0e29f08a.png" /></div></li></ul>
+</div></td></tr></tbody></table><p>The <b>IX Petronas Malaysian Grand Prix</b> was a Formula One <a href="/wiki/Motor_race" class="mw-redirect" title="Motor race">motor race</a>, held on 8 April 2007 at the <a href="/wiki/Sepang_International_Circuit" title="Sepang International Circuit">Sepang International Circuit</a> and the second race of the <a href="/wiki/2007_Formula_One_season" class="mw-redirect" title="2007 Formula One season">2007 Formula One season</a>. Reigning world champion <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> won the race from second on the grid, with <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a> teammate <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> finishing second. This marked McLaren's first one-two finish since the <a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">2005 Brazilian Grand Prix</a>. Previous race winner <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> finished third. Räikkönen's <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> teammate <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> started the race from <a href="/wiki/Pole_position" title="Pole position">pole position</a>, but was passed by both McLarens in the first two corners of the first lap, eventually finishing in fifth place behind <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW's</a> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>.
+</p><p>The Malaysian race was the first at which the two different tyre types used during the race were differentiated by a white stripe painted into the tread of the softer type, helping spectators to understand the race strategy of each driver.<sup id="cite_ref-Noble_3-0" class="reference"><a href="#cite_note-Noble-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice"><span class="tocnumber">1.2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying"><span class="tocnumber">1.3</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Race"><span class="tocnumber">1.4</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Qualifying_2"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Championship_standings_after_the_race"><span class="tocnumber">3</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>Pre-race testing</dt></dl>
+<p>The 2007 Malaysian Grand Prix was held at the <a href="/wiki/Sepang_International_Circuit" title="Sepang International Circuit">Sepang International Circuit</a> near <a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a> on 8 April, with practice and qualification for the race held on the two preceding days. It was preceded by a test session at the Sepang circuit attended by all the teams except the small Dutch team <a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>, who believed that it would not be possible to try upgrades on their car in time for the race.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The test was scheduled to begin on 27 March 2007 and last for three days. The teams, which are all based in Europe, arrived at the test directly from the <a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">Australian Grand Prix</a>, held nine days previously. <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> (<a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>), <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> (<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Scuderia Ferrari</a>) and <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> (<a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>) set the fastest times on the first, second and third days of the test, respectively; the final day saw partly wet conditions.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Due to the poor weather, the teams agreed to extend the testing by one day, with <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> (<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault F1</a>) fastest.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<dl><dt>Dispute over customer cars</dt></dl>
+<p>The issue of teams using 'customer cars', that is cars obtained from other teams, surfaced before the race when Spyker protested the <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Scuderia Toro Rosso</a> (STR) team's use of cars they claimed had been designed by STR's sister team, <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing</a>. The <a href="/wiki/Concorde_Agreement" title="Concorde Agreement">Concorde Agreement</a>, which dictates the terms by which the teams compete in the Formula One world championship, requires teams to design their own cars.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The Malaysian stewards rejected the protest, with the <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a> (FIA, the sport's governing body) stating that "it would be entirely inappropriate for the Stewards to involve themselves in a matter being dealt with at the instigation and election of the Protestor, Spyker".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Red Bull threatened legal action over Spyker's possession of their car designs to use as evidence against STR, but nothing materialised. The FIA did not investigate how Spyker obtained Red Bull's car designs.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<dl><dt>Flexible floors</dt></dl>
+<p>The FIA introduced more stringent tests on the cars at the Malaysian race to ensure floor mounting systems used by Ferrari and BMW Sauber were not in breach of the regulations. After the first race of the season in Australia, the McLaren team had requested clarification of the rules regarding systems that allowed the front of the car's undertray to move upwards under aerodynamic loading at high speed. <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i> magazine reported that this movement would potentially increase straight line speed. Massa and Räikkönen said the performance of the <a href="/wiki/Ferrari_F2007" title="Ferrari F2007">Ferrari F2007</a> car would not be compromised in any way by the required modifications.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<dl><dt>Tyre markings</dt></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:221px;"><a href="/wiki/File:F1_whitestripetyres.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/F1_whitestripetyres.jpg/219px-F1_whitestripetyres.jpg" decoding="async" width="219" height="216" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/F1_whitestripetyres.jpg/329px-F1_whitestripetyres.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/F1_whitestripetyres.jpg/438px-F1_whitestripetyres.jpg 2x" data-file-width="999" data-file-height="986" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:F1_whitestripetyres.jpg" class="internal" title="Enlarge"></a></div>The tyres shown above do not have a stripe and therefore are the harder compound (officially named the 'prime' tyre). The tyres shown below have the white stripe indicating they are using the softer compound (the 'option' tyre).</div></div></div>
+<p>The Malaysian race was the first at which the tyre compounds used on the cars were differentiated by a white stripe painted in the tyre treads. Since the beginning of the 2007 Formula One season, teams had been obliged to use two different kinds of tyre on each car during the race: a 'prime' tyre and an 'option' tyre. The prime tyre has a harder rubber compound and the option tyre a softer one. In general terms, a softer tyre is likely to grip better and provide a higher cornering speed. Conversely, a harder tyre will often be slower, but may last longer. Formula One cars typically use between two and four sets of tyres during a race and using harder tyres may allow fewer <a href="/wiki/Pit_stop" title="Pit stop">pit stops</a> to change tyres. Track conditions, the car characteristics or driving style can reduce or even reverse these differences. In Australia two weeks earlier, the softer tyres were marked with a small white circle to facilitate understanding of each driver's tyre strategy, but commentators and spectators were unable to distinguish the two compounds even at slow speeds.<sup id="cite_ref-Noble_3-1" class="reference"><a href="#cite_note-Noble-3">&#91;3&#93;</a></sup> The idea of the white stripe was tested during the test session a week before the Malaysian round of the season.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The white stripe was applied with paint marker pens. Over the weekend 160 pens were used. Overall reaction to this system was positive, with the <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> team's technical director <a href="/wiki/Sam_Michael" title="Sam Michael">Sam Michael</a>, who came up with the initial idea, calling it a "pretty good solution".<sup id="cite_ref-White_Stripes_Rock_F1_18-0" class="reference"><a href="#cite_note-White_Stripes_Rock_F1-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The race was preceded by three practice sessions. Ferrari's <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> set the pace in the first of two 90-minute practice sessions on Friday, with a time of 1:34.972, edging out McLaren's <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> by three-tenths of a second. Alonso's teammate Hamilton was third, with Ferrari's other driver, Räikkönen, just behind in fourth. <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>, <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>, <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>, <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a>, <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>, and Robert Kubica rounded out the top ten.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>Massa was comfortably fastest in Friday's second practice, setting a time of 1:35.780. The Renault team improved dramatically from first practice, with <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> second and Kovalainen third. Räikkönen was again fourth, followed by Rosberg, <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a>, Kubica and Schumacher. The McLarens of Hamilton and Alonso dropped to ninth and 12th respectively.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> McLaren boss <a href="/wiki/Ron_Dennis" title="Ron Dennis">Ron Dennis</a> played down the times, saying the team was concentrating on tyre evaluation.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Dennis's lack of concern was vindicated on Saturday, with Hamilton setting the fastest time in practice with a lap of 1:34.811. Massa finished the session a tenth of a second behind, with third placed Alonso a further half second behind. Kubica, Räikkönen, Rosberg and Heidfeld followed, with <a href="/wiki/Super_Aguri" class="mw-redirect" title="Super Aguri">Super Aguri</a> driver <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a> eighth fastest. Super Aguri are regarded as a sister team to the <a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda F1</a> works team, who set only the 17th and 19th fastest times.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The 2007 Super Aguri is widely thought to be an updated version of Honda's 2006 car.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><i>For more details on the qualification process for this race, see <a href="/wiki/2006_Formula_One_season#Qualifying" class="mw-redirect" title="2006 Formula One season">2006 Rule Changes: Qualifying</a></i></dd></dl>
+<p>The qualifying session to determine the starting order for the race is held in three parts, six cars are eliminated after each of the first two parts. In the first part, the Spykers of <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a> and <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a> set the slowest times of all. Spyker technical director <a href="/wiki/Mike_Gascoyne" title="Mike Gascoyne">Mike Gascoyne</a> admitted that the team had "made a mistake" in missing the test at Sepang a week earlier.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a> (STR), Anthony Davidson (Super Aguri), <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> (Honda) and Alex Wurz (Williams) were also eliminated. Davidson blamed STR driver <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a> for obstructing his qualifying lap, stating "he was pretty aware I was behind him".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Wurz was slowed by gear-selection problems in his Williams.<sup id="cite_ref-Rosberg_delighted_with_P6_27-0" class="reference"><a href="#cite_note-Rosberg_delighted_with_P6-27">&#91;27&#93;</a></sup> At the front, McLaren driver Alonso set the fastest time with a 1:34.942. His teammate Hamilton was second fastest, with the Ferraris third and fifth, split by Kubica's BMW.
+</p><p>Rain threatened during the second part. Although it did not materialise, all the drivers posted quick laps early on to avoid having to set a time on a wet track. Alonso was again fastest with a 1:34.057. Hamilton, both Ferraris, BMW Saubers, and Toyotas, as well as Rosberg (Williams) and Webber (Red Bull) also passed through to the final part. Kovalainen (Renault), Fisichella (Renault), Coulthard (Red Bull), Sato (Super Aguri), Button (Honda) and Liuzzi (STR) were eliminated. 2006 champions Renault failed to get either car into the final part. Team engineering director Pat Symonds noted that "...the overall level of performance is disappointing, but we now have to knuckle down and make the most of the situation we find ourselves in."<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Button claimed Honda's grid position of 15th was the "maximum we could possibly get".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>In the final part of qualifying, Massa set the fastest time, taking <a href="/wiki/Pole_position" title="Pole position">pole position</a> from second placed Alonso in the last few seconds as rain began to fall, with Räikkönen completing the top three. Massa's lap of 1:35.043 marked tyre company <a href="/wiki/Bridgestone" title="Bridgestone">Bridgestone's</a> 100th pole position in Formula One. Hamilton came fourth, over half a second behind the leading three. He conceded inexperience was to blame, saying that there were "some spots of rain on my visor, so I had to sort of let off".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Heidfeld qualified fifth, ahead of Nico Rosberg in sixth and teammate Kubica in seventh. The <a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyotas</a> of Trulli and Schumacher were eighth and ninth, with Webber completing the top ten.<sup id="cite_ref-Rosberg_delighted_with_P6_27-1" class="reference"><a href="#cite_note-Rosberg_delighted_with_P6-27">&#91;27&#93;</a></sup>
+</p><p>Race stewards initially imposed a 10-place penalty on Coulthard and Barrichello, for changing their engines prior to qualification. Since 2006, the engines of Formula One cars are required to last for two races. However, after further investigation they rescinded Coulthard's penalty, as he had retired from the previous race and his change had been made before the start of the race weekend. Barrichello's penalty stood.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Fernando_Alonso_2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fernando_Alonso_2007.jpg/200px-Fernando_Alonso_2007.jpg" decoding="async" width="200" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fernando_Alonso_2007.jpg/300px-Fernando_Alonso_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fernando_Alonso_2007.jpg/400px-Fernando_Alonso_2007.jpg 2x" data-file-width="856" data-file-height="571" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fernando_Alonso_2007.jpg" class="internal" title="Enlarge"></a></div>Fernando Alonso won the race; his first victory for McLaren.</div></div></div>
+<p>In contrast to the rain-affected practice and qualifying sessions, the track was dry for the duration of the race. All of the drivers except Jenson Button, Jarno Trulli and the two Red Bull drivers started on the softer option tyre. The first lap was eventful: Alonso started better than polesitter Massa and was able to take the inside line into turn one and gain the lead. Hamilton passed Räikkönen for third into the first corner, then drove round the outside of Massa into turn two to take second place.<sup id="cite_ref-Race_Report_1-2" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> Meanwhile, the suspension on Adrian Sutil's Spyker failed at turn four, causing it to collide with Button's Honda and retire from the race.<sup id="cite_ref-ITV-F1_32-0" class="reference"><a href="#cite_note-ITV-F1-32">&#91;32&#93;</a></sup> Button continued after making an early pitstop to repair the damage. Liuzzi and Sato also collided at turn four, causing Liuzzi to pit for a new front wing. After the race the drivers blamed each other for the incident.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p><p>During the early laps, Massa appeared to have a faster car than Hamilton, and repeatedly tried to pass the McLaren on the inside of turn four. His first attempt was on lap three, but Hamilton braked late and kept ahead of Massa into the following corner. Massa tried again at the same place on the next two laps. He passed Hamilton briefly into the turn on lap five, but overshot the corner and ran wide onto the grass. He dropped to fifth, behind teammate Räikkönen and BMW's Nick Heidfeld. Hamilton apologised after the race for 'tricking' Massa into the move. Albers, in the sole remaining Spyker, retired on lap nine with a gearbox fire.<sup id="cite_ref-ITV-F1_32-1" class="reference"><a href="#cite_note-ITV-F1-32">&#91;32&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Heidfeld_%2B_Massa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidfeld_%2B_Massa.jpg/200px-Heidfeld_%2B_Massa.jpg" decoding="async" width="200" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidfeld_%2B_Massa.jpg/300px-Heidfeld_%2B_Massa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidfeld_%2B_Massa.jpg/400px-Heidfeld_%2B_Massa.jpg 2x" data-file-width="1024" data-file-height="683" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Heidfeld_%2B_Massa.jpg" class="internal" title="Enlarge"></a></div>Felipe Massa was unable to get past Nick Heidfeld after losing time due to a mistake while attempting to pass Lewis Hamilton earlier in the race.</div></div></div>
+<p>While the two Ferraris were delayed behind Hamilton, Alonso was pulling away at the front, setting fastest laps on laps seven and fifteen. On lap 12, Robert Kubica was the first man to pit for fuel and fresh tyres, however he reported <a href="/wiki/Traction_control_system" title="Traction control system">traction control</a> problems four laps later and lost places.<sup id="cite_ref-Press_Release_-_Lap_by_Lap_report_34-0" class="reference"><a href="#cite_note-Press_Release_-_Lap_by_Lap_report-34">&#91;34&#93;</a></sup> Alonso had extended his lead over Hamilton to 15 seconds by the first round of pitstops.<sup id="cite_ref-Race_Report_1-3" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> He had experienced radio problems before refuelling, but these were fixed during the stop. The Renaults were circulating in eighth and tenth by the pit stops, with Fisichella ahead of Kovalainen. Button was one of the few drivers who started on the slower harder tyre and was dropping down the field, as Takuma Sato passed the Briton.<sup id="cite_ref-Tyre_strategies_35-0" class="reference"><a href="#cite_note-Tyre_strategies-35">&#91;35&#93;</a></sup> All of the front runners were on the same tyre strategy,<sup id="cite_ref-Tyre_strategies_35-1" class="reference"><a href="#cite_note-Tyre_strategies-35">&#91;35&#93;</a></sup> with Räikkönen being the first front runner to pit. He found himself behind Fisichella as he exited. A short pit stop by Hamilton enabled him to come out of the pits ahead of the Renault, leaving a car between himself and Räikkönen during the pit window. Heidfeld's late stop on lap 22 helped him stay ahead of Massa.<sup id="cite_ref-Press_Release_-_Lap_by_Lap_report_34-1" class="reference"><a href="#cite_note-Press_Release_-_Lap_by_Lap_report-34">&#91;34&#93;</a></sup> The top five positions remained unchanged, however Hamilton's different strategy enabled him to escape Räikkönen and close in on leader Alonso at a second per lap. Despite pitting on lap 20, he set the fastest lap of the race on lap 22 in 1:36.701.<sup id="cite_ref-Race_Report_1-4" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup>
+</p><p>Kubica dropped to 13th as his traction control fault worsened, and a train of cars that wanted to pass developed behind him. Kovalainen's performance was much better than at the previous round in <a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">Melbourne</a>, and he attempted to pass Jarno Trulli for eighth.<sup id="cite_ref-Race_Report_1-5" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> The top five again remained the same after the second round of stops. However, Hamilton's short first stop necessitated a relatively early second stop, allowing Räikkönen to reduce the gap and Alonso to extend his lead to 18 seconds.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> Nico Rosberg, running in sixth place after the stops, was forced to retire with hydraulic problems on lap 43. David Coulthard also retired after problems with his brake pedal,<sup id="cite_ref-Race_Report_1-6" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> the same problem that he experienced in the Friday practice session.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Hamilton_%2B_Raikkonen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamilton_%2B_Raikkonen.jpg/200px-Hamilton_%2B_Raikkonen.jpg" decoding="async" width="200" height="117" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamilton_%2B_Raikkonen.jpg/300px-Hamilton_%2B_Raikkonen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamilton_%2B_Raikkonen.jpg/400px-Hamilton_%2B_Raikkonen.jpg 2x" data-file-width="1024" data-file-height="597" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hamilton_%2B_Raikkonen.jpg" class="internal" title="Enlarge"></a></div>Lewis Hamilton kept Kimi Räikkönen's Ferrari at bay to score McLaren's first one-two since the <a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">2005 Brazilian Grand Prix</a>.</div></div></div>
+<p>Alonso was able to extend his advantage in the closing stages, winning the race by 17 seconds. Although experiencing pressure from Räikkönen who was faster on the harder tyres, Hamilton was able to maintain second place behind Alonso, with Räikkönen claiming the final podium position. This was McLaren's first victory since the <a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">2005 Japanese Grand Prix</a>, and the team's first one-two since the <a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">2005 Brazilian Grand Prix</a>. Heidfeld and Massa secured fourth and fifth places respectively, 15 seconds behind Räikkönen. Heidfeld said later that beating Massa was "a fantastic experience".<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> Fisichella finished sixth, and claimed it felt like a podium given the performance of the car.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> Trulli was seventh, and rookie Kovalainen scored his first F1 point in eighth. Wurz managed to come through from 19th to ninth, with his opening stint elevating him to 11th place by his first pit stop.<sup id="cite_ref-Race_Report_1-7" class="reference"><a href="#cite_note-Race_Report-1">&#91;1&#93;</a></sup> Although he claimed no points, he said later "it bodes well for Williams's chances in the rest of the season".<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> tenth placed Mark Webber was the final driver to finish on the same lap as the leaders. Honda finished outside the points in 11th and 12th, with Barrichello ahead of Button. Despite the problems Button said he believed the team had made "a small step forward".<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> The Hondas were followed by Sato, Speed, Schumacher, Davidson and Liuzzi.
+</p><p>Alonso admitted he was surprised to win a race so early in his McLaren career, adding that winning for two different teams was very special.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> Hamilton said afterwards that this was his hardest race to date,<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> while Räikkönen admitted he "did not have enough speed on the straight line to try to challenge either [Hamilton or Alonso]".<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> Räikkönen also had to protect his engine from overheating, caused by a water-leak in the closing stages of the Melbourne race, with Räikkönen stating Ferrari had to "play on the safe side of that engine".<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> After their disappointing Malaysian race, Ferrari boss <a href="/wiki/Jean_Todt" title="Jean Todt">Jean Todt</a> stated that they "will try to do a better job" in the next round in <a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">Bahrain</a>.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 95%">
+
+<tbody><tr>
+<th><abbr title="Qualifying position">Pos.</abbr>
+</th>
+<th><abbr title="Car number">No.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Q3
+</th>
+<th><abbr title="Final grid position">Grid</abbr>
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.340
+</td>
+<td>1:34.454
+</td>
+<td><b>1:35.043</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td><b>1:34.942</b>
+</td>
+<td><b>1:34.057</b>
+</td>
+<td>1:35.310
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.138
+</td>
+<td>1:34.687
+</td>
+<td>1:35.479
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:35.028
+</td>
+<td>1:34.650
+</td>
+<td>1:36.045
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:35.617
+</td>
+<td>1:35.203
+</td>
+<td>1:36.543
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:35.755
+</td>
+<td>1:35.380
+</td>
+<td>1:36.829
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>1:35.294
+</td>
+<td>1:34.739
+</td>
+<td>1:36.839
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:35.666
+</td>
+<td>1:35.255
+</td>
+<td>1:36.902
+</td>
+<td>8
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:35.736
+</td>
+<td>1:35.595
+</td>
+<td>1:37.078
+</td>
+<td>9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:35.727
+</td>
+<td>1:35.579
+</td>
+<td>1:37.345
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:36.092
+</td>
+<td>1:35.630
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:35.879
+</td>
+<td>1:35.706
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:35.730
+</td>
+<td>1:35.766
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a>
+</td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:36.430
+</td>
+<td>1:35.945
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:35.913
+</td>
+<td>1:36.088
+</td>
+<td>
+</td>
+<td>15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:36.140
+</td>
+<td>1:36.145
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:36.578
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a>
+</td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:36.816
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:36.827
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>22<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:37.326
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>19
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a>
+</td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:38.279
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:38.415
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>21
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup></div>
+</th></tr></tbody></table>
+<p><b>Notes:</b>
+</p>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> was given a ten-place grid penalty following an engine change.</li></ul>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%">
+
+<tbody><tr>
+<th><abbr title="Position">Pos.</abbr></th>
+<th><abbr title="Car number">No.</abbr></th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>1</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></b></td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>56
+</td>
+<td>1:32:14.930
+</td>
+<td>2
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>2</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b></td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>56
+</td>
+<td>+17.557
+</td>
+<td>4
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>6</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b></td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>56
+</td>
+<td>+18.339
+</td>
+<td>3
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>9</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b></td>
+<td><b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>56
+</td>
+<td>+33.777
+</td>
+<td>5
+</td>
+<td><b>5</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>5</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b></td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>56
+</td>
+<td>+36.705
+</td>
+<td>1
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>3</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></b></td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>56
+</td>
+<td>+1:05.638
+</td>
+<td>12
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>12</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a></b></td>
+<td><b><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>56
+</td>
+<td>+1:10.132
+</td>
+<td>8
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>4</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></b></td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>56
+</td>
+<td>+1:12.015
+</td>
+<td>11
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>17</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a></td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>56
+</td>
+<td>+1:29.924
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>15</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>56
+</td>
+<td>+1:33.556
+</td>
+<td>10
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>8</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>22
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>7</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></td>
+<td><a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>15
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>22</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a></td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>19</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Scott_Speed" title="Scott Speed">Scott Speed</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>11</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a></td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>9
+</td>
+<td>
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>23</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a></td>
+<td><a href="/wiki/Super_Aguri_F1" title="Super Aguri F1">Super Aguri</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>18</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vitantonio_Liuzzi" title="Vitantonio Liuzzi">Vitantonio Liuzzi</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>10</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></td>
+<td><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>55
+</td>
+<td>+1 lap
+</td>
+<td>7
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>16</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>42
+</td>
+<td>Water leak
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>14</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>36
+</td>
+<td>Brakes
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>21</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Christijan_Albers" title="Christijan Albers">Christijan Albers</a></td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>7
+</td>
+<td>Engine
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a></td>
+<td><a href="/wiki/Spyker_F1" title="Spyker F1">Spyker</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>21
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td>18
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td>16
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td>14
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td>10
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td>7
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_49-0" class="reference"><a href="#cite_note-Championship-49">&#91;49&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>32
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>23
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>10
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>8
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_49-1" class="reference"><a href="#cite_note-Championship-49">&#91;49&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Race_Report-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Race_Report_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Race_Report_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Race_Report_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Race_Report_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Race_Report_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Race_Report_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Race_Report_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Race_Report_1-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBeer2007" class="citation news cs1">Beer, Matt (8 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57917">"Alonso leads McLaren 1-2 in Malaysia"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alonso+leads+McLaren+1-2+in+Malaysia&amp;rft.date=2007-04-08&amp;rft.aulast=Beer&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.racefans.net/2017/02/08/are-tickets-too-dear-attendance-fell-at-some-tracks-in-2016/">https://www.racefans.net/2017/02/08/are-tickets-too-dear-attendance-fell-at-some-tracks-in-2016/</a></span>
+</li>
+<li id="cite_note-Noble-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Noble_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Noble_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (20 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57497">"Bridgestone urged to improve markings"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Bridgestone+urged+to+improve+markings&amp;rft.date=2007-03-20&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57497&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2007" class="citation news cs1">Elizalde, Pablo (21 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57523">"Spyker to skip Sepang test"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spyker+to+skip+Sepang+test&amp;rft.date=2007-03-21&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57523&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (27 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57644">"Kubica fastest on day one at Sepang"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Kubica+fastest+on+day+one+at+Sepang&amp;rft.date=2007-03-27&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57644&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFElizalde2007" class="citation news cs1">Elizalde, Pablo (28 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57657">"Raikkonen sets blistering Sepang pace"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+sets+blistering+Sepang+pace&amp;rft.date=2007-03-28&amp;rft.aulast=Elizalde&amp;rft.aufirst=Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57657&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (29 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57674">"Hamilton fastest in rain-hit Sepang testing"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton+fastest+in+rain-hit+Sepang+testing&amp;rft.date=2007-03-29&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57674&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (29 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57672">"Sepang test extended by another day"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sepang+test+extended+by+another+day&amp;rft.date=2007-03-29&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57672&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (30 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57696">"Kovalainen fastest as Sepang test ends"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Kovalainen+fastest+as+Sepang+test+ends&amp;rft.date=2007-03-30&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57696&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (15 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57329">"Protest looms on customer car row"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Protest+looms+on+customer+car+row&amp;rft.date=2007-03-15&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57329&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929102930/http://www.itv-f1.com/News_Article.aspx?PO_ID=38841">"Spyker lodges protest against STR"</a>. ITV-F1. 5 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38841">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spyker+lodges+protest+against+STR&amp;rft.date=2007-04-05&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38841&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (6 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57832">"Stewards reject Spyker protest"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Stewards+reject+Spyker+protest&amp;rft.date=2007-04-06&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57832&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (7 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57873">"Red Bull to investigate blueprint leak"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+Bull+to+investigate+blueprint+leak&amp;rft.date=2007-04-07&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57873&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (16 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/58170">"Red Bull seek legal action on design leak"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+Bull+seek+legal+action+on+design+leak&amp;rft.date=2007-04-16&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F58170&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (27 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57650">"FIA acts on movable floor controversy"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=FIA+acts+on+movable+floor+controversy&amp;rft.date=2007-03-27&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57650&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070617095441/http://www.itv-f1.com/News_Article.aspx?PO_ID=38847">"Ferrari duo not worried about floor test"</a>. ITV-F1. 5 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38847">the original</a> on 17 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ferrari+duo+not+worried+about+floor+test&amp;rft.date=2007-04-05&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38847&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (27 March 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57643">"Bridgestone evaluate new tyre markings"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Bridgestone+evaluate+new+tyre+markings&amp;rft.date=2007-03-27&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57643&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-White_Stripes_Rock_F1-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-White_Stripes_Rock_F1_18-0">^</a></b></span> <span class="reference-text">White Stripes Rock F1. <i>Autosport Magazine</i>, Vol. 188, No. 2, pp. 12, Haymarket Publications. 21 April 2007.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoble2007" class="citation news cs1">Noble, Jonathan (8 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57915">"Universal approve for new tyre marking"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Universal+approve+for+new+tyre+marking&amp;rft.date=2007-04-08&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57915&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622182134/http://www.itv-f1.com/News_Article.aspx?PO_ID=38853">"Practice 1: First blood to Massa"</a>. ITV-F1. 6 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38853">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Practice+1%3A+First+blood+to+Massa&amp;rft.date=2007-04-06&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38853&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622182507/http://www.itv-f1.com/News_Article.aspx?PO_ID=38855">"Massa dominates Malaysian heat"</a>. ITV-F1. 6 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38855">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Massa+dominates+Malaysian+heat&amp;rft.date=2007-04-06&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38855&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070613145902/http://www.itv-f1.com/News_Article.aspx?PO_ID=38867">"McLaren plays down slow times"</a>. ITV-F1. 6 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38867">the original</a> on 13 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=McLaren+plays+down+slow+times&amp;rft.date=2007-04-06&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38867&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070617091811/http://www.itv-f1.com/News_Article.aspx?PO_ID=38871">"Hamilton on top in final practice"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38871">the original</a> on 17 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hamilton+on+top+in+final+practice&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38871&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/55813">"Aguri to run a modified Honda car in 2007"</a>. autosport.com. 28 November 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Aguri+to+run+a+modified+Honda+car+in+2007&amp;rft.date=2006-11-28&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F55813&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929120032/http://www.itv-f1.com/News_Article.aspx?PO_ID=38884">"Struggling Spyker rues missing test"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38884">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Struggling+Spyker+rues+missing+test&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38884&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927001103/http://www.itv-f1.com/News_Article.aspx?PO_ID=38883">"Davi: Liuzzi ruined my quali chances"</a>. ITV-F1. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38883">the original</a> on 27 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Davi%3A+Liuzzi+ruined+my+quali+chances&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38883&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Rosberg_delighted_with_P6-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rosberg_delighted_with_P6_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rosberg_delighted_with_P6_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929110304/http://www.itv-f1.com/News_Article.aspx?PO_ID=38885">"Rosberg delighted with P6"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38885">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rosberg+delighted+with+P6&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38885&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622145026/http://www.itv-f1.com/News_Article.aspx?PO_ID=38881">"Renault admits to underperformance"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38881">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Renault+admits+to+underperformance&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38881&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622144513/http://www.itv-f1.com/News_Article.aspx?PO_ID=38882">"Button: Fifteenth was maximum result"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38882">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Button%3A+Fifteenth+was+maximum+result&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38882&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070623161134/http://www.itv-f1.com/News_Article.aspx?PO_ID=38876">"Lewis blames pace on rookie error"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38876">the original</a> on 23 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lewis+blames+pace+on+rookie+error&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38876&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070613191300/http://www.itv-f1.com/News_Article.aspx?PO_ID=38892">"Engine penalties for DC, Barrichello"</a>. ITV-F1. 7 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38892">the original</a> on 13 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Engine+penalties+for+DC%2C+Barrichello&amp;rft.date=2007-04-07&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38892&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-ITV-F1-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-ITV-F1_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ITV-F1_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929092647/http://www.itv-f1.com/News_Article.aspx?PO_ID=38906">"Spyker disappointed with early exit"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38906">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spyker+disappointed+with+early+exit&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38906&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927001216/http://www.itv-f1.com/News_Article.aspx?PO_ID=38907">"Liuzzi and Sato blame each other"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38907">the original</a> on 27 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Liuzzi+and+Sato+blame+each+other&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38907&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Press_Release_-_Lap_by_Lap_report-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Press_Release_-_Lap_by_Lap_report_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Press_Release_-_Lap_by_Lap_report_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622162011/http://www.fia.com/mediacentre/Press_Information/F1/Press_Conferences/2007/Malaysia/race_facts.html">"2007 Malaysian Grand Prix Races Facts - Lap-By-Lap Report"</a> (Press release). FIA. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/mediacentre/Press_Information/F1/Press_Conferences/2007/Malaysia/race_facts.html">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007+Malaysian+Grand+Prix+Races+Facts+-+Lap-By-Lap+Report&amp;rft.pub=FIA&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fmediacentre%2FPress_Information%2FF1%2FPress_Conferences%2F2007%2FMalaysia%2Frace_facts.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Tyre_strategies-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tyre_strategies_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tyre_strategies_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57940">"Tyre strategies - Malaysian GP"</a>. Autosport. 8 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tyre+strategies+-+Malaysian+GP&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57940&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6525355.stm">"As it happened: Malaysia GP"</a>. BBC. 8 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=As+it+happened%3A+Malaysia+GP&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6525355.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929110240/http://www.itv-f1.com/News_Article.aspx?PO_ID=38901">"Glitches return to end DC's hopes"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38901">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Glitches+return+to+end+DC%27s+hopes&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38901&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622183018/http://www.itv-f1.com/News_Article.aspx?PO_ID=38903">"Heidfeld thrilled to beat Massa"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38903">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Heidfeld+thrilled+to+beat+Massa&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38903&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622145439/http://www.itv-f1.com/News_Article.aspx?PO_ID=38899">"Fisi: Sixth feels like a podium"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38899">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fisi%3A+Sixth+feels+like+a+podium&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38899&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929103218/http://www.itv-f1.com/News_Article.aspx?PO_ID=38900">"Wurz confident after 'fun' race"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38900">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wurz+confident+after+%27fun%27+race&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38900&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929120053/http://www.itv-f1.com/News_Article.aspx?PO_ID=38905">"Button: Race a 'small step forward"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38905">the original</a> on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Button%3A+Race+a+%27small+step+forward&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6536729.stm">"Malaysia victory a dream - Alonso"</a>. BBC. 8 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Malaysia+victory+a+dream+-+Alonso&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F6536729.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622141536/http://www.itv-f1.com/News_Article.aspx?PO_ID=38897">"Lewis: That was my hardest race"</a>. ITV-F1. 8 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38897">the original</a> on 22 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lewis%3A+That+was+my+hardest+race&amp;rft.date=2007-04-08&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38897&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070708231533/http://www.itv-f1.com/News_Article.aspx?PO_ID=38898">"Raikkonen hints at engine worries"</a>. ITV-F1. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/News_Article.aspx?PO_ID=38898">the original</a> on 8 July 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+hints+at+engine+worries&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FNews_Article.aspx%3FPO_ID%3D38898&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite id="CITEREFBeer2007" class="citation news cs1">Beer, Matt (10 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57981">"Raikkonen hints at engine worries"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">18 July</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raikkonen+hints+at+engine+worries&amp;rft.date=2007-04-10&amp;rft.aulast=Beer&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoblePablo_Elizalde2007" class="citation news cs1">Noble, Jonathan; Pablo Elizalde (8 April 2007). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/57945">"Ferrari vow to bounce back in Bahrain"</a>. Autosport.com<span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ferrari+vow+to+bounce+back+in+Bahrain&amp;rft.date=2007-04-08&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft.au=Pablo+Elizalde&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F57945&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131031160755/http://www.formula1.com/results/season/2007/771/6385/">"2007 FORMULA 1™ Petronas Malaysian Grand Prix - Qualifying"</a>. Official Formula One website. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/771/6385/">the original</a> on 31 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007+FORMULA+1%E2%84%A2+Petronas+Malaysian+Grand+Prix+-+Qualifying&amp;rft.pub=Official+Formula+One+website&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F771%2F6385%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141228113847/http://www.formula1.com/results/season/2007/771/">"2007 FORMULA 1™ Petronas Malaysian Grand Prix - Race"</a>. Official Formula One website. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2007/771/">the original</a> on 28 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007+FORMULA+1%E2%84%A2+Petronas+Malaysian+Grand+Prix+-+Race&amp;rft.pub=Official+Formula+One+website&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2007%2F771%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2007/malaisie/championnat.aspx">"Malaysia 2007 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Malaysia+2007+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2007%2Fmalaisie%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2007+Malaysian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2007_Malaysian_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2007_Malaysian_Grand_Prix" class="extiw" title="commons:Category:2007 Malaysian Grand Prix"><span style="">2007 Malaysian Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070408235524/http://www.fia.com/sport/Championships/F1/F1_Circuits/2007/Malaysia/circuit.html">Malaysian Grand Prix results (fia.com)</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930165147/http://www.manipef1.com/results/2007/malaysia.php">Detailed Malaysian Grand Prix results</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.f1fanatic.co.uk/2007/04/08/malaysian-grand-prix-2007-race-review/">Malaysian Grand Prix 2007 race review</a></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">2007 Australian Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">2007 Bahrain Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">2006 Malaysian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Malaysian_Grand_Prix" title="Malaysian Grand Prix">Malaysian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">2008 Malaysian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a class="mw-selflink selflink">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2007_Malaysian_Grand_Prix&amp;params=2_45_39_N_101_44_18_E_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">2°45′39″N</span> <span class="longitude">101°44′18″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">2.76083°N 101.73833°E</span><span style="display:none">&#xfeff; / <span class="geo">2.76083; 101.73833</span></span></span></a></span></span></span>
+</p></div>

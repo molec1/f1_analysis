@@ -1,0 +1,1769 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1989 Japanese Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 15 of 16 in the <a href="/wiki/1989_Formula_One_World_Championship" title="1989 Formula One World Championship">1989 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Suzuka_circuit_map_(1987-2002).svg" class="image"><img alt="Suzuka circuit map (1987-2002).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Suzuka_circuit_map_%281987-2002%29.svg/220px-Suzuka_circuit_map_%281987-2002%29.svg.png" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Suzuka_circuit_map_%281987-2002%29.svg/330px-Suzuka_circuit_map_%281987-2002%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Suzuka_circuit_map_%281987-2002%29.svg/440px-Suzuka_circuit_map_%281987-2002%29.svg.png 2x" data-file-width="1407" data-file-height="937" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1989-10-22">22 October 1989</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+XV Fuji Television Japanese Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Suzuka_Circuit" class="mw-redirect" title="Suzuka Circuit">Suzuka Circuit</a>, <a href="/wiki/Suzuka,_Mie" title="Suzuka, Mie">Suzuka</a>, <a href="/wiki/Japan" title="Japan">Japan</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.859 km (3.641 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+53 laps, 310.527 km (192.952 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Dry, warm, cloudy</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:38.041</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;note 1&#93;</a></sup></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:43.506 on lap 43</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a></li></ul></div></td><td>
+<small><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a></li></ul></div></td><td>
+<small><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Thierry_Boutsen" title="Thierry Boutsen">Thierry Boutsen</a></li></ul></div></td><td>
+<small><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_6064593f6e5bee0c484a207cb93d199c"></map><img usemap="#timeline_6064593f6e5bee0c484a207cb93d199c" src="//upload.wikimedia.org/wikipedia/en/timeline/6064593f6e5bee0c484a207cb93d199c.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>1989 Japanese Grand Prix</b> (formally the <b>XV Fuji Television Japanese Grand Prix</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Auto_race" class="mw-redirect" title="Auto race">motor race</a> held at <a href="/wiki/Suzuka_Circuit" class="mw-redirect" title="Suzuka Circuit">Suzuka Circuit</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, on 22 October 1989. It was the 15th and penultimate round of the <a href="/wiki/1989_Formula_One_season" class="mw-redirect" title="1989 Formula One season">1989 Formula One season</a>. The 53-lap race was won by <a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a> for the <a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a> team, from a sixth position start. <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a> finished second for the <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> team, with <a href="/wiki/Thierry_Boutsen" title="Thierry Boutsen">Thierry Boutsen</a> third in the other Williams car.
+</p><p>This race would become one of the most notorious in F1 history, as the culmination of <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a> and <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a>'s tumultuous two year rivalry as teammates at <a href="/wiki/McLaren" title="McLaren">McLaren</a>. The Japanese Grand Prix decided the 1989 Drivers' Championship in Prost's favour, after a collision on lap 47 at the final chicane between him and Senna put them both off the track. While Prost abandoned his stalled car, Senna restarted his, made a pit stop to change his front wing, and overhauled <a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a> to take victory. Following the race Senna was controversially disqualified for getting a push start from the marshals to rejoin the circuit, handing the title to Prost.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pre-race"><span class="tocnumber">1</span> <span class="toctext">Pre-race</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Qualifying"><span class="tocnumber">2</span> <span class="toctext">Qualifying</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pre-qualifying_report"><span class="tocnumber">2.1</span> <span class="toctext">Pre-qualifying report</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Pre-qualifying_classification"><span class="tocnumber">2.2</span> <span class="toctext">Pre-qualifying classification</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Qualifying_report"><span class="tocnumber">2.3</span> <span class="toctext">Qualifying report</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Qualifying_classification"><span class="tocnumber">2.4</span> <span class="toctext">Qualifying classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Race"><span class="tocnumber">3</span> <span class="toctext">Race</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Race_report"><span class="tocnumber">3.1</span> <span class="toctext">Race report</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Post-race"><span class="tocnumber">3.2</span> <span class="toctext">Post-race</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Race_classification"><span class="tocnumber">3.3</span> <span class="toctext">Race classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Championship_standings_after_the_race"><span class="tocnumber">4</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Footnotes"><span class="tocnumber">5</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Pre-race">Pre-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Pre-race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As in <a href="/wiki/1988_Formula_One_World_Championship" title="1988 Formula One World Championship">1988</a>, the McLaren team had been dominant throughout 1989. Going into this race, Prost had a 16-point lead in the Drivers' Championship over Senna, 76 to 60. The Brazilian had won six races to the Frenchman's four, including the previous race in <a href="/wiki/1989_Spanish_Grand_Prix" title="1989 Spanish Grand Prix">Spain</a>, but had only finished in the points on one other occasion, while Prost had only finished out of the points once all season. Therefore, Senna had to win both this race and the final race in <a href="/wiki/1989_Australian_Grand_Prix" title="1989 Australian Grand Prix">Australia</a> to have any chance of retaining his World Drivers' Championship. However, if Senna did win the last two races, he would be champion regardless of where Prost finished, due to the dropped scores system.
+</p>
+<h2><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-qualifying_report">Pre-qualifying report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Pre-qualifying report">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Nicola_Larini" title="Nicola Larini">Nicola Larini</a> was fastest in the Friday morning pre-qualifying session for the second Grand Prix in a row, the <a href="/wiki/Osella" title="Osella">Osella</a> driver just edging out <a href="/wiki/Philippe_Alliot" title="Philippe Alliot">Philippe Alliot</a> in his <a href="/wiki/Larrousse" title="Larrousse">Larrousse</a>-<a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>. A surprising third place was the <a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a> of <a href="/wiki/Bernd_Schneider_(racing_driver)" title="Bernd Schneider (racing driver)">Bernd Schneider</a>, who had not pre-qualified since the first race of the season in <a href="/wiki/1989_Brazilian_Grand_Prix" title="1989 Brazilian Grand Prix">Brazil</a>. The car's underpowered <a href="/wiki/Yamaha_Motor_Company" title="Yamaha Motor Company">Yamaha</a> engine had undergone some testing and development work since the last race, with some clear improvement made. "Our season starts here," Schneider said.<sup id="cite_ref-Walker_2-0" class="reference"><a href="#cite_note-Walker-2">&#91;1&#93;</a></sup> The fourth pre-qualifying spot went to <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a> in the other Lola.
+</p><p>Larini's team-mate <a href="/wiki/Piercarlo_Ghinzani" title="Piercarlo Ghinzani">Piercarlo Ghinzani</a> missed out this time in fifth place, with <a href="/wiki/Roberto_Moreno" title="Roberto Moreno">Roberto Moreno</a> sixth in his <a href="/wiki/Scuderia_Coloni" title="Scuderia Coloni">Coloni</a>. The <a href="/wiki/Onyx_(racing_team)" class="mw-redirect" title="Onyx (racing team)">Onyx</a> team failed to get either car through to the main qualifying sessions for the first time since the third round at <a href="/wiki/1989_Monaco_Grand_Prix" title="1989 Monaco Grand Prix">Monaco</a>, as <a href="/wiki/Stefan_Johansson" title="Stefan Johansson">Stefan Johansson</a> could only manage seventh after a fuel pump failure. Zakspeed's improvement could only help <a href="/wiki/Aguri_Suzuki" title="Aguri Suzuki">Aguri Suzuki</a> to eighth place, his fifteenth straight failure to pre-qualify. <a href="/wiki/Oscar_Larrauri" title="Oscar Larrauri">Oscar Larrauri</a> was ninth in the <a href="/wiki/EuroBrun" title="EuroBrun">EuroBrun</a>, ahead of the other Onyx of <a href="/wiki/JJ_Lehto" title="JJ Lehto">JJ Lehto</a>. The <a href="/wiki/Automobiles_Gonfaronnaises_Sportives" title="Automobiles Gonfaronnaises Sportives">AGS</a> team had spent three days testing in France, but were both well off the pace in this session, with only <a href="/wiki/Enrico_Bertaggia" title="Enrico Bertaggia">Enrico Bertaggia</a>'s Coloni below them on the time sheets, as the Italian failed to post a time.<sup id="cite_ref-Walker_2-1" class="reference"><a href="#cite_note-Walker-2">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Pre-qualifying_classification">Pre-qualifying classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Pre-qualifying classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Time
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Nicola_Larini" title="Nicola Larini">Nicola Larini</a>
+</td>
+<td><a href="/wiki/Osella" title="Osella">Osella</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.035
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Philippe_Alliot" title="Philippe Alliot">Philippe Alliot</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>-<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td>1:43.089
+</td>
+<td>+0.054
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Bernd_Schneider_(racing_driver)" title="Bernd Schneider (racing driver)">Bernd Schneider</a>
+</td>
+<td><a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a>-<a href="/wiki/Yamaha_Motor_Corporation" class="mw-redirect" title="Yamaha Motor Corporation">Yamaha</a>
+</td>
+<td>1:44.053
+</td>
+<td>+1.018
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>29
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>-<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td>1:44.075
+</td>
+<td>+1.040
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Piercarlo_Ghinzani" title="Piercarlo Ghinzani">Piercarlo Ghinzani</a>
+</td>
+<td><a href="/wiki/Osella" title="Osella">Osella</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.313
+</td>
+<td>+1.278
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>31
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Roberto_Moreno" title="Roberto Moreno">Roberto Moreno</a>
+</td>
+<td><a href="/wiki/Enzo_Coloni_Racing_Car_Systems" class="mw-redirect" title="Enzo Coloni Racing Car Systems">Coloni</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.498
+</td>
+<td>+1.463
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Stefan_Johansson" title="Stefan Johansson">Stefan Johansson</a>
+</td>
+<td><a href="/wiki/Onyx_(racing_team)" class="mw-redirect" title="Onyx (racing team)">Onyx</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.582
+</td>
+<td>+1.547
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>35
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/22px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/33px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/43px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x" data-file-width="1000" data-file-height="700" /></a></span> <a href="/wiki/Aguri_Suzuki" title="Aguri Suzuki">Aguri Suzuki</a>
+</td>
+<td><a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a>-<a href="/wiki/Yamaha_Motor_Corporation" class="mw-redirect" title="Yamaha Motor Corporation">Yamaha</a>
+</td>
+<td>1:44.780
+</td>
+<td>+1.745
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>33
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Oscar_Larrauri" title="Oscar Larrauri">Oscar Larrauri</a>
+</td>
+<td><a href="/wiki/EuroBrun" title="EuroBrun">EuroBrun</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:45.446
+</td>
+<td>+2.411
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>37
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/JJ_Lehto" title="JJ Lehto">JJ Lehto</a>
+</td>
+<td><a href="/wiki/Onyx_(racing_team)" class="mw-redirect" title="Onyx (racing team)">Onyx</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:45.787
+</td>
+<td>+2.752
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Gabriele_Tarquini" title="Gabriele Tarquini">Gabriele Tarquini</a>
+</td>
+<td><a href="/wiki/Automobiles_Gonfaronnaises_Sportives" title="Automobiles Gonfaronnaises Sportives">AGS</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:46.705
+</td>
+<td>+3.670
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>41
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Yannick_Dalmas" title="Yannick Dalmas">Yannick Dalmas</a>
+</td>
+<td><a href="/wiki/Automobiles_Gonfaronnaises_Sportives" title="Automobiles Gonfaronnaises Sportives">AGS</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:48.306
+</td>
+<td>+5.271
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>32
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Enrico_Bertaggia" title="Enrico Bertaggia">Enrico Bertaggia</a>
+</td>
+<td><a href="/wiki/Enzo_Coloni_Racing_Car_Systems" class="mw-redirect" title="Enzo Coloni Racing Car Systems">Coloni</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>no time
+</td>
+<td align="center">—
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Qualifying_report">Qualifying report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Qualifying report">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As expected, the two McLarens dominated qualifying. Even so, Senna was easily the class of the field, posting a time over a second and a half faster than teammate Prost. As would quickly become clear in the race though, Prost was aware early on in the event that the McLarens were sufficiently superior to all the other cars on the grid, that even with his car setup fully optimised for the race, he could qualify on the front row alongside Senna, but with a car setup far better suited to the demands of the race than his teammate – he would just need to beat the Brazilian off the line at the start and he would have a considerable advantage during the race, as would be seen. The <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferraris</a> of <a href="/wiki/Gerhard_Berger" title="Gerhard Berger">Gerhard Berger</a> and <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a> filled the second row, with Berger just edging his own teammate into fourth place by two tenths of a second. The <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> of <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a> was half a second behind Mansell in fifth place, and joining him on row three was fellow Italian <a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a> in his <a href="/wiki/Benetton_B189" title="Benetton B189">Benetton</a>-<a href="/wiki/Cosworth#Other_Formula_One_engines" title="Cosworth">Ford</a> using the development HBA4 <a href="/wiki/V8_engine" title="V8 engine">V8 engine</a>. Behind Nannini positions were closely contested, with only six tenths of a second covering the next six qualifying times, including that of former World Champion <a href="/wiki/Nelson_Piquet" title="Nelson Piquet">Nelson Piquet</a>'s <a href="/wiki/Lotus_101" title="Lotus 101">Lotus</a>-<a href="/wiki/Judd_(engine)#CV" title="Judd (engine)">Judd</a> in eleventh position. <a href="/wiki/Jonathan_Palmer" title="Jonathan Palmer">Jonathan Palmer</a>'s <a href="/wiki/Tyrrell_018" title="Tyrrell 018">Tyrrell</a>-<a href="/wiki/Cosworth_DFR" class="mw-redirect" title="Cosworth DFR">Ford</a> took the final grid slot in twenty-sixth place, while four failed to qualify (including former Ferrari drivers <a href="/wiki/Ren%C3%A9_Arnoux" title="René Arnoux">René Arnoux</a> and <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a> who between them had won 12 Grands Prix), with nine drivers failing to pre-qualify.
+</p><p><a href="/wiki/Bernd_Schneider_(racing_driver)" title="Bernd Schneider (racing driver)">Bernd Schneider</a> qualified the <a href="/wiki/Zakspeed_891" title="Zakspeed 891">Zakspeed</a>-<a href="/wiki/Yamaha_Motor_Company" title="Yamaha Motor Company">Yamaha</a> for only its second race of the season (he also qualified for the season opener in <a href="/wiki/1989_Brazilian_Grand_Prix" title="1989 Brazilian Grand Prix">Brazil</a>). Schneider qualified 21st, only 4.851 seconds slower than Senna. Schneider's teammate <a href="/wiki/Aguri_Suzuki" title="Aguri Suzuki">Aguri Suzuki</a> was not as successful in his home Grand Prix. After making his F1 debut for the <a href="/wiki/Larrousse" title="Larrousse">Larrousse</a> team at Suzuka in <a href="/wiki/1988_Japanese_Grand_Prix" title="1988 Japanese Grand Prix">1988</a>, Suzuki recorded his 15th straight failure to pre-qualify the under-powered Zakspeed.
+</p>
+<h3><span class="mw-headline" id="Qualifying_classification">Qualifying classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Qualifying classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Q1
+</th>
+<th>Q2
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a>
+</td>
+<td><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a>
+</td>
+<td>1:39.493
+</td>
+<td><b>1:38.041</b>
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a>
+</td>
+<td>1:40.875
+</td>
+<td><b>1:39.771</b>
+</td>
+<td>+1.730
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gerhard_Berger" title="Gerhard Berger">Gerhard Berger</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:41.253
+</td>
+<td><b>1:40.187</b>
+</td>
+<td>+2.146
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>27
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:40.608
+</td>
+<td><b>1:40.406</b>
+</td>
+<td>+2.365
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:42.397
+</td>
+<td><b>1:40.936</b>
+</td>
+<td>+2.895
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:41.601
+</td>
+<td><b>1:41.103</b>
+</td>
+<td>+3.062
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Thierry_Boutsen" title="Thierry Boutsen">Thierry Boutsen</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:42.943
+</td>
+<td><b>1:41.324</b>
+</td>
+<td>+3.283
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Philippe_Alliot" title="Philippe Alliot">Philippe Alliot</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>-<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td>1:42.534
+</td>
+<td><b>1:41.336</b>
+</td>
+<td>+3.295
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Stefano_Modena" title="Stefano Modena">Stefano Modena</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:42.909
+</td>
+<td><b>1:41.458</b>
+</td>
+<td>+3.417
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Nicola_Larini" title="Nicola Larini">Nicola Larini</a>
+</td>
+<td><a href="/wiki/Osella" title="Osella">Osella</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:42.483
+</td>
+<td><b>1:41.519</b>
+</td>
+<td>+3.478
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet" title="Nelson Piquet">Nelson Piquet</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:43.386
+</td>
+<td><b>1:41.802</b>
+</td>
+<td>+3.761
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/22px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/33px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/43px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x" data-file-width="1000" data-file-height="700" /></a></span> <a href="/wiki/Satoru_Nakajima" title="Satoru Nakajima">Satoru Nakajima</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:43.370
+</td>
+<td><b>1:41.988</b>
+</td>
+<td>+3.947
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Martin_Brundle" title="Martin Brundle">Martin Brundle</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:44.236
+</td>
+<td><b>1:42.182</b>
+</td>
+<td>+4.141
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Luis_P%C3%A9rez-Sala" title="Luis Pérez-Sala">Luis Pérez-Sala</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.107
+</td>
+<td><b>1:42.283</b>
+</td>
+<td>+4.242
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alex_Caffi" title="Alex Caffi">Alex Caffi</a>
+</td>
+<td><a href="/wiki/Dallara" title="Dallara">Dallara</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.171
+</td>
+<td><b>1:42.488</b>
+</td>
+<td>+4.447
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a>
+</td>
+<td><a href="/wiki/Dallara" title="Dallara">Dallara</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.904
+</td>
+<td><b>1:42.581</b>
+</td>
+<td>+4.540
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Ivan_Capelli" title="Ivan Capelli">Ivan Capelli</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:43.851
+</td>
+<td><b>1:42.672</b>
+</td>
+<td>+4.631
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Alesi" title="Jean Alesi">Jean Alesi</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.306
+</td>
+<td><b>1:42.709</b>
+</td>
+<td>+4.668
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Paolo_Barilla" title="Paolo Barilla">Paolo Barilla</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:46.096
+</td>
+<td><b>1:42.780</b>
+</td>
+<td>+4.739
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Maur%C3%ADcio_Gugelmin" title="Maurício Gugelmin">Maurício Gugelmin</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>1:44.805
+</td>
+<td><b>1:42.880</b>
+</td>
+<td>+4.839
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Bernd_Schneider_(racing_driver)" title="Bernd Schneider (racing driver)">Bernd Schneider</a>
+</td>
+<td><a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a>-<a href="/wiki/Yamaha_Motor_Corporation" class="mw-redirect" title="Yamaha Motor Corporation">Yamaha</a>
+</td>
+<td>1:44.323
+</td>
+<td><b>1:42.892</b>
+</td>
+<td>+4.851
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Emanuele_Pirro" title="Emanuele Pirro">Emanuele Pirro</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.217
+</td>
+<td><b>1:43.063</b>
+</td>
+<td>+5.022
+</td></tr>
+<tr>
+<th>23
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Olivier_Grouillard" title="Olivier Grouillard">Olivier Grouillard</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:45.801
+</td>
+<td><b>1:43.379</b>
+</td>
+<td>+5.338
+</td></tr>
+<tr>
+<th>24
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Eddie_Cheever" title="Eddie Cheever">Eddie Cheever</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.501
+</td>
+<td><b>1:43.511</b>
+</td>
+<td>+5.470
+</td></tr>
+<tr>
+<th>25
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derek_Warwick" title="Derek Warwick">Derek Warwick</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.288
+</td>
+<td><b>1:43.599</b>
+</td>
+<td>+5.558
+</td></tr>
+<tr>
+<th>26
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jonathan_Palmer" title="Jonathan Palmer">Jonathan Palmer</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:43.955
+</td>
+<td><b>1:43.757</b>
+</td>
+<td>+5.716
+</td></tr>
+<tr>
+<th>27
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ren%C3%A9_Arnoux" title="René Arnoux">René Arnoux</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:44.221
+</td>
+<td><b>1:44.030</b>
+</td>
+<td>+5.989
+</td></tr>
+<tr>
+<th>28
+</th>
+<td>29
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>-<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td><b>1:44.063</b>
+</td>
+<td>1:44.101
+</td>
+<td>+6.022
+</td></tr>
+<tr>
+<th>29
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre-Henri_Raphanel" title="Pierre-Henri Raphanel">Pierre-Henri Raphanel</a>
+</td>
+<td><a href="/wiki/Rial_Racing" title="Rial Racing">Rial</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>2:11.328
+</td>
+<td><b>1:47.160</b>
+</td>
+<td>+9.119
+</td></tr>
+<tr>
+<th>30
+</th>
+<td>39
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Bertrand_Gachot" title="Bertrand Gachot">Bertrand Gachot</a>
+</td>
+<td><a href="/wiki/Rial_Racing" title="Rial Racing">Rial</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:50.883
+</td>
+<td><b>1:47.295</b>
+</td>
+<td>+9.254
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Race_report">Race report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Race report">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In order to improve his straight-line speed, Prost had his <a href="/wiki/Gurney_flap" title="Gurney flap">gurney flap</a> removed before the race, without Senna's knowledge, as revealed by F1 journalist, Maurice Hamilton.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup> At the start Prost got away much faster than Senna as he was hoping, instantly wiping out the Brazilian's pole position advantage. In fact, Senna's start was so poor that Gerhard Berger managed to get alongside him from his third place on the grid. But Senna's McLaren had the inside line into the first corner, and he managed to keep the Ferrari behind him. With a race-setup now clearly superior to his teammate's, over the first half of the race Prost steadily built his lead up to almost six seconds, and then Senna lost an additional two seconds due to a slow pitstop (by removing the gurney flap, Prost had gone for a car setup with less downforce than Senna giving him more straight line speed and protection against all but the most extreme overtaking attempts into the circuit's one clear overtaking spot, the chicane at the lap's end). However, with a new set of tyres on the balance of power shifted, and the reigning World Champion began to reel in the Frenchman's lead.
+</p><p>Behind the leading pair, after his initial charge, Gerhard Berger's Ferrari gearbox failed on lap 34, and the sister Ferrari of Nigel Mansell suffered engine failure nine laps later. With the Scuderia's cars gone, all real challenge to the McLaren charge had evaporated. The only opposition left for Senna and Prost was each other as they were drawing away from the new third placed man Alessandro Nannini. The Italian's Benetton used the less powerful, but more reliable, HBA1 engine in the race and not the development HBA4. His teammate <a href="/wiki/Emanuele_Pirro" title="Emanuele Pirro">Emanuele Pirro</a> did use the development V8 in the race, and while he was not as quick as Nannini, he did use it to move up to 10th after starting 22nd. Pirro's race ended on lap 33 after a collision at the hairpin with <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a> where Pirro ran into the back of his fellow Italian's Dallara.
+</p><p>Senna finally caught Prost on lap 40 (Prost had deliberately eased his pace, allowing Senna to follow him closely in his slipstream for the corners, at the expense of forcing Senna to use up his fresher tyres), and for the next five laps the gap between the two remained at approximately one second as the two McLaren drivers tried to position themselves tactically. Prost had greater top speed on the straights, while Senna's high-downforce settings gave him the advantage through the corners. On lap 47 Senna used his greater cornering speed to make sure that he remained close behind Prost's car through the challenging, double-apex Spoon Corner. This put Senna's car directly in the aerodynamic tow from the leading McLaren, negating much of Prost's straight line advantage. Through the infamous 130R, ultra high-speed, left curve, Senna cut Prost's lead still further, putting his MP4/5 only two car lengths behind his rival.
+</p><p>The next corner after 130R is the chicane, the second-slowest corner on the circuit. As Prost began to brake for the corner Senna dived alongside, but Prost saw the move in his mirrors and moved his car across the track to block his path (Prost had told team boss <a href="/wiki/Ron_Dennis" title="Ron Dennis">Ron Dennis</a> before the race that in the past he had left the door open if Senna challenged so as not to take both team cars out, but he would not be leaving the door open on this day). Neither driver was willing to back down and the two collided just before the apex of the turn. With their wheels locked and their engines stalled, the two cars slid to a halt in the mouth of the partially blocked chicane escape road. As the vehicles were directly in the line of any possible out of control cars, the marshals hurried to clear them. While Prost unbuckled his belts and left his car (thinking this race was over and the World Championship finally settled in his favour), Senna gestured to the marshals to push his down the escape road. As the McLaren was pushed forward, Senna used the forward motion to restart his engine, and after it fired he immediately accelerated down the escape road, weaving between the temporary chicane bollards arranged in the roadway.
+</p><p>Although his car was running, Senna's MP4/5 had suffered damage to its front wing during the collision, and while Prost slowly wandered back to the nearby pit lane, Senna had to complete almost an entire lap of the circuit before pitting for a repair. Once his nosecone had been replaced Senna continued the race. Some indication of McLaren's dominance is shown by the fact that – despite the collision, the subsequent period spent stalled, the slow in-lap, and the pit stop delay while his car was repaired – when Senna rejoined the race he was only five seconds behind the new race leader, Alessandro Nannini.
+</p><p>Senna did not take long to catch Nannini's Benetton. He passed the Italian only two laps after having his nosecone replaced, in exactly the same place as the collision with Prost had occurred (unlike Prost, Nannini didn't put up a significant fight, a locked wheel and not an aggressively positioned car the only indication of how hard he tried to keep Senna behind). Two laps later Senna took the chequered flag. Nannini finished in second place, followed by the two Williams-Renaults of Riccardo Patrese and Thierry Boutsen who had driven in tandem and off the pace throughout the race. The only other driver on the same lap as the winner was Nelson Piquet; almost a lap down, but still far better placed than the eleventh position he started in, mostly due to the race's high attrition rate. Only eleven of the twenty-six starters were still running at the finish. Behind Piquet were two British drivers who also benefited from the misfortune of others, and while Martin Brundle's sixth-place finish was remarkable enough, Derek Warwick had come from the back row of the grid in his <a href="/wiki/Arrows_A11" title="Arrows A11">Arrows</a> to take a seventh place. In a ploy that worked a treat for him, before the race Warwick had taken the extraordinary step of removing virtually all downforce from his car in the hopes that the extra straight line speed would give him an advantage.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Immediately after the race Senna was disqualified by race stewards for missing the chicane following his collision with Prost, with Senna believing that the decision had been made by <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_du_Sport_Automobile" title="Fédération Internationale du Sport Automobile">FISA</a> President <a href="/wiki/Jean-Marie_Balestre" title="Jean-Marie Balestre">Jean-Marie Balestre</a> to give the championship to his fellow countryman Prost (the race stewards and Balestre both denied this was the case, stating that the FISA boss wasn't even present at the stewards meeting when the decision to disqualify Senna was made). Nannini was awarded the victory and he, Patrese and Boutsen took the podium ceremony. This would prove to be Alessandro Nannini's only victory in a Formula One career that was cut short by a helicopter crash almost exactly a year later which severed his right forearm. Senna's disqualification also meant that it was mathematically impossible for him to overhaul Prost's points total, and so the 1989 Drivers' Championship went to the Frenchman.
+</p><p>As he had gained no competitive advantage by missing the chicane, Senna and McLaren appealed the disqualification ruling. McLaren boss Ron Dennis explained that it had nothing to do with stopping Prost (who was leaving McLaren for Ferrari) winning the championship, it was that the team strongly felt they had a win taken away from them by an incorrect ruling, and that resulted in a loss of prize money and bonus sponsorship money. At the FISA hearing in Paris later the same week Senna's disqualification was not only upheld, but an additional <a href="/wiki/US$" class="mw-redirect" title="US$">US$</a>100,000 fine and suspended six-month ban were imposed on the driver (FISA also labeled Senna as a "Dangerous driver"). Ever since the incident, there has been much debate as to whether Prost intentionally ran into Senna, whether Senna was overambitious in his overtaking move, or whether the collision was simply a racing incident between two embittered teammates.
+</p>
+<h3><span class="mw-headline" id="Race_classification">Race classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Race classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Laps
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Alessandro_Nannini" title="Alessandro Nannini">Alessandro Nannini</a></b>
+</td>
+<td><b><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>53
+</td>
+<td>1:35:06.277
+</td>
+<td>6
+</td>
+<td><b>9</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a></b>
+</td>
+<td><b><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+ 11.904
+</td>
+<td>5
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Thierry_Boutsen" title="Thierry Boutsen">Thierry Boutsen</a></b>
+</td>
+<td><b><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+ 13.446
+</td>
+<td>7
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Nelson_Piquet" title="Nelson Piquet">Nelson Piquet</a></b>
+</td>
+<td><b><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a></b>
+</td>
+<td>53
+</td>
+<td>+ 1:44.225
+</td>
+<td>11
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Martin_Brundle" title="Martin Brundle">Martin Brundle</a></b>
+</td>
+<td><b><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a></b>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>13
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Derek_Warwick" title="Derek Warwick">Derek Warwick</a></b>
+</td>
+<td><b><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>25
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Maur%C3%ADcio_Gugelmin" title="Maurício Gugelmin">Maurício Gugelmin</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>20
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Eddie_Cheever" title="Eddie Cheever">Eddie Cheever</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>24
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alex_Caffi" title="Alex Caffi">Alex Caffi</a>
+</td>
+<td><a href="/wiki/Dallara" title="Dallara">Dallara</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>15
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a>
+</td>
+<td><a href="/wiki/Dallara" title="Dallara">Dallara</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>51
+</td>
+<td>+ 2 Laps
+</td>
+<td>16
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DSQ
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a>
+</td>
+<td><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a>
+</td>
+<td>53
+</td>
+<td>Rejoined Track Illegally<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">1</a></sup>
+</td>
+<td>1
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
+</td>
+<td><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a>
+</td>
+<td>47
+</td>
+<td>Collision
+</td>
+<td>2
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Stefano_Modena" title="Stefano Modena">Stefano Modena</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>46
+</td>
+<td>Engine
+</td>
+<td>9
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>27
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>43
+</td>
+<td>Engine
+</td>
+<td>4
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/22px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/33px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/43px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x" data-file-width="1000" data-file-height="700" /></a></span> <a href="/wiki/Satoru_Nakajima" title="Satoru Nakajima">Satoru Nakajima</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>41
+</td>
+<td>Engine
+</td>
+<td>12
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Alesi" title="Jean Alesi">Jean Alesi</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>37
+</td>
+<td>Gearbox
+</td>
+<td>18
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Philippe_Alliot" title="Philippe Alliot">Philippe Alliot</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>-<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td>36
+</td>
+<td>Engine
+</td>
+<td>8
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gerhard_Berger" title="Gerhard Berger">Gerhard Berger</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>34
+</td>
+<td>Gearbox
+</td>
+<td>3
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Emanuele_Pirro" title="Emanuele Pirro">Emanuele Pirro</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>33
+</td>
+<td>Collision
+</td>
+<td>22
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Olivier_Grouillard" title="Olivier Grouillard">Olivier Grouillard</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>31
+</td>
+<td>Engine
+</td>
+<td>23
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Ivan_Capelli" title="Ivan Capelli">Ivan Capelli</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>27
+</td>
+<td>Suspension
+</td>
+<td>17
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Nicola_Larini" title="Nicola Larini">Nicola Larini</a>
+</td>
+<td><a href="/wiki/Osella" title="Osella">Osella</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>21
+</td>
+<td>Brakes
+</td>
+<td>10
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jonathan_Palmer" title="Jonathan Palmer">Jonathan Palmer</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>20
+</td>
+<td>Fuel Leak
+</td>
+<td>26
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Bernd_Schneider_(racing_driver)" title="Bernd Schneider (racing driver)">Bernd Schneider</a>
+</td>
+<td><a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a>-<a href="/wiki/Yamaha_Motor_Corporation" class="mw-redirect" title="Yamaha Motor Corporation">Yamaha</a>
+</td>
+<td>1
+</td>
+<td>Gearbox
+</td>
+<td>21
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Luis_P%C3%A9rez-Sala" title="Luis Pérez-Sala">Luis Pérez-Sala</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>0
+</td>
+<td>Collision
+</td>
+<td>14
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Paolo_Barilla" title="Paolo Barilla">Paolo Barilla</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>0
+</td>
+<td>Clutch
+</td>
+<td>19
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ren%C3%A9_Arnoux" title="René Arnoux">René Arnoux</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>29
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a>
+</td>
+<td><a href="/wiki/Lola_Cars" title="Lola Cars">Lola</a>–<a href="/wiki/Lamborghini" title="Lamborghini">Lamborghini</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pierre-Henri_Raphanel" title="Pierre-Henri Raphanel">Pierre-Henri Raphanel</a>
+</td>
+<td><a href="/wiki/Rial_Racing" title="Rial Racing">Rial</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>39
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Bertrand_Gachot" title="Bertrand Gachot">Bertrand Gachot</a>
+</td>
+<td><a href="/wiki/Rial_Racing" title="Rial Racing">Rial</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Piercarlo_Ghinzani" title="Piercarlo Ghinzani">Piercarlo Ghinzani</a>
+</td>
+<td><a href="/wiki/Osella" title="Osella">Osella</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>31
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Roberto_Moreno" title="Roberto Moreno">Roberto Moreno</a>
+</td>
+<td><a href="/wiki/Scuderia_Coloni" title="Scuderia Coloni">Coloni</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Stefan_Johansson" title="Stefan Johansson">Stefan Johansson</a>
+</td>
+<td><a href="/wiki/Onyx_Grand_Prix" title="Onyx Grand Prix">Onyx</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>35
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Aguri_Suzuki" title="Aguri Suzuki">Aguri Suzuki</a>
+</td>
+<td><a href="/wiki/Zakspeed" title="Zakspeed">Zakspeed</a>–<a href="/wiki/Yamaha_Motor_Corporation" class="mw-redirect" title="Yamaha Motor Corporation">Yamaha</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>33
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Oscar_Larrauri" title="Oscar Larrauri">Oscar Larrauri</a>
+</td>
+<td><a href="/wiki/EuroBrun" title="EuroBrun">EuroBrun</a>–<a href="/wiki/Judd_(engine)" title="Judd (engine)">Judd</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>37
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/JJ_Lehto" title="JJ Lehto">JJ Lehto</a>
+</td>
+<td><a href="/wiki/Onyx_Grand_Prix" title="Onyx Grand Prix">Onyx</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Gabriele_Tarquini" title="Gabriele Tarquini">Gabriele Tarquini</a>
+</td>
+<td><a href="/wiki/Automobiles_Gonfaronnaises_Sportives" title="Automobiles Gonfaronnaises Sportives">AGS</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>41
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Yannick_Dalmas" title="Yannick Dalmas">Yannick Dalmas</a>
+</td>
+<td><a href="/wiki/Automobiles_Gonfaronnaises_Sportives" title="Automobiles Gonfaronnaises Sportives">AGS</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNPQ
+</th>
+<td>32
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Enrico_Bertaggia" title="Enrico Bertaggia">Enrico Bertaggia</a>
+</td>
+<td><a href="/wiki/Scuderia_Coloni" title="Scuderia Coloni">Coloni</a>–<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup></div>
+</th></tr></tbody></table>
+<p><br />
+</p>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_3"><b><a href="#ref_3">^1</a></b></span>  - <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a> originally finished 1st, but was disqualified for rejoining the track illegally following his collision with <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>.</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Bold Text</b> indicates World Champions.</li></ul>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a></b>
+</td>
+<td align="right">76 (81)
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/22px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/33px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/43px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a>
+</td>
+<td align="right">60
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>
+</td>
+<td align="right">38
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a>
+</td>
+<td align="right">36
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Thierry_Boutsen" title="Thierry Boutsen">Thierry Boutsen</a>
+</td>
+<td align="right">28
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_6-0" class="reference"><a href="#cite_note-Championship-6">&#91;5&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a></b>
+</td>
+<td align="right">141
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td align="right">64
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="right">59
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Ford" class="mw-redirect" title="Ford">Ford</a>
+</td>
+<td align="right">31
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford" class="mw-redirect" title="Ford">Ford</a>
+</td>
+<td align="right">16
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_6-1" class="reference"><a href="#cite_note-Championship-6">&#91;5&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a> set the fastest lap of 1:43.025 on lap 38, but this was annulled due to his disqualification.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Walker-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Walker_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Walker_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFWalker1989" class="citation book cs1">Walker, Murray (1989). <i>Murray Walker's Grand Prix Year</i>. First Formula Publishing. p.&#160;125–132. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1_870066_22_7" title="Special:BookSources/1 870066 22 7"><bdi>1 870066 22 7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Murray+Walker%27s+Grand+Prix+Year&amp;rft.pages=125-132&amp;rft.pub=First+Formula+Publishing&amp;rft.date=1989&amp;rft.isbn=1870066227&amp;rft.aulast=Walker&amp;rft.aufirst=Murray&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www1.skysports.com/f1/news/22058/9291619/the-world-saw-him-as-a-mclaren-man-maurice-hamilton-on-his-new-senna-book">"Senna Journalists Special"</a>. SpySportsF1<span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Senna+Journalists+Special&amp;rft.pub=SpySportsF1&amp;rft_id=http%3A%2F%2Fwww1.skysports.com%2Ff1%2Fnews%2F22058%2F9291619%2Fthe-world-saw-him-as-a-mclaren-man-maurice-hamilton-on-his-new-senna-book&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFRoebuckHenry1989" class="citation journal cs1"><a href="/wiki/Nigel_Roebuck" title="Nigel Roebuck">Roebuck, Nigel</a>; <a href="/wiki/Alan_Henry" title="Alan Henry">Henry, Alan</a> (1989).  Naismith, Barry (ed.). "Round 15:Japan The Door Slams Shut". <i>Grand Prix</i>. Glen Waverly, Victoria: Garry Sparke &amp; Associates. <b>5</b>: 142. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-908081-99-5" title="Special:BookSources/0-908081-99-5"><bdi>0-908081-99-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Grand+Prix&amp;rft.atitle=Round+15%3AJapan+The+Door+Slams+Shut&amp;rft.volume=5&amp;rft.pages=142&amp;rft.date=1989&amp;rft.isbn=0-908081-99-5&amp;rft.aulast=Roebuck&amp;rft.aufirst=Nigel&amp;rft.au=Henry%2C+Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150118225633/http://www.formula1.com/results/season/1989/245/">"1989 Japanese Grand Prix"</a>. formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1989/245/">the original</a> on 18 January 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1989+Japanese+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1989%2F245%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1989/japon/championnat.aspx">"Japan 1989 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Japan+1989+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1989%2Fjapon%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<ul><li><cite id="CITEREFHenry2000" class="citation book cs1"><a href="/wiki/Alan_Henry" title="Alan Henry">Henry, Alan</a> (2000). <i>Autocourse 50 Years of World Championship Grand Prix Motor Racing</i>. Hazleton Publishing. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-874557-78-4" title="Special:BookSources/978-1-874557-78-4"><bdi>978-1-874557-78-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Autocourse+50+Years+of+World+Championship+Grand+Prix+Motor+Racing&amp;rft.pub=Hazleton+Publishing&amp;rft.date=2000&amp;rft.isbn=978-1-874557-78-4&amp;rft.aulast=Henry&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFRendall1999" class="citation book cs1"><a href="/w/index.php?title=Ivan_Rendall&amp;action=edit&amp;redlink=1" class="new" title="Ivan Rendall (page does not exist)">Rendall, Ivan</a> (1999). <i>The Power Game: 50 Years of Formula One</i>. Weidenfeld Nicolson Illustrated. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-297-82500-5" title="Special:BookSources/978-0-297-82500-5"><bdi>978-0-297-82500-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Power+Game%3A+50+Years+of+Formula+One&amp;rft.pub=Weidenfeld+Nicolson+Illustrated&amp;rft.date=1999&amp;rft.isbn=978-0-297-82500-5&amp;rft.aulast=Rendall&amp;rft.aufirst=Ivan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFRendall1998" class="citation book cs1"><a href="/w/index.php?title=Ivan_Rendall&amp;action=edit&amp;redlink=1" class="new" title="Ivan Rendall (page does not exist)">Rendall, Ivan</a> (1998). <i>Chequered Flag: 100 Years of Motor Racing</i>. Weidenfeld Nicolson Illustrated. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-297-82402-2" title="Special:BookSources/978-0-297-82402-2"><bdi>978-0-297-82402-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chequered+Flag%3A+100+Years+of+Motor+Racing&amp;rft.pub=Weidenfeld+Nicolson+Illustrated&amp;rft.date=1998&amp;rft.isbn=978-0-297-82402-2&amp;rft.aulast=Rendall&amp;rft.aufirst=Ivan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFCimarosti1997" class="citation book cs1"><a href="/w/index.php?title=Adriano_Cimarosti&amp;action=edit&amp;redlink=1" class="new" title="Adriano Cimarosti (page does not exist)">Cimarosti, Adriano</a> (1997). <i>The Complete History of Grand Prix Motor Racing</i>. Aurum Press Ltd. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85410-500-4" title="Special:BookSources/978-1-85410-500-4"><bdi>978-1-85410-500-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Complete+History+of+Grand+Prix+Motor+Racing&amp;rft.pub=Aurum+Press+Ltd&amp;rft.date=1997&amp;rft.isbn=978-1-85410-500-4&amp;rft.aulast=Cimarosti&amp;rft.aufirst=Adriano&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFHenry1994" class="citation book cs1"><a href="/wiki/Alan_Henry" title="Alan Henry">Henry, Alan</a> (1994). <i>Remembering Ayrton Senna</i>. Weidenfeld &amp; Nicolson. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-297-83450-2" title="Special:BookSources/978-0-297-83450-2"><bdi>978-0-297-83450-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Remembering+Ayrton+Senna&amp;rft.pub=Weidenfeld+%26+Nicolson&amp;rft.date=1994&amp;rft.isbn=978-0-297-83450-2&amp;rft.aulast=Henry&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1989+Japanese+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1989_Japanese_Grand_Prix&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://forums.autosport.com/showthread.php?threadid=14396">Autosport/Atlas F1 "trial" of the collision case evidence.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.grandprix.com/gpe/rr483.html">Race summary at GrandPrix.com</a></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1989_Spanish_Grand_Prix" title="1989 Spanish Grand Prix">1989 Spanish Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1989_Formula_One_World_Championship" title="1989 Formula One World Championship">1989 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1989_Australian_Grand_Prix" title="1989 Australian Grand Prix">1989 Australian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1988_Japanese_Grand_Prix" title="1988 Japanese Grand Prix">1988 Japanese Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Japanese_Grand_Prix" title="Japanese Grand Prix">Japanese Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1990_Japanese_Grand_Prix" title="1990 Japanese Grand Prix">1990 Japanese Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="3" style="border-top: 5px solid #FFF179;">Awards
+</th></tr>
+
+<tr style="text-align:center">
+<td width="35%">Preceded&#160;by<br /><b><a href="/wiki/1988_British_Grand_Prix" title="1988 British Grand Prix">1988 British Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/List_of_Formula_One_Promotional_Trophy_winners#Race_Promoters&#39;_Trophy" title="List of Formula One Promotional Trophy winners">Formula One Promotional Trophy<br />for Race Promoter</a></b><br /><a href="/wiki/1989_Formula_One_season" class="mw-redirect" title="1989 Formula One season">1989</a>
+</td>
+<td width="35%">Succeeded&#160;by<br /><b><a href="/wiki/1990_Australian_Grand_Prix" title="1990 Australian Grand Prix">1990 Australian Grand Prix</a></b>
+</td></tr>
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(1980–89)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1980%E2%80%9389" title="Template:F1GP 1980–89"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1980%E2%80%9389" title="Template talk:F1GP 1980–89"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1980%E2%80%9389&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(1980–89)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1970%E2%80%9379" title="Template:F1GP 1970–79">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1980–89) <div style="float: right;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1989_Formula_One_World_Championship" title="1989 Formula One World Championship">1989</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1989_Brazilian_Grand_Prix" title="1989 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1989_San_Marino_Grand_Prix" title="1989 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1989_Monaco_Grand_Prix" title="1989 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1989_Mexican_Grand_Prix" title="1989 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1989_United_States_Grand_Prix" title="1989 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1989_Canadian_Grand_Prix" title="1989 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1989_French_Grand_Prix" title="1989 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1989_British_Grand_Prix" title="1989 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1989_German_Grand_Prix" title="1989 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1989_Hungarian_Grand_Prix" title="1989 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/1989_Belgian_Grand_Prix" title="1989 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1989_Italian_Grand_Prix" title="1989 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1989_Portuguese_Grand_Prix" title="1989 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1989_Spanish_Grand_Prix" title="1989 Spanish Grand Prix">ESP</a></li>
+<li><a class="mw-selflink selflink">JPN</a></li>
+<li><a href="/wiki/1989_Australian_Grand_Prix" title="1989 Australian Grand Prix">AUS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1988_Formula_One_World_Championship" title="1988 Formula One World Championship">1988</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1988_Brazilian_Grand_Prix" title="1988 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1988_San_Marino_Grand_Prix" title="1988 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1988_Monaco_Grand_Prix" title="1988 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1988_Mexican_Grand_Prix" title="1988 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1988_Canadian_Grand_Prix" title="1988 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1988_Detroit_Grand_Prix" title="1988 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1988_French_Grand_Prix" title="1988 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1988_British_Grand_Prix" title="1988 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1988_German_Grand_Prix" title="1988 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1988_Hungarian_Grand_Prix" title="1988 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/1988_Belgian_Grand_Prix" title="1988 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1988_Italian_Grand_Prix" title="1988 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1988_Portuguese_Grand_Prix" title="1988 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1988_Spanish_Grand_Prix" title="1988 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1988_Japanese_Grand_Prix" title="1988 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/1988_Australian_Grand_Prix" title="1988 Australian Grand Prix">AUS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1987_Formula_One_World_Championship" title="1987 Formula One World Championship">1987</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1987_Brazilian_Grand_Prix" title="1987 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1987_San_Marino_Grand_Prix" title="1987 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1987_Belgian_Grand_Prix" title="1987 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1987_Monaco_Grand_Prix" title="1987 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1987_Detroit_Grand_Prix" title="1987 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1987_French_Grand_Prix" title="1987 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1987_British_Grand_Prix" title="1987 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1987_German_Grand_Prix" title="1987 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1987_Hungarian_Grand_Prix" title="1987 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/1987_Austrian_Grand_Prix" title="1987 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1987_Italian_Grand_Prix" title="1987 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1987_Portuguese_Grand_Prix" title="1987 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1987_Spanish_Grand_Prix" title="1987 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1987_Mexican_Grand_Prix" title="1987 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1987_Japanese_Grand_Prix" title="1987 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/1987_Australian_Grand_Prix" title="1987 Australian Grand Prix">AUS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1986_Formula_One_World_Championship" title="1986 Formula One World Championship">1986</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1986_Brazilian_Grand_Prix" title="1986 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1986_Spanish_Grand_Prix" title="1986 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1986_San_Marino_Grand_Prix" title="1986 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1986_Monaco_Grand_Prix" title="1986 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1986_Belgian_Grand_Prix" title="1986 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1986_Canadian_Grand_Prix" title="1986 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1986_Detroit_Grand_Prix" title="1986 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1986_French_Grand_Prix" title="1986 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1986_British_Grand_Prix" title="1986 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1986_German_Grand_Prix" title="1986 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1986_Hungarian_Grand_Prix" title="1986 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/1986_Austrian_Grand_Prix" title="1986 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1986_Italian_Grand_Prix" title="1986 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1986_Portuguese_Grand_Prix" title="1986 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1986_Mexican_Grand_Prix" title="1986 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1986_Australian_Grand_Prix" title="1986 Australian Grand Prix">AUS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1985_Formula_One_World_Championship" title="1985 Formula One World Championship">1985</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1985_Brazilian_Grand_Prix" title="1985 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1985_Portuguese_Grand_Prix" title="1985 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1985_San_Marino_Grand_Prix" title="1985 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1985_Monaco_Grand_Prix" title="1985 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1985_Canadian_Grand_Prix" title="1985 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1985_Detroit_Grand_Prix" title="1985 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1985_French_Grand_Prix" title="1985 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1985_British_Grand_Prix" title="1985 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1985_German_Grand_Prix" title="1985 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1985_Austrian_Grand_Prix" title="1985 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1985_Dutch_Grand_Prix" title="1985 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1985_Italian_Grand_Prix" title="1985 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1985_Belgian_Grand_Prix" title="1985 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1985_European_Grand_Prix" title="1985 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/1985_South_African_Grand_Prix" title="1985 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1985_Australian_Grand_Prix" title="1985 Australian Grand Prix">AUS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1984_Formula_One_World_Championship" title="1984 Formula One World Championship">1984</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1984_Brazilian_Grand_Prix" title="1984 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1984_South_African_Grand_Prix" title="1984 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1984_Belgian_Grand_Prix" title="1984 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1984_San_Marino_Grand_Prix" title="1984 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1984_French_Grand_Prix" title="1984 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1984_Monaco_Grand_Prix" title="1984 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1984_Canadian_Grand_Prix" title="1984 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1984_Detroit_Grand_Prix" title="1984 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1984_Dallas_Grand_Prix" title="1984 Dallas Grand Prix">DAL</a></li>
+<li><a href="/wiki/1984_British_Grand_Prix" title="1984 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1984_German_Grand_Prix" title="1984 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1984_Austrian_Grand_Prix" title="1984 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1984_Dutch_Grand_Prix" title="1984 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1984_Italian_Grand_Prix" title="1984 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1984_European_Grand_Prix" title="1984 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/1984_Portuguese_Grand_Prix" title="1984 Portuguese Grand Prix">POR</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1983_Formula_One_World_Championship" title="1983 Formula One World Championship">1983</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1983_Brazilian_Grand_Prix" title="1983 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1983_United_States_Grand_Prix_West" title="1983 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1983_French_Grand_Prix" title="1983 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1983_San_Marino_Grand_Prix" title="1983 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1983_Monaco_Grand_Prix" title="1983 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1983_Belgian_Grand_Prix" title="1983 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1983_Detroit_Grand_Prix" title="1983 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1983_Canadian_Grand_Prix" title="1983 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1983_British_Grand_Prix" title="1983 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1983_German_Grand_Prix" title="1983 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1983_Austrian_Grand_Prix" title="1983 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1983_Dutch_Grand_Prix" title="1983 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1983_Italian_Grand_Prix" title="1983 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1983_European_Grand_Prix" title="1983 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/1983_South_African_Grand_Prix" title="1983 South African Grand Prix">RSA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1982_Formula_One_World_Championship" title="1982 Formula One World Championship">1982</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1982_South_African_Grand_Prix" title="1982 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1982_Brazilian_Grand_Prix" title="1982 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1982_United_States_Grand_Prix_West" title="1982 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1982_San_Marino_Grand_Prix" title="1982 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1982_Belgian_Grand_Prix" title="1982 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1982_Monaco_Grand_Prix" title="1982 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1982_Detroit_Grand_Prix" title="1982 Detroit Grand Prix">DET</a></li>
+<li><a href="/wiki/1982_Canadian_Grand_Prix" title="1982 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1982_Dutch_Grand_Prix" title="1982 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1982_British_Grand_Prix" title="1982 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1982_French_Grand_Prix" title="1982 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1982_German_Grand_Prix" title="1982 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1982_Austrian_Grand_Prix" title="1982 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1982_Swiss_Grand_Prix" title="1982 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1982_Italian_Grand_Prix" title="1982 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1982_Caesars_Palace_Grand_Prix" title="1982 Caesars Palace Grand Prix">CPL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1981_Formula_One_World_Championship" title="1981 Formula One World Championship">1981</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1981_United_States_Grand_Prix_West" title="1981 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1981_Brazilian_Grand_Prix" title="1981 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1981_Argentine_Grand_Prix" title="1981 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1981_San_Marino_Grand_Prix" title="1981 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/1981_Belgian_Grand_Prix" title="1981 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1981_Monaco_Grand_Prix" title="1981 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1981_Spanish_Grand_Prix" title="1981 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1981_French_Grand_Prix" title="1981 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1981_British_Grand_Prix" title="1981 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1981_German_Grand_Prix" title="1981 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1981_Austrian_Grand_Prix" title="1981 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1981_Dutch_Grand_Prix" title="1981 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1981_Italian_Grand_Prix" title="1981 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1981_Canadian_Grand_Prix" title="1981 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1981_Caesars_Palace_Grand_Prix" title="1981 Caesars Palace Grand Prix">CPL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1980_Formula_One_season" title="1980 Formula One season">1980</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1980_Argentine_Grand_Prix" title="1980 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1980_Brazilian_Grand_Prix" title="1980 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1980_South_African_Grand_Prix" title="1980 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1980_United_States_Grand_Prix_West" title="1980 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1980_Belgian_Grand_Prix" title="1980 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1980_Monaco_Grand_Prix" title="1980 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1980_French_Grand_Prix" title="1980 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1980_British_Grand_Prix" title="1980 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1980_German_Grand_Prix" title="1980 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1980_Austrian_Grand_Prix" title="1980 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1980_Dutch_Grand_Prix" title="1980 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1980_Italian_Grand_Prix" title="1980 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1980_Canadian_Grand_Prix" title="1980 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1980_United_States_Grand_Prix" title="1980 United States Grand Prix">USA</a></li></ul>
+</div></td></tr></tbody></table></div></div>

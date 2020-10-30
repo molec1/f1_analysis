@@ -1,0 +1,1255 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1959 British Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Circuit_Aintree.svg" class="image"><img alt="Circuit Aintree.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/220px-Circuit_Aintree.svg.png" decoding="async" width="220" height="229" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/330px-Circuit_Aintree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/440px-Circuit_Aintree.svg.png 2x" data-file-width="470" data-file-height="490" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1959-07-18">18 July 1959</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+12th RAC British Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Aintree_Circuit" class="mw-redirect" title="Aintree Circuit">Aintree Circuit</a>, <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, <a href="/wiki/England" title="England">England</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent road course</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.828 km (3.000 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+75 laps, 362.10 km (225.00 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Dry and sunny.</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></li></ul></div></td><td>
+<small><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:58.0</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Drivers</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> <small>(lap 69)</small></td><td>
+<small><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a></small></td></tr><tr><th scope="row" style="width:20%;"><span style="display:none">Fastest lap</span></th><td>
+<span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a> <small>(lap 75)</small></td><td>
+<small><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:57.0</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></li></ul></div></td><td>
+<small><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></li></ul></div></td><td>
+<small><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a></li></ul></div></td><td>
+<small><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_4af4f4315a5d6db15c021e4a673b5e65"></map><img usemap="#timeline_4af4f4315a5d6db15c021e4a673b5e65" src="//upload.wikimedia.org/wikipedia/en/timeline/4af4f4315a5d6db15c021e4a673b5e65.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>1959 British Grand Prix</b> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Motor_race" class="mw-redirect" title="Motor race">motor race</a> held at the <a href="/wiki/Aintree_Circuit" class="mw-redirect" title="Aintree Circuit">Aintree Circuit</a> on 18 July 1959. It was race 5 of 9 in the <a href="/wiki/1959_World_Championship_of_Drivers" class="mw-redirect" title="1959 World Championship of Drivers">1959 World Championship of Drivers</a> and race 4 of 8 in the <a href="/wiki/1959_International_Cup_for_Formula_One_Manufacturers" class="mw-redirect" title="1959 International Cup for Formula One Manufacturers">1959 International Cup for Formula One Manufacturers</a>. It was the 14th <a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a> and the third to be held at the <a href="/wiki/Aintree_Motor_Racing_Circuit" title="Aintree Motor Racing Circuit">Aintree Motor Racing Circuit</a>, a circuit mapped out in the grounds of the <a href="/wiki/Aintree_Racecourse" title="Aintree Racecourse">Aintree Racecourse</a> horse racing venue. The race was held over 75 laps of the four kilometre circuit for a race distance of 362 kilometres.
+</p><p>The race was won by Australian <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a> taking his second Grand Prix victory in a works <a href="/wiki/Cooper_T51" title="Cooper T51">Cooper T51</a>. Brabham dominated the race, leading all 75 laps to win by 22 seconds over British driver <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> driving a <a href="/wiki/British_Racing_Partnership" title="British Racing Partnership">British Racing Partnership</a> entered <a href="/wiki/BRM_P25" title="BRM P25">BRM P25</a>. It was the first time a BRP entry finished in the top three. Brabham's <a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper Car Company</a> teammate, New Zealader <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a> finished in third place, just 0.2 seconds behind Moss, having lost second place late in the race. <a href="/wiki/Harry_Schell" title="Harry Schell">Harry Schell</a> finished fourth for the <a href="/wiki/Owen_Racing_Organisation" class="mw-redirect" title="Owen Racing Organisation">Owen Racing Organisation</a> BRM team a lap behind Brabham.
+</p><p>The British Grand Prix had the biggest entry of the season outside the Indianapolis 500 with 30 cars competing and 24 starting the race, all despite the absence of Ferrari. Strikes in Italy trapped the team at home, leaving the British teams to fight over the race. Ferrari's new lead driver <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> was given a release and started the race in a <a href="/wiki/Vanwall" title="Vanwall">Vanwall</a> but was the first to retire with misfire after 13 laps having started in a lowly 17th after winning the <a href="/wiki/1959_French_Grand_Prix" title="1959 French Grand Prix">French Grand Prix</a> a few weeks earlier.
+</p><p>The win saw Brabham expand his points lead over Brooks to 13 points. Moss and McLaren moved into fourth place just half a point behind the absent <a href="/wiki/Phil_Hill" title="Phil Hill">Phil Hill</a>.
+</p><p>On the last lap of this race, McLaren became the youngest driver to set a fastest lap in Formula One, aged 21 years and 322 days. It was another 44 years before <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> relieved him of that achievement with fastest lap in the 2003 Canadian GP. He was a day younger aged 21 years and 321 days.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:282px;"><a href="/wiki/File:BRM_P25.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BRM_P25.jpg/280px-BRM_P25.jpg" decoding="async" width="280" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BRM_P25.jpg/420px-BRM_P25.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BRM_P25.jpg/560px-BRM_P25.jpg 2x" data-file-width="2848" data-file-height="2136" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:BRM_P25.jpg" class="internal" title="Enlarge"></a></div>The BRP-entered <a href="/wiki/BRM_P25" title="BRM P25">BRM P25</a> which <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> drove to second place in the 1959 British Grand Prix, BRP's first podium finish.</div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r886050035">.mw-parser-output .tocleft{float:left;clear:left;width:auto;background:none;padding:.5em .8em 1.4em 0;margin-bottom:.5em}.mw-parser-output .tocleft-clear-left{clear:left}.mw-parser-output .tocleft-clear-both{clear:both}.mw-parser-output .tocleft-clear-none{clear:none}</style><div class="tocleft" style=""><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="tocnumber">1</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Qualifying"><span class="tocnumber">1.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Race"><span class="tocnumber">1.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Championship_standings_after_the_race"><span class="tocnumber">2</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Time
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:58.0
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Roy_Salvadori" title="Roy Salvadori">Roy Salvadori</a>
+</td>
+<td><a href="/wiki/Aston_Martin_in_Formula_One" title="Aston Martin in Formula One">Aston Martin</a>
+</td>
+<td>1:58.0
+</td>
+<td>+0.0
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Harry_Schell" title="Harry Schell">Harry Schell</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>1:59.2
+</td>
+<td>+1.2
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Maurice_Trintignant" title="Maurice Trintignant">Maurice Trintignant</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:59.2
+</td>
+<td>+1.2
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Masten_Gregory" title="Masten Gregory">Masten Gregory</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:59.4
+</td>
+<td>+1.4
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Carroll_Shelby" title="Carroll Shelby">Carroll Shelby</a>
+</td>
+<td><a href="/wiki/Aston_Martin_in_Formula_One" title="Aston Martin in Formula One">Aston Martin</a>
+</td>
+<td>1:59.6
+</td>
+<td>+1.6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>1:59.6
+</td>
+<td>+1.6
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>1:59.6
+</td>
+<td>+1.6
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:00.0
+</td>
+<td>+2.0
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Jo_Bonnier" title="Jo Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>2:00.0
+</td>
+<td>+2.0
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>42
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ron_Flockhart_(racing_driver)" title="Ron Flockhart (racing driver)">Ron Flockhart</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>2:00.2
+</td>
+<td>+2.2
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Alan_Stacey" title="Alan Stacey">Alan Stacey</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:02.8
+</td>
+<td>+4.8
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ian_Burgess" title="Ian Burgess">Ian Burgess</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:03.0
+</td>
+<td>+5.0
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brian_Naylor_(racing_driver)" title="Brian Naylor (racing driver)">Brian Naylor</a>
+</td>
+<td><a href="/wiki/JBW" title="JBW">JBW</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:03.0
+</td>
+<td>+5.0
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jack_Fairman" title="Jack Fairman">Jack Fairman</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:04.2
+</td>
+<td>+6.2
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>48
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Bristow" title="Chris Bristow">Chris Bristow</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Borgward" title="Borgward">Borgward</a>
+</td>
+<td>2:04.4
+</td>
+<td>+6.4
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>2:04.6
+</td>
+<td>+6.6
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>46
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ivor_Bueb" title="Ivor Bueb">Ivor Bueb</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Borgward" title="Borgward">Borgward</a>
+</td>
+<td>2:04.8
+</td>
+<td>+6.8
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Hans_Herrmann" title="Hans Herrmann">Hans Herrmann</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:05.6
+</td>
+<td>+7.6
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Fritz_d%27Orey" title="Fritz d&#39;Orey">Fritz d'Orey</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>2:05.6
+</td>
+<td>+7.6
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>58
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Henry_Taylor_(racing_driver)" title="Henry Taylor (racing driver)">Henry Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:05.6
+</td>
+<td>+7.6
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>64
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Piper_(racing_driver)" title="David Piper (racing driver)">David Piper</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:06.0
+</td>
+<td>+8.0
+</td></tr>
+<tr>
+<th>23
+</th>
+<td>52
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Peter_Ashdown" title="Peter Ashdown">Peter Ashdown</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:06.2
+</td>
+<td>+8.2
+</td></tr>
+<tr>
+<th>24
+</th>
+<td>50
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Taylor_(driver)" class="mw-redirect" title="Mike Taylor (driver)">Mike Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:07.0
+</td>
+<td>+9.0
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>56
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bill_Moss_(racing_driver)" title="Bill Moss (racing driver)">Bill Moss</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:07.2
+</td>
+<td>+9.2
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>60
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Parkes" title="Mike Parkes">Mike Parkes</a>
+</td>
+<td><a href="/wiki/Fry_(racing_team)" title="Fry (racing team)">Fry</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:07.6
+</td>
+<td>+9.6
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>44
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Trevor_Taylor_(racing_driver)" title="Trevor Taylor (racing driver)">Trevor Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:08.2
+</td>
+<td>+10.2
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>54
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Keith_Greene" title="Keith Greene">Keith Greene</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>2:09.8
+</td>
+<td>+11.6
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>62
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Dennis_Taylor_(racing_driver)" title="Dennis Taylor (racing driver)">Dennis Taylor</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>66
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tim_Parnell" title="Tim Parnell">Tim Parnell</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="6">Source:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <b><a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></b>
+</td>
+<td><b><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>75
+</td>
+<td>2:30:11.6
+</td>
+<td>1
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a></b>
+</td>
+<td><b><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a></b>
+</td>
+<td>75
+</td>
+<td>+ 22.2
+</td>
+<td>7
+</td>
+<td><b>6.5</b><sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a></b>
+</td>
+<td><b><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>75
+</td>
+<td>+ 22.4
+</td>
+<td>8
+</td>
+<td><b>4.5</b><sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <b><a href="/wiki/Harry_Schell" title="Harry Schell">Harry Schell</a></b>
+</td>
+<td><b><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a></b>
+</td>
+<td>74
+</td>
+<td>+ 1 Lap
+</td>
+<td>3
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Maurice_Trintignant" title="Maurice Trintignant">Maurice Trintignant</a></b>
+</td>
+<td><b><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a></b>
+</td>
+<td>74
+</td>
+<td>+ 1 Lap
+</td>
+<td>4
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Roy_Salvadori" title="Roy Salvadori">Roy Salvadori</a>
+</td>
+<td><a href="/wiki/Aston_Martin_in_Formula_One" title="Aston Martin in Formula One">Aston Martin</a>
+</td>
+<td>74
+</td>
+<td>+ 1 Lap
+</td>
+<td>2
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Masten_Gregory" title="Masten Gregory">Masten Gregory</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>73
+</td>
+<td>+ 2 Laps
+</td>
+<td>5
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Alan_Stacey" title="Alan Stacey">Alan Stacey</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>71
+</td>
+<td>+ 4 Laps
+</td>
+<td>12
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>70
+</td>
+<td>+ 5 Laps
+</td>
+<td>9
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>48
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Bristow" title="Chris Bristow">Chris Bristow</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Borgward" title="Borgward">Borgward</a>
+</td>
+<td>70
+</td>
+<td>+ 5 Laps
+</td>
+<td>16
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>58
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Henry_Taylor_(racing_driver)" title="Henry Taylor (racing driver)">Henry Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>69
+</td>
+<td>+ 6 Laps
+</td>
+<td>21
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>52
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Peter_Ashdown" title="Peter Ashdown">Peter Ashdown</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>69
+</td>
+<td>+ 6 Laps
+</td>
+<td>23
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>46
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ivor_Bueb" title="Ivor Bueb">Ivor Bueb</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Borgward" title="Borgward">Borgward</a>
+</td>
+<td>69
+</td>
+<td>+ 6 Laps
+</td>
+<td>18
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Carroll_Shelby" title="Carroll Shelby">Carroll Shelby</a>
+</td>
+<td><a href="/wiki/Aston_Martin_in_Formula_One" title="Aston Martin in Formula One">Aston Martin</a>
+</td>
+<td>69
+</td>
+<td>Ignition
+</td>
+<td>6
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Fritz_d%27Orey" title="Fritz d&#39;Orey">Fritz d'Orey</a>
+</td>
+<td><a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>57
+</td>
+<td>Accident
+</td>
+<td>20
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>42
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ron_Flockhart_(racing_driver)" title="Ron Flockhart (racing driver)">Ron Flockhart</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>53
+</td>
+<td>Spun Off
+</td>
+<td>11
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jack_Fairman" title="Jack Fairman">Jack Fairman</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>39
+</td>
+<td>Gearbox
+</td>
+<td>15
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Jo_Bonnier" title="Jo Bonnier">Jo Bonnier</a>
+</td>
+<td><a href="/wiki/BRM" class="mw-redirect" title="BRM">BRM</a>
+</td>
+<td>37
+</td>
+<td>Brakes
+</td>
+<td>10
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ian_Burgess" title="Ian Burgess">Ian Burgess</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>31
+</td>
+<td>Transmission
+</td>
+<td>13
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Hans_Herrmann" title="Hans Herrmann">Hans Herrmann</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>21
+</td>
+<td>Gearbox
+</td>
+<td>19
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>64
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Piper_(racing_driver)" title="David Piper (racing driver)">David Piper</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>19
+</td>
+<td>Overheating
+</td>
+<td>22
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brian_Naylor_(racing_driver)" title="Brian Naylor (racing driver)">Brian Naylor</a>
+</td>
+<td><a href="/wiki/JBW" title="JBW">JBW</a>-<a href="/wiki/Maserati_in_motorsport" title="Maserati in motorsport">Maserati</a>
+</td>
+<td>18
+</td>
+<td>Transmission
+</td>
+<td>14
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>50
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Taylor_(driver)" class="mw-redirect" title="Mike Taylor (driver)">Mike Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>17
+</td>
+<td>Transmission
+</td>
+<td>24
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td><a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>
+</td>
+<td>13
+</td>
+<td>Ignition
+</td>
+<td>17
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>54
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Keith_Greene" title="Keith Greene">Keith Greene</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>56
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bill_Moss_(racing_driver)" title="Bill Moss (racing driver)">Bill Moss</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>60
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Mike_Parkes" title="Mike Parkes">Mike Parkes</a>
+</td>
+<td><a href="/wiki/Fry_(racing_team)" title="Fry (racing team)">Fry</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>62
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Dennis_Taylor_(racing_driver)" title="Dennis Taylor (racing driver)">Dennis Taylor</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>44
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Trevor_Taylor_(racing_driver)" title="Trevor Taylor (racing driver)">Trevor Taylor</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>66
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tim_Parnell" title="Tim Parnell">Tim Parnell</a>
+</td>
+<td><a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</th></tr></tbody></table>
+<dl><dt>Notes</dt></dl>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – Includes 0.5 points for shared fastest lap</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td align="left">27
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a>
+</td>
+<td align="left">14
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/23px-Flag_of_the_United_States_%281959-1960%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/35px-Flag_of_the_United_States_%281959-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_United_States_%281959-1960%29.svg/46px-Flag_of_the_United_States_%281959-1960%29.svg.png 2x" data-file-width="1330" data-file-height="700" /></a></span> <a href="/wiki/Phil_Hill" title="Phil Hill">Phil Hill</a>
+</td>
+<td align="left">9
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 12
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a>
+</td>
+<td align="left">8.5
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 5
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td align="left">8.5
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-champ_3-0" class="reference"><a href="#cite_note-champ-3">&#91;3&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Pos
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Cooper_Car_Company" title="Cooper Car Company">Cooper</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td align="left">26
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="left">16
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td align="left">14
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>
+</td>
+<td align="left">3
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-champ_3-1" class="reference"><a href="#cite_note-champ-3">&#91;3&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Notes</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://gpracingstats.com/seasons/1959-world-championship/1959-british-grand-prix/">"1959 British GP Qualification"</a>. <i>www.chicanef1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.chicanef1.com&amp;rft.atitle=1959+British+GP+Qualification&amp;rft_id=https%3A%2F%2Fgpracingstats.com%2Fseasons%2F1959-world-championship%2F1959-british-grand-prix%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140218001207/http://www.formula1.com/results/season/1959/639/">"1959 British Grand Prix"</a>. formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1959/639/">the original</a> on 18 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1959+British+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1959%2F639%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-champ-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-champ_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-champ_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1959/grande-bretagne/championnat.aspx">"Britain 1959 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Britain+1959+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1959%2Fgrande-bretagne%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1959_British_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070814020311/http://www.gpracing.net192.com/races/reports/80.cfm">"Brabham presses home his claim on the title"</a>. <i>Grand Prix Racing</i>. Archived from <a rel="nofollow" class="external text" href="http://www.gpracing.net192.com/races/reports/80.cfm">the original</a> on 14 August 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Grand+Prix+Racing&amp;rft.atitle=Brabham+presses+home+his+claim+on+the+title&amp;rft_id=http%3A%2F%2Fwww.gpracing.net192.com%2Fraces%2Freports%2F80.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/gpe/rr080.html">"GRAND PRIX RESULTS: BRITISH GP, 1959"</a>. <i>GrandPrix.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929124115/http://www.grandprix.com/gpe/rr080.html">Archived</a> from the original on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=GRAND+PRIX+RESULTS%3A+BRITISH+GP%2C+1959&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fgpe%2Frr080.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chicanef1.com/racetit.pl?year=1959&amp;gp=British%20GP">"1959 British GP"</a>. <i>ChicaneF1.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929095617/http://www.chicanef1.com/racetit.pl?year=1959&amp;gp=British%20GP">Archived</a> from the original on 29 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ChicaneF1.com&amp;rft.atitle=1959+British+GP&amp;rft_id=http%3A%2F%2Fwww.chicanef1.com%2Fracetit.pl%3Fyear%3D1959%26gp%3DBritish%2520GP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1959+British+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (Race results and statistics.)</li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1959_French_Grand_Prix" title="1959 French Grand Prix">1959 French Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1959_Formula_One_season" title="1959 Formula One season">1959 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1959_German_Grand_Prix" title="1959 German Grand Prix">1959 German Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1958_British_Grand_Prix" title="1958 British Grand Prix">1958 British Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1960_British_Grand_Prix" title="1960 British Grand Prix">1960 British Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Formula_One_Grands_Prix_(1950–59)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1950%E2%80%9359" title="Template:F1GP 1950–59"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1950%E2%80%9359" title="Template talk:F1GP 1950–59"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1950%E2%80%9359&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Formula_One_Grands_Prix_(1950–59)_next_»" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1950–59) <div style="float: right;"><a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1959_Formula_One_season" title="1959 Formula One season">1959</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1959_Monaco_Grand_Prix" title="1959 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1959_Indianapolis_500" title="1959 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1959_Dutch_Grand_Prix" title="1959 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1959_French_Grand_Prix" title="1959 French Grand Prix">FRA</a></li>
+<li><a class="mw-selflink selflink">GBR</a></li>
+<li><a href="/wiki/1959_German_Grand_Prix" title="1959 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1959_Portuguese_Grand_Prix" title="1959 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1959_Italian_Grand_Prix" title="1959 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1959_United_States_Grand_Prix" title="1959 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1958_Formula_One_season" title="1958 Formula One season">1958</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1958_Argentine_Grand_Prix" title="1958 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1958_Monaco_Grand_Prix" title="1958 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1958_Dutch_Grand_Prix" title="1958 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1958_Indianapolis_500" title="1958 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1958_Belgian_Grand_Prix" title="1958 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1958_French_Grand_Prix" title="1958 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1958_British_Grand_Prix" title="1958 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1958_German_Grand_Prix" title="1958 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1958_Portuguese_Grand_Prix" title="1958 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1958_Italian_Grand_Prix" title="1958 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1958_Moroccan_Grand_Prix" title="1958 Moroccan Grand Prix">MOR</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1957_Formula_One_season" title="1957 Formula One season">1957</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1957_Argentine_Grand_Prix" title="1957 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1957_Monaco_Grand_Prix" title="1957 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1957_Indianapolis_500" title="1957 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1957_French_Grand_Prix" title="1957 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1957_British_Grand_Prix" title="1957 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1957_German_Grand_Prix" title="1957 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1957_Pescara_Grand_Prix" title="1957 Pescara Grand Prix">PES</a></li>
+<li><a href="/wiki/1957_Italian_Grand_Prix" title="1957 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1956_Formula_One_season" title="1956 Formula One season">1956</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1956_Argentine_Grand_Prix" title="1956 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1956_Monaco_Grand_Prix" title="1956 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1956_Indianapolis_500" title="1956 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1956_Belgian_Grand_Prix" title="1956 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1956_French_Grand_Prix" title="1956 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1956_British_Grand_Prix" title="1956 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1956_German_Grand_Prix" title="1956 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1956_Italian_Grand_Prix" title="1956 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1955_Formula_One_season" title="1955 Formula One season">1955</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1955_Argentine_Grand_Prix" title="1955 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1955_Monaco_Grand_Prix" title="1955 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1955_Indianapolis_500" title="1955 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1955_Belgian_Grand_Prix" title="1955 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1955_Dutch_Grand_Prix" title="1955 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1955_British_Grand_Prix" title="1955 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1955_Italian_Grand_Prix" title="1955 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1954_Formula_One_season" title="1954 Formula One season">1954</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1954_Argentine_Grand_Prix" title="1954 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1954_Indianapolis_500" title="1954 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1954_Belgian_Grand_Prix" title="1954 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1954_French_Grand_Prix" title="1954 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1954_British_Grand_Prix" title="1954 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1954_German_Grand_Prix" title="1954 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1954_Swiss_Grand_Prix" title="1954 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1954_Italian_Grand_Prix" title="1954 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1954_Spanish_Grand_Prix" title="1954 Spanish Grand Prix">ESP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1953_Formula_One_season" title="1953 Formula One season">1953</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1953_Argentine_Grand_Prix" title="1953 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1953_Indianapolis_500" title="1953 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1953_Dutch_Grand_Prix" title="1953 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1953_Belgian_Grand_Prix" title="1953 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1953_French_Grand_Prix" title="1953 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1953_British_Grand_Prix" title="1953 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1953_German_Grand_Prix" title="1953 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1953_Swiss_Grand_Prix" title="1953 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1953_Italian_Grand_Prix" title="1953 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1952_Formula_One_season" title="1952 Formula One season">1952</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1952_Swiss_Grand_Prix" title="1952 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1952_Indianapolis_500" title="1952 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1952_Belgian_Grand_Prix" title="1952 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1952_French_Grand_Prix" title="1952 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1952_British_Grand_Prix" title="1952 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1952_German_Grand_Prix" title="1952 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1952_Dutch_Grand_Prix" title="1952 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1952_Italian_Grand_Prix" title="1952 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1951_Formula_One_season" title="1951 Formula One season">1951</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1951_Swiss_Grand_Prix" title="1951 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1951_Indianapolis_500" title="1951 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1951_Belgian_Grand_Prix" title="1951 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1951_French_Grand_Prix" title="1951 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1951_British_Grand_Prix" title="1951 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1951_German_Grand_Prix" title="1951 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1951_Italian_Grand_Prix" title="1951 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1951_Spanish_Grand_Prix" title="1951 Spanish Grand Prix">ESP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1950_Formula_One_season" title="1950 Formula One season">1950</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1950_British_Grand_Prix" title="1950 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1950_Monaco_Grand_Prix" title="1950 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1950_Indianapolis_500" title="1950 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1950_Swiss_Grand_Prix" title="1950 Swiss Grand Prix">SUI</a></li>
+<li><a href="/wiki/1950_Belgian_Grand_Prix" title="1950 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1950_French_Grand_Prix" title="1950 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1950_Italian_Grand_Prix" title="1950 Italian Grand Prix">ITA</a></li></ul>
+</div></td></tr></tbody></table></div></div>

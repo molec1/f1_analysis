@@ -1,0 +1,1411 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2002 Italian Grand Prix - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a7ddf7f4-a38d-4848-b495-109f32938cb0","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"2002_Italian_Grand_Prix","wgTitle":"2002 Italian Grand Prix","wgCurRevisionId":971655488,"wgRevisionId":971655488,"wgArticleId":1123479,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the EasyTimeline extension","CS1 French-language sources (fr)","Pages using collapsible list with both background and text-align in titlestyle","All articles with unsourced statements","Articles with unsourced statements from March 2008","Coordinates on Wikidata",
+"2002 Formula One races","Italian Grand Prix","2002 in Italian motorsport","September 2002 sports events in Europe"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"2002_Italian_Grand_Prix","wgRelevantArticleId":1123479,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":45.61555555555556,"lon":9.281111111111112},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":
+"Q363191"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.timeline.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/1200px-Circuit_Monza.svg.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/2002_Italian_Grand_Prix"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2002_Italian_Grand_Prix"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-2002_Italian_Grand_Prix rootpage-2002_Italian_Grand_Prix skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">2002 Italian Grand Prix</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2002 Italian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 15 of 17 in the <a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Circuit_Monza.svg" class="image" title="Autodromo Nazionale di Monza (last modified in 2000)"><img alt="Autodromo Nazionale di Monza (last modified in 2000)" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/220px-Circuit_Monza.svg.png" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/330px-Circuit_Monza.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/440px-Circuit_Monza.svg.png 2x" data-file-width="800" data-file-height="600" /></a><div>Autodromo Nazionale di Monza <span style="font-size:85%;">(last modified in 2000)</span></div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2002-09-15">15 September 2002</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+73<sup>o</sup> Gran Premio <a href="/wiki/Vodafone" title="Vodafone">Vodafone</a> d'Italia<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Autodromo_Nazionale_di_Monza" title="Autodromo Nazionale di Monza">Autodromo Nazionale di Monza</a><br /><a href="/wiki/Monza" title="Monza">Monza</a>, <a href="/wiki/Lombardy" title="Lombardy">Lombardy</a>, <a href="/wiki/Italy" title="Italy">Italy</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.793 km (3.600 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+53 laps, 306.719 km (190.586 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Sunny, hot, dry 23°C</td></tr><tr><th scope="row" style="width:20%;">Attendance</th><td colspan="3">
+90,000<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a></li></ul></div></td><td>
+<small><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:20.264</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:23.297 on lap 36</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a></li></ul></div></td><td>
+<small><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_24636357050cc4a413f274d138f94a8a"></map><img usemap="#timeline_24636357050cc4a413f274d138f94a8a" src="//upload.wikimedia.org/wikipedia/en/timeline/24636357050cc4a413f274d138f94a8a.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2002 Italian Grand Prix</b> was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held at <a href="/wiki/Autodromo_Nazionale_di_Monza" title="Autodromo Nazionale di Monza">Monza</a> on 15 September 2002. It was the fifteenth race of the <a href="/wiki/2002_FIA_Formula_One_World_Championship" class="mw-redirect" title="2002 FIA Formula One World Championship">2002 FIA Formula One World Championship</a>.
+</p><p>The 53-lap race was won by <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>, driving a <a href="/wiki/Ferrari_F2002" title="Ferrari F2002">Ferrari</a>. Teammate <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> finished second, 0.25 seconds behind, to complete a Ferrari 1-2 on the team's home soil. <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a> finished third in a <a href="/wiki/Jaguar_R3" title="Jaguar R3">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>, achieving both his and the Jaguar team's last F1 podium finish.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice_and_qualifying"><span class="tocnumber">1.2</span> <span class="toctext">Practice and qualifying</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Race"><span class="tocnumber">1.3</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Qualifying"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Championship_standings_after_the_race"><span class="tocnumber">4</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heading into the Italian Grand Prix, both the <a href="/wiki/List_of_Formula_One_World_Drivers%27_champions" class="mw-redirect" title="List of Formula One World Drivers&#39; champions">Drivers'</a> and <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championships</a> were already settled, with Ferrari driver <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> having claimed the Drivers' Championship four races earlier in <a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">France</a>,<sup id="cite_ref-2002points_3-0" class="reference"><a href="#cite_note-2002points-3">&#91;3&#93;</a></sup> and Ferrari securing the Constructors' Championship two races later in <a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">Hungary</a>.<sup id="cite_ref-2002points_3-1" class="reference"><a href="#cite_note-2002points-3">&#91;3&#93;</a></sup>
+</p><p>After the <a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">Belgian Grand Prix</a> on 1 September, all teams (except <a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>) conducted mid-season testing at the Autodromo Nazionale di Monza between 3–6 September to prepare for the upcoming race at the circuit. Michael Schumacher was fastest on the first day, ahead of BAR test driver <a href="/wiki/Anthony_Davidson" title="Anthony Davidson">Anthony Davidson</a> which was held in wet weather conditions, with intermittent dry spells.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Ralf Schumacher set the fastest times on the second where the rain continued into the morning before stopping meaning the track dried up as the session progressed.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The first full day of dry weather conditions was held on the third day where <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a> was the fastest driver.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> was the fastest driver on the final day of testing. <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a> caused a <a href="/wiki/Racing_flags#Red_flag" title="Racing flags">red flag</a> to be shown when he lost control of his car at the Lesmo corners, and removed his front wing after colliding with the barrier.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Due to the configuration of the Autodromo Nazionale di Monza, with its high average speed, the teams set up their cars to produce the minimum amount of downforce possible.<sup id="cite_ref-fiafriday_8-0" class="reference"><a href="#cite_note-fiafriday-8">&#91;8&#93;</a></sup> Ferrari introduced a new qualifying-specification engine but the team installed a previous engine specification for the race on Sunday.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Williams and BAR introduced revised engine specifications for the qualifying session, while Renault debuted new front wings for the race.<sup id="cite_ref-fiafriday_8-1" class="reference"><a href="#cite_note-fiafriday-8">&#91;8&#93;</a></sup><sup id="cite_ref-fiasaturday_10-0" class="reference"><a href="#cite_note-fiasaturday-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Practice_and_qualifying">Practice and qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice and qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Four practice sessions were held before the Sunday race, two each on Friday and Saturday. The Friday morning and afternoon sessions each lasted an hour; the third and fourth sessions, on Saturday morning, lasted 45 minutes each.<sup id="cite_ref-regulations_11-0" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> Conditions were sunny and dry for the Friday practice sessions.<sup id="cite_ref-fiafriday_8-2" class="reference"><a href="#cite_note-fiafriday-8">&#91;8&#93;</a></sup>
+</p>
+<div class="quotebox pullquote floatright" style="width:33%;&#32;;"><style data-mw-deduplicate="TemplateStyles:r887775652">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">It was a good fight with Ralf and Michael and I am pleased to be on pole. We knew we would be at ease on this track from the start and we haven't needed to change the car too much during the weekend. The tyres are very consistent and we have found a good balance for our car. I hope for my first win this season and for my second here at Monza and in Formula One overall. It is going to be a good race.</div>
+<p><cite class="left-aligned" style="">Juan Pablo Montoya on taking the pole position.<sup id="cite_ref-saturdayquotes_12-0" class="reference"><a href="#cite_note-saturdayquotes-12">&#91;12&#93;</a></sup></cite>
+</p>
+</div>
+<p>Saturday's afternoon qualifying session lasted for an hour. Each driver was limited to twelve laps, with the starting order decided by the drivers' fastest laps. During this session, the <a href="/wiki/107%25_rule" title="107% rule">107% rule</a> was in effect, which necessitated each driver set a time within 107% of the quickest lap to qualify for the race.<sup id="cite_ref-regulations_11-1" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> The Williams and Ferrari teams chose to experiment with tyre set-ups by using hard compound tyres with the aim of gaining better race performance.<sup id="cite_ref-bbcquali_13-0" class="reference"><a href="#cite_note-bbcquali-13">&#91;13&#93;</a></sup> Montoya eclipsed the fastest lap speed recorded in Formula One (259.01 km/h, set by <a href="/wiki/Keke_Rosberg" title="Keke Rosberg">Keke Rosberg</a> at the <a href="/wiki/1985_British_Grand_Prix" title="1985 British Grand Prix">1985 British Grand Prix</a>) to clinch his seventh pole position of the season with a time of one minute and 20.264 seconds and a speed of 259.83 km/h.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> His record would remain unbroken until <a href="/wiki/2018_Italian_Grand_Prix" title="2018 Italian Grand Prix">2018</a>, when <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> set a faster pole lap. As of August 2020, Räikkönen's record still stands. He felt his lap time was "pretty good" and gained a large amount of time at the Lesmo corners which contributed to a fast middle sector time.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Montoya was joined on the front row of the grid by Michael Schumacher who was 0.257 seconds off Montoya's pace and was happy with his lap time despite him taking time to get optimum tyre temperature. Ralf Schumacher qualified third and reported making a mistake at the Lesmo corners on his third timed run.<sup id="cite_ref-fiasaturday_10-1" class="reference"><a href="#cite_note-fiasaturday-10">&#91;10&#93;</a></sup> Barrichello set his fastest lap time on his second timed run to secure fourth position. Räikkonen initially secured fifth in his McLaren but was stripped of his fastest qualifying lap as a result of a collision with Sato's Jordan at the Roggia chicane, which caused the session to be stopped temporarily;<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> as a result, Irvine in the Jaguar was promoted to fifth with Räikkonen sixth.<sup id="cite_ref-raikkonenpenalty_17-0" class="reference"><a href="#cite_note-raikkonenpenalty-17">&#91;17&#93;</a></sup> Coulthard took seventh in the other McLaren, with de la Rosa alongside him on the fourth row in the second Jaguar. Villeneuve took ninth in the BAR, with Salo rounding out the top ten in his Toyota.
+</p><p>Trulli was eleventh in the Renault, joined on the sixth row by Fisichella in the other Jordan. McNish was thirteenth in the second Toyota, followed by the two Saubers of Massa and Heidfeld. Panis was sixteenth in the second BAR, with Button seventeenth in the second Renault.<sup id="cite_ref-bbcquali_13-1" class="reference"><a href="#cite_note-bbcquali-13">&#91;13&#93;</a></sup> Despite the incident with Räikkonen, Sato took eighteenth and said "That was the most difficult qualifying session of my career".<sup id="cite_ref-saturdayquotes_12-1" class="reference"><a href="#cite_note-saturdayquotes-12">&#91;12&#93;</a></sup> The two Minardis lined up on the back row of the grid, Webber ahead of the returning Yoong.<sup id="cite_ref-bbcquali_13-2" class="reference"><a href="#cite_note-bbcquali-13">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The race started at 14:00 local time. The weather conditions on the grid were dry and sunny before the race; the track temperature ranged between 33–34&#160;°C (91–93&#160;°F).<sup id="cite_ref-f1comrace_18-0" class="reference"><a href="#cite_note-f1comrace-18">&#91;18&#93;</a></sup> Ralf Schumacher switched to the spare Williams because his regular car developed a fuel pressure problem.<sup id="cite_ref-sunquotes_19-0" class="reference"><a href="#cite_note-sunquotes-19">&#91;19&#93;</a></sup> At the start, Montoya drove to the right to block Michael Schumacher, allowing teammate Ralf Schumacher to run alongside him heading into the Rettifilo chicane. Montoya ran wide to prevent a collision with Ralf, who drove over the chicane and thus took the lead illegally.<sup id="cite_ref-sunquotes_19-1" class="reference"><a href="#cite_note-sunquotes-19">&#91;19&#93;</a></sup><sup id="cite_ref-gprace_20-0" class="reference"><a href="#cite_note-gprace-20">&#91;20&#93;</a></sup> Williams contacted FIA race director <a href="/wiki/Charlie_Whiting" title="Charlie Whiting">Charlie Whiting</a> who replied that Ralf was required to cede the lead back to Montoya.<sup id="cite_ref-gprace_20-1" class="reference"><a href="#cite_note-gprace-20">&#91;20&#93;</a></sup> McNish made the best start in the field, moving from thirteenth to seventh by the end of the first lap, while Trulli made up four positions over the same distance.<sup id="cite_ref-fiarace_21-0" class="reference"><a href="#cite_note-fiarace-21">&#91;21&#93;</a></sup> At the end of the first lap, the order of the top ten drivers was Ralf Schumacher, Montoya, Barrichello, Michael Schumacher, Räikkönen, Irvine, McNish, Salo, Panis and Villeneuve.<sup id="cite_ref-lapchart_22-0" class="reference"><a href="#cite_note-lapchart-22">&#91;22&#93;</a></sup>
+</p><p>Ralf Schumacher began to pull away from Montoya. Further down the field Villenueve got ahead of Heidfeld to take over tenth, while Button passed Massa to move into thirteenth position and Yoong overtook teammate Webber for eighteenth. Ralf Schumacher set a new <a href="/wiki/Fastest_lap" title="Fastest lap">fastest lap</a>, a 1:26.230 on lap three, but was later eclipsed by Barrichello. Villeneuve was overtaken by Trulli on the same lap and Webber reclaimed eighteenth from Yoong.<sup id="cite_ref-f1comrace_18-1" class="reference"><a href="#cite_note-f1comrace-18">&#91;18&#93;</a></sup><sup id="cite_ref-fiarace_21-1" class="reference"><a href="#cite_note-fiarace-21">&#91;21&#93;</a></sup> Williams received a reply to order Ralf Schumacher to cede first position to Montoya which was relayed to Schumacher by the Senior Operations Engineer of Williams <a href="/wiki/Sam_Michael" title="Sam Michael">Sam Michael</a> at the end of lap four.<sup id="cite_ref-sunquotes_19-2" class="reference"><a href="#cite_note-sunquotes-19">&#91;19&#93;</a></sup><sup id="cite_ref-gprace_20-2" class="reference"><a href="#cite_note-gprace-20">&#91;20&#93;</a></sup> Afterwards Ralf Schumacher pulled over to the side of the track at the Rettifilo with smoke billowing from his engine and became the first retirement of the race at the start of lap five.<sup id="cite_ref-f1comrace_18-2" class="reference"><a href="#cite_note-f1comrace-18">&#91;18&#93;</a></sup> His teammate Montoya thus temporarily inherited the lead but was blinded by the smoke, allowing Barrichello to move into the inside line, and after running in Montoya's slipstream, he passed the Williams driver for the lead under braking going into the Rettifilo.<sup id="cite_ref-gprace_20-3" class="reference"><a href="#cite_note-gprace-20">&#91;20&#93;</a></sup> Kimi Räikkönen retired during the 30th lap due to engine failure, for the fifth time of the season.
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%;">
+
+<tbody><tr>
+<th><abbr title="Position">Pos</abbr>
+</th>
+<th><abbr title="Car number">No</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Lap
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>1:20.264
+</td>
+<td align="center">&#8212;
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:20.521
+</td>
+<td>+0.257
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>1:20.542
+</td>
+<td>+0.278
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:20.705
+</td>
+<td>+0.442
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:21.606
+</td>
+<td>+1.342
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:21.712<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup>
+</td>
+<td>+1.448
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:21.803
+</td>
+<td>+1.539
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:21.960
+</td>
+<td>+1.696
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:22.126
+</td>
+<td>+1.862
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_Salo" title="Mika Salo">Mika Salo</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:22.318
+</td>
+<td>+2.054
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:22.383
+</td>
+<td>+2.119
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:22.515
+</td>
+<td>+2.251
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Allan_McNish" title="Allan McNish">Allan McNish</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:22.521
+</td>
+<td>+2.257
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>1:22.565
+</td>
+<td>+2.301
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>1:22.601
+</td>
+<td>+2.337
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Olivier_Panis" title="Olivier Panis">Olivier Panis</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:22.645
+</td>
+<td>+2.381
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>1:22.714
+</td>
+<td>+2.450
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:23.166
+</td>
+<td>+2.902
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Asiatech" title="Asiatech">Asiatech</a>
+</td>
+<td>1:23.794
+</td>
+<td>+3.530
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Malaysia" title="Malaysia"><img alt="Malaysia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Alex_Yoong" title="Alex Yoong">Alex Yoong</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Asiatech" title="Asiatech">Asiatech</a>
+</td>
+<td>1:25.111
+</td>
+<td>+4.847
+</td></tr>
+<tr>
+<th colspan="6"><a href="/wiki/107%25_time" class="mw-redirect" title="107% time">107% time</a>: 1:25.882
+</th></tr>
+<tr>
+<th colspan="6"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-fia_23-0" class="reference"><a href="#cite_note-fia-23">&#91;23&#93;</a></sup></div>
+</th></tr></tbody></table>
+<p><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  – <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>'s fastest time (1:21.163) was cancelled following a collision with <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> during qualifying, this dropped him one place from fifth to sixth.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th><abbr title="Position">Pos</abbr>
+</th>
+<th><abbr title="Car number">No</abbr>
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th><abbr title="Laps completed">Laps</abbr>
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>1:16:19.982
+</td>
+<td>4
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>+ 0.255
+</td>
+<td>2
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a></b>
+</td>
+<td><b><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a></b>
+</td>
+<td>53
+</td>
+<td>+ 52.579
+</td>
+<td>5
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a></b>
+</td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+ 58.219
+</td>
+<td>11
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></b>
+</td>
+<td><b><a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+ 1:07.770
+</td>
+<td>17
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Olivier_Panis" title="Olivier Panis">Olivier Panis</a></b>
+</td>
+<td><b><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a></b>
+</td>
+<td>53
+</td>
+<td>+ 1:08.491
+</td>
+<td>16
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>53
+</td>
+<td>+ 1:09.047
+</td>
+<td>7
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>53
+</td>
+<td>+ 1:10.891
+</td>
+<td>12
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>53
+</td>
+<td>+ 1:21.068
+</td>
+<td>9
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>53
+</td>
+<td>+ 1:22.046
+</td>
+<td>15
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_Salo" title="Mika Salo">Mika Salo</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>10
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>52
+</td>
+<td>+ 1 Lap
+</td>
+<td>18
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Malaysia" title="Malaysia"><img alt="Malaysia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Alex_Yoong" title="Alex Yoong">Alex Yoong</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Asiatech" title="Asiatech">Asiatech</a>
+</td>
+<td>47
+</td>
+<td>+ 6 Laps
+</td>
+<td>20
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>33
+</td>
+<td>Chassis
+</td>
+<td>1
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>29
+</td>
+<td>Engine
+</td>
+<td>6
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Asiatech" title="Asiatech">Asiatech</a>
+</td>
+<td>20
+</td>
+<td>Engine
+</td>
+<td>19
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>16
+</td>
+<td>Collision damage
+</td>
+<td>14
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>15
+</td>
+<td>Collision
+</td>
+<td>8
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Allan_McNish" title="Allan McNish">Allan McNish</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>12
+</td>
+<td>Suspension
+</td>
+<td>13
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>4
+</td>
+<td>Engine
+</td>
+<td>3
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Sources:<sup id="cite_ref-fia_23-1" class="reference"><a href="#cite_note-fia-23">&#91;23&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> </div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Juan Pablo Montoya's pole position lap was, at the time, the fastest lap ever recorded by a Formula One car, with an average speed of 259.827&#160;km/h.</li>
+<li><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> was demoted to sixth on the grid after causing a collision with <a href="/wiki/Takuma_Sato" title="Takuma Sato">Takuma Sato</a> during qualifying.</li>
+<li>At the start, <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> cut the chicane on the first corner of the first lap to take the lead from teammate <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a>. When Ralf's engine blew up on lap 5, Montoya's view was blocked and <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> passed him for the lead. Soon, Montoya was passed by <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> and stayed third until he retired with damage to the chassis of his car.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2008)">citation needed</span></a></i>&#93;</sup></li>
+<li>This was the only race of the 2002 season that featured a car on the podium which was not a Ferrari, Williams or McLaren.</li>
+<li>This was also the final podium, and points finish for <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a>.</li>
+<li>This was also the final podium for <a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>.</li>
+<li><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> and <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a> collided at the Ascari chicane. As a result, Massa was handed a 10-grid place penalty for causing a collision and forced to sit out the <a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">next race</a> where he was replaced by 2003 <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a> driver <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a>.</li>
+<li>This race saw the first use of the Head and Neck Support device (<a href="/wiki/HANS_device" title="HANS device">HANS device</a>) which was to be mandated for the <a href="/wiki/2003_Formula_One_season" class="mw-redirect" title="2003 Formula One season">2003 season</a>.</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Bold text</b> indicates the World Champions.</li></ul>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a></b>
+</td>
+<td align="right">128
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td align="right">61
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Juan_Pablo_Montoya" title="Juan Pablo Montoya">Juan Pablo Montoya</a>
+</td>
+<td align="right">44
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td align="right">42
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td align="right">37
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_26-0" class="reference"><a href="#cite_note-Championship-26">&#91;26&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td align="right">189
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td align="right">86
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td align="right">57
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td align="right">20
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td align="right">11
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_26-1" class="reference"><a href="#cite_note-Championship-26">&#91;26&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><span style="font-size:85%;"><b>Note</b>: Only the top five positions are included for both sets of standings.</span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/monza02.jpg">"Motor Racing Programme Covers: 2002"</a>. The Programme Covers Project<span class="reference-accessdate">. Retrieved <span class="nowrap">12 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Motor+Racing+Programme+Covers%3A+2002&amp;rft.pub=The+Programme+Covers+Project&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Fmonza02.jpg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i><a href="/wiki/F1_Racing" class="mw-redirect" title="F1 Racing">F1 Racing</a></i>. October 2002.</span>
+</li>
+<li id="cite_note-2002points-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-2002points_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2002points_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20021221123803/http://www.fia.com/freepress/F1_guide_2002/Championship.html">"Drivers' and Constructors' Provisional Standings"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/freepress/F1_guide_2002/Championship.html">the original</a> on 21 December 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Drivers%27+and+Constructors%27+Provisional+Standings&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Ffreepress%2FF1_guide_2002%2FChampionship.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20021202170922/http://www.formula1.com/news/headlines02/09/s10478.html">"Testing September 3rd: Monza Day One"</a>. <i>Formula1.com</i>. Formula1.com Limited. 3 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines02/09/s10478.html">the original</a> on 2 December 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Testing+September+3rd%3A+Monza+Day+One&amp;rft.date=2002-09-03&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines02%2F09%2Fs10478.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/ns/ns06992.html">"Testing continues at Monza"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 4 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Testing+continues+at+Monza&amp;rft.date=2002-09-04&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fns%2Fns06992.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFAtlas_F12002" class="citation web cs1">Atlas F1 (5 September 2002). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/atlasf1-report.php/id/8489/">"De la Rosa Tops the Times at Monza - Day Three"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=De+la+Rosa+Tops+the+Times+at+Monza+-+Day+Three&amp;rft.date=2002-09-05&amp;rft.au=Atlas+F1&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Fatlasf1-report.php%2Fid%2F8489%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030205050914/http://www.formula1.com/news/headlines02/09/s10503.html">"Testing September 6th: Monza Day Four"</a>. <i>Formula1.com</i>. Inside F1, Inc. 6 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines02/09/s10503.html">the original</a> on 5 February 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Testing+September+6th%3A+Monza+Day+Four&amp;rft.date=2002-09-06&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines02%2F09%2Fs10503.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-fiafriday-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiafriday_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiafriday_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fiafriday_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050302201815/http://www.fia.com/resources/documents/1778918216__Italy_2002_News1.pdf">"Free Practice"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 13 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/1778918216__Italy_2002_News1.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2 March 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Free+Practice&amp;rft.date=2002-09-13&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F1778918216&#95;_Italy_2002_News1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/38457/new-qualifying-engine-for-ferrari-this-weekend/">"New qualifying engine for Ferrari this weekend"</a>. <i>GPUpdate</i>. JHED Media BV. 12 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=New+qualifying+engine+for+Ferrari+this+weekend&amp;rft.date=2002-09-12&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F38457%2Fnew-qualifying-engine-for-ferrari-this-weekend%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-fiasaturday-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiasaturday_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiasaturday_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040410051845/http://www.fia.com/resources/documents/1202657112__Italy_2002_News2.pdf">"Free Practice and Qualifying"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 14 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/1202657112__Italy_2002_News2.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 10 April 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Free+Practice+and+Qualifying&amp;rft.date=2002-09-14&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F1202657112&#95;_Italy_2002_News2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-regulations-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-regulations_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-regulations_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.jomenvisst.de/fia/2002SportingRegulations/2002_F1_Sporting_Regulations.pdf#page=6&amp;zoom=auto,-107,816">"2002 Formula One Sporting Regulations"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 31 October 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=2002+Formula+One+Sporting+Regulations&amp;rft.date=2001-10-31&amp;rft_id=http%3A%2F%2Fwww.jomenvisst.de%2Ffia%2F2002SportingRegulations%2F2002_F1_Sporting_Regulations.pdf%23page%3D6%26zoom%3Dauto%2C-107%2C816&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-saturdayquotes-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-saturdayquotes_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-saturdayquotes_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAtlas_F12002" class="citation web cs1">Atlas F1 (14 September 2002). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/atlasf1-report.php/id/8566/">"Saturday's Selected Quotes - Italian GP"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=Saturday%27s+Selected+Quotes+-+Italian+GP&amp;rft.date=2002-09-14&amp;rft.au=Atlas+F1&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Fatlasf1-report.php%2Fid%2F8566%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-bbcquali-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbcquali_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbcquali_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbcquali_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/2257434.stm">"Montoya takes pole"</a>. <i>BBC Sport</i>. BBC. 14 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Montoya+takes+pole&amp;rft.date=2002-09-14&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F2257434.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.crash.net/f1/news/43473/1/19050-reasons-for-montoyas-record-pole.html">"19,050 reasons for Montoya's record pole"</a>. <i>crash.net</i>. Crash Media Group. 14 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=crash.net&amp;rft.atitle=19%2C050+reasons+for+Montoya%27s+record+pole&amp;rft.date=2002-09-14&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Fnews%2F43473%2F1%2F19050-reasons-for-montoyas-record-pole.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFSPEED_Channel_Staff2002" class="citation web cs1">SPEED Channel Staff (14 September 2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20021018061658/http://speedtv.com/auto/?lvl=3a&amp;cat=17&amp;id=3345">"Montoya Rockets to Italian GP Pole With Track Record"</a>. <i>Speed</i>. Speed Channel, Inc. Archived from <a rel="nofollow" class="external text" href="http://speedtv.com/auto/?lvl=3a&amp;cat=17&amp;id=3345">the original</a> on 18 October 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Speed&amp;rft.atitle=Montoya+Rockets+to+Italian+GP+Pole+With+Track+Record&amp;rft.date=2002-09-14&amp;rft.au=SPEED+Channel+Staff&amp;rft_id=http%3A%2F%2Fspeedtv.com%2Fauto%2F%3Flvl%3D3a%26cat%3D17%26id%3D3345&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/38551/mclaren-explain-raikkonen-shunt/">"McLaren explain Raikkonen shunt"</a>. <i>GPUpdate</i>. JHED Media BV. 14 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=McLaren+explain+Raikkonen+shunt&amp;rft.date=2002-09-14&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F38551%2Fmclaren-explain-raikkonen-shunt%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-raikkonenpenalty-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-raikkonenpenalty_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/ns/ns07051.html">"Raikkonen penalized for qualifying incident"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 14 September 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Raikkonen+penalized+for+qualifying+incident&amp;rft.date=2002-09-14&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fns%2Fns07051.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-f1comrace-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-f1comrace_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-f1comrace_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-f1comrace_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20021003010002/http://www.formula1.com/races/racenews02/italy/race.html">"2002 - Round 16 - Italy:Monza"</a>. <i>Formula1.com</i>. Formula1.com Limited. 15 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/races/racenews02/italy/race.html">the original</a> on 3 October 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2002+-+Round+16+-+Italy%3AMonza&amp;rft.date=2002-09-15&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fraces%2Fracenews02%2Fitaly%2Frace.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-sunquotes-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-sunquotes_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sunquotes_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sunquotes_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAtlas_F12002" class="citation web cs1">Atlas F1 (15 September 2002). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/atlasf1-report.php/id/8589/">"Sunday's Selected Quotes - Italian GP"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=Sunday%27s+Selected+Quotes+-+Italian+GP&amp;rft.date=2002-09-15&amp;rft.au=Atlas+F1&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Fatlasf1-report.php%2Fid%2F8589%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-gprace-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-gprace_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gprace_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gprace_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gprace_20-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/gpe/rr695.html">"Grand Prix Results: Italian GP, 2002"</a>. <i>GrandPrix.com</i>. Inside F1, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Grand+Prix+Results%3A+Italian+GP%2C+2002&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fgpe%2Frr695.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-fiarace-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiarace_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiarace_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121020104106/http://www.fia.com/resources/documents/1422060968__Italy_2002_News4.pdf">"Race Facts and Incidents"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 15 September 2002. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/1422060968__Italy_2002_News4.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Race+Facts+and+Incidents&amp;rft.date=2002-09-15&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F1422060968&#95;_Italy_2002_News4.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-lapchart-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-lapchart_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040410070532/http://www.fia.com/resources/documents/615756851__Italy_Lap.pdf">"Lap Chart"</a> <span class="cs1-format">(PDF)</span>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/resources/documents/615756851__Italy_Lap.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 10 April 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Lap+Chart&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fresources%2Fdocuments%2F615756851&#95;_Italy_Lap.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-fia-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-fia_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fia_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121018180237/http://www.fia.com/archive/F1/2002/015.html">"Grand Prix of Italy"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/archive/F1/2002/015.html">the original</a> on 18 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Grand+Prix+of+Italy&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Farchive%2FF1%2F2002%2F015.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFF1" class="citation web cs1">F1, STATS. <a rel="nofollow" class="external text" href="http://www.statsf1.com/fr/2002/italie/qualification.aspx">"Italy 2002 - Qualifications • STATS F1"</a>. <i>www.statsf1.com</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Italy+2002+-+Qualifications+%E2%80%A2+STATS+F1&amp;rft.aulast=F1&amp;rft.aufirst=STATS&amp;rft_id=http%3A%2F%2Fwww.statsf1.com%2Ffr%2F2002%2Fitalie%2Fqualification.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141013124940/http://www.formula1.com/results/season/2002/18/">"2002 Italian Grand Prix"</a>. <i>Formula1.com</i>. Formula1.com Limited. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2002/18/">the original</a> on 13 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2002+Italian+Grand+Prix&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2002%2F18%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-Championship-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2002/italie/championnat.aspx">"Italy 2002 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Italy+2002+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2002%2Fitalie%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2002+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">2002 Belgian Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">2002 United States Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">2001 Italian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Italian_Grand_Prix" title="Italian Grand Prix">Italian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">2003 Italian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a class="mw-selflink selflink">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2002_Italian_Grand_Prix&amp;params=45_36_56_N_9_16_52_E_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°36′56″N</span> <span class="longitude">9°16′52″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.61556°N 9.28111°E</span><span style="display:none">&#xfeff; / <span class="geo">45.61556; 9.28111</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1372
+Cached time: 20201030000720
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.972 seconds
+Real time usage: 1.348 seconds
+Preprocessor visited node count: 10598/1000000
+Post‐expand include size: 137740/2097152 bytes
+Template argument size: 14693/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84903/5000000 bytes
+Lua time usage: 0.321/10.000 seconds
+Lua memory usage: 9.1 MB/50 MB
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1125.377      1 -total
+ 30.54%  343.657      1 Template:Infobox_Grand_Prix_race_report
+ 28.72%  323.178      1 Template:Infobox3cols
+ 25.21%  283.724     55 Template:Flagicon
+ 21.89%  246.374      1 Template:Reflist
+ 18.39%  206.991     25 Template:Cite_web
+ 12.62%  142.076      1 Template:F1Laps2002
+  6.33%   71.282      4 Template:Unbulleted_list
+  6.10%   68.671      1 Template:Citation_needed
+  5.30%   59.690      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1123479-0!dateformat=default and timestamp 20201030000718 and revision id 971655488
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2002_Italian_Grand_Prix&amp;oldid=971655488">https://en.wikipedia.org/w/index.php?title=2002_Italian_Grand_Prix&amp;oldid=971655488</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2002_Formula_One_races" title="Category:2002 Formula One races">2002 Formula One races</a></li><li><a href="/wiki/Category:Italian_Grand_Prix" title="Category:Italian Grand Prix">Italian Grand Prix</a></li><li><a href="/wiki/Category:2002_in_Italian_motorsport" title="Category:2002 in Italian motorsport">2002 in Italian motorsport</a></li><li><a href="/wiki/Category:September_2002_sports_events_in_Europe" title="Category:September 2002 sports events in Europe">September 2002 sports events in Europe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_the_EasyTimeline_extension" title="Category:Pages using the EasyTimeline extension">Pages using the EasyTimeline extension</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2008" title="Category:Articles with unsourced statements from March 2008">Articles with unsourced statements from March 2008</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2002+Italian+Grand+Prix" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2002+Italian+Grand+Prix" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/2002_Italian_Grand_Prix" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:2002_Italian_Grand_Prix" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/2002_Italian_Grand_Prix">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2002_Italian_Grand_Prix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2002_Italian_Grand_Prix" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;oldid=971655488" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2002_Italian_Grand_Prix&amp;id=971655488&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q363191" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=2002_Italian_Grand_Prix&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2002_Italian_Grand_Prix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89_2002" title="جائزة إيطاليا الكبرى 2002 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/2002_%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="2002 Голяма награда на Италия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gran_Premi_d%27It%C3%A0lia_del_2002" title="Gran Premi d&#039;Itàlia del 2002 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Grand_Prix_It%C3%A1lie_2002" title="Grand Prix Itálie 2002 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Gran_Premio_de_Italia_de_2002" title="Anexo:Gran Premio de Italia de 2002 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Grand_Prix_automobile_d%27Italie_2002" title="Grand Prix automobile d&#039;Italie 2002 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Grand_Prix_F1_Italia_2002" title="Grand Prix F1 Italia 2002 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gran_Premio_d%27Italia_2002" title="Gran Premio d&#039;Italia 2002 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/2002-es_Formula%E2%80%931_olasz_nagyd%C3%ADj" title="2002-es Formula–1 olasz nagydíj – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A6%E0%A5%A6%E0%A5%A8_%E0%A4%87%E0%A4%9F%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%A8_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80" title="२००२ इटालियन ग्रांप्री – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Grand_Prix_Formule_1_van_Itali%C3%AB_2002" title="Grand Prix Formule 1 van Italië 2002 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/2002%E5%B9%B4%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA" title="2002年イタリアグランプリ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Italias_Grand_Prix_2002" title="Italias Grand Prix 2002 – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grand_Prix_W%C5%82och_2002" title="Grand Prix Włoch 2002 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grande_Pr%C3%AAmio_da_It%C3%A1lia_de_2002" title="Grande Prêmio da Itália de 2002 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8_2002_%D0%B3%D0%BE%D0%B4%D0%B0" title="Гран-при Италии 2002 года – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Velika_nagrada_Italije_2002" title="Velika nagrada Italije 2002 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Italian_Grand_Prix_2002" title="Italian Grand Prix 2002 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Italiens_Grand_Prix_2002" title="Italiens Grand Prix 2002 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/2002%E5%B9%B4%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B" title="2002年意大利大奖赛 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q363191#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 7 August 2020, at 12:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2002_Italian_Grand_Prix&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.972","walltime":"1.348","ppvisitednodes":{"value":10598,"limit":1000000},"postexpandincludesize":{"value":137740,"limit":2097152},"templateargumentsize":{"value":14693,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84903,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1125.377      1 -total"," 30.54%  343.657      1 Template:Infobox_Grand_Prix_race_report"," 28.72%  323.178      1 Template:Infobox3cols"," 25.21%  283.724     55 Template:Flagicon"," 21.89%  246.374      1 Template:Reflist"," 18.39%  206.991     25 Template:Cite_web"," 12.62%  142.076      1 Template:F1Laps2002","  6.33%   71.282      4 Template:Unbulleted_list","  6.10%   68.671      1 Template:Citation_needed","  5.30%   59.690      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.321","limit":"10.000"},"limitreport-memusage":{"value":9542748,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20201030000720","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"2002 Italian Grand Prix","url":"https:\/\/en.wikipedia.org\/wiki\/2002_Italian_Grand_Prix","sameAs":"http:\/\/www.wikidata.org\/entity\/Q363191","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q363191","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-01T06:52:48Z","dateModified":"2020-08-07T12:55:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/56\/Circuit_Monza.svg","headline":"Formula One motor race held in 2002"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":149,"wgHostname":"mw1353"});});</script>
+</body></html>

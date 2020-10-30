@@ -1,0 +1,1559 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1976 German Grand Prix - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c8438410-6683-4966-a180-fa69bbb18d12","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"1976_German_Grand_Prix","wgTitle":"1976 German Grand Prix","wgCurRevisionId":973727900,"wgRevisionId":973727900,"wgArticleId":1122668,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the EasyTimeline extension","Pages using collapsible list with both background and text-align in titlestyle","1976 Formula One races","German Grand Prix","1976 in West German motorsport","Sport in Rhineland-Palatinate"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"1976_German_Grand_Prix","wgRelevantArticleId":1122668,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q173129"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":
+"ready","ext.timeline.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circuit_N%C3%BCrburgring-1967-Nordschleife.svg/1200px-Circuit_N%C3%BCrburgring-1967-Nordschleife.svg.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/1976_German_Grand_Prix"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1976_German_Grand_Prix"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1976_German_Grand_Prix rootpage-1976_German_Grand_Prix skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">1976 German Grand Prix</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1976 German Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 10 of 16 in the <a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">1976 Formula One season</a></small><table style="width: 100%; background: transparent;"><tbody><tr><td style="text-align:left;"><b>←&#160;</b><a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">Previous&#160;race</a></td><td style="text-align: right;"><a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">Next&#160;race</a><b>&#160;→</b></td></tr></tbody></table></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Circuit_N%C3%BCrburgring-1967-Nordschleife.svg" class="image"><img alt="Circuit Nürburgring-1967-Nordschleife.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circuit_N%C3%BCrburgring-1967-Nordschleife.svg/220px-Circuit_N%C3%BCrburgring-1967-Nordschleife.svg.png" decoding="async" width="220" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circuit_N%C3%BCrburgring-1967-Nordschleife.svg/330px-Circuit_N%C3%BCrburgring-1967-Nordschleife.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circuit_N%C3%BCrburgring-1967-Nordschleife.svg/440px-Circuit_N%C3%BCrburgring-1967-Nordschleife.svg.png 2x" data-file-width="512" data-file-height="473" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1976-08-01">1 August 1976</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+XXXVIII Großer Preis von Deutschland<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a>, <a href="/wiki/N%C3%BCrburg" title="Nürburg">Nürburg</a>, West Germany</td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+22.835 km (14.19 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+14 laps, 319.690 km (198.65 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Rain at start, later drying</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+7:06.5<sup id="cite_ref-LangVol3P135_2-0" class="reference"><a href="#cite_note-LangVol3P135-2">&#91;2&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a></td><td>
+<small><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+7:10.8 on lap 13<sup id="cite_ref-LangVol3P138_3-0" class="reference"><a href="#cite_note-LangVol3P138-3">&#91;3&#93;</a></sup></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a></li></ul></div></td><td>
+<small>McLaren-Ford</small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a></li></ul></div></td><td>
+<small>Tyrrell-Ford</small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Mass" title="Jochen Mass">Jochen Mass</a></li></ul></div></td><td>
+<small>McLaren-Ford</small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_678e09e026ddb3d255081f834bef8ece"></map><img usemap="#timeline_678e09e026ddb3d255081f834bef8ece" src="//upload.wikimedia.org/wikipedia/en/timeline/678e09e026ddb3d255081f834bef8ece.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>1976 German Grand Prix</b> (formally the <b>XXXVIII Großer Preis von Deutschland</b>)  was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Auto_racing" title="Auto racing">motor race</a> held at the <a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a> on 1 August 1976. It was the scene of reigning world champion <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>'s near fatal accident, and the last Formula One race to be held on the Nordschleife section of the track. The 14-lap race was the tenth round of the <a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">1976 Formula One season</a> and was won by <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Race_report"><span class="tocnumber">1</span> <span class="toctext">Race report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Race"><span class="tocnumber">1.1</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Race_2"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Championship_standings_after_the_race"><span class="tocnumber">3</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Race_report">Race report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Race report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:LaudaNiki19760731Ferrari312T2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LaudaNiki19760731Ferrari312T2.jpg/220px-LaudaNiki19760731Ferrari312T2.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LaudaNiki19760731Ferrari312T2.jpg/330px-LaudaNiki19760731Ferrari312T2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LaudaNiki19760731Ferrari312T2.jpg/440px-LaudaNiki19760731Ferrari312T2.jpg 2x" data-file-width="3396" data-file-height="2260" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:LaudaNiki19760731Ferrari312T2.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a> in the <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a> during practice</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Regazzoni,_Clay_am_31.07.1976_-_Ferrari_312T.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg/220px-Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg/330px-Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg/440px-Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg 2x" data-file-width="2423" data-file-height="1616" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Regazzoni,_Clay_am_31.07.1976_-_Ferrari_312T.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">Clay Regazzoni</a> in the <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a> during practice</div></div></div>
+<p>The old Nürburgring was considered to be the most challenging and demanding purpose-built circuit in the world. Measuring at 14.2 miles (22.8&#160;km), it was by far the longest circuit on the calendar and because it was built in the Eifel mountains it had over 1,000 feet (300 m) of elevation change.  Although it had been slightly remodeled in 1971, it still retained much of the character that led three-time world champion <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> to nickname it "The Green Hell". The circuit's extraordinary size meant that it needed at least five times the number of marshals and medical support as almost any other Grand Prix to properly maintain it, something the German organizers were unable to provide. Additionally, by its very nature it was impossible to upgrade it to the increased safety standards of the 1970s. It was narrow, had very few run-off areas, and numerous sections were nearly inaccessible to fire marshals. It was also very bumpy—indeed, at a number of points, including the Flugplatz and Pflanzgarten, the cars could actually become airborne. The sheer size of the circuit also meant that weather and track conditions around it could vary wildly with some sections dry and others wet, making a safe choice of tyres difficult or impossible. Two weeks previously, a fatal crash at Flugplatz had occurred during practice for a Formula Super-Vee race which, according to <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i>, was the 131st fatality at the Nürburgring over its 49-year history.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> It was also unsuitable for television; its sheer size made it all but impossible to adequately cover a race there. For these reasons, it had been decided even before the 1976 race that after nearly half a century, it would be the last German Grand Prix held on the old Nürburgring and the last on the Nordschleife section.
+</p><p>Defending world champion <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>, who was also the current season's points leader, was not impressed with safety conditions on the leviathan German circuit, especially since the forecast called for rain. He attempted to arrange a boycott of the race, but the other drivers voted against it by just one vote, and the race went ahead.
+</p><p>The race weekend began with some changes to the drivers' lineup: <a href="/wiki/Jacky_Ickx" title="Jacky Ickx">Jacky Ickx</a> was fired from the <a href="/wiki/Wolf_Williams" class="mw-redirect" title="Wolf Williams">Walter Wolf Racing</a> team and was replaced by <a href="/wiki/Arturo_Merzario" title="Arturo Merzario">Arturo Merzario</a>, and a new team was present, <a href="/w/index.php?title=Scuderia_Rondini&amp;action=edit&amp;redlink=1" class="new" title="Scuderia Rondini (page does not exist)">Scuderia Rondini</a>, which bought an old <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a> <a href="/wiki/Tyrrell_007" title="Tyrrell 007">007</a> for <a href="/wiki/Alessandro_Pesenti-Rossi" title="Alessandro Pesenti-Rossi">Alessandro Pesenti-Rossi</a>. <a href="/wiki/RAM_Racing" title="RAM Racing">RAM</a> was going to run <a href="/wiki/Rolf_Stommelen" title="Rolf Stommelen">Rolf Stommelen</a> in one of its ex-works <a href="/wiki/Brabham_BT44" title="Brabham BT44">Brabham BT44s</a>, but in the middle of the practice session, the local <a href="/wiki/Police" title="Police">police</a> impounded the cars (because of a legal action by former driver <a href="/wiki/Loris_Kessel" title="Loris Kessel">Loris Kessel</a>), and as a result, Stommelen transferred to the works Brabham team to drive a spare <a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa-Romeo</a>-powered <a href="/wiki/Brabham_BT45" title="Brabham BT45">BT45</a>.
+</p><p>In 1975, Lauda had been the first and only driver to break the seven-minute mark. Fans were looking forward to whether he or others could repeat this after the technical rules had been changed, with the disappearance of the high air boxes being the most visible difference.
+</p><p>Due to wet conditions on Saturday, the grid was already determined in Friday qualifying, with 7:06-plus lap times similar to those of 1972.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a> took the pole with Niki Lauda second, while <a href="/wiki/Patrick_Depailler" title="Patrick Depailler">Patrick Depailler</a> lined up third in the six-wheeled <a href="/wiki/Tyrrell_P34" title="Tyrrell P34">Tyrrell P34</a>. <a href="/wiki/Hans-Joachim_Stuck" title="Hans-Joachim Stuck">Hans-Joachim Stuck</a> was fourth in his <a href="/wiki/March_Engineering" title="March Engineering">March</a> ahead of <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">Clay Regazzoni</a>, <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a>, <a href="/wiki/Jos%C3%A9_Carlos_Pace" class="mw-redirect" title="José Carlos Pace">Carlos Pace</a>, <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a>, <a href="/wiki/Jochen_Mass" title="Jochen Mass">Jochen Mass</a>, and <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a>.
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The weather turned to wet before the race, so most drivers started the race on wet tyres, except Jochen Mass, who, having much experience at the <a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a> and expecting a change for better weather, decided to use dry weather tyres. At the start, Regazzoni took the lead while both Hunt and Lauda fell back. Hunt took second,  third was a fast-starting Mass, fourth was Laffite who took advantage from the fact that Stuck's car had been pushed off the grid with a clutch problem (although the German started at the back of the field). In the course of the first lap, Regazzoni spun and dropped to fourth. At the end of the lap, the weather changed back to dry and most drivers pitted for dry tyres, leaving Mass with the second place behind Peterson, who decided to go on wet tyres for another lap. At the end of lap two, Mass was in front, with <a href="/wiki/Gunnar_Nilsson" title="Gunnar Nilsson">Gunnar Nilsson</a> (who had not stopped) in second place and Hunt third.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lauda_accidente1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lauda_accidente1.jpg/220px-Lauda_accidente1.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lauda_accidente1.jpg/330px-Lauda_accidente1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lauda_accidente1.jpg/440px-Lauda_accidente1.jpg 2x" data-file-width="1140" data-file-height="755" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lauda_accidente1.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>'s <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a>, having been hit by <a href="/wiki/Brett_Lunger" title="Brett Lunger">Brett Lunger</a>'s <a href="/wiki/Surtees_TS19" title="Surtees TS19">Surtees TS19</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lauda_accidente2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lauda_accidente2.jpg/220px-Lauda_accidente2.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lauda_accidente2.jpg/330px-Lauda_accidente2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lauda_accidente2.jpg/440px-Lauda_accidente2.jpg 2x" data-file-width="1140" data-file-height="759" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lauda_accidente2.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>'s <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a> on fire with Lauda in the car</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lauda_accidente3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lauda_accidente3.jpg/220px-Lauda_accidente3.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lauda_accidente3.jpg/330px-Lauda_accidente3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lauda_accidente3.jpg/440px-Lauda_accidente3.jpg 2x" data-file-width="1140" data-file-height="752" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lauda_accidente3.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>'s <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a> taken away on a tow truck and <a href="/wiki/Brett_Lunger" title="Brett Lunger">Brett Lunger</a>'s <a href="/wiki/Surtees_TS19" title="Surtees TS19">Surtees TS19</a> also damaged</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lauda_accidente4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lauda_accidente4.jpg/220px-Lauda_accidente4.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lauda_accidente4.jpg/330px-Lauda_accidente4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lauda_accidente4.jpg/440px-Lauda_accidente4.jpg 2x" data-file-width="1140" data-file-height="749" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lauda_accidente4.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a> communicating with <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">John Watson</a> and <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">Emerson Fittipaldi</a> after his crash</div></div></div>
+<p>Lauda had also changed his tyres after lap one and was trying hard to make up for the lost time. Just after the fast left kink before the Bergwerk right hand curve, his <a href="/wiki/Ferrari_312T2" class="mw-redirect" title="Ferrari 312T2">Ferrari 312T2</a> snapped to the right and spun through the fencing into an earth bank. The car bounced back onto the track, enveloped in flames. <a href="/wiki/Guy_Edwards" title="Guy Edwards">Guy Edwards</a> managed to avoid the Ferrari, but <a href="/wiki/Harald_Ertl" title="Harald Ertl">Harald Ertl</a> and <a href="/wiki/Brett_Lunger" title="Brett Lunger">Brett Lunger</a> both hit it. All three drivers stopped and tried to get Lauda out of the flames and they were joined by Merzario, who stopped his Wolf Williams after seeing the wreck. Lauda had suffered serious burns and was rushed by helicopter to the <i><a href="/wiki/Bundeswehr" title="Bundeswehr">Bundeswehr</a></i> hospital in <a href="/wiki/Koblenz" title="Koblenz">Koblenz</a>; from there he was flown to the Trauma Clinic in <a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a>, home to Germany's most advanced burn ward at the time, where he fought for his life for the next few days.
+</p><p>Most cars had assembled at the crash site, being unable to pass by on the narrow track. The race had been stopped after the accident, and at the restart only 20 of the 24 starters remained, although <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a> decided not to start the race again. The rain had gone and Hunt passed Regazzoni, Scheckter, Depailler, and Pace to take the lead for good. At the Flugplatz, Peterson lost control of his March and crashed heavily, while Regazzoni had another spin and Depailler went off, avoiding the Ferrari. Pace overtook Scheckter and ended the first lap in second place. On the second lap, Scheckter passed Pace and the Brazilian fell behind Regazzoni on the third lap, during which sixth-placed <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a> crashed at Adenau Bridge because of a brake failure on his March. Mass took advantage of it and overtook Gunnar Nilsson on the fifth lap and Pace on lap 10. On the 12th lap, Regazzoni spun again and Mass moved to third with Pace fourth, Nilsson fifth, and Stommelen sixth.
+</p><p>Lauda's accident proved why the old Nürburgring had become too dangerous and too difficult to manage satisfactorily for Formula One. The organizers just did not have the resources to manage such a long circuit, even though the "<a href="/wiki/Deutscher_Motor_Sport_Bund" class="mw-redirect" title="Deutscher Motor Sport Bund">ONS</a>-Staffel" was equipped with a <a href="/wiki/Porsche_911" title="Porsche 911">Porsche 911</a> rescue car. Had it not been for the efforts of his fellow drivers, Lauda would have likely died before rescue crews arrived. After the new Nürburgring was rebuilt with the Nordschleife being bypassed, Formula One would return to the new 2.8-mile circuit for the European Grand Prix in 1984, and the German Grand Prix in 1985.
+</p><p>Chris Amon decided to end his career immediately after Lauda's accident, but returned for the <a href="/wiki/1976_Canadian_Grand_Prix" title="1976 Canadian Grand Prix">1976 Canadian Grand Prix</a>, driving a Williams-Ford for Walter Wolf Racing.
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ScheckterJody1976-07-31Tyrrell-FordP34.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ScheckterJody1976-07-31Tyrrell-FordP34.jpg/220px-ScheckterJody1976-07-31Tyrrell-FordP34.jpg" decoding="async" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ScheckterJody1976-07-31Tyrrell-FordP34.jpg/330px-ScheckterJody1976-07-31Tyrrell-FordP34.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ScheckterJody1976-07-31Tyrrell-FordP34.jpg/440px-ScheckterJody1976-07-31Tyrrell-FordP34.jpg 2x" data-file-width="1058" data-file-height="673" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ScheckterJody1976-07-31Tyrrell-FordP34.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a> <a href="/wiki/Tyrrell_P34" title="Tyrrell P34">Tyrrell P34</a>-Ford in Südkehre</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stommelen_auf_Brabham_1976.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Stommelen_auf_Brabham_1976.jpg/220px-Stommelen_auf_Brabham_1976.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Stommelen_auf_Brabham_1976.jpg/330px-Stommelen_auf_Brabham_1976.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Stommelen_auf_Brabham_1976.jpg/440px-Stommelen_auf_Brabham_1976.jpg 2x" data-file-width="963" data-file-height="633" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Stommelen_auf_Brabham_1976.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Rolf_Stommelen" title="Rolf Stommelen">Rolf Stommelen</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vittorio_Brambilla_-_March_Ford_761_(Foto_Spu_1976-07-31).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg/220px-Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg/330px-Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg/440px-Vittorio_Brambilla_-_March_Ford_761_%28Foto_Spu_1976-07-31%29.jpg 2x" data-file-width="2953" data-file-height="1968" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Vittorio_Brambilla_-_March_Ford_761_(Foto_Spu_1976-07-31).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a>, March 761-Ford</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:StuckHansJ1976-07-31.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/StuckHansJ1976-07-31.jpg/220px-StuckHansJ1976-07-31.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/StuckHansJ1976-07-31.jpg/330px-StuckHansJ1976-07-31.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/StuckHansJ1976-07-31.jpg/440px-StuckHansJ1976-07-31.jpg 2x" data-file-width="756" data-file-height="503" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:StuckHansJ1976-07-31.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Hans-Joachim_Stuck" title="Hans-Joachim Stuck">Hans-Joachim Stuck</a>. Note the high roll bar, compared to Brambilla's</div></div></div>
+<table class="wikitable" style="font-size: 95%">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Time</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:06.5
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>7:07.4
+</td>
+<td>+0.9
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Patrick_Depailler" title="Patrick Depailler">Patrick Depailler</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:08.8
+</td>
+<td>+2.3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Hans_Joachim_Stuck" class="mw-redirect" title="Hans Joachim Stuck">Hans Joachim Stuck</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:09.1
+</td>
+<td>+2.6
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">Clay Regazzoni</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>7:09.3
+</td>
+<td>+2.8
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>
+</td>
+<td>7:11.3
+</td>
+<td>+4.8
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Jos%C3%A9_Carlos_Pace" class="mw-redirect" title="José Carlos Pace">Carlos Pace</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a>
+</td>
+<td>7:12.0
+</td>
+<td>+5.5
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:12.2
+</td>
+<td>+5.7
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Mass" title="Jochen Mass">Jochen Mass</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:13.0
+</td>
+<td>+6.7
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a>
+</td>
+<td>7:14.9
+</td>
+<td>+8.4
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">Ronnie Peterson</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:14.9
+</td>
+<td>+8.4
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:14.9
+</td>
+<td>+9.6
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:17.7
+</td>
+<td>+11.2
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:17.7
+</td>
+<td>+13.4
+</td></tr>
+<tr>
+<th rowspan="2">15
+</th>
+<td>36
+</td>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Rolf_Stommelen" title="Rolf Stommelen">Rolf Stommelen</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td rowspan="2">7:21.6
+</td>
+<td rowspan="2">+15.1
+</td></tr>
+<tr>
+<td>77
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a>
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Gunnar_Nilsson" title="Gunnar Nilsson">Gunnar Nilsson</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:23.0
+</td>
+<td>+16.5
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a>
+</td>
+<td><a href="/wiki/Ensign_(racing_team)" class="mw-redirect" title="Ensign (racing team)">Ensign</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:23.1
+</td>
+<td>+16.6
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tom_Pryce" title="Tom Pryce">Tom Pryce</a>
+</td>
+<td><a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">Shadow</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:23.3
+</td>
+<td>+16.8
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Watson_(driver)" class="mw-redirect" title="John Watson (driver)">John Watson</a>
+</td>
+<td><a href="/wiki/Penske_Racing" class="mw-redirect" title="Penske Racing">Penske</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:23.5
+</td>
+<td>+17.0
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">Emerson Fittipaldi</a>
+</td>
+<td><a href="/wiki/Fittipaldi_(constructor)" class="mw-redirect" title="Fittipaldi (constructor)">Fittipaldi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:28.0
+</td>
+<td>+21.5
+</td></tr>
+<tr>
+<th>21
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Arturo_Merzario" title="Arturo Merzario">Arturo Merzario</a>
+</td>
+<td><a href="/wiki/Wolf-Williams_Racing" class="mw-redirect" title="Wolf-Williams Racing">Wolf-Williams</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:28.8
+</td>
+<td>+22.3
+</td></tr>
+<tr>
+<th>22
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Harald_Ertl" title="Harald Ertl">Harald Ertl</a>
+</td>
+<td><a href="/wiki/Hesketh_Racing" title="Hesketh Racing">Hesketh</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:30.0
+</td>
+<td>+23.5
+</td></tr>
+<tr>
+<th>23
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jarier" title="Jean-Pierre Jarier">Jean-Pierre Jarier</a>
+</td>
+<td><a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">Shadow</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:30.9
+</td>
+<td>+24.4
+</td></tr>
+<tr>
+<th>24
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Brett_Lunger" title="Brett Lunger">Brett Lunger</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:32.7
+</td>
+<td>+26.2
+</td></tr>
+<tr>
+<th>25
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Guy_Edwards" title="Guy Edwards">Guy Edwards</a>
+</td>
+<td><a href="/wiki/Hesketh_Racing" title="Hesketh Racing">Hesketh</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:38.6
+</td>
+<td>+32.1
+</td></tr>
+<tr>
+<th>26
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alessandro_Pesenti-Rossi" title="Alessandro Pesenti-Rossi">Alessandro Pesenti-Rossi</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:38.6
+</td>
+<td>+42.0
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>37
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Lella_Lombardi" title="Lella Lombardi">Lella Lombardi</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>7:51.1
+</td>
+<td>+44.6
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Henri_Pescarolo" title="Henri Pescarolo">Henri Pescarolo</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>8:04.2
+</td>
+<td>+57.7
+</td></tr></tbody></table>
+<ul><li>Stommelen used a #36 <a href="/wiki/Brabham_BT44" title="Brabham BT44">Brabham BT44B</a> in both practice sessions on Friday, but his car was seized by police. He then used a #77 <a href="/wiki/Brabham_BT45" title="Brabham BT45">Brabham BT45</a> in the last practice session on Saturday and the race.</li></ul>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>14
+</td>
+<td>1:41:42.7
+</td>
+<td>1
+</td>
+<td><b>9</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a></b>
+</td>
+<td><b><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>14
+</td>
+<td>+ 27.7
+</td>
+<td>8
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Jochen_Mass" title="Jochen Mass">Jochen Mass</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>14
+</td>
+<td>+ 52.4
+</td>
+<td>9
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Jos%C3%A9_Carlos_Pace" class="mw-redirect" title="José Carlos Pace">Carlos Pace</a></b>
+</td>
+<td><b><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a></b>
+</td>
+<td>14
+</td>
+<td>+ 54.2
+</td>
+<td>7
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <b><a href="/wiki/Gunnar_Nilsson" title="Gunnar Nilsson">Gunnar Nilsson</a></b>
+</td>
+<td><b><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>14
+</td>
+<td>+ 1:57.3
+</td>
+<td>16
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>77
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Rolf_Stommelen" title="Rolf Stommelen">Rolf Stommelen</a></b>
+</td>
+<td><b><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a></b>
+</td>
+<td>14
+</td>
+<td>+ 2:30.3
+</td>
+<td>15
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>28
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Watson_(driver)" class="mw-redirect" title="John Watson (driver)">John Watson</a>
+</td>
+<td><a href="/wiki/Penske_Racing" class="mw-redirect" title="Penske Racing">Penske</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 2:33.9
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tom_Pryce" title="Tom Pryce">Tom Pryce</a>
+</td>
+<td><a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">Shadow</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 2:48.2
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">Clay Regazzoni</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>14
+</td>
+<td>+ 3:46.0
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 3:47.3
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jarier" title="Jean-Pierre Jarier">Jean-Pierre Jarier</a>
+</td>
+<td><a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">Shadow</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 4:51.7
+</td>
+<td>23
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 4:58.1
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>30
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">Emerson Fittipaldi</a>
+</td>
+<td><a href="/wiki/Fittipaldi_(constructor)" class="mw-redirect" title="Fittipaldi (constructor)">Fittipaldi</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>14
+</td>
+<td>+ 5:25.2
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>40
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Alessandro_Pesenti-Rossi" title="Alessandro Pesenti-Rossi">Alessandro Pesenti-Rossi</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>13
+</td>
+<td>+ 1 lap
+</td>
+<td>26
+</td>
+<td>
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>25
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Guy_Edwards" title="Guy Edwards">Guy Edwards</a>
+</td>
+<td><a href="/wiki/Hesketh_Racing" title="Hesketh Racing">Hesketh</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>13
+</td>
+<td>+ 1 lap
+</td>
+<td>25
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Arturo_Merzario" title="Arturo Merzario">Arturo Merzario</a>
+</td>
+<td><a href="/wiki/Wolf-Williams_Racing" class="mw-redirect" title="Wolf-Williams Racing">Wolf-Williams</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>3
+</td>
+<td>Brakes
+</td>
+<td>21
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">Vittorio Brambilla</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1
+</td>
+<td>Accident
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Patrick_Depailler" title="Patrick Depailler">Patrick Depailler</a>
+</td>
+<td><a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>0
+</td>
+<td>Accident
+</td>
+<td>3
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Alfa_Romeo_(Formula_One)" class="mw-redirect" title="Alfa Romeo (Formula One)">Alfa Romeo</a>
+</td>
+<td>0
+</td>
+<td>Fuel System
+</td>
+<td>10
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">Ronnie Peterson</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>0
+</td>
+<td>Accident
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>34
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Hans_Joachim_Stuck" class="mw-redirect" title="Hans Joachim Stuck">Hans Joachim Stuck</a>
+</td>
+<td><a href="/wiki/March_Engineering" title="March Engineering">March</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>0
+</td>
+<td>Clutch
+</td>
+<td>4
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>26
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a>
+</td>
+<td><a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>
+</td>
+<td>0
+</td>
+<td>Gearbox
+</td>
+<td>6
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a>
+</td>
+<td><a href="/wiki/Ensign_(racing_team)" class="mw-redirect" title="Ensign (racing team)">Ensign</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>(1)
+</td>
+<td>Withdrew after first race
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>(1)
+</td>
+<td>Accident in first race
+</td>
+<td>2
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Brett_Lunger" title="Brett Lunger">Brett Lunger</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>(1)
+</td>
+<td>Accident in first race
+</td>
+<td>24
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>24
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Harald_Ertl" title="Harald Ertl">Harald Ertl</a>
+</td>
+<td><a href="/wiki/Hesketh_Racing" title="Hesketh Racing">Hesketh</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>(1)
+</td>
+<td>Accident in first race
+</td>
+<td>22
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNS
+</th>
+<td>36
+</td>
+<td><span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Rolf_Stommelen" title="Rolf Stommelen">Rolf Stommelen</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>Car seized by Police
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>37
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Lella_Lombardi" title="Lella Lombardi">Lella Lombardi</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>Car seized by Police
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>DNQ
+</th>
+<td>38
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Henri_Pescarolo" title="Henri Pescarolo">Henri Pescarolo</a>
+</td>
+<td><a href="/wiki/Surtees" title="Surtees">Surtees</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Niki_Lauda" title="Niki Lauda">Niki Lauda</a>
+</td>
+<td align="right">58
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a>
+</td>
+<td align="right">44
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">Jody Scheckter</a>
+</td>
+<td align="right">34
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Patrick_Depailler" title="Patrick Depailler">Patrick Depailler</a>
+</td>
+<td align="right">26
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">Clay Regazzoni</a>
+</td>
+<td align="right">16
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_standings_7-0" class="reference"><a href="#cite_note-Championship_standings-7">&#91;7&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="right">61
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="right">49 (50)
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">Tyrrell</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="right">47
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Equipe_Ligier" title="Equipe Ligier">Ligier</a>-<a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>
+</td>
+<td align="right">10
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Penske_Racing" class="mw-redirect" title="Penske Racing">Penske</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="right">9
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_standings_7-1" class="reference"><a href="#cite_note-Championship_standings-7">&#91;7&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings. Only the best seven results from the first eight races and the best seven results from the last eight races counted towards the Championship. Numbers without parentheses are Championship points; numbers in parentheses are total points scored. Points do not reflect final results of <a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">1976 British Grand Prix</a> as it was under appeal.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chicanef1.com/racetit.pl?year=1976&amp;gp=German%20GP&amp;r=1">"1976 German GP"</a>. <i>www.chicanef1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.chicanef1.com&amp;rft.atitle=1976+German+GP&amp;rft_id=http%3A%2F%2Fwww.chicanef1.com%2Fracetit.pl%3Fyear%3D1976%26gp%3DGerman%2520GP%26r%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1976+German+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-LangVol3P135-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-LangVol3P135_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFLang1983" class="citation book cs1">Lang, Mike (1983). <i>Grand Prix! Vol 3</i>. Haynes Publishing Group. p.&#160;135. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85429-380-9" title="Special:BookSources/0-85429-380-9"><bdi>0-85429-380-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grand+Prix%21+Vol+3&amp;rft.pages=135&amp;rft.pub=Haynes+Publishing+Group&amp;rft.date=1983&amp;rft.isbn=0-85429-380-9&amp;rft.aulast=Lang&amp;rft.aufirst=Mike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1976+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-LangVol3P138-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-LangVol3P138_3-0">^</a></b></span> <span class="reference-text">Lang (1983), p. 138.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.motorsportmemorial.org/focus.php?db=ct&amp;n=1318">"Ernst Raetz"</a>. Motorsport Memorial<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ernst+Raetz&amp;rft.pub=Motorsport+Memorial&amp;rft_id=http%3A%2F%2Fwww.motorsportmemorial.org%2Ffocus.php%3Fdb%3Dct%26n%3D1318&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1976+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Effenberger, Günther; Handke, Peter (1978). <i>Niki Lauda, ein Leben für die Formel 1</i>. Munich: Heyne Nr. 5427. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-453-00826-7" title="Special:BookSources/978-3-453-00826-7">978-3-453-00826-7</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141210052436/http://www.formula1.com/results/season/1976/451/">"1976 German Grand Prix"</a>. formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1976/451/">the original</a> on 10 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1976+German+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1976%2F451%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1976+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-Championship_standings-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_standings_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_standings_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1976/allemagne/championnat.aspx">"Germany 1976 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Germany+1976+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1976%2Fallemagne%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1976+German+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">1976 British Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">1976 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">1976 Austrian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1975_German_Grand_Prix" title="1975 German Grand Prix">1975 German Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/German_Grand_Prix" title="German Grand Prix">German Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1977_German_Grand_Prix" title="1977 German Grand Prix">1977 German Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(1970–79)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1970%E2%80%9379" title="Template:F1GP 1970–79"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1970%E2%80%9379" title="Template talk:F1GP 1970–79"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1970%E2%80%9379&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(1970–79)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1970–79) <div style="float: right;"><a href="/wiki/Template:F1GP_1980%E2%80%9389" title="Template:F1GP 1980–89"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1979_Formula_One_season" title="1979 Formula One season">1979</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1979_Argentine_Grand_Prix" title="1979 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1979_Brazilian_Grand_Prix" title="1979 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1979_South_African_Grand_Prix" title="1979 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1979_United_States_Grand_Prix_West" title="1979 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1979_Spanish_Grand_Prix" title="1979 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1979_Belgian_Grand_Prix" title="1979 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1979_Monaco_Grand_Prix" title="1979 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1979_French_Grand_Prix" title="1979 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1979_British_Grand_Prix" title="1979 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1979_German_Grand_Prix" title="1979 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1979_Dutch_Grand_Prix" title="1979 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1979_Italian_Grand_Prix" title="1979 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1979_Canadian_Grand_Prix" title="1979 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1979_United_States_Grand_Prix" title="1979 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1978_Formula_One_season" title="1978 Formula One season">1978</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1978_Argentine_Grand_Prix" title="1978 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1978_Brazilian_Grand_Prix" title="1978 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1978_South_African_Grand_Prix" title="1978 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1978_United_States_Grand_Prix_West" title="1978 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1978_Monaco_Grand_Prix" title="1978 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1978_Belgian_Grand_Prix" title="1978 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1978_Spanish_Grand_Prix" title="1978 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1978_Swedish_Grand_Prix" title="1978 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1978_French_Grand_Prix" title="1978 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1978_British_Grand_Prix" title="1978 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1978_German_Grand_Prix" title="1978 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1978_Dutch_Grand_Prix" title="1978 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1978_Italian_Grand_Prix" title="1978 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1978_United_States_Grand_Prix" title="1978 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1978_Canadian_Grand_Prix" title="1978 Canadian Grand Prix">CAN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1977_Formula_One_season" title="1977 Formula One season">1977</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1977_Argentine_Grand_Prix" title="1977 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1977_Brazilian_Grand_Prix" title="1977 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1977_South_African_Grand_Prix" title="1977 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1977_United_States_Grand_Prix_West" title="1977 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1977_Spanish_Grand_Prix" title="1977 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1977_Monaco_Grand_Prix" title="1977 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1977_Belgian_Grand_Prix" title="1977 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1977_Swedish_Grand_Prix" title="1977 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1977_French_Grand_Prix" title="1977 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1977_British_Grand_Prix" title="1977 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1977_German_Grand_Prix" title="1977 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1977_Austrian_Grand_Prix" title="1977 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1977_Dutch_Grand_Prix" title="1977 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1977_Italian_Grand_Prix" title="1977 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1977_United_States_Grand_Prix" title="1977 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1977_Canadian_Grand_Prix" title="1977 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1977_Japanese_Grand_Prix" title="1977 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">1976</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1976_Brazilian_Grand_Prix" title="1976 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1976_South_African_Grand_Prix" title="1976 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1976_United_States_Grand_Prix_West" title="1976 United States Grand Prix West">USW</a></li>
+<li><a href="/wiki/1976_Spanish_Grand_Prix" title="1976 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1976_Belgian_Grand_Prix" title="1976 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1976_Monaco_Grand_Prix" title="1976 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1976_Swedish_Grand_Prix" title="1976 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1976_French_Grand_Prix" title="1976 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">GBR</a></li>
+<li><a class="mw-selflink selflink">GER</a></li>
+<li><a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1976_Dutch_Grand_Prix" title="1976 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1976_Italian_Grand_Prix" title="1976 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1976_Canadian_Grand_Prix" title="1976 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1976_United_States_Grand_Prix" title="1976 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1976_Japanese_Grand_Prix" title="1976 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1975_Formula_One_season" title="1975 Formula One season">1975</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1975_Argentine_Grand_Prix" title="1975 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1975_Brazilian_Grand_Prix" title="1975 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1975_South_African_Grand_Prix" title="1975 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1975_Spanish_Grand_Prix" title="1975 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1975_Monaco_Grand_Prix" title="1975 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1975_Belgian_Grand_Prix" title="1975 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1975_Swedish_Grand_Prix" title="1975 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1975_Dutch_Grand_Prix" title="1975 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1975_French_Grand_Prix" title="1975 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1975_British_Grand_Prix" title="1975 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1975_German_Grand_Prix" title="1975 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1975_Austrian_Grand_Prix" title="1975 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1975_Italian_Grand_Prix" title="1975 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1975_United_States_Grand_Prix" title="1975 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1974_Formula_One_season" title="1974 Formula One season">1974</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1974_Argentine_Grand_Prix" title="1974 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1974_Brazilian_Grand_Prix" title="1974 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1974_South_African_Grand_Prix" title="1974 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1974_Spanish_Grand_Prix" title="1974 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1974_Belgian_Grand_Prix" title="1974 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1974_Monaco_Grand_Prix" title="1974 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1974_Swedish_Grand_Prix" title="1974 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1974_Dutch_Grand_Prix" title="1974 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1974_French_Grand_Prix" title="1974 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1974_British_Grand_Prix" title="1974 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1974_German_Grand_Prix" title="1974 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1974_Austrian_Grand_Prix" title="1974 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1974_Italian_Grand_Prix" title="1974 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1974_Canadian_Grand_Prix" title="1974 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1974_United_States_Grand_Prix" title="1974 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1973_Formula_One_season" title="1973 Formula One season">1973</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1973_Argentine_Grand_Prix" title="1973 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1973_Brazilian_Grand_Prix" title="1973 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/1973_South_African_Grand_Prix" title="1973 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1973_Spanish_Grand_Prix" title="1973 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1973_Belgian_Grand_Prix" title="1973 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1973_Monaco_Grand_Prix" title="1973 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1973_Swedish_Grand_Prix" title="1973 Swedish Grand Prix">SWE</a></li>
+<li><a href="/wiki/1973_French_Grand_Prix" title="1973 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1973_British_Grand_Prix" title="1973 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1973_Dutch_Grand_Prix" title="1973 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1973_German_Grand_Prix" title="1973 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1973_Italian_Grand_Prix" title="1973 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1973_Canadian_Grand_Prix" title="1973 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1973_United_States_Grand_Prix" title="1973 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1972_Formula_One_season" title="1972 Formula One season">1972</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1972_Argentine_Grand_Prix" title="1972 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1972_South_African_Grand_Prix" title="1972 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1972_Spanish_Grand_Prix" title="1972 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1972_Monaco_Grand_Prix" title="1972 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1972_Belgian_Grand_Prix" title="1972 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1972_French_Grand_Prix" title="1972 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1972_British_Grand_Prix" title="1972 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1972_German_Grand_Prix" title="1972 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1972_Austrian_Grand_Prix" title="1972 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1972_Italian_Grand_Prix" title="1972 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1972_Canadian_Grand_Prix" title="1972 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1972_United_States_Grand_Prix" title="1972 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1971_Formula_One_season" title="1971 Formula One season">1971</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1971_South_African_Grand_Prix" title="1971 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1971_Spanish_Grand_Prix" title="1971 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1971_Monaco_Grand_Prix" title="1971 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1971_Dutch_Grand_Prix" title="1971 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1971_French_Grand_Prix" title="1971 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1971_British_Grand_Prix" title="1971 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1971_German_Grand_Prix" title="1971 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1971_Austrian_Grand_Prix" title="1971 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1971_Italian_Grand_Prix" title="1971 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1971_Canadian_Grand_Prix" title="1971 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1971_United_States_Grand_Prix" title="1971 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1970_Formula_One_season" title="1970 Formula One season">1970</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1970_South_African_Grand_Prix" title="1970 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1970_Spanish_Grand_Prix" title="1970 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1970_Monaco_Grand_Prix" title="1970 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1970_Belgian_Grand_Prix" title="1970 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1970_Dutch_Grand_Prix" title="1970 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1970_French_Grand_Prix" title="1970 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1970_British_Grand_Prix" title="1970 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1970_German_Grand_Prix" title="1970 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1970_Austrian_Grand_Prix" title="1970 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1970_Italian_Grand_Prix" title="1970 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1970_Canadian_Grand_Prix" title="1970 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1970_United_States_Grand_Prix" title="1970 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1970_Mexican_Grand_Prix" title="1970 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2273
+Cached time: 20201013113612
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.708 seconds
+Real time usage: 1.109 seconds
+Preprocessor visited node count: 12047/1000000
+Post‐expand include size: 109530/2097152 bytes
+Template argument size: 16985/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18550/5000000 bytes
+Lua time usage: 0.171/10.000 seconds
+Lua memory usage: 3.38 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  865.805      1 -total
+ 34.13%  295.512     72 Template:Flagicon
+ 32.34%  279.997      1 Template:Infobox_Grand_Prix_race_report
+ 30.61%  265.046      1 Template:Infobox3cols
+ 21.78%  188.534      1 Template:Reflist
+ 14.96%  129.551      4 Template:Cite_web
+ 13.20%  114.287      1 Template:F1Laps1976
+  7.94%   68.755      4 Template:Unbulleted_list
+  7.44%   64.408      1 Template:Center
+  4.70%   40.717     72 Template:Flagicon/core
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1122668-0!dateformat=default and timestamp 20201013113611 and revision id 973727900
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1976_German_Grand_Prix&amp;oldid=973727900">https://en.wikipedia.org/w/index.php?title=1976_German_Grand_Prix&amp;oldid=973727900</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1976_Formula_One_races" title="Category:1976 Formula One races">1976 Formula One races</a></li><li><a href="/wiki/Category:German_Grand_Prix" title="Category:German Grand Prix">German Grand Prix</a></li><li><a href="/wiki/Category:1976_in_West_German_motorsport" title="Category:1976 in West German motorsport">1976 in West German motorsport</a></li><li><a href="/wiki/Category:Sport_in_Rhineland-Palatinate" title="Category:Sport in Rhineland-Palatinate">Sport in Rhineland-Palatinate</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_the_EasyTimeline_extension" title="Category:Pages using the EasyTimeline extension">Pages using the EasyTimeline extension</a></li><li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1976+German+Grand+Prix" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1976+German+Grand+Prix" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/1976_German_Grand_Prix" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:1976_German_Grand_Prix" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/1976_German_Grand_Prix">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1976_German_Grand_Prix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1976_German_Grand_Prix" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1976_German_Grand_Prix&amp;oldid=973727900" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1976_German_Grand_Prix&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1976_German_Grand_Prix&amp;id=973727900&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q173129" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=1976_German_Grand_Prix&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1976_German_Grand_Prix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1976_German_Grand_Prix" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89_1976" title="جائزة ألمانيا الكبرى 1976 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1976_%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="1976 Голяма награда на Германия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gran_Premi_d%27Alemanya_del_1976" title="Gran Premi d&#039;Alemanya del 1976 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Grand_Prix_N%C4%9Bmecka_1976" title="Grand Prix Německa 1976 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Preis_von_Deutschland_1976" title="Großer Preis von Deutschland 1976 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Gran_Premio_de_Alemania_de_1976" title="Anexo:Gran Premio de Alemania de 1976 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1976ko_Alemaniako_Sari_Nagusia" title="1976ko Alemaniako Sari Nagusia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Grand_Prix_automobile_d%27Allemagne_1976" title="Grand Prix automobile d&#039;Allemagne 1976 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Gran_Premio_de_Alema%C3%B1a_de_1976" title="Gran Premio de Alemaña de 1976 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Grand_Prix_F1_Jerman_1976" title="Grand Prix F1 Jerman 1976 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gran_Premio_di_Germania_1976" title="Gran Premio di Germania 1976 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1976-os_Formula%E2%80%931_n%C3%A9met_nagyd%C3%ADj" title="1976-os Formula–1 német nagydíj – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Grand_Prix_Formule_1_van_Duitsland_1976" title="Grand Prix Formule 1 van Duitsland 1976 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1976%E5%B9%B4%E3%83%89%E3%82%A4%E3%83%84%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA" title="1976年ドイツグランプリ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grand_Prix_Niemiec_1976" title="Grand Prix Niemiec 1976 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grande_Pr%C3%AAmio_da_Alemanha_de_1976" title="Grande Prêmio da Alemanha de 1976 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8_1976_%D0%B3%D0%BE%D0%B4%D0%B0" title="Гран-при Германии 1976 года – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Velika_nagrada_Nem%C4%8Dije_1976" title="Velika nagrada Nemčije 1976 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Saksan_Grand_Prix_1976" title="Saksan Grand Prix 1976 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tysklands_Grand_Prix_1976" title="Tysklands Grand Prix 1976 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q173129#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 18 August 2020, at 21:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1976_German_Grand_Prix&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.708","walltime":"1.109","ppvisitednodes":{"value":12047,"limit":1000000},"postexpandincludesize":{"value":109530,"limit":2097152},"templateargumentsize":{"value":16985,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18550,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  865.805      1 -total"," 34.13%  295.512     72 Template:Flagicon"," 32.34%  279.997      1 Template:Infobox_Grand_Prix_race_report"," 30.61%  265.046      1 Template:Infobox3cols"," 21.78%  188.534      1 Template:Reflist"," 14.96%  129.551      4 Template:Cite_web"," 13.20%  114.287      1 Template:F1Laps1976","  7.94%   68.755      4 Template:Unbulleted_list","  7.44%   64.408      1 Template:Center","  4.70%   40.717     72 Template:Flagicon/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.171","limit":"10.000"},"limitreport-memusage":{"value":3540233,"limit":52428800}},"cachereport":{"origin":"mw2273","timestamp":"20201013113612","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1976 German Grand Prix","url":"https:\/\/en.wikipedia.org\/wiki\/1976_German_Grand_Prix","sameAs":"http:\/\/www.wikidata.org\/entity\/Q173129","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q173129","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-01T02:52:52Z","dateModified":"2020-08-18T21:55:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/85\/Circuit_N%C3%BCrburgring-1967-Nordschleife.svg","headline":"Formula One motor race held in 1976"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw2314"});});</script>
+</body></html>

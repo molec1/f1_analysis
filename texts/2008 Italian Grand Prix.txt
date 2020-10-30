@@ -1,0 +1,1228 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2008 Italian Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 14 of 18 in the <a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Circuit_Monza.svg" class="image"><img alt="Circuit Monza.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/220px-Circuit_Monza.svg.png" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/330px-Circuit_Monza.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Monza.svg/440px-Circuit_Monza.svg.png 2x" data-file-width="800" data-file-height="600" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2008-09-14">14 September 2008</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+LXXIX Gran Premio Santander d'Italia</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Autodromo_Nazionale_di_Monza" title="Autodromo Nazionale di Monza">Autodromo Nazionale di Monza</a>, <a href="/wiki/Monza" title="Monza">Monza</a>, <a href="/wiki/Italy" title="Italy">Italy</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.793 km (3.6 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+53 laps, 306.720 km (190.58 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Heavy rain, dry towards the end</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:37.555</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:28.047 on lap 53</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></li></ul></div></td><td>
+<small><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_de0aebdadc4fc088fe157c0086c7a7a8"></map><img usemap="#timeline_de0aebdadc4fc088fe157c0086c7a7a8" src="//upload.wikimedia.org/wikipedia/en/timeline/de0aebdadc4fc088fe157c0086c7a7a8.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2008 Italian Grand Prix</b> (formally the <b>LXXIX Gran Premio Santander d'Italia</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held on 14 September 2008 at the <a href="/wiki/Autodromo_Nazionale_di_Monza" title="Autodromo Nazionale di Monza">Autodromo Nazionale di Monza</a>, <a href="/wiki/Monza" title="Monza">Monza</a>, <a href="/wiki/Italy" title="Italy">Italy</a>. It was the 14th&#160;race of the <a href="/wiki/2008_Formula_One_season" class="mw-redirect" title="2008 Formula One season">2008 Formula One season</a>. The 53-lap race was won by <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> for the <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a> team after starting from <a href="/wiki/Pole_position" title="Pole position">pole position</a>. <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a> finished second in a <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>, and <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> third in a <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>.
+</p><p>Vettel began the race, started under the <a href="/wiki/Safety_car" title="Safety car">safety car</a>, ahead of Kovalainen in second. <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>'s <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> started from third. Rain early in the race allowed Vettel to establish a solid lead over Kovalainen, which he extended as the track dried. Kubica and <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> finished in the top four after starting from 11th and eighth, respectively. McLaren driver and <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a> leader <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> was able to move through the field after qualifying in 15th, finishing in seventh, one place behind rival <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>, of <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>.
+</p><p>Vettel's victory made him the <a href="/wiki/List_of_Formula_One_driver_records#Youngest_winners" title="List of Formula One driver records">youngest driver to win a Formula One race</a>, at 21 years 73 days in addition to giving Toro Rosso (which was formerly <a href="/wiki/Minardi" title="Minardi">Minardi</a> team) its maiden Formula One win despite using a 2007-spec engine. Vettel's record was broken by <a href="/wiki/Max_Verstappen" title="Max Verstappen">Max Verstappen</a> aged 18 years and 228 days at the <a href="/wiki/2016_Spanish_Grand_Prix" title="2016 Spanish Grand Prix">2016 Spanish Grand Prix</a>. Massa scored one <a href="/wiki/List_of_Formula_One_World_Championship_points_scoring_systems" title="List of Formula One World Championship points scoring systems">point</a> more than Hamilton, narrowing the McLaren driver's lead in the Championship once more with four races remaining. However, Kovalainen's second-placed finish put McLaren closer to catching Ferrari in the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Practice"><span class="tocnumber">2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Qualifying"><span class="tocnumber">3</span> <span class="toctext">Qualifying</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying_classification"><span class="tocnumber">3.1</span> <span class="toctext">Qualifying classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Race"><span class="tocnumber">4</span> <span class="toctext">Race</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Post-race"><span class="tocnumber">4.1</span> <span class="toctext">Post-race</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Race_classification"><span class="tocnumber">4.2</span> <span class="toctext">Race classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Championship_standings_after_the_race"><span class="tocnumber">5</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Heading into the 14th&#160;race of the season, <a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a> driver <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> led the <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a> with 76&#160;<a href="/wiki/List_of_Formula_One_World_Championship_points_scoring_systems" title="List of Formula One World Championship points scoring systems">points</a>; <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> driver <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> was second on 74&#160;points, two&#160;points behind Hamilton. Behind Hamilton and Massa in the Drivers' Championship, <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> was third on 58&#160;points in a <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>, and Massa's Ferrari teammate <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> fourth on 57&#160;points. Kubica's teammate <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> was fifth on 49&#160;points.<sup id="cite_ref-pointsFIA_1-0" class="reference"><a href="#cite_note-pointsFIA-1">&#91;1&#93;</a></sup> In the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a>, Ferrari were leading on 131&#160;points and McLaren were second on 119&#160;points, 12&#160;points behind. BMW Sauber were third with 107&#160;points. In the battle for fourth-place <a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a> had 41&#160;points, ahead of <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a> with 36&#160;points.<sup id="cite_ref-pointsFIA_1-1" class="reference"><a href="#cite_note-pointsFIA-1">&#91;1&#93;</a></sup>
+</p><p>After the <a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">previous race</a>, Hamilton was penalised for cutting a <a href="/wiki/Chicane" title="Chicane">chicane</a> and gaining an advantage over Räikkönen in the closing laps.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> This meant that Hamilton was demoted from first to third position, giving victory to Massa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> While McLaren had lodged an appeal against the decision, the result would not be heard until September&#160;23.<sup id="cite_ref-hearing_4-0" class="reference"><a href="#cite_note-hearing-4">&#91;4&#93;</a></sup> Reflecting on the controversy, <a href="/wiki/Norbert_Haug" title="Norbert Haug">Norbert Haug</a>, Vice President of <a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes-Benz Motorsport</a>, said:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r960796168">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>Our disappointment was big, when the stewards took away victory from him [Hamilton] and the team. However, we are fighters. If we would have needed a better motivation for the last five&#160;races of the season we have it now. When we went to the airport last Sunday evening, Lewis said to me - preferably we now want to win all remaining races, don't we? I have no objection.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></p></blockquote>
+<p>Following the rain-soaked Belgian Grand Prix, Massa expressed his hope that the Italian Grand Prix would be held on a dry track, saying "it would be nice not to have the rain here and not have any opportunity to have a consistent race."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The close nature of the Championship meant that Ferrari's home race had the potential to be a turning point in the season.<sup id="cite_ref-itvpreview_7-0" class="reference"><a href="#cite_note-itvpreview-7">&#91;7&#93;</a></sup> Testing at the <a href="/wiki/Autodromo_Nazionale_di_Monza" title="Autodromo Nazionale di Monza">Monza circuit</a> in early September had indicated that the performance gap between McLaren and Ferrari had narrowed.<sup id="cite_ref-itvpreview_7-1" class="reference"><a href="#cite_note-itvpreview-7">&#91;7&#93;</a></sup> Despite this, Ferrari were hoping that their straight-line speed would be better suited to Monza's long straights.<sup id="cite_ref-itvpreview_7-2" class="reference"><a href="#cite_note-itvpreview-7">&#91;7&#93;</a></sup> Ferrari confirmed on September 12 that Räikkönen would continue to drive for the team until at least 2010, ending media speculation that he could be about to retire.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Glock_Italian_GP_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Glock_Italian_GP_2008.jpg/220px-Glock_Italian_GP_2008.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Glock_Italian_GP_2008.jpg/330px-Glock_Italian_GP_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Glock_Italian_GP_2008.jpg/440px-Glock_Italian_GP_2008.jpg 2x" data-file-width="3136" data-file-height="2352" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Glock_Italian_GP_2008.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> was fastest in the third session of practice</div></div></div>
+<p>Three practice sessions were held before the race: the first was held on Friday morning and the second on Friday afternoon. Both sessions lasted 90&#160;minutes. The third session was held on Saturday morning and lasted an hour.<sup id="cite_ref-sporting_10-0" class="reference"><a href="#cite_note-sporting-10">&#91;10&#93;</a></sup> All three sessions were affected by rain, with only the second giving teams any chance to run <a href="/wiki/Formula_One_tyres" title="Formula One tyres">dry-weather tyres</a>.<sup id="cite_ref-prac1_11-0" class="reference"><a href="#cite_note-prac1-11">&#91;11&#93;</a></sup><sup id="cite_ref-prac2_12-0" class="reference"><a href="#cite_note-prac2-12">&#91;12&#93;</a></sup><sup id="cite_ref-prac3_13-0" class="reference"><a href="#cite_note-prac3-13">&#91;13&#93;</a></sup> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a> was quickest with a time of 1:32.842 in the first session, more than half a second quicker than the next fastest drivers <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> and <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>. <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> was the next quickest, almost four&#160;seconds behind Sutil. Conditions were so poor that six&#160;drivers, including both McLarens, failed to set times.<sup id="cite_ref-prac1_11-1" class="reference"><a href="#cite_note-prac1-11">&#91;11&#93;</a></sup> The session was stopped four&#160;minutes early, though by that time no cars had entered the track for at least ten&#160;minutes.<sup id="cite_ref-prac1_11-2" class="reference"><a href="#cite_note-prac1-11">&#91;11&#93;</a></sup> The track dried out in the second session; Räikkönen adapted best to the changed conditions with a lap of 1:23.861, significantly quicker than his morning time.<sup id="cite_ref-prac2_12-1" class="reference"><a href="#cite_note-prac2-12">&#91;12&#93;</a></sup> Kubica was the next fastest, with his BMW teammate Heidfeld in third. Hamilton, <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> and Massa rounded out the top six.<sup id="cite_ref-prac2_12-2" class="reference"><a href="#cite_note-prac2-12">&#91;12&#93;</a></sup> Glock was fastest in the final session with a time of 1:35.464, followed by <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>, Rosberg, <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>, <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a> and Heidfeld. Hamilton only completed eight&#160;laps, and finished last with a time almost 11&#160;seconds behind Glock.<sup id="cite_ref-prac3_13-1" class="reference"><a href="#cite_note-prac3-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The qualifying session on Saturday afternoon was split into three&#160;parts. The first part ran for 20&#160;minutes and eliminated the cars from qualifying that finished the session 16th or lower. The second part of qualifying lasted 15&#160;minutes and eliminated cars that finished in positions&#160;11 to 15. The final part of qualifying determined the positions from first to tenth, and decided <a href="/wiki/Pole_position" title="Pole position">pole position</a>. Cars which competed in the final session of qualifying were not allowed to refuel before the race, and as such carried more fuel than in the previous sessions.<sup id="cite_ref-sporting_10-1" class="reference"><a href="#cite_note-sporting-10">&#91;10&#93;</a></sup>
+</p>
+<div class="quotebox pullquote floatleft" style="width:37%;&#32;;"><style data-mw-deduplicate="TemplateStyles:r887775652">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">It was a joint decision to go out on wet-weather tyres at the start of [the second session] - partly mine and partly my engineers'. We thought it was the right way to go at the time because it was getting dryer but the grip-level was poor so I came in and switched to extremes ... It's the first time this has happened to me in Formula 1, so I can't really complain.</div>
+<p><cite class="left-aligned" style=""><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>, speaking after qualifying.<sup id="cite_ref-itlmclq_14-0" class="reference"><a href="#cite_note-itlmclq-14">&#91;14&#93;</a></sup></cite>
+</p>
+</div>
+<p>Vettel became the <a href="/wiki/List_of_Formula_One_driver_records#Youngest_pole_position_winners" title="List of Formula One driver records">youngest driver</a> in the history of Formula One to take <a href="/wiki/Pole_position" title="Pole position">pole position</a>, with a time of 1:37.555 in very wet conditions.<sup id="cite_ref-f1.comqual_15-0" class="reference"><a href="#cite_note-f1.comqual-15">&#91;15&#93;</a></sup><sup id="cite_ref-f1.comqualres_16-0" class="reference"><a href="#cite_note-f1.comqualres-16">&#91;16&#93;</a></sup> He was joined on the front row of the grid by Kovalainen. <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> qualified third after his final lap pushed <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a> into fourth&#160;position. Massa took sixth&#160;position behind Rosberg. Trulli, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>, Glock and Heidfeld rounded out the top ten.<sup id="cite_ref-f1.comqualres_16-1" class="reference"><a href="#cite_note-f1.comqualres-16">&#91;16&#93;</a></sup> Kubica qualified 11th, blaming late rain in the second qualifying session for his position.<sup id="cite_ref-f1qualquotes_17-0" class="reference"><a href="#cite_note-f1qualquotes-17">&#91;17&#93;</a></sup> Fisichella qualified 12th to give <a href="/wiki/Force_India" title="Force India">Force India</a> its best grid position of the season.<sup id="cite_ref-qualifyingkings_18-0" class="reference"><a href="#cite_note-qualifyingkings-18">&#91;18&#93;</a></sup> Both Räikkönen and Hamilton blamed a late entry into the second session for their poor qualifying times, which saw them eliminated in 14th and 15th positions, respectively.<sup id="cite_ref-f1qualquotes_17-1" class="reference"><a href="#cite_note-f1qualquotes-17">&#91;17&#93;</a></sup> Hamilton originally ran on the standard <a href="/wiki/Rain_tyre" title="Rain tyre">wet-weather tyres</a>, and by the time he had changed to extreme wet-weather tyres the rain had intensified.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> This was McLaren's only result outside the top ten in qualifying all season<sup id="cite_ref-qualifyingkings_18-1" class="reference"><a href="#cite_note-qualifyingkings-18">&#91;18&#93;</a></sup> and the first time in Hamilton's career that he had failed to progress into the final qualifying session.
+</p>
+<h3><span class="mw-headline" id="Qualifying_classification">Qualifying classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Part 1
+</th>
+<th>Part 2
+</th>
+<th>Part 3
+</th>
+<th>Grid
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.464
+</td>
+<td><b>1:35.837</b>
+</td>
+<td><b>1:37.555</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td><b>1:35.214</b>
+</td>
+<td>1:35.843
+</td>
+<td>1:37.631
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:36.001
+</td>
+<td>1:36.306
+</td>
+<td>1:38.117
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.543
+</td>
+<td>1:36.175
+</td>
+<td>1:38.445
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>1:35.485
+</td>
+<td>1:35.898
+</td>
+<td>1:38.767
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.536
+</td>
+<td>1:36.676
+</td>
+<td>1:38.894
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>1:35.906
+</td>
+<td>1:36.008
+</td>
+<td>1:39.152
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:36.297
+</td>
+<td>1:36.518
+</td>
+<td>1:39.751
+</td>
+<td>8
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>1:35.737
+</td>
+<td>1:36.525
+</td>
+<td>1:39.787
+</td>
+<td>9
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>
+</td>
+<td>1:35.709
+</td>
+<td>1:36.626
+</td>
+<td>1:39.906
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>
+</td>
+<td>1:35.553
+</td>
+<td>1:36.697
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:36.280
+</td>
+<td>1:36.698
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:36.485
+</td>
+<td>1:37.284
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:35.965
+</td>
+<td>1:37.522
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td>1:35.394
+</td>
+<td>1:39.265
+</td>
+<td>
+</td>
+<td>15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:36.510
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet_Jr." title="Nelson Piquet Jr.">Nelson Piquet Jr.</a>
+</td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:36.630
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>1:36.653
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:37.006
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>19
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:37.417
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-f1.comqualres_16-2" class="reference"><a href="#cite_note-f1.comqualres-16">&#91;16&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bourdais_Italian_GP_2008_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bourdais_Italian_GP_2008_1.jpg/220px-Bourdais_Italian_GP_2008_1.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bourdais_Italian_GP_2008_1.jpg/330px-Bourdais_Italian_GP_2008_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bourdais_Italian_GP_2008_1.jpg/440px-Bourdais_Italian_GP_2008_1.jpg 2x" data-file-width="3136" data-file-height="2352" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bourdais_Italian_GP_2008_1.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a> stalls on the grid</div></div></div>
+<p>Heavy rain prior to the race made the track very slippery, with more rain expected throughout the day.<sup id="cite_ref-weatherf1.com_20-0" class="reference"><a href="#cite_note-weatherf1.com-20">&#91;20&#93;</a></sup> The <a href="/wiki/Air_temperature" class="mw-redirect" title="Air temperature">air temperature</a> at the track was 14&#160;°C (57&#160;°F).<sup id="cite_ref-commautosport_21-0" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a> started the race from the pit-lane, their teams choosing to make adjustments from qualifying to the <a href="/wiki/Racing_setup" title="Racing setup">set-ups</a> of their cars.<sup id="cite_ref-itlhonr_22-0" class="reference"><a href="#cite_note-itlhonr-22">&#91;22&#93;</a></sup><sup id="cite_ref-itlwilr_23-0" class="reference"><a href="#cite_note-itlwilr-23">&#91;23&#93;</a></sup> All cars were using extreme wet-weather tyres. The race began at 14:00&#160;local time (<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a>) behind the <a href="/wiki/Safety_car" title="Safety car">safety car</a> because of the rain, meaning that there would be a <a href="/wiki/Rolling_start" title="Rolling start">rolling start</a>.<sup id="cite_ref-commautosport_21-1" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Bourdais' car <a href="/wiki/Stall_(engine)" title="Stall (engine)">stalled</a> on the grid, and was pushed back to the pits. By the time his team restarted the car, he was in last position and one&#160;lap down.<sup id="cite_ref-itltror_24-0" class="reference"><a href="#cite_note-itltror-24">&#91;24&#93;</a></sup>
+</p><p>The safety car pulled into the pit-lane at the end of the second&#160;lap. Vettel retained his lead into the first&#160;corner, followed by Kovalainen, Webber, Rosberg and Massa. Kubica passed Heidfeld at the first chicane;<sup id="cite_ref-itlbmwr_25-0" class="reference"><a href="#cite_note-itlbmwr-25">&#91;25&#93;</a></sup> Glock passed Alonso later in the lap.<sup id="cite_ref-fiaracefacts_26-0" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Vettel immediately opened a lead of two&#160;seconds over Kovalainen; the McLaren driver experienced visibility problems as a result of the spray off the back of the Toro Rosso.<sup id="cite_ref-fiaracefacts_26-1" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup><sup id="cite_ref-itlmclr_27-0" class="reference"><a href="#cite_note-itlmclr-27">&#91;27&#93;</a></sup> Alonso regained seventh from Glock when he passed him at the first chicane on lap&#160;four as the track began to dry. Räikkönen and Hamilton passed Coulthard on the same lap to take 12th and 13th&#160;positions, respectively.<sup id="cite_ref-commautosport_21-2" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> The next lap, Hamilton attempted to pass Räikkönen at the third corner, but overshot, cutting the chicane. Emerging ahead of the Ferrari, he gave the place back, returning the advantage and avoiding a penalty.<sup id="cite_ref-commautosport_21-3" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Glock spun on lap&#160;seven, losing one&#160;place to Kubica.<sup id="cite_ref-fiaracefacts_26-2" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup><sup id="cite_ref-itllapchart_28-0" class="reference"><a href="#cite_note-itllapchart-28">&#91;28&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alonso_Italian_GP_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alonso_Italian_GP_2008.jpg/220px-Alonso_Italian_GP_2008.jpg" decoding="async" width="220" height="115" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alonso_Italian_GP_2008.jpg/330px-Alonso_Italian_GP_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alonso_Italian_GP_2008.jpg/440px-Alonso_Italian_GP_2008.jpg 2x" data-file-width="993" data-file-height="518" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alonso_Italian_GP_2008.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> used a one-stop strategy to secure fourth position</div></div></div>
+<p>Vettel continued to open his lead on Kovalainen; by lap&#160;eight it stood at 6.3&#160;seconds.<sup id="cite_ref-fiaracefacts_26-3" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Both Räikkönen and Hamilton passed Fisichella in separate manoeuvres over the next two&#160;laps. Hamilton took 11th&#160;position from Räikkönen on lap&#160;11, outbraking the Ferrari at turn&#160;four.<sup id="cite_ref-commautosport_21-4" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup><sup id="cite_ref-fiaracefacts_26-4" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Fisichella collided with Coulthard two&#160;laps later. As a result of the contact, the Force India's <a href="/wiki/Formula_one_car#Wings" class="mw-redirect" title="Formula one car">front wing</a> broke loose and lodged under the car. Consequently, Fisichella lost control at turn&#160;nine, spinning into the <a href="/wiki/Run-off_area" title="Run-off area">gravel trap</a> and retiring.<sup id="cite_ref-fiaracefacts_26-5" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup><sup id="cite_ref-itlfinr_29-0" class="reference"><a href="#cite_note-itlfinr-29">&#91;29&#93;</a></sup> Massa overtook Rosberg for fourth on the same lap, beginning a close fight where both drivers repeatedly exchanged positions over the next three&#160;laps. Massa eventually consolidated fourth position on lap&#160;15.<sup id="cite_ref-commautosport_21-5" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup><sup id="cite_ref-itllapchart_28-1" class="reference"><a href="#cite_note-itllapchart-28">&#91;28&#93;</a></sup> Hamilton passed Heidfeld, Glock, Kubica and Alonso in separate manoeuvres, to sit in seventh by lap&#160;19.
+</p><p>Vettel <a href="/wiki/Pit_stop" title="Pit stop">pitted</a> from first position on lap&#160;18. Kovalainen, Webber and Massa pitted four&#160;laps later.<sup id="cite_ref-italypitsummary_30-0" class="reference"><a href="#cite_note-italypitsummary-30">&#91;30&#93;</a></sup> Light rain began to fall on lap&#160;26, though only lasted five minutes.<sup id="cite_ref-commautosport_21-6" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Glock, Trulli, Räikkönen and Hamilton completed their first pit stops over the following laps.<sup id="cite_ref-italypitsummary_30-1" class="reference"><a href="#cite_note-italypitsummary-30">&#91;30&#93;</a></sup> Coulthard was the first driver to try intermediate wet-weather tyres when he pitted on lap&#160;28.<sup id="cite_ref-italypitsummary_30-2" class="reference"><a href="#cite_note-italypitsummary-30">&#91;30&#93;</a></sup> He lost grip in the wet and went straight through the first chicane.<sup id="cite_ref-commautosport_21-7" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Alonso, Heidfeld, Kubica and Piquet took their only pit stops for the race soon after, all changing to intermediate tyres.<sup id="cite_ref-commautosport_21-8" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> By lap&#160;36 the majority of the field were running on intermediate tyres.<sup id="cite_ref-commautosport_21-9" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Webber was passed at turn&#160;eight by Massa on lap&#160;35. The Australian spun after the corner, though managed to retain seventh&#160;position.<sup id="cite_ref-fiaracefacts_26-6" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> A lap later, however, Hamilton outbraked Webber at turn&#160;three and demoted the Red Bull driver to eighth.<sup id="cite_ref-commautosport_21-10" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Massa_Italian_GP_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Massa_Italian_GP_2008.jpg/220px-Massa_Italian_GP_2008.jpg" decoding="async" width="220" height="115" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Massa_Italian_GP_2008.jpg/330px-Massa_Italian_GP_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Massa_Italian_GP_2008.jpg/440px-Massa_Italian_GP_2008.jpg 2x" data-file-width="993" data-file-height="517" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Massa_Italian_GP_2008.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> narrowed his gap to <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> in the Drivers' Championship</div></div></div>
+<p>Hamilton began lapping fastest, recording a 1:32.869 on lap&#160;38, more than a second faster than first-placed Vettel.<sup id="cite_ref-fiaracefacts_26-7" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Lap&#160;45 saw three drivers set consecutive new <a href="/wiki/Fastest_lap" title="Fastest lap">fastest laps</a>; Kubica's 1:32.366 was beaten by Webber with a 1:32.014s. They were then superseded by Räikkönen, who set a 1:31.691.<sup id="cite_ref-fiaracefacts_26-8" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> On lap&#160;49 Webber attempted to pass Hamilton at the first chicane, but the two cars touched wheels.<sup id="cite_ref-commautosport_21-11" class="reference"><a href="#cite_note-commautosport-21">&#91;21&#93;</a></sup> Webber was forced down the escape road, and when he emerged in front of Hamilton, he returned the position.<sup id="cite_ref-fiaracefacts_26-9" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Räikkönen continued to move through the field; he passed Coulthard and Piquet in separate manoeuvres to take ninth&#160;position.<sup id="cite_ref-fiaracefacts_26-10" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Nakajima attempted to pass Coulthard into turn&#160;nine, but succeeded only in turning into the <a href="/wiki/Red_Bull_RB4" title="Red Bull RB4">Red Bull RB4</a>, sending it into the gravel trap.<sup id="cite_ref-itlrbur_31-0" class="reference"><a href="#cite_note-itlrbur-31">&#91;31&#93;</a></sup><sup id="cite_ref-racebyteam_32-0" class="reference"><a href="#cite_note-racebyteam-32">&#91;32&#93;</a></sup> Coulthard pitted for a new front wing, which dropped him to 17th.<sup id="cite_ref-fiaracefacts_26-11" class="reference"><a href="#cite_note-fiaracefacts-26">&#91;26&#93;</a></sup> Vettel crossed the finish line on lap&#160;53 by 12.5&#160;seconds over Kovalainen, becoming the youngest driver in Formula One history to win a Grand Prix.<sup id="cite_ref-italyresults_33-0" class="reference"><a href="#cite_note-italyresults-33">&#91;33&#93;</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> The one-stop strategies used by Kubica and Alonso paid off as they finished in third and fourth, respectively.<sup id="cite_ref-italyresults_33-1" class="reference"><a href="#cite_note-italyresults-33">&#91;33&#93;</a></sup> Heidfeld, Massa, Hamilton and Webber rounded out the top eight.<sup id="cite_ref-italyresults_33-2" class="reference"><a href="#cite_note-italyresults-33">&#91;33&#93;</a></sup> Räikkönen finished in ninth&#160;position, setting the fastest laptime of 1:28.047 on the final lap.<sup id="cite_ref-italyresults_33-3" class="reference"><a href="#cite_note-italyresults-33">&#91;33&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quotebox pullquote floatright" style="width:30%;&#32;;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r887775652"/>
+<div class="quotebox-quote left-aligned" style="">A fantastic race, a fantastic weekend with pole as well and a fantastic strategy this afternoon. As for the podium ceremony it was unbelievable and this is the best day of my life. I will never forget these feelings. It is so unbelievable. It is better than I had ever expected ... A perfect weekend.</div>
+<p><cite class="left-aligned" style=""><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>, speaking after the race.<sup id="cite_ref-itltror_24-1" class="reference"><a href="#cite_note-itltror-24">&#91;24&#93;</a></sup></cite>
+</p>
+</div>
+<p>The top three finishers appeared on the podium and in the subsequent <a href="/wiki/Press_conference" title="Press conference">press conference</a>. Vettel acknowledged the support of his team, saying the set-up of the car perfectly suited the way the race developed.<sup id="cite_ref-pressconference_35-0" class="reference"><a href="#cite_note-pressconference-35">&#91;35&#93;</a></sup> Other drivers congratulated Vettel; Hamilton said that "with all that pressure it is easier to make mistakes, and he obviously didn't, so congratulations to him. He did a good job."<sup id="cite_ref-whoohvettel_36-0" class="reference"><a href="#cite_note-whoohvettel-36">&#91;36&#93;</a></sup> The Grand Prix also marked the first win by Toro Rosso, the first non-Ferrari Italian-based team to win since 1957.<sup id="cite_ref-pressconference_35-1" class="reference"><a href="#cite_note-pressconference-35">&#91;35&#93;</a></sup><sup id="cite_ref-whoohvettel_36-1" class="reference"><a href="#cite_note-whoohvettel-36">&#91;36&#93;</a></sup> Ferrari team principal <a href="/wiki/Stefano_Domenicali" title="Stefano Domenicali">Stefano Domenicali</a> paid tribute to the team, who use Ferrari engines, saying "They deserve it, they are close to us, and we are happy to work with them because we are giving them our engine."<sup id="cite_ref-whoohvettel_36-2" class="reference"><a href="#cite_note-whoohvettel-36">&#91;36&#93;</a></sup>
+</p><p>Kovalainen expressed his disappointment in finishing second, saying:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>Clearly not possible to win today. Sebastian and Toro Rosso have been strong all weekend. I had a little bit of a problem earlier on in the race, in the first couple of stints, especially with the extreme wet tyre and some problems also to warm up my brakes, so I was just struggling to find more time and trying to go faster. We kept pushing and towards the end it got a little bit better but I think it was the maximum we could do today. We picked up some good points and we can look forward to the next grand prix.<sup id="cite_ref-pressconference_35-2" class="reference"><a href="#cite_note-pressconference-35">&#91;35&#93;</a></sup></p></blockquote>
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Vettel_Canada_2008_crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vettel_Canada_2008_crop.jpg/170px-Vettel_Canada_2008_crop.jpg" decoding="async" width="170" height="222" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vettel_Canada_2008_crop.jpg/255px-Vettel_Canada_2008_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vettel_Canada_2008_crop.jpg/340px-Vettel_Canada_2008_crop.jpg 2x" data-file-width="697" data-file-height="912" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Vettel_Canada_2008_crop.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></div></div></div>
+<p>Hamilton was satisfied with his performance in the race, saying "today was all about damage control: I came away with some points and kept my lead in the world Drivers' Championship."<sup id="cite_ref-itlmclr_27-1" class="reference"><a href="#cite_note-itlmclr-27">&#91;27&#93;</a></sup> Massa said that he had hoped to do better, but added "I've managed to make up a point on my nearest rival so this is absolutely not a negative result."<sup id="cite_ref-itlferr_37-0" class="reference"><a href="#cite_note-itlferr-37">&#91;37&#93;</a></sup> Massa took three&#160;points from the race, compared to Hamilton's two, and narrowed the gap in the Drivers' Championship to one&#160;point with four&#160;races remaining.<sup id="cite_ref-pointsFIA_1-2" class="reference"><a href="#cite_note-pointsFIA-1">&#91;1&#93;</a></sup> Kovalainen's second-placed finish closed the gap in the Constructors' Championship between Ferrari and McLaren from twelve to five&#160;points.<sup id="cite_ref-pointsFIA_1-3" class="reference"><a href="#cite_note-pointsFIA-1">&#91;1&#93;</a></sup>
+</p><p>Third-placed Kubica said that his strategy allowed him to capitalise on the changing track conditions, as his only stop seemed the best time to change to intermediate tyres.<sup id="cite_ref-pressconference_35-3" class="reference"><a href="#cite_note-pressconference-35">&#91;35&#93;</a></sup> The Polish driver said that racing in Italy was particularly special for him, having lived in the country for five&#160;years: "That is why we divided the helmet into two pieces. One was Italian colours, one was Polish colours."<sup id="cite_ref-pressconference_35-4" class="reference"><a href="#cite_note-pressconference-35">&#91;35&#93;</a></sup> Alonso, who used a similar strategy, said "the result today is very good because Monza was supposed to be the race that we were looking forward to the least."<sup id="cite_ref-itlrenr_38-0" class="reference"><a href="#cite_note-itlrenr-38">&#91;38&#93;</a></sup> Toyota's failure to score at the race meant that they were tied with Renault on 41&#160;points.<sup id="cite_ref-pointsFIA_1-4" class="reference"><a href="#cite_note-pointsFIA-1">&#91;1&#93;</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Race_classification">Race classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Race classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size:95%">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>15</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b></td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>1:26:47.494
+</td>
+<td>1
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>23</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></b></td>
+<td><b><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></b>
+</td>
+<td>53
+</td>
+<td>+12.512
+</td>
+<td>2
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>4</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <b><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></b></td>
+<td><b><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a></b>
+</td>
+<td>53
+</td>
+<td>+20.471
+</td>
+<td>11
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>5</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></b></td>
+<td><b><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+23.903
+</td>
+<td>8
+</td>
+<td><b>5</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>3</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b></td>
+<td><b><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a></b>
+</td>
+<td>53
+</td>
+<td>+27.748
+</td>
+<td>10
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>2</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b></td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>53
+</td>
+<td>+28.816
+</td>
+<td>6
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>22</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b></td>
+<td><b><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></b>
+</td>
+<td>53
+</td>
+<td>+29.912
+</td>
+<td>15
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>10</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <b><a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a></b></td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>53
+</td>
+<td>+32.048
+</td>
+<td>3
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>1</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>53
+</td>
+<td>+39.468
+</td>
+<td>14
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>6</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet_Jr." title="Nelson Piquet Jr.">Nelson Piquet Jr.</a></td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>53
+</td>
+<td>+54.445
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>12</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a></td>
+<td><a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>53
+</td>
+<td>+58.888
+</td>
+<td>9
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>8</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a></td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>53
+</td>
+<td>+1:02.015
+</td>
+<td>18<sup class="reference" id="ref_reference_name_Did"><a href="#endnote_reference_name_Did">[1]</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>11</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a></td>
+<td><a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>53
+</td>
+<td>+1:05.954
+</td>
+<td>7
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>7</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_F1" class="mw-redirect" title="Toyota F1">Toyota</a>
+</td>
+<td>53
+</td>
+<td>+1:08.635
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>16</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>53
+</td>
+<td>+1:13.370
+</td>
+<td>19<sup class="reference" id="ref_pitlaneid"><a href="#endnote_pitlaneid">[1]</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>9</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>17</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>14</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>52
+</td>
+<td>+1 Lap
+</td>
+<td>4<sup class="reference" id="ref_pitlaneid"><a href="#endnote_pitlaneid">[1]</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>20</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a></td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>51
+</td>
+<td>+2 Laps
+</td>
+<td>20
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>21</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>11
+</td>
+<td>Accident
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-italyresults_33-4" class="reference"><a href="#cite_note-italyresults-33">&#91;33&#93;</a></sup></div>
+</th></tr></tbody></table>
+<ul><li><span class="citation wikicite" id="endnote_pitlane"><b><a href="#ref_pitlane">^</a></b></span> Sébastien Bourdais, Kazuki Nakajima and Jenson Button started the race from the pit lane.</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td>78
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b>
+</td>
+<td>77
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <b><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></b>
+</td>
+<td>64
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b>
+</td>
+<td>57
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b>
+</td>
+<td>53
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_39-0" class="reference"><a href="#cite_note-Championship-39">&#91;39&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>134
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>129
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>117
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>41
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>41
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_39-1" class="reference"><a href="#cite_note-Championship-39">&#91;39&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li>
+<li><small><b>Bold text</b> indicates competitors who still had a theoretical chance of becoming World Champion.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pointsFIA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-pointsFIA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pointsFIA_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pointsFIA_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pointsFIA_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-pointsFIA_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080822014119/http://www.fia.com/en-GB/sport/championships/f1/Pages/ChampionshipClassification.aspx">"Championship Classification"</a>. Fédération Internationale de l'Automobile. 2008-11-17. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/en-GB/sport/championships/f1/Pages/ChampionshipClassification.aspx">the original</a> on August 22, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Championship+Classification&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2008-11-17&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fen-GB%2Fsport%2Fchampionships%2Ff1%2FPages%2FChampionshipClassification.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFFIA,_the_Stewards_of_the_Meeting2008" class="citation web cs1">FIA, the Stewards of the Meeting (2008-09-07). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080911131104/http://www.fia.com/belgiumgp/documents/BEL_08_Document_49.pdf">"2008 Belgian Grand Prix, Document 49"</a> <span class="cs1-format">(PDF)</span>. Fédération Internationale de l'Automobile. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/belgiumgp/documents/BEL_08_Document_49.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-09-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2008+Belgian+Grand+Prix%2C+Document+49&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2008-09-07&amp;rft.au=FIA%2C+the+Stewards+of+the+Meeting&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fbelgiumgp%2Fdocuments%2FBEL_08_Document_49.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFPablo_Elizalde2008" class="citation web cs1">Pablo Elizalde (2008-09-07). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70401">"Hamilton penalised, Massa handed win"</a>. <i>autosport.com</i>. Haymarket Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Hamilton+penalised%2C+Massa+handed+win&amp;rft.date=2008-09-07&amp;rft.au=Pablo+Elizalde&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70401&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-hearing-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-hearing_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081010040214/http://fialive.fiacommunications.com/en-GB/the-fia/court_appeal/judgments/Documents/ICA-23-09-08-McL-en.pdf">"Hearing of Monday, 22 September 2008 in Paris"</a> <span class="cs1-format">(PDF)</span>. Fédération Internationale de l'Automobile. 2008-09-22. Archived from <a rel="nofollow" class="external text" href="http://fialive.fiacommunications.com/en-GB/the-fia/court_appeal/judgments/Documents/ICA-23-09-08-McL-en.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-10-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hearing+of+Monday%2C+22+September+2008+in+Paris&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2008-09-22&amp;rft_id=http%3A%2F%2Ffialive.fiacommunications.com%2Fen-GB%2Fthe-fia%2Fcourt_appeal%2Fjudgments%2FDocuments%2FICA-23-09-08-McL-en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70459">"Italy preview quotes: McLaren"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+preview+quotes%3A+McLaren&amp;rft.date=2008-09-11&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70459&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70476">"Thursday's press conference - Italy"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-11. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081015070241/http://www.autosport.com/news/report.php/id/70476">Archived</a> from the original on 15 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Thursday%27s+press+conference+-+Italy&amp;rft.date=2008-09-11&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70476&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itvpreview-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-itvpreview_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-itvpreview_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-itvpreview_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081013181120/http://www.itv-f1.com/Feature.aspx?Type=General&amp;id=43878">"Monza race preview"</a>. <i>ITV-F1.com</i>. ITV plc. 2008-09-10. Archived from <a rel="nofollow" class="external text" href="http://www.itv-f1.com/Feature.aspx?Type=General&amp;id=43878">the original</a> on October 13, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITV-F1.com&amp;rft.atitle=Monza+race+preview&amp;rft.date=2008-09-10&amp;rft_id=http%3A%2F%2Fwww.itv-f1.com%2FFeature.aspx%3FType%3DGeneral%26id%3D43878&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFAndrew_Benson2008" class="citation news cs1">Andrew Benson (2008-09-12). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/7612545.stm">"Ferrari keep Raikkonen until 2010"</a>. <i>BBC Sport</i>. British Broadcasting Corporation. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090107123636/http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/7612545.stm">Archived</a> from the original on 7 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Ferrari+keep+Raikkonen+until+2010&amp;rft.date=2008-09-12&amp;rft.au=Andrew+Benson&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Fmotorsport%2Fformula_one%2F7612545.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8365.html">"Ferrari confirm Raikkonen to end of 2010"</a>. Formula1.com. 2008-09-12. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5hj1wSoyI?url=http://www.formula1.com/news/headlines/2008/9/8365.html">Archived</a> from the original on 2009-06-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ferrari+confirm+Raikkonen+to+end+of+2010&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-12&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8365.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-sporting-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-sporting_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sporting_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://argent.fia.com/web/fia-public.nsf/475632E46002BEDAC125744F004312F4/$FILE/F1.SPORTING.REGULATIONS.19-05-2008.pdf">"2008 Formula One Sporting Regulations"</a> <span class="cs1-format">(PDF)</span>. Fédération Internationale de l'Automobile. 2008-05-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2008+Formula+One+Sporting+Regulations&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2008-05-19&amp;rft_id=http%3A%2F%2Fargent.fia.com%2Fweb%2Ffia-public.nsf%2F475632E46002BEDAC125744F004312F4%2F%24FILE%2FF1.SPORTING.REGULATIONS.19-05-2008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-prac1-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-prac1_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prac1_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-prac1_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-12). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70493">"Sutil quickest in very wet first practice"</a>. <i>autosport.com</i>. Haymarket Publishing. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081009030919/http://www.autosport.com/news/report.php/id/70493">Archived</a> from the original on 9 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Sutil+quickest+in+very+wet+first+practice&amp;rft.date=2008-09-12&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70493&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-prac2-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-prac2_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prac2_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-prac2_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-12). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70501">"Raikkonen quickest in second practice"</a>. <i>autosport.com</i>. Haymarket Publishing. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081012140056/http://www.autosport.com/news/report.php/id/70501">Archived</a> from the original on 12 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Raikkonen+quickest+in+second+practice&amp;rft.date=2008-09-12&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70501&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-prac3-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-prac3_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prac3_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMark_Glendenning2008" class="citation web cs1">Mark Glendenning (2008-09-13). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70549">"Glock fastest in final practice - Italy"</a>. <i>autosport.com</i>. Haymarket Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Glock+fastest+in+final+practice+-+Italy&amp;rft.date=2008-09-13&amp;rft.au=Mark+Glendenning&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70549&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlmclq-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlmclq_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70568">"Italy Saturday quotes: McLaren"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Saturday+quotes%3A+McLaren&amp;rft.date=2008-09-13&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70568&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-f1.comqual-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-f1.comqual_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121007065335/http://www.formula1.com/news/headlines/2008/9/8377.html">"Record-breaking Vettel puts Toro Rosso on pole at Monza"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-13. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8377.html">the original</a> on 2012-10-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Record-breaking+Vettel+puts+Toro+Rosso+on+pole+at+Monza&amp;rft.date=2008-09-13&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8377.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-f1.comqualres-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-f1.comqualres_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-f1.comqualres_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-f1.comqualres_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081216014931/http://www.formula1.com/results/season/2008/800/6561/">"Qualifying Results"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-13. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2008/800/6561/">the original</a> on 2008-12-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Qualifying+Results&amp;rft.date=2008-09-13&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2008%2F800%2F6561%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-f1qualquotes-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-f1qualquotes_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-f1qualquotes_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121013040231/http://www.formula1.com/news/headlines/2008/9/8376.html">"Qualifying - selected driver quotes"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-13. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8376.html">the original</a> on 2012-10-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Qualifying+-+selected+driver+quotes&amp;rft.date=2008-09-13&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8376.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-qualifyingkings-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-qualifyingkings_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qualifyingkings_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081206082839/http://www.formula1.com/news/features/2008/11/8673.html">"The 2008 qualifying kings - Saturday's winners and losers"</a>. <i>Formula1.com</i>. Formula One Management. 2008-11-12. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/features/2008/11/8673.html">the original</a> on 2008-12-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=The+2008+qualifying+kings+-+Saturday%27s+winners+and+losers&amp;rft.date=2008-11-12&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Ffeatures%2F2008%2F11%2F8673.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121007065448/http://www.formula1.com/news/headlines/2008/9/8378.html">"Title contenders fail to weather Monza storms"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-13. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8378.html">the original</a> on 2012-10-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Title+contenders+fail+to+weather+Monza+storms&amp;rft.date=2008-09-13&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8378.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-weatherf1.com-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-weatherf1.com_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081211040939/http://www.formula1.com/news/headlines/2008/9/8355.html">"Sunday weather update - it will rain, but when?"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8355.html">the original</a> on 2008-12-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Sunday+weather+update+-+it+will+rain%2C+but+when%3F&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8355.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-commautosport-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-commautosport_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-commautosport_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-commautosport_21-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-commautosport_21-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-commautosport_21-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-commautosport_21-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-commautosport_21-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-commautosport_21-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-commautosport_21-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-commautosport_21-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-commautosport_21-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-commautosport_21-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFGeoff_Creighton_and_Emlyn_Hughes2008" class="citation web cs1">Geoff Creighton and Emlyn Hughes (2008-09-14). <a rel="nofollow" class="external text" href="http://live.autosport.com/commentary.php/id/47">"As it happened: Raceday at Monza"</a>. <i>autosport.com</i>. Haymarket Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=As+it+happened%3A+Raceday+at+Monza&amp;rft.date=2008-09-14&amp;rft.au=Geoff+Creighton+and+Emlyn+Hughes&amp;rft_id=http%3A%2F%2Flive.autosport.com%2Fcommentary.php%2Fid%2F47&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlhonr-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlhonr_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70616">"Italy Sunday quotes: Honda"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Honda&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70616&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlwilr-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlwilr_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70621">"Italy Sunday quotes: Williams"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Williams&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70621&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itltror-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-itltror_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-itltror_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70636">"Italy Sunday quotes: Toro Rosso"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Toro+Rosso&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70636&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlbmwr-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlbmwr_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70625">"Italy Sunday quotes: BMW"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+BMW&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70625&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fiaracefacts-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiaracefacts_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-fiaracefacts_26-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081202140823/http://www.grandprix.com/race/r799raceincidents.html">"Italian GP - Sunday - Race Incidents"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.grandprix.com/race/r799raceincidents.html">the original</a> on 2 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Italian+GP+-+Sunday+-+Race+Incidents&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Frace%2Fr799raceincidents.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlmclr-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-itlmclr_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-itlmclr_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70627">"Italy Sunday quotes: McLaren"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+McLaren&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70627&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itllapchart-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-itllapchart_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-itllapchart_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081116052718/http://www.fia.com/en-GB/sport/championships/f1/italy/Pages/lap_chart.aspx">"Lap Chart"</a>. Fédération Internationale de l'Automobile. 2008-11-14. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/en-GB/sport/championships/f1/italy/Pages/lap_chart.aspx">the original</a> on 16 November 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lap+Chart&amp;rft.pub=F%C3%A9d%C3%A9ration+Internationale+de+l%27Automobile&amp;rft.date=2008-11-14&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fen-GB%2Fsport%2Fchampionships%2Ff1%2Fitaly%2FPages%2Flap_chart.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlfinr-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlfinr_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70617">"Italy Sunday quotes: Force India"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Force+India&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70617&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-italypitsummary-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-italypitsummary_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-italypitsummary_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-italypitsummary_30-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090102154459/http://www.formula1.com/results/season/2008/800/6562/pit_stop_summary.html">"Italy Pit Stop Summary"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2008/800/6562/pit_stop_summary.html">the original</a> on 2009-01-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Italy+Pit+Stop+Summary&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2008%2F800%2F6562%2Fpit_stop_summary.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlrbur-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlrbur_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70623">"Italy Sunday quotes: Red Bull"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Red+Bull&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70623&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-racebyteam-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-racebyteam_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081208123248/http://www.formula1.com/news/features/2008/9/8388.html">"Italy race analysis - Vettel sparkles as title fight intensifies"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-15. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/features/2008/9/8388.html">the original</a> on 2008-12-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Italy+race+analysis+-+Vettel+sparkles+as+title+fight+intensifies&amp;rft.date=2008-09-15&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Ffeatures%2F2008%2F9%2F8388.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-italyresults-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-italyresults_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-italyresults_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-italyresults_33-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-italyresults_33-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-italyresults_33-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081231220202/http://www.formula1.com/results/season/2008/800/6562/results.html">"Italy Results"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2008/800/6562/results.html">the original</a> on 2008-12-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Italy+Results&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2008%2F800%2F6562%2Fresults.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081208123303/http://www.formula1.com/news/headlines/2008/9/8385.html">"Vettel takes historic Italian Grand Prix win"</a>. <i>Formula1.com</i>. Formula One Management. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8385.html">the original</a> on 2008-12-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Vettel+takes+historic+Italian+Grand+Prix+win&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8385.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pressconference-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-pressconference_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pressconference_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pressconference_35-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pressconference_35-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-pressconference_35-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081202030838/http://www.grandprix.com/race/r799sunpc.html">"Italian GP - Sunday - Press Conference"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 2008-09-14. Archived from <a rel="nofollow" class="external text" href="http://www.grandprix.com/race/r799sunpc.html">the original</a> on 2 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Italian+GP+-+Sunday+-+Press+Conference&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Frace%2Fr799sunpc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-whoohvettel-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-whoohvettel_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-whoohvettel_36-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-whoohvettel_36-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFJonathan_Noble2008" class="citation web cs1">Jonathan Noble (2008-09-15). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70660">"Top teams praise Vettel, Toro Rosso"</a>. <i>autosport.com</i>. Haymarket Publishing. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081209003803/http://www.autosport.com/news/report.php/id/70660">Archived</a> from the original on 9 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Top+teams+praise+Vettel%2C+Toro+Rosso&amp;rft.date=2008-09-15&amp;rft.au=Jonathan+Noble&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70660&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlferr-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlferr_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70637">"Italy Sunday quotes: Ferrari"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Ferrari&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70637&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-itlrenr-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-itlrenr_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70619">"Italy Sunday quotes: Renault"</a>. <i>autosport.com</i>. Haymarket Publishing. 2008-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=autosport.com&amp;rft.atitle=Italy+Sunday+quotes%3A+Renault&amp;rft.date=2008-09-14&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70619&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2008/italie/championnat.aspx">"Italy 2008 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Italy+2008+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2008%2Fitalie%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Italian+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Italian_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2008_Italian_Grand_Prix" class="extiw" title="commons:Category:2008 Italian Grand Prix"><span style="">2008 Italian Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></td>
+<td class="mbox-text plainlist">Wikinews has related news:
+<div><ul><li><a href="https://en.wikinews.org/wiki/Sebastian_Vettel_takes_pole_for_2008_Italian_Grand_Prix" class="extiw" title="wikinews:Sebastian Vettel takes pole for 2008 Italian Grand Prix"> Sebastian Vettel takes pole for 2008 Italian Grand Prix </a></li><li><a href="https://en.wikinews.org/wiki/Sebastian_Vettel_wins_2008_Italian_Grand_Prix" class="extiw" title="wikinews:Sebastian Vettel wins 2008 Italian Grand Prix"> Sebastian Vettel wins 2008 Italian Grand Prix</a></li></ul></div></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080918014137/http://www.fia.com/en-GB/sport/championships/f1/italy/Pages/race_classification.aspx">Official FIA results</a></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">2008 Belgian Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">2008 Singapore Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">2007 Italian Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Italian_Grand_Prix" title="Italian Grand Prix">Italian Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">2009 Italian Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a class="mw-selflink selflink">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2008_Italian_Grand_Prix&amp;params=45_36_56_N_9_16_52_E_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°36′56″N</span> <span class="longitude">9°16′52″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.61556°N 9.28111°E</span><span style="display:none">&#xfeff; / <span class="geo">45.61556; 9.28111</span></span></span></a></span></span></span>
+</p></div>

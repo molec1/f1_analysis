@@ -1,0 +1,1293 @@
+<div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2008 Singapore Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 15 of 18 in the <a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Singapore_street_circuit_2008.svg" class="image" title="Marina Bay Street Circuit"><img alt="Marina Bay Street Circuit" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Singapore_street_circuit_2008.svg/220px-Singapore_street_circuit_2008.svg.png" decoding="async" width="220" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Singapore_street_circuit_2008.svg/330px-Singapore_street_circuit_2008.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Singapore_street_circuit_2008.svg/440px-Singapore_street_circuit_2008.svg.png 2x" data-file-width="470" data-file-height="310" /></a><div><a href="/wiki/Marina_Bay_Street_Circuit" title="Marina Bay Street Circuit">Marina Bay Street Circuit</a></div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2008-09-28">September 28, 2008</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+2008 Formula 1 SingTel Singapore Grand Prix</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Marina_Bay_Street_Circuit" title="Marina Bay Street Circuit">Marina Bay Street Circuit</a><br /><a href="/wiki/Marina_Bay,_Singapore" title="Marina Bay, Singapore">Marina Bay</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Street Circuit</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+5.067 km (3.148 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+61 laps, 309.087 km (192.058 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Dry, Air Temp: 28°C, Wind Speed: 2.2m/s, Humidity: 79%</td></tr><tr><th scope="row" style="width:20%;">Attendance</th><td colspan="3">
+300,000 (3-Day Total) <br /> 100,000 (3-Day Average)</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:44.801</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:45.599 on lap 14 <span style="font-size:90%;">(lap record)</span></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></li></ul></div></td><td>
+<small><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></li></ul></div></td><td>
+<small><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_bcf445bded97e89cb10359a0ca99d42a"></map><img usemap="#timeline_bcf445bded97e89cb10359a0ca99d42a" src="//upload.wikimedia.org/wikipedia/en/timeline/bcf445bded97e89cb10359a0ca99d42a.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2008 Singapore Grand Prix</b>, formally known as the <b>2008 Formula 1 SingTel Singapore Grand Prix</b>, was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> race held on 28 September 2008 at 20:00 <a href="/wiki/Singapore_Standard_Time" title="Singapore Standard Time">SST</a> at the newly built <a href="/wiki/Marina_Bay_Street_Circuit" title="Marina Bay Street Circuit">Marina Bay Street Circuit</a> in <a href="/wiki/Marina_Bay,_Singapore" title="Marina Bay, Singapore">Marina Bay</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a>. It was the fifteenth race of the <a href="/wiki/2008_Formula_One_season" class="mw-redirect" title="2008 Formula One season">2008 Formula One season</a>, the 800th Formula One World Championship race overall, the first ever Formula One race held at night. This was also the first time Singapore hosted a Formula One race, as the last Singapore Grand Prix was a <a href="/wiki/Formula_Libre" title="Formula Libre">Formula Libre</a> event in <a href="/wiki/1973_Singapore_Grand_Prix" title="1973 Singapore Grand Prix">1973</a>.
+</p><p>The 61-lap race was won by <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> for the <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a> team from 15th on the grid. <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a> claimed second in his <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a> followed by <a href="/wiki/McLaren" title="McLaren">McLaren's</a> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>.
+</p><p><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> of <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> started from <a href="/wiki/Pole_position" title="Pole position">pole position</a>. <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a> leader Hamilton was second while reigning world champion <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> qualified third. They continued in this order until Renault's <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a> spun out and crashed on lap 14, bringing out the safety car. The leading drivers all pitted when the pit lane was opened. Massa prematurely left the pit box with his fuel hose still attached and dropped to last place.
+</p><p>Alonso, who had pitted before the safety car was deployed, subsequently took the lead and won the race. Nico Rosberg managed to finish second despite incurring a stop-go penalty and Hamilton completed the podium in third. <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull Racing's</a> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> finished 7th, scoring the final points of his career. <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a> also scored his final points. The result saw Hamilton extend his lead in the Driver's standings to 7 points over Massa, who failed to score. McLaren also took over the lead in the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a> by one point from Ferrari.
+</p><p>In September 2009, Renault F1 admitted to an <a href="/wiki/FIA_World_Motor_Sport_Council" title="FIA World Motor Sport Council">FIA World Motor Sport Council</a> meeting that Piquet had deliberately crashed per instructions from Renault team principal <a href="/wiki/Flavio_Briatore" title="Flavio Briatore">Flavio Briatore</a> and chief engineer <a href="/wiki/Pat_Symonds" title="Pat Symonds">Pat Symonds</a>, in the hope of helping Alonso win. The Renault team were handed a disqualification from F1, which was suspended for two years pending any further rule infringements. Briatore was banned from all FIA-sanctioned events for life, while Symonds was banned for five years.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> However,  Briatore and Symonds sued the FIA in French courts, and on January 5, 2010, the Tribunal de Grande Instance overturned the ban which had been put in place on both men.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Report"><span class="tocnumber">1</span> <span class="toctext">Report</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Practice"><span class="tocnumber">1.2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying"><span class="tocnumber">1.3</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Race"><span class="tocnumber">1.4</span> <span class="toctext">Race</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Post-race"><span class="tocnumber">1.5</span> <span class="toctext">Post-race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Reactions"><span class="tocnumber">2</span> <span class="toctext">Reactions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#FIA_investigation"><span class="tocnumber">3</span> <span class="toctext">FIA investigation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Classification"><span class="tocnumber">4</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Qualifying_2"><span class="tocnumber">4.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Race_2"><span class="tocnumber">4.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Championship_standings_after_the_race"><span class="tocnumber">5</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Report">Report</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Report">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In early 2007, talks of staging a Formula One Grand Prix in Singapore began, with the focus on arranging this to be a night race in order to cater Formula One's audience in Europe.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The race was approved in May<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and construction for the grand prix complex began in August 2007.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The lighting system consisted of nearly 1600&#160;light projectors, separated by four meters and suspended 10&#160;meters above the track. The system generated a total of 3000&#160;<a href="/wiki/Lux" title="Lux">lux</a> intensity, approximately four times intensity used in standard  <a href="/wiki/Soccer-specific_stadiums" class="mw-redirect" title="Soccer-specific stadiums">football stadium</a>. The whole system required total of 108,423 meter cables and was connected to twelve twin-powered <a href="/wiki/Electrical_generator" class="mw-redirect" title="Electrical generator">generators</a>, generating estimated power of three <a href="/wiki/Watt" title="Watt">megawatts</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>At the <a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">previous race in Italy</a>, <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a> took his and <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso's</a> maiden win in the wet race. Vettel became the <a href="/wiki/List_of_Formula_One_driver_records#Youngest_winners" title="List of Formula One driver records">youngest driver to win a Formula One race</a>, aged 21 years and 73 days. <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari's</a> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a> finished in sixth place, narrowing <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton's</a> lead in the <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a> to a single point. They were followed by <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>'s <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a> and Massa's teammate <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>. In the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a>, Ferrari were in the lead with 134 points, followed by <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_Benz" class="mw-redirect" title="Mercedes Benz">Mercedes</a> and BMW Sauber.
+</p><p>Due to the unusual time of the race, teams and drivers had to adapt their working hours by waking up at around midday local time, starting work around late afternoon, and staying up until 4am. Most drivers and teams praised the track after carrying out track inspections as well as arrangements undertaken by the track authorities.<sup id="cite_ref-thurs-pc_9-0" class="reference"><a href="#cite_note-thurs-pc-9">&#91;9&#93;</a></sup><sup id="cite_ref-bourdais-pre_10-0" class="reference"><a href="#cite_note-bourdais-pre-10">&#91;10&#93;</a></sup><sup id="cite_ref-theissen_11-0" class="reference"><a href="#cite_note-theissen-11">&#91;11&#93;</a></sup> However, concerns were raised about high bumps on kerbs of the Turn 10&#160;<a href="/wiki/Chicane" title="Chicane">chicane</a>.<sup id="cite_ref-thurs-pc_9-1" class="reference"><a href="#cite_note-thurs-pc-9">&#91;9&#93;</a></sup><sup id="cite_ref-bourdais-pre_10-1" class="reference"><a href="#cite_note-bourdais-pre-10">&#91;10&#93;</a></sup><sup id="cite_ref-alonso-pre_12-0" class="reference"><a href="#cite_note-alonso-pre-12">&#91;12&#93;</a></sup> Concerns were also expressed on safety measures needed in case of rain during the race.<sup id="cite_ref-thurs-pc_9-2" class="reference"><a href="#cite_note-thurs-pc-9">&#91;9&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Chicane_Kerbs_Singapore_GP.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicane_Kerbs_Singapore_GP.jpg/220px-Chicane_Kerbs_Singapore_GP.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicane_Kerbs_Singapore_GP.jpg/330px-Chicane_Kerbs_Singapore_GP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicane_Kerbs_Singapore_GP.jpg/440px-Chicane_Kerbs_Singapore_GP.jpg 2x" data-file-width="3558" data-file-height="2374" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Chicane_Kerbs_Singapore_GP.jpg" class="internal" title="Enlarge"></a></div>The controversial Turn 10 chicane kerbs</div></div></div>
+<p>Hamilton set the fastest time in the first practice session on 26 September. He was followed by the <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferraris</a> of Massa and Räikkönen and Hamilton's teammate Kovalainen. <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull's</a> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a> suffered a crash at Turn 18, damaging his front suspension. A number of drivers faced problems at the final corner of the circuit, including <a href="/wiki/Honda_F1" class="mw-redirect" title="Honda F1">Honda</a>'s <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> who crashed backwards into the barriers. Toyota's <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a> also spun at this corner and subsequently made his way into the pits by driving in the wrong direction. Trulli was fined <a href="/wiki/Euro" title="Euro">€</a>10,000 for his misconduct.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Renault's <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> was fastest in the second practice session, displacing Hamilton to second position with his final flying lap. The two were followed by Kovalainen, Massa and <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>. During the session, <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>'s <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a> almost collided with <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld's</a> <a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a> as he exited from the pit lane into the first corner. In separate incidents, <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a> lost his front wing when he crashed into wall at Turn 7, <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> faced gearbox problems and Massa mistakenly took a wrong turn towards the escape road off the track.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Alonso was again the fastest man on the track in the final practice session, with Hamilton and Massa second and third respectively. Numerous drivers faced problems with bumps on the track, narrowly avoiding accidents. Fisichella damaged his <a href="/wiki/Spyker_F8-VII" title="Spyker F8-VII">Force India VJM01's</a> front wing and suspension after it launched off the kerbs at the Turn 10 chicane.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quotebox pullquote floatright" style="width:28%;&#32;;"><style data-mw-deduplicate="TemplateStyles:r887775652">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">I think first of all the car was just perfect, you know, so nice to drive smoothly and then I managed to do a perfect lap and that always helps when you have a good car and you don't make any single mistakes in whatever corner you go. That is always a great achievement.</div>
+<p><cite class="left-aligned" style=""><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>, following his fifth pole of the year.<sup id="cite_ref-pressconference1_20-0" class="reference"><a href="#cite_note-pressconference1-20">&#91;20&#93;</a></sup></cite>
+</p>
+</div>
+<p>Räikkönen topped the first qualifying session, ahead of Kovalainen and Hamilton. <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a>, Sébastien Bourdais, Rubens Barrichello, <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a> and Giancarlo Fisichella were eliminated in this session. Fisichella was unable to record a time during the session after he crashed into barriers at Turn 3 due to a punctured tyre.<sup id="cite_ref-qquotes_21-0" class="reference"><a href="#cite_note-qquotes-21">&#91;21&#93;</a></sup> During his flying lap, Barrichello was impeded by Nick Heidfeld and subsequently entered the pits to abandon his lap. Heidfeld was dropped three grid places for blocking and Barrichello was fined €10,000 for an unsafe pit lane entry as he did not use the deceleration zone.<sup id="cite_ref-heidfeld_22-0" class="reference"><a href="#cite_note-heidfeld-22">&#91;22&#93;</a></sup>
+</p><p>The second qualifying session was led by Felipe Massa, with Kovalainen and Räikkönen in second and third place. Hamilton barely managed to reach the third session, after a driving mistake during his penultimate run.<sup id="cite_ref-qquotes_21-1" class="reference"><a href="#cite_note-qquotes-21">&#91;21&#93;</a></sup> Fernando Alonso was eliminated early in this session when his car suffered a fuel feed problem before he could set a lap time.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The other drivers who failed to reach the top ten were Jarno Trulli, <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and both Red Bulls of Mark Webber and <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>.
+</p><p>Massa took the pole position in the final session, with Hamilton, Räikkönen and Kubica completing first two rows of the grid. Massa secured his position by clocking lap time six-tenths faster than Hamilton, describing it as his best qualifying result of the season.<sup id="cite_ref-qquotes_21-2" class="reference"><a href="#cite_note-qquotes-21">&#91;21&#93;</a></sup> Kovalainen, managing fifth position, rued his tyre selections in the final session.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Kovalainen, Heidfeld, <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Vettel</a> and Glock occupied the third and fourth rows of the grid while the <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams'</a> of Rosberg and <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Nakajima</a> completed the top ten.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2008_Singapore_Grand_Prix_pre-race.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2008_Singapore_Grand_Prix_pre-race.JPG/220px-2008_Singapore_Grand_Prix_pre-race.JPG" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2008_Singapore_Grand_Prix_pre-race.JPG/330px-2008_Singapore_Grand_Prix_pre-race.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2008_Singapore_Grand_Prix_pre-race.JPG/440px-2008_Singapore_Grand_Prix_pre-race.JPG 2x" data-file-width="3264" data-file-height="1840" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2008_Singapore_Grand_Prix_pre-race.JPG" class="internal" title="Enlarge"></a></div>Just before the race</div></div></div>
+<p>The race began at 20:00 <a href="/wiki/Singapore_Standard_Time" title="Singapore Standard Time">SST</a>. During the warm-up lap, Piquet spun out at Turn 23, but immediately recovered and took his position on the grid. At the start, Massa, championship rival Hamilton and Räikkönen all got through the first sequence of corners safely and retained their positions. Kubica and Kovalainen made contact at Turn 3, causing Kovalainen to lose two places to Vettel and Glock. Heidfeld and Alonso cut the first corner but they did not receive any penalty. Massa began to edge away from Hamilton, who in turn was pulling away from Räikkönen. Jarno Trulli had begun the race on a heavy fuel load, and soon was holding up a number of cars with Williams's Nico Rosberg immediately behind him. It was not until the seventh lap that Rosberg finally passed Trulli's Toyota, and soon Nakajima and Alonso got through as well.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2008_Singapore_Grand_Prix_Massa_fuel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/2008_Singapore_Grand_Prix_Massa_fuel.jpg/220px-2008_Singapore_Grand_Prix_Massa_fuel.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/2008_Singapore_Grand_Prix_Massa_fuel.jpg/330px-2008_Singapore_Grand_Prix_Massa_fuel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/2008_Singapore_Grand_Prix_Massa_fuel.jpg/440px-2008_Singapore_Grand_Prix_Massa_fuel.jpg 2x" data-file-width="3264" data-file-height="1840" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2008_Singapore_Grand_Prix_Massa_fuel.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> mechanics work on <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>'s car during the safety car period while teammate <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a> waits behind him. The <a href="/wiki/Brazil" title="Brazil">Brazilian</a> was released with the fuel hose still attached to his car and nearly collided with <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>.</div></div></div>
+<p>After ten laps, Massa had built up a lead of over three seconds to Hamilton and Räikkönen was a further seven seconds behind Hamilton. On lap twelve, Alonso was the first driver who came into the pits.<sup id="cite_ref-gpupdate.net_26-0" class="reference"><a href="#cite_note-gpupdate.net-26">&#91;26&#93;</a></sup> He switched his super-soft tyres for the soft compound tyres and rejoined at the back of the field. Two laps later, teammate <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a> <a href="/wiki/Renault_Formula_One_crash_controversy" title="Renault Formula One crash controversy">lost control of his car and hit the wall at Turn 17</a>, blaming his hard tyres for the accident.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> This resulted in the first <a href="/wiki/Safety_car" title="Safety car">safety car</a> period of the race.<sup id="cite_ref-gpupdate.net_26-1" class="reference"><a href="#cite_note-gpupdate.net-26">&#91;26&#93;</a></sup> The two Red Bull cars and <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> managed to come into the pits before it was closed. With very little fuel left, Rosberg and Kubica had no choice but to pit despite the pit lane being closed. Barrichello's Honda then had a mechanical failure and became the second retirement of the race. After all the cars were behind the safety car, the pit lane was opened and nearly all the drivers pitted.
+</p><p>In the pits, Ferrari prematurely released Massa with the fuel hose still attached to the car. The Brazilian was also released into the path of Adrian Sutil, who narrowly avoided the Ferrari. Massa went the full length of the pitlane before stopping just before the exit. Massa rejoined at the back of the field after the Ferrari mechanics ran down the pitlane and removed the hose from the car. Cars who had either pitted before the safety car or were on one stop strategies were now in front. Rosberg now led from Trulli, Fisichella, Kubica, Alonso, Webber, Coulthard and Hamilton.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Singapore_grand_prix_2008_alonso_win.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Singapore_grand_prix_2008_alonso_win.jpg/220px-Singapore_grand_prix_2008_alonso_win.jpg" decoding="async" width="220" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Singapore_grand_prix_2008_alonso_win.jpg/330px-Singapore_grand_prix_2008_alonso_win.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Singapore_grand_prix_2008_alonso_win.jpg/440px-Singapore_grand_prix_2008_alonso_win.jpg 2x" data-file-width="2313" data-file-height="1437" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Singapore_grand_prix_2008_alonso_win.jpg" class="internal" title="Enlarge"></a></div>Despite qualifying down in fifteenth, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> took full advantage of pitting before the <a href="/wiki/Safety_car" title="Safety car">safety car</a> period and his rivals' misfortunes, to take victory at the inaugural Singapore Grand Prix.</div></div></div>
+<p>Rosberg started to pull away from the heavily fuelled Trulli and Fisichella's <a href="/wiki/Force_India" title="Force India">Force India</a>, who held up most of the field behind him. In the next few laps, Felipe Massa was given a drive through penalty for an unsafe release from the pits while Rosberg and Kubica were given 10 second stop-go penalties for refuelling when the pitlane was closed. The Ferrari driver served his penalty and rejoined the track still in last place. Kubica came into the pits from fourth and dropped behind Massa. After building a lead of over fifteen seconds to Trulli, Rosberg served his penalty a lap later but only lost three positions. He rejoined the circuit in fourth behind Alonso and Jarno Trulli took over the lead.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2008_Singapore_Grand_Prix_podium.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2008_Singapore_Grand_Prix_podium.jpg/220px-2008_Singapore_Grand_Prix_podium.jpg" decoding="async" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2008_Singapore_Grand_Prix_podium.jpg/330px-2008_Singapore_Grand_Prix_podium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2008_Singapore_Grand_Prix_podium.jpg/440px-2008_Singapore_Grand_Prix_podium.jpg 2x" data-file-width="2118" data-file-height="1302" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2008_Singapore_Grand_Prix_podium.jpg" class="internal" title="Enlarge"></a></div>The podium, (left to right): <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Rosberg</a> celebrates his best Grand Prix finish up to that point, <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Alonso</a> takes the top step of the podium for the first time since the <a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">2007 Italian Grand Prix</a> and <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Hamilton</a> settles for third to extend his lead in the Drivers' Championship.</div></div></div>
+<p>A lap later, Fisichella came in from second to make his only pit stop, moving Alonso and Rosberg into second and third. Trulli led the race for four more laps before making his only stop of the night, handing the lead to Alonso. He soon pulled away from Rosberg who pitted from second on lap 41, rejoining in seventh. Alonso made his final stop a lap later but still rejoined in the lead, just ahead of second and third placed Coulthard and Hamilton. Coulthard lost momentum and the McLaren overtook the Red Bull at turn seven. At the end of the lap, both cars pitted and Coulthard nearly left with his fuel hose attached.
+</p><p>After 45 laps, Alonso led Timo Glock by just over six seconds and Rosberg by a further eleven seconds in third. The Toyota driver pitted two laps later, rejoining in fifth. Four laps later, Trulli began to slow down and soon retired after a mechanical failure. On the same lap, Räikkönen made his second and final stop of the race and rejoined in fifth. A lap later, Massa spun at Turn 18 and lightly tapped the tyre wall without sustaining much damage. Moments later, Sutil fell victim to the same corner and damaged his front suspension, becoming the fifth retirement of the night. The incident brought out the second safety car period of the race.
+</p><p>The safety car withdrew from the circuit with nine laps remaining and Alonso pulled away from Rosberg and Hamilton. Glock, Räikkönen, Vettel, Heidfeld and Coulthard (ultimately, claiming points for the final time) were in the remaining points positions. Rosberg was coming under pressure from Hamilton, who was looking to capitalize on Massa's incidents. With four laps remaining, Räikkönen bounced off the kerbs at the Turn 10 chicane and crashed into the barriers while chasing Glock, promoting Nakajima into the points. Alonso maintained his lead over Rosberg and took his first win for Renault since his return to the team. Rosberg held on to second and Hamilton settled for third. Massa finished in 13th place and the points difference between himself and Hamilton increased to seven points and McLaren took over the lead in the Constructors' Championship. With teammate Räikkönen failing to finish, this was the first time the Ferrari team had failed to score any points in a race since the <a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">2006 Australian Grand Prix</a>. Räikkönen recorded his tenth fastest lap of the season during the race, tying his own record that he shared with <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>. Heidfeld broke a Schumacher record, being classified for a 25th consecutive race.
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quotebox pullquote floatleft" style="width:28%;&#32;;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r887775652"/>
+<div class="quotebox-quote left-aligned" style="">A first podium of the season and first victory as well and I am extremely happy. I cannot believe it right now, I think I need a couple of days to realise we won a race this year. It seems impossible all through the season to be close to the top guys and here suddenly we have been competitive from Friday. Obviously we started at the back and the first safety car helped me a lot and I was able to win the race.</div>
+<p><cite class="left-aligned" style=""><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>, speaking after his first win of the year.<sup id="cite_ref-pressconference2_29-0" class="reference"><a href="#cite_note-pressconference2-29">&#91;29&#93;</a></sup></cite>
+</p>
+</div>
+<p>Fernando Alonso credited his success to the team's strategy and bit of luck. He said that the team chose a two-stop strategy with a short initial stint as opposed to a one-stop strategy, considering the difficulties of overtaking on the track and possibility of brake problems.<sup id="cite_ref-postconf_30-0" class="reference"><a href="#cite_note-postconf-30">&#91;30&#93;</a></sup> Nico Rosberg was pleased with his career best result,<sup id="cite_ref-postconf_30-1" class="reference"><a href="#cite_note-postconf-30">&#91;30&#93;</a></sup> although he recalled when he thought his efforts for a good finish might have been in vain after being given a stop-and-go penalty. He mentioned that he had to come in for the pit stops on the same lap that the safety car came out, and admitted that he was annoyed with the penalty.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Hamilton said that he tried to get close to Rosberg towards the final laps, after the second safety car period. However, seeing that overtaking was extremely risky, he decided against it, considering that neither of the Ferraris was going to score.<sup id="cite_ref-postconf_30-2" class="reference"><a href="#cite_note-postconf-30">&#91;30&#93;</a></sup>
+</p><p>Ferrari team principal <a href="/wiki/Stefano_Domenicali" title="Stefano Domenicali">Stefano Domenicali</a> said that the reason for Massa's pit incident was not the electronic signalling system but a human error. He defended the electronic system saying that the system saves any reaction time for the driver as opposed to a standard "lollipop" system, and considering it was a human error, the incident may have happened with a lollipop as well.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p><p>Toyota filed a protest against Toro Rosso for releasing Sebastian Vettel in Timo Glock's path during their first pit stops under the safety car.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> The stewards, however, rejected Toyota's plea.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p><p>In the <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a>, Lewis Hamilton's third place moved him seven points clear of Felipe Massa on 84 points. With both Ferrari drivers failing to score, McLaren took over the lead in the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a> on 135 points. Fernando Alonso's victory meant that Renault overtook Toyota for fourth place in the constructors standings.
+</p>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The international media and many of those directly involved in Formula One praised the staging of the SingTel Singapore Grand Prix highly. Fears which were previously expressed about the weather, visibility and narrow nature of the circuit itself all proved unfounded. Organisation of the event itself was widely deemed to be impeccable as the ushering, transport, and security services all ran like clockwork. However, the drivers did complain about how bumpy the track was, particularly off the racing line, which made overtaking difficult on a street circuit hemmed in by barriers.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p><p>Sports supremo and Formula One's commercial rights holder <a href="/wiki/Bernie_Ecclestone" title="Bernie Ecclestone">Bernie Ecclestone</a> heralded the Singapore Grand Prix as the "<i>new jewel in the Formula One sports crown</i>", a phrase often used to describe the <a href="/wiki/Monaco_Grand_Prix" title="Monaco Grand Prix">Monaco Grand Prix</a> circuit.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> He described Singapore as an example to follow and would make people reconsider their opinions of Asia.<sup id="cite_ref-sport.sg.msn.com_38-0" class="reference"><a href="#cite_note-sport.sg.msn.com-38">&#91;38&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r960796168">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>For years I've been saying go East, not West. When you think about it, most parts of Asia where people have visited, they sort of put everything in one basket – 'Singapore is the same as India, Malaysia and Thailand'. That's how they feel because they don't know any better. Hopefully this will open people's eyes and they'll say, my God, Singapore really is alive and well.</p><div class="templatequotecite">—&#8201;<cite>Commercial rights holder <a href="/wiki/Bernie_Ecclestone" title="Bernie Ecclestone">Bernie Ecclestone</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup></cite></div></blockquote>
+<p>Several other prominent Formula One personalities were quoted as saying,
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>The guys here have done an absolutely unbelievable job. The effort that has gone into this circuit in the last 12 months is nothing short of phenomenal. I think of the spectacle of a night race, but not only have we got a night race, we have also got a great circuit, a really challenging circuit. They have just raised the bar considerably for a new circuit and the spectacle of racing at night in a big city such as Singapore is really exciting.</p><div class="templatequotecite">—&#8201;<cite>Red Bull racing team principal <a href="/wiki/Christian_Horner" title="Christian Horner">Christian Horner</a><sup id="cite_ref-sport.sg.msn.com_38-1" class="reference"><a href="#cite_note-sport.sg.msn.com-38">&#91;38&#93;</a></sup></cite></div></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>It has a good chance of challenging Monaco for being the jewel in the crown of Formula One. That is the most accurate thing to say. They have great weather, a very good track and the grandstands packed. I think there is a lot of enthusiasm out there.</p><div class="templatequotecite">—&#8201;<cite>Williams team boss Sir <a href="/wiki/Frank_Williams_(Formula_One)" title="Frank Williams (Formula One)">Frank Williams</a><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup></cite></div></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>It is not just a new experience, it is a real big step in the history of grand prix racing because it has been done so well. Everything has been proven now and we can take this model and apply it to anywhere in the world – either to bring to Europe the race at a time when people watch it, or even within Europe to make it more spectacular.</p><div class="templatequotecite">—&#8201;<cite>McLaren Group chairman <a href="/wiki/Ron_Dennis" title="Ron Dennis">Ron Dennis</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup></cite></div></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>I think it is a big, big step forward for Formula One. The pictures, the atmosphere is really one of a kind and this gives a completely new experience to all the viewers worldwide but also to the spectators. That is very positive and the whole scenery I think is unreal. It is like in a movie and I think it is a big, big step. I think Bernie pushed very hard, so thanks to him.</p><div class="templatequotecite">—&#8201;<cite>Mercedes Motorsport chief <a href="/wiki/Norbert_Haug" title="Norbert Haug">Norbert Haug</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup></cite></div></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>The most impressive thing for me is what an amazing job they have done here in Singapore to prepare the circuit. I cannot particularly fault it. I think they did a tremendous job, so I feel everyone deserves a real pat on the back because it is really impressive."</p><div class="templatequotecite">—&#8201;<cite>McLaren F1 driver <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a><sup id="cite_ref-sport.sg.msn.com_38-2" class="reference"><a href="#cite_note-sport.sg.msn.com-38">&#91;38&#93;</a></sup></cite></div></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>Of course, when you race on a track that would work better as a circus rink or something along those lines, anything can happen, because the real show was put on yesterday by the safety car. This is humiliating for the F1 world. During the next few weeks, I would like discuss this with all the other teams.</p><div class="templatequotecite">—&#8201;<cite>Ferrari president <a href="/wiki/Luca_di_Montezemolo" class="mw-redirect" title="Luca di Montezemolo">Luca di Montezemolo</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup></cite></div></blockquote>
+<p>Locally, Sunday's F1 night race on the local <a href="/wiki/MediaCorp_TV_Channel_5" class="mw-redirect" title="MediaCorp TV Channel 5">MediaCorp TV Channel 5</a> drew more viewers than the <a href="/wiki/2008_Summer_Olympics" title="2008 Summer Olympics">Beijing Olympics</a> <a href="/wiki/2008_Summer_Olympics_opening_ceremony" title="2008 Summer Olympics opening ceremony">opening ceremony</a> in the previous month, becoming the highest-rated programme for the year. The average ratings for Sunday's race were 17.8 per cent, or 789,000 viewers, as compared to 17.3 per cent (765,000 viewers) for the opening of the Beijing Games. The world's inaugural F1 race under floodlights is reported to have been watched by an estimated global TV audience of about 400 million.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="FIA_investigation">FIA investigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: FIA investigation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Renault_Formula_One_crash_controversy" title="Renault Formula One crash controversy">Renault Formula One crash controversy</a></div>
+<p>During the race, <a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault F1</a> driver <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a> crashed on Lap 14, which at the time he attributed to a simple mistake. At the time, his Renault teammate <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a> was the only driver to have <a href="/wiki/Pit_stop" title="Pit stop">pitted</a> for fuel, and he later went on to win the race. After Piquet, Jr. left Renault in August 2009, allegations surfaced that this crash had been deliberate, to give an advantage to Alonso. Following a <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">Fédération Internationale de l'Automobile</a> (FIA) investigation in which Piquet, Jr. stated he had been ordered by Renault team principal <a href="/wiki/Flavio_Briatore" title="Flavio Briatore">Flavio Briatore</a> and engineer <a href="/wiki/Pat_Symonds" title="Pat Symonds">Pat Symonds</a> to stage the crash, on 4 September 2009 Renault were charged with conspiracy and race fixing, and were due to face the <a href="/wiki/FIA_World_Motor_Sport_Council" title="FIA World Motor Sport Council">FIA World Motor Sport Council</a> in Paris on 21 September 2009. Initially, Renault and Briatore stated they would take legal action against Piquet, Jr. for making false allegations; before the 21 September meeting, however, Renault announced they would not contest the charges and that Briatore and Symonds had left the team.<sup id="cite_ref-Telegraph17Sep09QnA_45-0" class="reference"><a href="#cite_note-Telegraph17Sep09QnA-45">&#91;45&#93;</a></sup><sup id="cite_ref-BBC17Sep09Blame_46-0" class="reference"><a href="#cite_note-BBC17Sep09Blame-46">&#91;46&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying_2">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" border="1" style="font-size:95%">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Part 1
+</th>
+<th>Part 2
+</th>
+<th>Part 3
+</th>
+<th>Grid
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:44.519
+</td>
+<td><b>1:44.014</b>
+</td>
+<td><b>1:44.801</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a>
+</td>
+<td><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td>1:44.501
+</td>
+<td>1:44.932
+</td>
+<td>1:45.465
+</td>
+<td>2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td><b>1:44.282</b>
+</td>
+<td>1:44.232
+</td>
+<td>1:45.617
+</td>
+<td>3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a>
+</td>
+<td><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>
+</td>
+<td>1:44.740
+</td>
+<td>1:44.519
+</td>
+<td>1:45.779
+</td>
+<td>4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a>
+</td>
+<td><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td>1:44.311
+</td>
+<td>1:44.207
+</td>
+<td>1:45.873
+</td>
+<td>5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>
+</td>
+<td>1:45.548
+</td>
+<td>1:44.520
+</td>
+<td>1:45.964
+</td>
+<td>9<sup class="reference plainlinks nourlexpansion" id="ref_1"><a class="external autonumber" href="https://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix#endnote_1">[1]</a></sup>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:45.042
+</td>
+<td>1:44.261
+</td>
+<td>1:46.244
+</td>
+<td>6
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.184
+</td>
+<td>1:44.441
+</td>
+<td>1:46.328
+</td>
+<td>7
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.103
+</td>
+<td>1:44.429
+</td>
+<td>1:46.611
+</td>
+<td>8
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.127
+</td>
+<td>1:44.826
+</td>
+<td>1:47.547
+</td>
+<td>10
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>1:45.642
+</td>
+<td>1:45.038
+</td>
+<td>
+</td>
+<td>11
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:45.660
+</td>
+<td>1:45.133
+</td>
+<td>
+</td>
+<td>12
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:45.493
+</td>
+<td>1:45.212
+</td>
+<td>
+</td>
+<td>13
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:46.028
+</td>
+<td>1:45.298
+</td>
+<td>
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a>
+</td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:44.971
+</td>
+<td>no time
+</td>
+<td>
+</td>
+<td>15
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a>
+</td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>1:46.037
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>16
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a>
+</td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:46.389
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>17
+</td></tr>
+<tr>
+<th>18
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>1:46.583
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>18
+</td></tr>
+<tr>
+<th>19
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:47.940
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>19
+</td></tr>
+<tr>
+<th>20
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>no time
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>20<sup class="reference plainlinks nourlexpansion" id="ref_2"><a class="external autonumber" href="https://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix#endnote_2">[2]</a></sup>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup></div>
+</th></tr></tbody></table>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^</a></b></span>  Nick Heidfeld penalised three grid positions for impeding <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> during first qualifying session.<sup id="cite_ref-heidfeld_22-1" class="reference"><a href="#cite_note-heidfeld-22">&#91;22&#93;</a></sup></li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^</a></b></span>  Giancarlo Fisichella started the race from the pitlane.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Race_2">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" style="font-size:95%">
+
+<tbody><tr>
+<th>Pos</th>
+<th>No</th>
+<th>Driver</th>
+<th>Constructor</th>
+<th>Laps</th>
+<th>Time/Retired</th>
+<th>Grid</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>5</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Fernando_Alonso" title="Fernando Alonso">Fernando Alonso</a></b></td>
+<td><b><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>61
+</td>
+<td>1:57:16.304
+</td>
+<td>15
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>7</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nico_Rosberg" title="Nico Rosberg">Nico Rosberg</a></b></td>
+<td><b><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>61
+</td>
+<td>+2.957
+</td>
+<td>8
+</td>
+<td><b>8</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>22</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b></td>
+<td><b><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></b>
+</td>
+<td>61
+</td>
+<td>+5.917
+</td>
+<td>2
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>12</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Timo_Glock" title="Timo Glock">Timo Glock</a></b></td>
+<td><b><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>61
+</td>
+<td>+8.155
+</td>
+<td>7
+</td>
+<td><b>5</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>15</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Sebastian_Vettel" title="Sebastian Vettel">Sebastian Vettel</a></b></td>
+<td><b><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>61
+</td>
+<td>+10.268
+</td>
+<td>6
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>3</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b></td>
+<td><b><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a></b>
+</td>
+<td>61
+</td>
+<td>+11.101
+</td>
+<td>9
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>9</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></b></td>
+<td><b><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a></b>
+</td>
+<td>61
+</td>
+<td>+16.387
+</td>
+<td>14
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>8</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Kazuki_Nakajima" title="Kazuki Nakajima">Kazuki Nakajima</a></b></td>
+<td><b><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a></b>
+</td>
+<td>61
+</td>
+<td>+18.489
+</td>
+<td>10
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>16</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a></td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>61
+</td>
+<td>+19.885
+</td>
+<td>12
+</td>
+<td>
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>23</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Heikki_Kovalainen" title="Heikki Kovalainen">Heikki Kovalainen</a></td>
+<td><a href="/wiki/McLaren_(racing)" class="mw-redirect" title="McLaren (racing)">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td>61
+</td>
+<td>+26.902
+</td>
+<td>5
+</td>
+<td>
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>4</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></td>
+<td><a href="/wiki/BMW_Sauber" class="mw-redirect" title="BMW Sauber">BMW Sauber</a>
+</td>
+<td>61
+</td>
+<td>+27.975
+</td>
+<td>4
+</td>
+<td>
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>14</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/S%C3%A9bastien_Bourdais" title="Sébastien Bourdais">Sébastien Bourdais</a></td>
+<td><a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>61
+</td>
+<td>+29.432
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>2</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>61
+</td>
+<td>+35.170
+</td>
+<td>1
+</td>
+<td>
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>21</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>61
+</td>
+<td>+43.571
+</td>
+<td>PL
+</td>
+<td>
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>1</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>57
+</td>
+<td>Accident
+</td>
+<td>3
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>11</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a></td>
+<td><a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>50
+</td>
+<td>Hydraulics
+</td>
+<td>11
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>20</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Adrian_Sutil" title="Adrian Sutil">Adrian Sutil</a></td>
+<td><a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>49
+</td>
+<td>Accident
+</td>
+<td>19
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>10</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mark_Webber" title="Mark Webber">Mark Webber</a></td>
+<td><a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>29
+</td>
+<td>Electrics
+</td>
+<td>13
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>17</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></td>
+<td><a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>14
+</td>
+<td>Engine
+</td>
+<td>18
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>6</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet,_Jr." class="mw-redirect" title="Nelson Piquet, Jr.">Nelson Piquet, Jr.</a></td>
+<td><a href="/wiki/Renault_F1" class="mw-redirect" title="Renault F1">Renault</a>
+</td>
+<td>13
+</td>
+<td><a href="/wiki/Renault_Formula_One_crash_controversy" title="Renault Formula One crash controversy">Crash</a>
+</td>
+<td>16
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=12" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" border="1" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a></b>
+</td>
+<td>84
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Felipe_Massa" title="Felipe Massa">Felipe Massa</a></b>
+</td>
+<td>77
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <b><a href="/wiki/Robert_Kubica" title="Robert Kubica">Robert Kubica</a></b>
+</td>
+<td>64
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></b>
+</td>
+<td>57
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a></b>
+</td>
+<td>56
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_50-0" class="reference"><a href="#cite_note-Championship-50">&#91;50&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" border="1" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th><abbr title="Position">Pos.</abbr>
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></b>
+</td>
+<td>135
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>134
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <b><a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></b>
+</td>
+<td>120
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>51
+</td></tr>
+<tr>
+<td><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing_(Formula_One_team)" title="Toyota Racing (Formula One team)">Toyota</a>
+</td>
+<td>46
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_50-1" class="reference"><a href="#cite_note-Championship-50">&#91;50&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li>
+<li><small><b>Bold text</b> indicates competitors who still had a theoretical chance of becoming World Champion.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.webcitation.org/5k4HIEFgA?url=http://www.fia.com/en-GB/mediacentre/pressreleases/wmsc/2009/Pages/wmsc_210909.aspx">"FIA Press Release"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/en-GB/mediacentre/pressreleases/wmsc/2009/Pages/wmsc_210909.aspx">the original</a> on 2009-09-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=FIA+Press+Release&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fen-GB%2Fmediacentre%2Fpressreleases%2Fwmsc%2F2009%2FPages%2Fwmsc_210909.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://en.espnf1.com/f1/motorsport/story/6063.html">"Flavio Briatore's ban overturned by French court"</a>. ESPN<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Flavio+Briatore%27s+ban+overturned+by+French+court&amp;rft.pub=ESPN&amp;rft_id=http%3A%2F%2Fen.espnf1.com%2Ff1%2Fmotorsport%2Fstory%2F6063.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFDe_Cotta2007" class="citation news cs1">De Cotta, Ian (2007-03-14). <a rel="nofollow" class="external text" href="https://archive.is/20120729053543/http://www.channelnewsasia.com/stories/singaporelocalnews/view/263852/1/.html">"F1 boss to discuss Singapore Grand Prix with Minister of State"</a>. <i>Channel NewsAsia</i>. MediaCorp Ltd. Archived from <a rel="nofollow" class="external text" href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/263852/1/.html">the original</a> on 2012-07-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Channel+NewsAsia&amp;rft.atitle=F1+boss+to+discuss+Singapore+Grand+Prix+with+Minister+of+State&amp;rft.date=2007-03-14&amp;rft.aulast=De+Cotta&amp;rft.aufirst=Ian&amp;rft_id=http%3A%2F%2Fwww.channelnewsasia.com%2Fstories%2Fsingaporelocalnews%2Fview%2F263852%2F1%2F.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090319050648/http://www.iht.com/articles/2007/05/11/business/SINGA.php">"Singapore to host Grand Prix, joining the circuit in 2008"</a>. International Herald Tribune. 2007-05-11. Archived from <a rel="nofollow" class="external text" href="http://www.iht.com/articles/2007/05/11/business/SINGA.php">the original</a> on March 19, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Singapore+to+host+Grand+Prix%2C+joining+the+circuit+in+2008&amp;rft.date=2007-05-11&amp;rft_id=http%3A%2F%2Fwww.iht.com%2Farticles%2F2007%2F05%2F11%2Fbusiness%2FSINGA.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFMohandas2007" class="citation news cs1">Mohandas, Vimita (2007-08-31). <a rel="nofollow" class="external text" href="https://archive.is/20120729105750/http://www.channelnewsasia.com/stories/singaporelocalnews/view/297164/1/.html">"Works begin for Formula 1 Singapore Grand Prix"</a>. <i>Channel NewsAsia</i>. MediaCorp Ltd. Archived from <a rel="nofollow" class="external text" href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/297164/1/.html">the original</a> on 2012-07-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Channel+NewsAsia&amp;rft.atitle=Works+begin+for+Formula+1+Singapore+Grand+Prix&amp;rft.date=2007-08-31&amp;rft.aulast=Mohandas&amp;rft.aufirst=Vimita&amp;rft_id=http%3A%2F%2Fwww.channelnewsasia.com%2Fstories%2Fsingaporelocalnews%2Fview%2F297164%2F1%2F.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/ns/ns19947.html">"How to light up F1"</a>. GrandPrix.com. 2008-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+to+light+up+F1&amp;rft.pub=GrandPrix.com&amp;rft.date=2008-01-03&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fns%2Fns19947.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://archive.is/20120722000636/http://www.channelnewsasia.com/stories/singaporelocalnews/print/306016/1/.html">"Italy-based lighting contractor picked for inaugural F1 Singapore GP"</a>. <i>Channel NewsAsia</i>. MediaCorp Ltd. 2007-10-16. Archived from <a rel="nofollow" class="external text" href="http://www.channelnewsasia.com/stories/singaporelocalnews/print/306016/1/.html">the original</a> on 2012-07-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Channel+NewsAsia&amp;rft.atitle=Italy-based+lighting+contractor+picked+for+inaugural+F1+Singapore+GP&amp;rft.date=2007-10-16&amp;rft_id=http%3A%2F%2Fwww.channelnewsasia.com%2Fstories%2Fsingaporelocalnews%2Fprint%2F306016%2F1%2F.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090318181516/http://breakingnews.iol.ie/sport/?jp=mhmhcwmhgbcw">"Italian company to light up Singapore Grand Prix"</a>. Ireland OnLine. 2007-10-16. Archived from <a rel="nofollow" class="external text" href="http://breakingnews.iol.ie/sport/?jp=mhmhcwmhgbcw">the original</a> on March 18, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Italian+company+to+light+up+Singapore+Grand+Prix&amp;rft.date=2007-10-16&amp;rft_id=http%3A%2F%2Fbreakingnews.iol.ie%2Fsport%2F%3Fjp%3Dmhmhcwmhgbcw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-thurs-pc-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-thurs-pc_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thurs-pc_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-thurs-pc_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928091155/http://www.formula1.com/news/headlines/2008/9/8424.html">"FIA Thursday press conference – Singapore"</a>. Formula1.com. 2008-09-24. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8424.html">the original</a> on September 28, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIA+Thursday+press+conference+%E2%80%93+Singapore&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-24&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8424.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-bourdais-pre-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-bourdais-pre_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bourdais-pre_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFNoble2008" class="citation web cs1">Noble, Jonathan (2008-09-24). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70806">"Bourdais praises 'unbelievable' Singapore"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=Bourdais+praises+%27unbelievable%27+Singapore&amp;rft.date=2008-09-24&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70806&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-theissen-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-theissen_11-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFNoblePablo_Elizalde2008" class="citation web cs1">Noble, Jonathan; Pablo Elizalde (2008-09-24). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70832">"Theissen: Singapore the highlight of '08"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=Theissen%3A+Singapore+the+highlight+of+%2708&amp;rft.date=2008-09-24&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft.au=Pablo+Elizalde&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70832&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-alonso-pre-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-alonso-pre_12-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFNobleElizalde2008" class="citation web cs1">Noble, Jonathan; Elizalde, Pablo (2008-09-24). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70830">"Alonso says Turn 10 kerbs a concern"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=Alonso+says+Turn+10+kerbs+a+concern&amp;rft.date=2008-09-24&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft.au=Elizalde%2C+Pablo&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70830&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFNobleFreeman2008" class="citation web cs1">Noble, Jonathan; Freeman, Glenn (2008-09-24). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70799">"GPDA convinced Singapore will be safe"</a>. <i>Autosport</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autosport&amp;rft.atitle=GPDA+convinced+Singapore+will+be+safe&amp;rft.date=2008-09-24&amp;rft.aulast=Noble&amp;rft.aufirst=Jonathan&amp;rft.au=Freeman%2C+Glenn&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70799&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-26). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70864">"Hamilton tops first ever night practice"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080929003301/http://www.autosport.com/news/report.php/id/70864">Archived</a> from the original on 29 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hamilton+tops+first+ever+night+practice&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-26&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70864&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8430.html">"Practice One – Hamilton fastest in first-ever night session"</a>. Formula1.com. 2008-09-26. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928223927/http://www.formula1.com/news/headlines/2008/9/8430.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Practice+One+%E2%80%93+Hamilton+fastest+in+first-ever+night+session&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-26&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8430.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-26). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70867">"Alonso quickest in second practice"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080929003311/http://www.autosport.com/news/report.php/id/70867">Archived</a> from the original on 29 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alonso+quickest+in+second+practice&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-26&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70867&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8433.html">"Practice Two – Alonso at the 11th hour"</a>. Formula1.com. 2008-09-26. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928223937/http://www.formula1.com/news/headlines/2008/9/8433.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Practice+Two+%E2%80%93+Alonso+at+the+11th+hour&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-26&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8433.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-27). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70917">"Alonso tops final practice in Singapore"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080929144828/http://www.autosport.com/news/report.php/id/70917">Archived</a> from the original on 29 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alonso+tops+final+practice+in+Singapore&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-27&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8440.html">"Final practice – Alonso sets Saturday pace in Singapore"</a>. Formula1.com. 2008-09-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928223942/http://www.formula1.com/news/headlines/2008/9/8440.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Final+practice+%E2%80%93+Alonso+sets+Saturday+pace+in+Singapore&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8440.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pressconference1-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-pressconference1_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090905035613/http://www.grandprix.com/race/r800satpc.html">"Singapore GP – Saturday – Press Conference"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 2008-09-27. Archived from <a rel="nofollow" class="external text" href="http://www.grandprix.com/race/r800satpc.html">the original</a> on 2009-09-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Singapore+GP+%E2%80%93+Saturday+%E2%80%93+Press+Conference&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Frace%2Fr800satpc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-qquotes-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-qquotes_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qquotes_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-qquotes_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8443.html">"Qualifying – selected driver quotes"</a>. Formula1.com. 2008-09-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928224021/http://www.formula1.com/news/headlines/2008/9/8443.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Qualifying+%E2%80%93+selected+driver+quotes&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8443.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-heidfeld-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-heidfeld_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-heidfeld_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8444.html">"Heidfeld dropped, Barrichello fined after pit-entry confusion"</a>. Formula1.com. 2008-09-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928214814/http://www.formula1.com/news/headlines/2008/9/8444.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Heidfeld+dropped%2C+Barrichello+fined+after+pit-entry+confusion&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8444.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFMatt_Beer2008" class="citation web cs1">Matt Beer (2008-09-27). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70921">"Massa storms to Singapore GP pole"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080930042640/http://www.autosport.com/news/report.php/id/70921">Archived</a> from the original on 30 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Massa+storms+to+Singapore+GP+pole&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-27&amp;rft.au=Matt+Beer&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70921&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70943">"Singapore Saturday quotes: McLaren"</a>. Autosport.com. 2008-09-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928200855/http://www.autosport.com/news/report.php/id/70943">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Singapore+Saturday+quotes%3A+McLaren&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70943&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8442.html">"Massa storms to first floodlit pole in Singapore"</a>. Formula1.com. 2008-09-27. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928223947/http://www.formula1.com/news/headlines/2008/9/8442.html">Archived</a> from the original on 28 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Massa+storms+to+first+floodlit+pole+in+Singapore&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-27&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8442.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-gpupdate.net-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-gpupdate.net_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gpupdate.net_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/199619/alonso-steals-singapore-win-from-15th-on-grid/">"Alonso steals Singapore win from 15th on grid"</a>. GPUpdate.net. 2008-09-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alonso+steals+Singapore+win+from+15th+on+grid&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F199619%2Falonso-steals-singapore-win-from-15th-on-grid%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/199678/renault-celebrates-amazing-victory/">"Renault celebrates 'amazing' victory"</a>. GPUpdate.net. 2008-09-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Renault+celebrates+%27amazing%27+victory&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F199678%2Frenault-celebrates-amazing-victory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation episode cs1">"2008 Formula One Season Review". <i>59</i>. <q>The Red Bulls and Barrichello just scraped in before the pit lane closed, but Rosberg was not so lucky, he needed to refuel.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=59&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pressconference2-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-pressconference2_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090903180131/http://www.grandprix.com/race/r800sunpc.html">"Singapore GP – Sunday – Press Conference"</a>. <i>GrandPrix.com</i>. Inside F1, Inc. 2008-09-28. Archived from <a rel="nofollow" class="external text" href="http://www.grandprix.com/race/r800sunpc.html">the original</a> on 2009-09-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Singapore+GP+%E2%80%93+Sunday+%E2%80%93+Press+Conference&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Frace%2Fr800sunpc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-postconf-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-postconf_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-postconf_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-postconf_30-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines/2008/9/8454.html">"FIA post-race press conference – Singapore"</a>. Formula1.com. 2008-09-28. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001005500/http://www.formula1.com/news/headlines/2008/9/8454.html">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIA+post-race+press+conference+%E2%80%93+Singapore&amp;rft.pub=Formula1.com&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines%2F2008%2F9%2F8454.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite id="CITEREFJonathan_Noble,_Pablo_Elizalde2008" class="citation web cs1">Jonathan Noble, Pablo Elizalde (2008-09-28). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70976">"Rosberg thought penalty had ruined race"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001010850/http://www.autosport.com/news/report.php/id/70976">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rosberg+thought+penalty+had+ruined+race&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-28&amp;rft.au=Jonathan+Noble%2C+Pablo+Elizalde&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70976&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite id="CITEREFJonathan_Noble2008" class="citation web cs1">Jonathan Noble (2008-09-28). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/71006">"Q &amp; A with Stefano Domenicali"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001010937/http://www.autosport.com/news/report.php/id/71006">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Q+%26+A+with+Stefano+Domenicali&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-28&amp;rft.au=Jonathan+Noble&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F71006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite id="CITEREFJonathan_Noble2008" class="citation web cs1">Jonathan Noble (2008-09-28). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70997">"Toyota lodge protest against Toro Rosso"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001010910/http://www.autosport.com/news/report.php/id/70997">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Toyota+lodge+protest+against+Toro+Rosso&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-28&amp;rft.au=Jonathan+Noble&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70997&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite id="CITEREFJonathan_Noble2008" class="citation web cs1">Jonathan Noble (2008-09-28). <a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/71004">"Stewards reject Toyota's protest"</a>. Autosport.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001010927/http://www.autosport.com/news/report.php/id/71004">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stewards+reject+Toyota%27s+protest&amp;rft.pub=Autosport.com&amp;rft.date=2008-09-28&amp;rft.au=Jonathan+Noble&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F71004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7644042.stm">"Ferrari furious over Singapore GP"</a>. BBC SPORT. September 30, 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081003043837/http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7644042.stm">Archived</a> from the original on October 3, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ferrari+furious+over+Singapore+GP&amp;rft.date=2008-09-30&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F7644042.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090102162630/http://www.sportingo.com/formula/motorsport/a10397_clear-as-day-everyones-winner-night-racing-especially-fernando-alonso">"Clear as day – everyone's an F1 winner with night racing, especially Fernando Alonso – Sportingo"</a>. Sportingo.com. Archived from <a rel="nofollow" class="external text" href="http://www.sportingo.com/formula/motorsport/a10397_clear-as-day-everyones-winner-night-racing-especially-fernando-alonso">the original</a> on January 2, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Clear+as+day+%E2%80%93+everyone%27s+an+F1+winner+with+night+racing%2C+especially+Fernando+Alonso+%E2%80%93+Sportingo&amp;rft.pub=Sportingo.com&amp;rft_id=http%3A%2F%2Fwww.sportingo.com%2Fformula%2Fmotorsport%2Fa10397_clear-as-day-everyones-winner-night-racing-especially-fernando-alonso&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081201032925/http://www.straitstimes.com/Breaking%2BNews/Sport/Story/STIStory_283640.html">"Breaking News"</a>. Straitstimes.com. September 28, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.straitstimes.com/Breaking%2BNews/Sport/Story/STIStory_283640.html">the original</a> on 1 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Breaking+News&amp;rft.pub=Straitstimes.com&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.straitstimes.com%2FBreaking%252BNews%2FSport%2FStory%2FSTIStory_283640.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-sport.sg.msn.com-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-sport.sg.msn.com_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sport.sg.msn.com_38-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sport.sg.msn.com_38-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081002235017/http://sport.sg.msn.com/Formula1/article.aspx?cp-documentid=1701202">"Praise rings loudly for Singapore GP – Latest F1 news, stories, articles and photos for Singapore on MSN Singapore Sport"</a>. Sport.sg.msn.com. Archived from <a rel="nofollow" class="external text" href="http://sport.sg.msn.com/Formula1/article.aspx?cp-documentid=1701202">the original</a> on October 2, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Praise+rings+loudly+for+Singapore+GP+%E2%80%93+Latest+F1+news%2C+stories%2C+articles+and+photos+for+Singapore+on+MSN+Singapore+Sport&amp;rft.pub=Sport.sg.msn.com&amp;rft_id=http%3A%2F%2Fsport.sg.msn.com%2FFormula1%2Farticle.aspx%3Fcp-documentid%3D1701202&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081202031558/http://www.straitstimes.com/Breaking%2BNews/Sport/Story/STIStory_283640.html?vgnmr=1">"Breaking News"</a>. Straitstimes.com. September 28, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.straitstimes.com/Breaking%2BNews/Sport/Story/STIStory_283640.html?vgnmr=1">the original</a> on 2 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Breaking+News&amp;rft.pub=Straitstimes.com&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.straitstimes.com%2FBreaking%252BNews%2FSport%2FStory%2FSTIStory_283640.html%3Fvgnmr%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.abs-cbnnews.com/sports/09/29/08/singapore-big-winner-f1-night-race">"Singapore big winner in F1 night race &#124; ABS-CBN News Online Beta"</a>. Abs-cbnnews.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081205053223/http://www.abs-cbnnews.com/sports/09/29/08/singapore-big-winner-f1-night-race">Archived</a> from the original on 5 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Singapore+big+winner+in+F1+night+race+%26%23124%3B+ABS-CBN+News+Online+Beta&amp;rft.pub=Abs-cbnnews.com&amp;rft_id=http%3A%2F%2Fwww.abs-cbnnews.com%2Fsports%2F09%2F29%2F08%2Fsingapore-big-winner-f1-night-race&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-motor-racing-prix-singapore-idUSTRE48S0FY20080929">"Singapore the big winner in first night grand prix"</a>. <i>reuters]]</i>. September 29, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reuters%5D%5D&amp;rft.atitle=Singapore+the+big+winner+in+first+night+grand+prix&amp;rft.date=2008-09-29&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-motor-racing-prix-singapore-idUSTRE48S0FY20080929&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite id="CITEREFadmin_on_30_Sep_2008_33_views" class="citation web cs1">admin on 30 Sep 2008 33 views. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081004001054/http://www.singaporegp.org/grand-prix/singapore/quotes-from-bigshots-on-singapore-f1-gp">"Quotes from bigshots on Singapore F1 GP &#124; Singapore F1"</a>. Singaporegp.org. Archived from <a rel="nofollow" class="external text" href="http://www.singaporegp.org/grand-prix/singapore/quotes-from-bigshots-on-singapore-f1-gp">the original</a> on October 4, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Quotes+from+bigshots+on+Singapore+F1+GP+%26%23124%3B+Singapore+F1&amp;rft.pub=Singaporegp.org&amp;rft.au=admin+on+30+Sep+2008+33+views&amp;rft_id=http%3A%2F%2Fwww.singaporegp.org%2Fgrand-prix%2Fsingapore%2Fquotes-from-bigshots-on-singapore-f1-gp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081004071901/http://english.gazzetta.it/Motor_sports/Primo_Piano/2008/09/29/montezemolo29.shtml">"Montezemolo sends a shock&#160; "Ferrari is still the best" – Gazzetta dello Sport"</a>. English.gazzetta.it. Archived from <a rel="nofollow" class="external text" href="http://english.gazzetta.it/Motor_sports/Primo_Piano/2008/09/29/montezemolo29.shtml">the original</a> on 2008-10-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montezemolo+sends+a+shock++%22Ferrari+is+still+the+best%22+%E2%80%93+Gazzetta+dello+Sport&amp;rft.pub=English.gazzetta.it&amp;rft_id=http%3A%2F%2Fenglish.gazzetta.it%2FMotor_sports%2FPrimo_Piano%2F2008%2F09%2F29%2Fmontezemolo29.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090319100504/http://www.todayonline.com/articles/278788.asp">"TODAYonline"</a>. Todayonline.com. Archived from <a rel="nofollow" class="external text" href="http://www.todayonline.com/articles/278788.asp">the original</a> on March 19, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TODAYonline&amp;rft.pub=Todayonline.com&amp;rft_id=http%3A%2F%2Fwww.todayonline.com%2Farticles%2F278788.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Telegraph17Sep09QnA-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-Telegraph17Sep09QnA_45-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFCary2009" class="citation news cs1">Cary, Tom (2009-09-17). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/sport/motorsport/formulaone/renault/6199480/Q-and-A-why-Renault-face-race-fixing-allegations-and-other-questions.html">"Q and A: why Renault face race-fixing allegations and other questions"</a>. London: <a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Telegraph</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Q+and+A%3A+why+Renault+face+race-fixing+allegations+and+other+questions&amp;rft.date=2009-09-17&amp;rft.aulast=Cary&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fsport%2Fmotorsport%2Fformulaone%2Frenault%2F6199480%2FQ-and-A-why-Renault-face-race-fixing-allegations-and-other-questions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BBC17Sep09Blame-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC17Sep09Blame_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8261004.stm">"Renault blames Briatore &amp; Symonds"</a>. <a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a>. 2009-09-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Renault+blames+Briatore+%26+Symonds&amp;rft.pub=BBC+Sport&amp;rft.date=2009-09-17&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fmotorsport%2Fformula_one%2F8261004.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140626115925/http://www.formula1.com/results/season/2008/801/6567/">"2008 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX – Qualifying"</a>. Formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2008/801/6567/">the original</a> on 26 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2008+FORMULA+1+SINGTEL+SINGAPORE+GRAND+PRIX+%E2%80%93+Qualifying&amp;rft.pub=Formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2008%2F801%2F6567%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.autosport.com/news/report.php/id/70968">"Fisichella to start from pitlane"</a>. Autosport.com. 2008-09-28. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081001030500/http://www.autosport.com/news/report.php/id/70968">Archived</a> from the original on 1 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fisichella+to+start+from+pitlane&amp;rft.date=2008-09-28&amp;rft_id=http%3A%2F%2Fwww.autosport.com%2Fnews%2Freport.php%2Fid%2F70968&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.formula1.com/en/results.html/2008/races/839/singapore.html">"2008 FORMULA 1 SINGTEL SINGAPORE GRAND PRIX – Race"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2008+FORMULA+1+SINGTEL+SINGAPORE+GRAND+PRIX+%E2%80%93+Race&amp;rft_id=https%3A%2F%2Fwww.formula1.com%2Fen%2Fresults.html%2F2008%2Fraces%2F839%2Fsingapore.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2008/singapour/championnat.aspx">"Singapore 2008 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Singapore+2008+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2008%2Fsingapour%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2008+Singapore+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2008_Singapore_Grand_Prix&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></td>
+<td class="mbox-text plainlist">Wikinews has related news:
+<div><ul><li><a href="https://en.wikinews.org/wiki/Felipe_Massa_takes_pole_for_the_first_night_Formula_One_race_at_Singapore" class="extiw" title="wikinews:Felipe Massa takes pole for the first night Formula One race at Singapore"> Felipe Massa takes pole for the first night Formula One race at Singapore </a></li><li><a href="https://en.wikinews.org/wiki/Fernando_Alonso_wins_2008_Singapore_Grand_Prix" class="extiw" title="wikinews:Fernando Alonso wins 2008 Singapore Grand Prix"> Fernando Alonso wins 2008 Singapore Grand Prix</a></li></ul></div></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2008_Singapore_Grand_Prix" class="extiw" title="commons:Category:2008 Singapore Grand Prix"><span style="">2008 Singapore Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080930105642/http://www.fia.com/EN-GB/SPORT/CHAMPIONSHIPS/F1/SINGAPORE/Pages/race_classification.aspx">Official results from FIA</a></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">2008 Italian Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">2008 Japanese Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1973_Singapore_Grand_Prix" title="1973 Singapore Grand Prix">1973 Singapore Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Singapore_Grand_Prix" title="Singapore Grand Prix">Singapore Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">2009 Singapore Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="3" style="border-top: 5px solid #FFF179;">Awards
+</th></tr>
+
+<tr style="text-align:center">
+<td width="35%">Preceded&#160;by<br /><b><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">2007 United States Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/List_of_Formula_One_Promotional_Trophy_winners#Race_Promoters&#39;_Trophy" title="List of Formula One Promotional Trophy winners">Formula One Promotional Trophy<br />for Race Promoter</a></b><br /><a href="/wiki/2008_Formula_One_season" class="mw-redirect" title="2008 Formula One season">2008</a>
+</td>
+<td width="35%">Succeeded&#160;by<br /><b><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">2009 Abu Dhabi Grand Prix</a></b>
+</td></tr>
+
+
+
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/HANS_Device" class="mw-redirect" title="HANS Device">HANS Device</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <i><a href="/wiki/Autosport" title="Autosport">Autosport</a></i><br />Pioneering and Innovation Award</b><br />2008
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/F1_in_Schools" title="F1 in Schools">F1 in Schools</a></span>
+</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a class="mw-selflink selflink">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2000_Monaco_Grand_Prix" title="2000 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2008_Singapore_Grand_Prix&amp;params=1_17_22_N_103_51_32_E_source:kolossus-nowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">1°17′22″N</span> <span class="longitude">103°51′32″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">1.28944°N 103.85889°E</span><span style="display:none">&#xfeff; / <span class="geo">1.28944; 103.85889</span></span></span></a></span></span></span>
+</p></div>

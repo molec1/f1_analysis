@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1969 South African Grand Prix - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5a8022f0-08e7-4d30-be2e-41d2d066369e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"1969_South_African_Grand_Prix","wgTitle":"1969 South African Grand Prix","wgCurRevisionId":971048417,"wgRevisionId":971048417,"wgArticleId":1122399,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the EasyTimeline extension","Use dmy dates from April 2012","Use South African English from April 2012","All Wikipedia articles written in South African English","Pages using collapsible list with both background and text-align in titlestyle",
+"1969 Formula One races","1969 in South African sport","South African Grand Prix"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"1969_South_African_Grand_Prix","wgRelevantArticleId":1122399,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q171713"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.timeline.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kyalami_1961_-_1988_Layout.png/1200px-Kyalami_1961_-_1988_Layout.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/1969_South_African_Grand_Prix"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1969_South_African_Grand_Prix"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1969_South_African_Grand_Prix rootpage-1969_South_African_Grand_Prix skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">1969 South African Grand Prix</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">1969 South African Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Kyalami_1961_-_1988_Layout.png" class="image" title="The Kyalami Circuit (1967-1985)"><img alt="The Kyalami Circuit (1967-1985)" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kyalami_1961_-_1988_Layout.png/220px-Kyalami_1961_-_1988_Layout.png" decoding="async" width="220" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kyalami_1961_-_1988_Layout.png/330px-Kyalami_1961_-_1988_Layout.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kyalami_1961_-_1988_Layout.png/440px-Kyalami_1961_-_1988_Layout.png 2x" data-file-width="2484" data-file-height="938" /></a><div>The <a href="/wiki/Kyalami" title="Kyalami">Kyalami Circuit</a> (1967-1985)</div></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="1969-03-01">1 March 1969</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+Third AA <a href="/wiki/South_African_Grand_Prix" title="South African Grand Prix">Grand Prix of South Africa</a></td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Kyalami" title="Kyalami">Kyalami</a>, <a href="/wiki/Midrand" title="Midrand">Midrand</a>, <a href="/wiki/Transvaal_Province" class="mw-redirect" title="Transvaal Province">Transvaal Province</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Permanent racing facility</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+4.104 km (2.550 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+80 laps, 328.320 km (204.009 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Hot, Dry</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a></li></ul></div></td><td>
+<small><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:20.0</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a></td><td>
+<small><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:21.6 on lap 50</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a></li></ul></div></td><td>
+<small><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a></li></ul></div></td><td>
+<small><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Denny_Hulme" title="Denny Hulme">Denny Hulme</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_f892f776b80d1879797f403eb9091abc"></map><img usemap="#timeline_f892f776b80d1879797f403eb9091abc" src="//upload.wikimedia.org/wikipedia/en/timeline/f892f776b80d1879797f403eb9091abc.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>1969 South African Grand Prix</b>, formally the <b>Third AA Grand Prix of South Africa</b> (<a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a>: <i>Derde AA Suid-Afrikaanse Grand Prix</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>), was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/Motor_race" class="mw-redirect" title="Motor race">motor race</a> held at <a href="/wiki/Kyalami" title="Kyalami">Kyalami Circuit</a> on 1 March 1969. It was race 1 of 11 in both the <a href="/wiki/1969_World_Championship_of_Drivers" class="mw-redirect" title="1969 World Championship of Drivers">1969 World Championship of Drivers</a> and the <a href="/wiki/1969_International_Cup_for_Formula_One_Manufacturers" class="mw-redirect" title="1969 International Cup for Formula One Manufacturers">1969 International Cup for Formula One Manufacturers</a>. The 80-lap race was won by <a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a> driver <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> after he started from fourth position. <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a> finished second for the <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a> team and <a href="/wiki/McLaren" title="McLaren">McLaren</a> driver <a href="/wiki/Denny_Hulme" title="Denny Hulme">Denny Hulme</a> came in third.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Qualifying"><span class="tocnumber">2.1</span> <span class="toctext">Qualifying</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Race"><span class="tocnumber">2.2</span> <span class="toctext">Race</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Championship_standings_after_the_race"><span class="tocnumber">4</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Matra_ms10_RSA_1969.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Matra_ms10_RSA_1969.jpg/220px-Matra_ms10_RSA_1969.jpg" decoding="async" width="220" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Matra_ms10_RSA_1969.jpg/330px-Matra_ms10_RSA_1969.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Matra_ms10_RSA_1969.jpg/440px-Matra_ms10_RSA_1969.jpg 2x" data-file-width="500" data-file-height="392" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Matra_ms10_RSA_1969.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> in his <a href="/wiki/Matra_MS10" title="Matra MS10">Matra MS10</a>, equipped with two wings</div></div></div>
+<p>In the weeks leading up to the first Formula One race of the <a href="/wiki/1969_Formula_One_season" title="1969 Formula One season">1969</a> season, entries were being announced for the race, with all the teams, apart from <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> expected to nominate two drivers for the race. <a href="/wiki/Enzo_Ferrari" title="Enzo Ferrari">Enzo Ferrari</a>, the managing director of the team he founded, announced that Ferrari were only going to nominate one driver for the race. To most people's surprise, Ferrari at first nominated two drivers for the race without explanation. However, the decision was later changed, with only <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a> nominated eventually for Ferrari. <a href="/wiki/Brabham" title="Brabham">Brabham</a>, <a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>, <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>, <a href="/wiki/Matra_International" class="mw-redirect" title="Matra International">Matra</a> and <a href="/wiki/McLaren" title="McLaren">McLaren</a> all chose to nominate two drivers for the race meeting.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Time
+</th>
+<th>Gap
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:20.0
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:20.2
+</td>
+<td>+0.2
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Denny_Hulme" title="Denny Hulme">Denny Hulme</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:20.3
+</td>
+<td>+0.3
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>
+</td>
+<td><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:20.4
+</td>
+<td>+0.4
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:20.5
+</td>
+<td>+0.5
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:20.8
+</td>
+<td>+0.8
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:21.1
+</td>
+<td>+1.1
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:21.1
+</td>
+<td>+1.1
+</td></tr>
+<tr>
+<th>9
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Basil_van_Rooyen" title="Basil van Rooyen">Basil van Rooyen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:21.8
+</td>
+<td>+1.8
+</td></tr>
+<tr>
+<th>10
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Rhodesia" title="Rhodesia"><img alt="Rhodesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/23px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/35px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/46px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/John_Love_(racing_driver)" title="John Love (racing driver)">John Love</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:22.1
+</td>
+<td>+2.1
+</td></tr>
+<tr>
+<th>11
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Beltoise" title="Jean-Pierre Beltoise">Jean-Pierre Beltoise</a>
+</td>
+<td><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:22.2
+</td>
+<td>+2.2
+</td></tr>
+<tr>
+<th>12
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:22.2
+</td>
+<td>+2.2
+</td></tr>
+<tr>
+<th>13
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacky_Ickx" title="Jacky Ickx">Jacky Ickx</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>1:23.1
+</td>
+<td>+3.1
+</td></tr>
+<tr>
+<th>14
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Oliver" title="Jackie Oliver">Jackie Oliver</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:24.1
+</td>
+<td>+4.1
+</td></tr>
+<tr>
+<th>15
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)" title="Pedro Rodríguez (racing driver)">Pedro Rodríguez</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:25.2
+</td>
+<td>+5.2
+</td></tr>
+<tr>
+<th>16
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Peter_de_Klerk" title="Peter de Klerk">Peter de Klerk</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Repco" title="Repco">Repco</a>
+</td>
+<td>1:27.2
+</td>
+<td>+7.2
+</td></tr>
+<tr>
+<th>17
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Rhodesia" title="Rhodesia"><img alt="Rhodesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/23px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/35px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/46px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Sam_Tingle" title="Sam Tingle">Sam Tingle</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Repco" title="Repco">Repco</a>
+</td>
+<td>1:50.4
+</td>
+<td>+30.4
+</td></tr>
+<tr>
+<th>EXC
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Surtees" title="John Surtees">John Surtees</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>1:21.8
+</td>
+<td>+1.8
+</td></tr></tbody></table>
+<ul><li>Surtees's qualifying time was excluded as he had started at the back of the grid.</li></ul>
+<h3><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>No
+</th>
+<th>Driver
+</th>
+<th>Constructor
+</th>
+<th>Laps
+</th>
+<th>Time/Retired
+</th>
+<th>Grid
+</th>
+<th>Points
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a></b>
+</td>
+<td><b><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>80
+</td>
+<td>1:50:39.1
+</td>
+<td>4
+</td>
+<td><b>9</b>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a></b>
+</td>
+<td><b><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>80
+</td>
+<td>+ 18.8
+</td>
+<td>7
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Denny_Hulme" title="Denny Hulme">Denny Hulme</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>80
+</td>
+<td>+ 31.8
+</td>
+<td>3
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <b><a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a></b>
+</td>
+<td><b><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>80
+</td>
+<td>+ 49.2
+</td>
+<td>12
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a></b>
+</td>
+<td><b><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>79
+</td>
+<td>+ 1 Lap
+</td>
+<td>8
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Jean-Pierre_Beltoise" title="Jean-Pierre Beltoise">Jean-Pierre Beltoise</a></b>
+</td>
+<td><b><a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a></b>
+</td>
+<td>78
+</td>
+<td>+ 2 Laps
+</td>
+<td>11
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Oliver" title="Jackie Oliver">Jackie Oliver</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>77
+</td>
+<td>+ 3 Laps
+</td>
+<td>14
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>8
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Rhodesia" title="Rhodesia"><img alt="Rhodesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/23px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/35px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/46px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Sam_Tingle" title="Sam Tingle">Sam Tingle</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Repco" title="Repco">Repco</a>
+</td>
+<td>73
+</td>
+<td>+ 7 Laps
+</td>
+<td>17
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>NC
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Peter_de_Klerk" title="Peter de Klerk">Peter de Klerk</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Repco" title="Repco">Repco</a>
+</td>
+<td>67
+</td>
+<td>+ 13 Laps
+</td>
+<td>16
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jochen_Rindt" title="Jochen Rindt">Jochen Rindt</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>44
+</td>
+<td>Fuel Pump
+</td>
+<td>2
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Surtees" title="John Surtees">John Surtees</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>40
+</td>
+<td>Engine
+</td>
+<td>18
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" /></a></span> <a href="/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)" title="Pedro Rodríguez (racing driver)">Pedro Rodríguez</a>
+</td>
+<td><a href="/wiki/British_Racing_Motors" title="British Racing Motors">BRM</a>
+</td>
+<td>38
+</td>
+<td>Water Leak
+</td>
+<td>15
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Chris_Amon" title="Chris Amon">Chris Amon</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>34
+</td>
+<td>Engine
+</td>
+<td>5
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>32
+</td>
+<td>Handling
+</td>
+<td>1
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>31
+</td>
+<td>Gearbox
+</td>
+<td>6
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Rhodesia" title="Rhodesia"><img alt="Rhodesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/23px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/35px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Rhodesia_%281968%E2%80%931979%29.svg/46px-Flag_of_Rhodesia_%281968%E2%80%931979%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/John_Love_(racing_driver)" title="John Love (racing driver)">John Love</a>
+</td>
+<td><a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>31
+</td>
+<td>Ignition
+</td>
+<td>10
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacky_Ickx" title="Jacky Ickx">Jacky Ickx</a>
+</td>
+<td><a href="/wiki/Brabham" title="Brabham">Brabham</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>20
+</td>
+<td>Ignition
+</td>
+<td>13
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th>Ret
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/23px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/35px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_South_Africa_%281928%E2%80%931994%29.svg/45px-Flag_of_South_Africa_%281928%E2%80%931994%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Basil_van_Rooyen" title="Basil van Rooyen">Basil van Rooyen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td>12
+</td>
+<td>Brakes
+</td>
+<td>9
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Final F1 Grand Prix start for <a href="/wiki/Sam_Tingle" title="Sam Tingle">Sam Tingle</a> and <a href="/wiki/Basil_van_Rooyen" title="Basil van Rooyen">Basil van Rooyen</a></li>
+<li>Final race: <a href="/wiki/Matra_MS10" title="Matra MS10">Matra MS10</a></li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Driver
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a>
+</td>
+<td align="left">9
+</td></tr>
+<tr>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Graham_Hill" title="Graham Hill">Graham Hill</a>
+</td>
+<td align="left">6
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Denny_Hulme" title="Denny Hulme">Denny Hulme</a>
+</td>
+<td align="left">4
+</td></tr>
+<tr>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/Jo_Siffert" title="Jo Siffert">Jo Siffert</a>
+</td>
+<td align="left">3
+</td></tr>
+<tr>
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bruce_McLaren" title="Bruce McLaren">Bruce McLaren</a>
+</td>
+<td align="left">2
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_4-0" class="reference"><a href="#cite_note-Championship-4">&#91;4&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>Pos
+</th>
+<th>Constructor
+</th>
+<th>Points
+</th></tr>
+<tr>
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Equipe_Matra_Sports" title="Equipe Matra Sports">Matra</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="left">9
+</td></tr>
+<tr>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Team_Lotus" title="Team Lotus">Lotus</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="left">6
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford</a>
+</td>
+<td align="left">4
+</td></tr>
+<tr>
+<th colspan="4">Source: <sup id="cite_ref-Championship_4-1" class="reference"><a href="#cite_note-Championship-4">&#91;4&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.progcovers.com/motor/kya69.jpg">"Motor Racing Programme Covers: 1969"</a>. The Programme Covers Project<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Motor+Racing+Programme+Covers%3A+1969&amp;rft.pub=The+Programme+Covers+Project&amp;rft_id=http%3A%2F%2Fwww.progcovers.com%2Fmotor%2Fkya69.jpg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1969+South+African+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFHilton2006" class="citation book cs1">Hilton, Christopher (November 2006). <i>Michael Schumacher: The Whole Story</i>. Haynes Publishing. p.&#160;15. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84425-008-3" title="Special:BookSources/1-84425-008-3"><bdi>1-84425-008-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Michael+Schumacher%3A+The+Whole+Story&amp;rft.pages=15&amp;rft.pub=Haynes+Publishing&amp;rft.date=2006-11&amp;rft.isbn=1-84425-008-3&amp;rft.aulast=Hilton&amp;rft.aufirst=Christopher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1969+South+African+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150109175533/http://www.formula1.com/results/season/1969/537/">"1969 South African Grand Prix"</a>. formula1.com. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1969/537/">the original</a> on 9 January 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1969+South+African+Grand+Prix&amp;rft.pub=formula1.com&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1969%2F537%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1969+South+African+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-Championship-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/1969/afrique-du-sud/championnat.aspx">"South Africa 1969 - Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=South+Africa+1969+-+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F1969%2Fafrique-du-sud%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1969+South+African+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFLang1982" class="citation book cs1">Lang, Mike (1982). <i>Grand Prix! Vol 2</i>. Haynes Publishing Group. pp.&#160;88–89. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85429-321-3" title="Special:BookSources/0-85429-321-3"><bdi>0-85429-321-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grand+Prix%21+Vol+2&amp;rft.pages=88-89&amp;rft.pub=Haynes+Publishing+Group&amp;rft.date=1982&amp;rft.isbn=0-85429-321-3&amp;rft.aulast=Lang&amp;rft.aufirst=Mike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1969+South+African+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></li></ul>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1968_Mexican_Grand_Prix" title="1968 Mexican Grand Prix">1968 Mexican Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/1969_Formula_One_season" title="1969 Formula One season">1969 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1969_Spanish_Grand_Prix" title="1969 Spanish Grand Prix">1969 Spanish Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1968_South_African_Grand_Prix" title="1968 South African Grand Prix">1968 South African Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/South_African_Grand_Prix" title="South African Grand Prix">South African Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/1970_South_African_Grand_Prix" title="1970 South African Grand Prix">1970 South African Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(1960–69)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_1960%E2%80%9369" title="Template talk:F1GP 1960–69"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_1960%E2%80%9369&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(1960–69)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1950%E2%80%9359" title="Template:F1GP 1950–59">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (1960–69) <div style="float: right;"><a href="/wiki/Template:F1GP_1970%E2%80%9379" title="Template:F1GP 1970–79"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1969_Formula_One_season" title="1969 Formula One season">1969</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">RSA</a></li>
+<li><a href="/wiki/1969_Spanish_Grand_Prix" title="1969 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1969_Monaco_Grand_Prix" title="1969 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1969_Dutch_Grand_Prix" title="1969 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1969_French_Grand_Prix" title="1969 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1969_British_Grand_Prix" title="1969 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1969_German_Grand_Prix" title="1969 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1969_Italian_Grand_Prix" title="1969 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1969_Canadian_Grand_Prix" title="1969 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1969_United_States_Grand_Prix" title="1969 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1969_Mexican_Grand_Prix" title="1969 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1968_Formula_One_season" title="1968 Formula One season">1968</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1968_South_African_Grand_Prix" title="1968 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1968_Spanish_Grand_Prix" title="1968 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/1968_Monaco_Grand_Prix" title="1968 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1968_Belgian_Grand_Prix" title="1968 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1968_Dutch_Grand_Prix" title="1968 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1968_French_Grand_Prix" title="1968 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1968_British_Grand_Prix" title="1968 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1968_German_Grand_Prix" title="1968 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1968_Italian_Grand_Prix" title="1968 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1968_Canadian_Grand_Prix" title="1968 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1968_United_States_Grand_Prix" title="1968 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1968_Mexican_Grand_Prix" title="1968 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1967_Formula_One_season" title="1967 Formula One season">1967</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1967_South_African_Grand_Prix" title="1967 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1967_Monaco_Grand_Prix" title="1967 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1967_Dutch_Grand_Prix" title="1967 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1967_Belgian_Grand_Prix" title="1967 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1967_French_Grand_Prix" title="1967 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1967_British_Grand_Prix" title="1967 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1967_German_Grand_Prix" title="1967 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1967_Canadian_Grand_Prix" title="1967 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/1967_Italian_Grand_Prix" title="1967 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1967_United_States_Grand_Prix" title="1967 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1967_Mexican_Grand_Prix" title="1967 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1966_Formula_One_season" title="1966 Formula One season">1966</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1966_Monaco_Grand_Prix" title="1966 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1966_Belgian_Grand_Prix" title="1966 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1966_French_Grand_Prix" title="1966 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1966_British_Grand_Prix" title="1966 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1966_Dutch_Grand_Prix" title="1966 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1966_German_Grand_Prix" title="1966 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1966_Italian_Grand_Prix" title="1966 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1966_United_States_Grand_Prix" title="1966 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1966_Mexican_Grand_Prix" title="1966 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1965_Formula_One_season" title="1965 Formula One season">1965</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1965_South_African_Grand_Prix" title="1965 South African Grand Prix">RSA</a></li>
+<li><a href="/wiki/1965_Monaco_Grand_Prix" title="1965 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1965_Belgian_Grand_Prix" title="1965 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1965_French_Grand_Prix" title="1965 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1965_British_Grand_Prix" title="1965 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1965_Dutch_Grand_Prix" title="1965 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1965_German_Grand_Prix" title="1965 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1965_Italian_Grand_Prix" title="1965 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1965_United_States_Grand_Prix" title="1965 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1965_Mexican_Grand_Prix" title="1965 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1964_Formula_One_season" title="1964 Formula One season">1964</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1964_Monaco_Grand_Prix" title="1964 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1964_Dutch_Grand_Prix" title="1964 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1964_Belgian_Grand_Prix" title="1964 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1964_French_Grand_Prix" title="1964 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1964_British_Grand_Prix" title="1964 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1964_German_Grand_Prix" title="1964 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1964_Austrian_Grand_Prix" title="1964 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/1964_Italian_Grand_Prix" title="1964 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1964_United_States_Grand_Prix" title="1964 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1964_Mexican_Grand_Prix" title="1964 Mexican Grand Prix">MEX</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1963_Formula_One_season" title="1963 Formula One season">1963</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1963_Monaco_Grand_Prix" title="1963 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1963_Belgian_Grand_Prix" title="1963 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1963_Dutch_Grand_Prix" title="1963 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1963_French_Grand_Prix" title="1963 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1963_British_Grand_Prix" title="1963 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1963_German_Grand_Prix" title="1963 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1963_Italian_Grand_Prix" title="1963 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1963_United_States_Grand_Prix" title="1963 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1963_Mexican_Grand_Prix" title="1963 Mexican Grand Prix">MEX</a></li>
+<li><a href="/wiki/1963_South_African_Grand_Prix" title="1963 South African Grand Prix">RSA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1962_Formula_One_season" title="1962 Formula One season">1962</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1962_Dutch_Grand_Prix" title="1962 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1962_Monaco_Grand_Prix" title="1962 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1962_Belgian_Grand_Prix" title="1962 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1962_French_Grand_Prix" title="1962 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1962_British_Grand_Prix" title="1962 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1962_German_Grand_Prix" title="1962 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1962_Italian_Grand_Prix" title="1962 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1962_United_States_Grand_Prix" title="1962 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/1962_South_African_Grand_Prix" title="1962 South African Grand Prix">RSA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1961_Formula_One_season" title="1961 Formula One season">1961</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1961_Monaco_Grand_Prix" title="1961 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1961_Dutch_Grand_Prix" title="1961 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1961_Belgian_Grand_Prix" title="1961 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1961_French_Grand_Prix" title="1961 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1961_British_Grand_Prix" title="1961 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1961_German_Grand_Prix" title="1961 German Grand Prix">GER</a></li>
+<li><a href="/wiki/1961_Italian_Grand_Prix" title="1961 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1961_United_States_Grand_Prix" title="1961 United States Grand Prix">USA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1960_Formula_One_season" title="1960 Formula One season">1960</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1960_Argentine_Grand_Prix" title="1960 Argentine Grand Prix">ARG</a></li>
+<li><a href="/wiki/1960_Monaco_Grand_Prix" title="1960 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/1960_Indianapolis_500" title="1960 Indianapolis 500">500</a></li>
+<li><a href="/wiki/1960_Dutch_Grand_Prix" title="1960 Dutch Grand Prix">NED</a></li>
+<li><a href="/wiki/1960_Belgian_Grand_Prix" title="1960 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/1960_French_Grand_Prix" title="1960 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/1960_British_Grand_Prix" title="1960 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/1960_Portuguese_Grand_Prix" title="1960 Portuguese Grand Prix">POR</a></li>
+<li><a href="/wiki/1960_Italian_Grand_Prix" title="1960 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/1960_United_States_Grand_Prix" title="1960 United States Grand Prix">USA</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20201013122611
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.552 seconds
+Real time usage: 0.815 seconds
+Preprocessor visited node count: 8745/1000000
+Post‐expand include size: 90932/2097152 bytes
+Template argument size: 13496/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14765/5000000 bytes
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 3.68 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  655.501      1 -total
+ 34.08%  223.372     49 Template:Flagicon
+ 32.67%  214.170      1 Template:Infobox_Grand_Prix_race_report
+ 29.96%  196.405      1 Template:Infobox3cols
+ 17.71%  116.077      1 Template:Reflist
+ 14.65%   96.036      3 Template:Cite_web
+ 13.70%   89.799      1 Template:F1Laps1969
+  6.86%   44.960      4 Template:Unbulleted_list
+  6.28%   41.169      1 Template:Use_dmy_dates
+  5.07%   33.251     49 Template:Flagicon/core
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1122399-0!dateformat=default and timestamp 20201013122610 and revision id 971048417
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1969_South_African_Grand_Prix&amp;oldid=971048417">https://en.wikipedia.org/w/index.php?title=1969_South_African_Grand_Prix&amp;oldid=971048417</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1969_Formula_One_races" title="Category:1969 Formula One races">1969 Formula One races</a></li><li><a href="/wiki/Category:1969_in_South_African_sport" title="Category:1969 in South African sport">1969 in South African sport</a></li><li><a href="/wiki/Category:South_African_Grand_Prix" title="Category:South African Grand Prix">South African Grand Prix</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_the_EasyTimeline_extension" title="Category:Pages using the EasyTimeline extension">Pages using the EasyTimeline extension</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2012" title="Category:Use dmy dates from April 2012">Use dmy dates from April 2012</a></li><li><a href="/wiki/Category:Use_South_African_English_from_April_2012" title="Category:Use South African English from April 2012">Use South African English from April 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_South_African_English" title="Category:All Wikipedia articles written in South African English">All Wikipedia articles written in South African English</a></li><li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1969+South+African+Grand+Prix" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1969+South+African+Grand+Prix" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/1969_South_African_Grand_Prix" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:1969_South_African_Grand_Prix" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/1969_South_African_Grand_Prix">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1969_South_African_Grand_Prix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1969_South_African_Grand_Prix" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;oldid=971048417" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1969_South_African_Grand_Prix&amp;id=971048417&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171713" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=1969_South_African_Grand_Prix&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1969_South_African_Grand_Prix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/1969_Suid-Afrikaanse_Grand_Prix" title="1969 Suid-Afrikaanse Grand Prix – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%AC%D9%86%D9%88%D8%A8_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89_1969" title="جائزة جنوب أفريقيا الكبرى 1969 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1969_%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%AE%D0%90%D0%A0" title="1969 Голяма награда на ЮАР – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gran_Premi_de_Sud-%C3%A0frica_del_1969" title="Gran Premi de Sud-àfrica del 1969 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Grand_Prix_Jihoafrick%C3%A9_republiky_1969" title="Grand Prix Jihoafrické republiky 1969 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Preis_von_S%C3%BCdafrika_1969" title="Großer Preis von Südafrika 1969 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Gran_Premio_de_Sud%C3%A1frica_de_1969" title="Anexo:Gran Premio de Sudáfrica de 1969 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%DB%8C%D8%B2%D9%87_%D8%A8%D8%B2%D8%B1%DA%AF_%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C_%D8%AC%D9%86%D9%88%D8%A8%DB%8C_%DB%B1%DB%B9%DB%B6%DB%B9" title="جایزه بزرگ آفریقای جنوبی ۱۹۶۹ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Grand_Prix_automobile_d%27Afrique_du_Sud_1969" title="Grand Prix automobile d&#039;Afrique du Sud 1969 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Gran_Premio_de_Sur%C3%A1frica_de_1969" title="Gran Premio de Suráfrica de 1969 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gran_Premio_del_Sudafrica_1969" title="Gran Premio del Sudafrica 1969 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1969-es_Formula%E2%80%931_d%C3%A9l-afrikai_nagyd%C3%ADj" title="1969-es Formula–1 dél-afrikai nagydíj – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Grand_Prix_Formule_1_van_Zuid-Afrika_1969" title="Grand Prix Formule 1 van Zuid-Afrika 1969 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1969%E5%B9%B4%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA" title="1969年南アフリカグランプリ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grand_Prix_Po%C5%82udniowej_Afryki_1969" title="Grand Prix Południowej Afryki 1969 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grande_Pr%C3%AAmio_da_%C3%81frica_do_Sul_de_1969" title="Grande Prêmio da África do Sul de 1969 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B8_1969_%D0%B3%D0%BE%D0%B4%D0%B0" title="Гран-при Южной Африки 1969 года – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Velika_nagrada_Ju%C5%BEne_Afrike_1969" title="Velika nagrada Južne Afrike 1969 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Etel%C3%A4-Afrikan_Grand_Prix_1969" title="Etelä-Afrikan Grand Prix 1969 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Sydafrikas_Grand_Prix_1969" title="Sydafrikas Grand Prix 1969 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171713#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 3 August 2020, at 21:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1969_South_African_Grand_Prix&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.552","walltime":"0.815","ppvisitednodes":{"value":8745,"limit":1000000},"postexpandincludesize":{"value":90932,"limit":2097152},"templateargumentsize":{"value":13496,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14765,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  655.501      1 -total"," 34.08%  223.372     49 Template:Flagicon"," 32.67%  214.170      1 Template:Infobox_Grand_Prix_race_report"," 29.96%  196.405      1 Template:Infobox3cols"," 17.71%  116.077      1 Template:Reflist"," 14.65%   96.036      3 Template:Cite_web"," 13.70%   89.799      1 Template:F1Laps1969","  6.86%   44.960      4 Template:Unbulleted_list","  6.28%   41.169      1 Template:Use_dmy_dates","  5.07%   33.251     49 Template:Flagicon/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":3861587,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20201013122611","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1969 South African Grand Prix","url":"https:\/\/en.wikipedia.org\/wiki\/1969_South_African_Grand_Prix","sameAs":"http:\/\/www.wikidata.org\/entity\/Q171713","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q171713","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-01T01:59:25Z","dateModified":"2020-08-03T21:46:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f1\/Kyalami_1961_-_1988_Layout.png","headline":"Formula One motor race held in 1969"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1409"});});</script>
+</body></html>

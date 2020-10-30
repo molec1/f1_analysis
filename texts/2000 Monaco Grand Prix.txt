@@ -1,0 +1,1367 @@
+<div class="mw-parser-output"><p class="mw-empty-elt">
+
+
+</p>
+<table class="infobox vevent" style="width:22em;width: 27em; line-height: 1.5em;"><tbody><tr><th colspan="4" style="text-align:center;font-size:125%;font-weight:bold;font-size:125%; background-color:#efefef;"><span class="summary">2000 Monaco Grand Prix</span></th></tr><tr><td colspan="4" style="text-align:center">
+<small class="description">Race 7 of 17 in the <a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000 Formula One World Championship</a></small></td></tr><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Monte_Carlo_Formula_1_track_map.svg" class="image"><img alt="Monte Carlo Formula 1 track map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/220px-Monte_Carlo_Formula_1_track_map.svg.png" decoding="async" width="220" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/330px-Monte_Carlo_Formula_1_track_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/440px-Monte_Carlo_Formula_1_track_map.svg.png 2x" data-file-width="1465" data-file-height="997" /></a></td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;">Race details</th></tr><tr><th scope="row" style="width:20%;">Date</th><td colspan="3">
+<span class="mw-formatted-date" title="2000-06-04">4 June 2000</span></td></tr><tr><th scope="row" style="width:20%;">Official name</th><td colspan="3">
+LVIII Grand Prix Automobile de Monaco</td></tr><tr><th scope="row" style="width:20%;">Location</th><td colspan="3" class="location">
+<a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Circuit de Monaco</a></td></tr><tr><th scope="row" style="width:20%;">Course</th><td colspan="3">
+Street circuit</td></tr><tr><th scope="row" style="width:20%;">Course length</th><td colspan="3">
+3.370 km (2.094 mi)</td></tr><tr><th scope="row" style="width:20%;">Distance</th><td colspan="3">
+78 laps, 262.860 km (163.334 mi)</td></tr><tr><th scope="row" style="width:20%;">Weather</th><td colspan="3">
+Sunny</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Pole_position" title="Pole position">Pole position</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:19.475</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Fastest_lap" title="Fastest lap">Fastest lap</a></th></tr><tr><th scope="row" style="width:20%;">Driver</th><td>
+<span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Time</th><td colspan="3">
+1:21.571 on lap 57</td></tr><tr><th colspan="4" style="text-align:center;background-color:#efefef;"><a href="/wiki/Podium#In_motorsport" title="Podium">Podium</a></th></tr><tr><th scope="row" style="width:20%;">First</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></li></ul></div></td><td>
+<small><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></small></td></tr><tr><th scope="row" style="width:20%;">Second</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></li></ul></div></td><td>
+<small><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></small></td></tr><tr><th scope="row" style="width:20%;">Third</th><td>
+<div class="plainlist"><ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></li></ul></div></td><td>
+<small><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a></small></td></tr><tr><td colspan="4" style="text-align:center;background-color:#efefef">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; text-align:center;background-color:#efefef;">Lap leaders</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="timeline-wrapper"><map name="timeline_e79b716d6239c7e1b777882cee921688"></map><img usemap="#timeline_e79b716d6239c7e1b777882cee921688" src="//upload.wikimedia.org/wikipedia/en/timeline/e79b716d6239c7e1b777882cee921688.png" /></div></li></ul>
+</div></td></tr></tbody></table>
+<p>The <b>2000 Monaco Grand Prix</b> (formally the <b>LVIII Grand Prix Automobile de Monaco</b>) was a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> motor race held on 4 June 2000 at the <a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Circuit de Monaco</a>. It was the seventh race of the <a href="/wiki/2000_Formula_One_season" class="mw-redirect" title="2000 Formula One season">2000 Formula One season</a> and the 58th <a href="/wiki/Monaco_Grand_Prix" title="Monaco Grand Prix">Monaco Grand Prix</a>. The 78-lap race was won by <a href="/wiki/McLaren" title="McLaren">McLaren</a> driver <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> after starting from third position. <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> finished second for the <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a> team with <a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a> driver <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a> third.
+</p><p>Championship leader <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> started from <a href="/wiki/Pole_position" title="Pole position">pole position</a> alongside <a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a> driver <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>. The race was aborted due to a software glitch in the starting procedure and <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> and <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a> collided which started a traffic jam. At the second start, Michael Schumacher maintained his lead into the first corner. After the second round of <a href="/wiki/Pit_stop" title="Pit stop">pit stops</a>, Michael Schumacher's exhaust broke causing a left rear suspension failure and his retirement from the race. Coulthard, in second place, became the new race leader on lap 57. Coulthard maintained his lead throughout the remainder of the race and secured his second victory of the season, with Barrichello a further 15.8 seconds back.
+</p><p>Coulthard's victory allowed him to narrow the lead of Michael Schumacher in the <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">World Drivers' Championship</a> to 12 points. Häkkinen retained third with Barrichello a further seven points behind. In the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">World Constructors' Championship</a>, Ferrari retained their lead which was reduced to five points over McLaren. Fisichella's strong result reduced the gap to Benetton's rivals <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a> to one point, with ten races of the season remaining.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Practice"><span class="tocnumber">2</span> <span class="toctext">Practice</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Qualifying"><span class="tocnumber">3</span> <span class="toctext">Qualifying</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Qualifying_classification"><span class="tocnumber">3.1</span> <span class="toctext">Qualifying classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Warm-up"><span class="tocnumber">4</span> <span class="toctext">Warm-up</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Race"><span class="tocnumber">5</span> <span class="toctext">Race</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Post-race"><span class="tocnumber">5.1</span> <span class="toctext">Post-race</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Race_classification"><span class="tocnumber">5.2</span> <span class="toctext">Race classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Championship_standings_after_the_race"><span class="tocnumber">6</span> <span class="toctext">Championship standings after the race</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Grand Prix was contested by eleven teams, each of two drivers.<sup id="cite_ref-entrants_1-0" class="reference"><a href="#cite_note-entrants-1">&#91;1&#93;</a></sup> The teams, also known as <a href="/wiki/Formula_One#Constructors" title="Formula One">constructors</a>, were <a href="/wiki/McLaren" title="McLaren">McLaren</a>, <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>, <a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>, <a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>, <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>, <a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>, <a href="/wiki/Prost_Grand_Prix" title="Prost Grand Prix">Prost</a>, <a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>, <a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>, <a href="/wiki/Minardi" title="Minardi">Minardi</a> and <a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>.<sup id="cite_ref-entrants_1-1" class="reference"><a href="#cite_note-entrants-1">&#91;1&#93;</a></sup> <a href="/wiki/Formula_One_tyre" class="mw-redirect" title="Formula One tyre">Tyre</a> supplier <a href="/wiki/Bridgestone" title="Bridgestone">Bridgestone</a> brought two different tyre types to the race; two-dry compounds, the Softs and the Extra Softs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Going into the race, Ferrari driver <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> led the <a href="/wiki/List_of_Formula_One_World_Drivers%27_Champions" title="List of Formula One World Drivers&#39; Champions">Drivers' Championship</a> with 46 <a href="/wiki/List_of_Formula_One_World_Championship_points_scoring_systems" title="List of Formula One World Championship points scoring systems">points</a>, ahead of <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a> on 28 points and his teammate <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> with 24 points. <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> was fourth on 16 points while <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a> was fifth on 12 points.<sup id="cite_ref-points_3-0" class="reference"><a href="#cite_note-points-3">&#91;3&#93;</a></sup> In the <a href="/wiki/List_of_Formula_One_World_Constructors%27_Champions" title="List of Formula One World Constructors&#39; Champions">Constructors' Championship</a> Ferrari were leading with 62 points, with their rivals McLaren second on 52 points. Williams were third on 15 points while Benetton with 10 points and Jordan on 9 points contended for fourth place.<sup id="cite_ref-points_3-1" class="reference"><a href="#cite_note-points-3">&#91;3&#93;</a></sup> McLaren and Ferrari had so far taken command of the championship, winning the previous six races. Championship competitors Barrichello and Fisichella had gained second place podium finishes while Ralf Schumacher and <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a> had achieved third place podium finishes.<sup id="cite_ref-points_3-2" class="reference"><a href="#cite_note-points-3">&#91;3&#93;</a></sup>
+</p><p>Following the <a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">European Grand Prix</a> on 21 May the teams conducted testing sessions across European circuits between 23–27 May to prepare for the Grand Prix.<sup id="cite_ref-testing_4-0" class="reference"><a href="#cite_note-testing-4">&#91;4&#93;</a></sup> Jordan, Sauber, Benetton, Jaguar and Arrows opted to test at the <a href="/wiki/Circuit_Ricardo_Tormo" title="Circuit Ricardo Tormo">Circuit Ricardo Tormo</a> circuit which made its Formula One testing début that garnered mixed reviews from the drivers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Frentzen was fastest on the first day of testing, ahead of Sauber test driver <a href="/wiki/Enrique_Bernoldi" title="Enrique Bernoldi">Enrique Bernoldi</a>.<sup id="cite_ref-testing_4-1" class="reference"><a href="#cite_note-testing-4">&#91;4&#93;</a></sup> <a href="/wiki/Jos_Verstappen" title="Jos Verstappen">Jos Verstappen</a> for the Arrows team set the second day's quickest times.<sup id="cite_ref-testing_4-2" class="reference"><a href="#cite_note-testing-4">&#91;4&#93;</a></sup> Late in the session Fisichella hit the right rear tyre of Jordan driver <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>, causing his Benetton to flip over and brought a brief halt to testing.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Fisichella suffered minor bruising to his thumb and Benetton withdrew their second driver <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a> from testing.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Sauber's <a href="/wiki/Mika_Salo" title="Mika Salo">Mika Salo</a> topped the final days running.<sup id="cite_ref-testing_4-3" class="reference"><a href="#cite_note-testing-4">&#91;4&#93;</a></sup> Williams and BAR went to the <a href="/wiki/Circuit_Paul_Armagnac" title="Circuit Paul Armagnac">Circuit Paul Armagnac</a> circuit which was where the teams undertook shake down runs and used car set-ups.<sup id="cite_ref-testing2_8-0" class="reference"><a href="#cite_note-testing2-8">&#91;8&#93;</a></sup> BAR tested a new control system called "Athena 2000" which managed the software of the car's engine and different sections on the chassis.<sup id="cite_ref-testing2_8-1" class="reference"><a href="#cite_note-testing2-8">&#91;8&#93;</a></sup> Ferrari tested at their private test facility, the <a href="/wiki/Fiorano_Circuit" title="Fiorano Circuit">Fiorano Circuit</a>, for five days where test driver <a href="/wiki/Luca_Badoer" title="Luca Badoer">Luca Badoer</a> and Michael Schumacher concentrated on aerodynamic and tyre testing, as well as undertaking different set-ups and running on an artificially wet track.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Due to the configuration of the <a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Circuit de Monaco</a>, with its low average speed and abundance of low-speed corners, allied to the low-<a href="/wiki/Grip_(auto_racing)" title="Grip (auto racing)">grip</a> nature of the public road surface, the teams all set their <a href="/wiki/Formula_One_car" title="Formula One car">cars</a> up to produce the maximum amount of <a href="/wiki/Downforce" title="Downforce">downforce</a> and mechanical grip possible. Benetton modified their car's suspensions to work better on the circuit's low-speed corners.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The Minardi cars came equipped with a new titanium cast gearbox and new rear suspensions.<sup id="cite_ref-testing2_8-2" class="reference"><a href="#cite_note-testing2-8">&#91;8&#93;</a></sup> McLaren brought an additional <a href="/wiki/Glossary_of_motorsport_terms#S" title="Glossary of motorsport terms">spare car</a> to the event, with four in total being shared between Häkkinen and Coulthard.<sup id="cite_ref-testing2_8-3" class="reference"><a href="#cite_note-testing2-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Practice">Practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Practice">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Michael_Schumacher-I%27m_the_man_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg/170px-Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg" decoding="async" width="170" height="230" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg/255px-Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg/340px-Michael_Schumacher-I%27m_the_man_%28cropped%29.jpg 2x" data-file-width="1260" data-file-height="1704" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Michael_Schumacher-I%27m_the_man_(cropped).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a> (pictured in 2005) clinched his second <a href="/wiki/Pole_position" title="Pole position">pole position</a> of the 2000 season.</div></div></div>
+<p>Four practice sessions were held before the Sunday race—two on Thursday, and two on Saturday. The Thursday morning and afternoon sessions each lasted an hour. The third and final practice sessions were held on Saturday morning and lasted 45 minutes.<sup id="cite_ref-regulations_11-0" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> The Thursday morning and afternoon practice sessions were held in dry and hot weather conditions.<sup id="cite_ref-fiathursday_12-0" class="reference"><a href="#cite_note-fiathursday-12">&#91;12&#93;</a></sup> Michael Schumacher set the fastest time in the first session, at 1 minute and 23.039 seconds, three-tenths of a second quicker than Häkkinen. Coulthard was third fastest, ahead of Fisichella and Frentzen. Alesi managed sixth despite suffering from gearbox issues which caused him to pull up on the track. <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a>, <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>, Barrichello and Salo completed the top ten fastest drivers in the session.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Minardi's <a href="/wiki/Gast%C3%B3n_Mazzacane" title="Gastón Mazzacane">Gastón Mazzacane</a> spun and lost his front right wheel in a crash at turn 17 and Ralf Schumacher made contact with the barrier at turn eight.<sup id="cite_ref-fiathursday_12-1" class="reference"><a href="#cite_note-fiathursday-12">&#91;12&#93;</a></sup> In the second practice session, Häkkinen set the quickest lap of the day, a 1:21.387; Coulthard finished with the third fastest time. The McLaren drivers were separated by Michael Schumacher. Eddie Irvine was running quicker and was fourth fastest, in front of Frentzen and Ralf Schumacher. Alesi continued to encounter problems though he managed to be seventh quickest. de la Rosa, Trulli and Barrichello followed in the top ten. Both <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> and <a href="/wiki/Pedro_Diniz" title="Pedro Diniz">Pedro Diniz</a> made contact with the barriers at turn 17 and Wurz crashed at the swimming pool complex.<sup id="cite_ref-fiathursday_12-2" class="reference"><a href="#cite_note-fiathursday-12">&#91;12&#93;</a></sup>
+</p><p>The weather remained hot and dry for the Saturday morning practice sessions.<sup id="cite_ref-fiasaturday_14-0" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> Michael Schumacher was the fastest driver in the third session, setting a time of 1:20.762; Barrichello ended with the third quickest lap time. Häkkinen set a time one-tenth of a second slower than Michael Schumacher and was second fastest. Alesi continued to run quicker and was fourth fastest, faster than Coulthard and Frentzen. Irvine, Trulli, Fisichella and <a href="/wiki/Johnny_Herbert" title="Johnny Herbert">Johnny Herbert</a> completed the top ten.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In the final practice session, Coulthard was fastest with a time of 1:20.405 though he ran down the escape road at Ste Devote and his engine subsequently stalled. Michael Schumacher was second fastest, nearly one-tenth slower than Coulthard. Fisichella opted to use a softer damper and set the third quickest lap, in front of Trulli and Häkkinen. Barrichello, Alesi, Wurz, Frentzen and Ralf Schumacher completed the top ten fastest drivers ahead of qualifying. A crash by Irvine at the swimming pool complex ended his session prematurely.<sup id="cite_ref-fiasaturday_14-1" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Qualifying">Qualifying</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Qualifying">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox pullquote floatleft" style="width:33%;&#32;;"><style data-mw-deduplicate="TemplateStyles:r887775652">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">This was almost a perfect session, except that I had some understeer, which might have cost me one or two-tenths. Being on pole with Mika fifth is a good situation for the start and gives us a cushion for the race, but in the past people have won from further back. But it is a long race here and anything can happen. My car was not perfectly balanced for the first two runs, which is why I brushed the barriers a couple of times. I thought they needed repainting! A good start will be vital, but being on pole is not so important. Being on the front row is all that matters.</div>
+<p><cite class="left-aligned" style="">Michael Schumacher, commenting on taking pole position.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></cite>
+</p>
+</div>
+<p>Saturday's afternoon one hour qualifying saw each driver limited to twelve laps, with the <a href="/wiki/Glossary_of_motorsport_terms#G" title="Glossary of motorsport terms">grid</a> order decided by their fastest laps. During this session, the <a href="/wiki/107%25_rule" title="107% rule">107% rule</a> was in effect, which necessitated each driver set a time within 107 per cent of the quickest lap to qualify for the race.<sup id="cite_ref-regulations_11-1" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> The session was held in dry and hot weather conditions.<sup id="cite_ref-temp_17-0" class="reference"><a href="#cite_note-temp-17">&#91;17&#93;</a></sup> Michael Schumacher clinched his second <a href="/wiki/Pole_position" title="Pole position">pole position</a> of the season, his third at the circuit, with a time of 1:19.475. He was joined on the front row of the grid by Trulli who recorded a lap 0.271 seconds slower than the pole sitter and took his best qualifying performance of the season.<sup id="cite_ref-bbcquali_18-0" class="reference"><a href="#cite_note-bbcquali-18">&#91;18&#93;</a></sup> Coulthard qualified third and said he could have set a better lap time as he saw a <a href="/wiki/Racing_flags#Yellow_flag" title="Racing flags">yellow flag</a> out on the track. Trulli's teammate Frentzen qualified fourth but criticised Irvine for an apparent blocking manoeuvre. Häkkinen took fifth and suffered from <a href="/wiki/Understeer" class="mw-redirect" title="Understeer">understeer</a> along with traffic during his second qualifying run.<sup id="cite_ref-fiasaturday_14-2" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> Barrichello secured the sixth place and reported his car was nervous.<sup id="cite_ref-bbcquali_18-1" class="reference"><a href="#cite_note-bbcquali-18">&#91;18&#93;</a></sup> Alesi recorded the seventh-fastest time, despite experiencing alternator problems on his race car in the opening minutes of qualifying and switched to the spare Prost.<sup id="cite_ref-fiasaturday_14-3" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> Fisichella occupied the eighth position and reported his Benetton's handling had worsened.<sup id="cite_ref-fiasaturday_14-4" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> Ralf Schumacher and Irvine completed the top ten positions.<sup id="cite_ref-bbcquali_18-2" class="reference"><a href="#cite_note-bbcquali-18">&#91;18&#93;</a></sup> Herbert set the eleventh fastest time, five one hundredths slower than his teammate and reported excessive <a href="/wiki/Oversteer" class="mw-redirect" title="Oversteer">oversteer</a> on his car.<sup id="cite_ref-fiasaturday_14-5" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> He was ahead of Wurz in the slower of the two Benetton cars.<sup id="cite_ref-bbcquali_18-3" class="reference"><a href="#cite_note-bbcquali-18">&#91;18&#93;</a></sup> Salo qualified in 13th position despite a misunderstanding with his race engineer over a yellow flag. Similarly, <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> who took 14th in the other Williams, was caught out by the waved yellow flags.<sup id="cite_ref-fiasaturday_14-6" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup> The two Arrows drivers filled the next two positions with Verstappen in 15th and <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a> in 16th; the latter crashed at the Rascasse <a href="/wiki/Chicane" title="Chicane">chicane</a>. BAR's <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a> started from 17th had an engine failure and was forced to use his team's spare car. Heidfeld took 18th and reported he experienced a lack of grip and understeer. He qualified ahead of Diniz and <a href="/wiki/Ricardo_Zonta" title="Ricardo Zonta">Ricardo Zonta</a> in 19th and 20th respectively. The two Minardi drivers qualified at the rear of the grid; <a href="/wiki/Marc_Gen%C3%A9" title="Marc Gené">Marc Gené</a> ahead of <a href="/wiki/Gast%C3%B3n_Mazzacane" title="Gastón Mazzacane">Gastón Mazzacane</a> and both crashed at Rascasse.<sup id="cite_ref-fiasaturday_14-7" class="reference"><a href="#cite_note-fiasaturday-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualifying_classification">Qualifying classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Qualifying classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size: 95%;">
+
+<tbody><tr>
+<th scope="col"><abbr title="Position">Pos</abbr>
+</th>
+<th scope="col"><abbr title="Car number">No</abbr>
+</th>
+<th scope="col">Driver
+</th>
+<th scope="col">Constructor
+</th>
+<th scope="col">Lap
+</th>
+<th scope="col">Gap
+</th></tr>
+<tr>
+<th scope="row">1
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:19.475
+</td>
+<td>–
+</td></tr>
+<tr>
+<th scope="row">2
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Mugen-Honda" class="mw-redirect" title="Mugen-Honda">Mugen-Honda</a>
+</td>
+<td>1:19.746
+</td>
+<td>+0.271
+</td></tr>
+<tr>
+<th scope="row">3
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:19.888
+</td>
+<td>+0.413
+</td></tr>
+<tr>
+<th scope="row">4
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Mugen-Honda" class="mw-redirect" title="Mugen-Honda">Mugen-Honda</a>
+</td>
+<td>1:19.961
+</td>
+<td>+0.486
+</td></tr>
+<tr>
+<th scope="row">5
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>
+</td>
+<td><a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1:20.241
+</td>
+<td>+0.766
+</td></tr>
+<tr>
+<th scope="row">6
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>1:20.416
+</td>
+<td>+0.941
+</td></tr>
+<tr>
+<th scope="row">7
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Alesi" title="Jean Alesi">Jean Alesi</a>
+</td>
+<td><a href="/wiki/Prost_Grand_Prix" title="Prost Grand Prix">Prost</a>-<a href="/wiki/Peugeot" title="Peugeot">Peugeot</a>
+</td>
+<td>1:20.494
+</td>
+<td>+1.019
+</td></tr>
+<tr>
+<th scope="row">8
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a>
+</td>
+<td>1:20.703
+</td>
+<td>+1.228
+</td></tr>
+<tr>
+<th scope="row">9
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>1:20.742
+</td>
+<td>+1.267
+</td></tr>
+<tr>
+<th scope="row">10
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:20.743
+</td>
+<td>+1.268
+</td></tr>
+<tr>
+<th scope="row">11
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Johnny_Herbert" title="Johnny Herbert">Johnny Herbert</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>1:20.792
+</td>
+<td>+1.317
+</td></tr>
+<tr>
+<th scope="row">12
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a>
+</td>
+<td>1:20.871
+</td>
+<td>+1.396
+</td></tr>
+<tr>
+<th scope="row">13
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_Salo" title="Mika Salo">Mika Salo</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>1:21.561
+</td>
+<td>+2.086
+</td></tr>
+<tr>
+<th scope="row">14
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/Williams_F1" class="mw-redirect" title="Williams F1">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>1:21.605
+</td>
+<td>+2.130
+</td></tr>
+<tr>
+<th scope="row">15
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jos_Verstappen" title="Jos Verstappen">Jos Verstappen</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Supertec" title="Supertec">Supertec</a>
+</td>
+<td>1:21.738
+</td>
+<td>+2.263
+</td></tr>
+<tr>
+<th scope="row">16
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Supertec" title="Supertec">Supertec</a>
+</td>
+<td>1:21.832
+</td>
+<td>+2.357
+</td></tr>
+<tr>
+<th scope="row">17
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:21.848
+</td>
+<td>+2.373
+</td></tr>
+<tr>
+<th scope="row">18
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/Prost_Grand_Prix" title="Prost Grand Prix">Prost</a>-<a href="/wiki/Peugeot" title="Peugeot">Peugeot</a>
+</td>
+<td>1:22.017
+</td>
+<td>+2.542
+</td></tr>
+<tr>
+<th scope="row">19
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Pedro_Diniz" title="Pedro Diniz">Pedro Diniz</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>1:22.136
+</td>
+<td>+2.661
+</td></tr>
+<tr>
+<th scope="row">20
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ricardo_Zonta" title="Ricardo Zonta">Ricardo Zonta</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_in_Formula_One" title="Honda in Formula One">Honda</a>
+</td>
+<td>1:22.324
+</td>
+<td>+2.849
+</td></tr>
+<tr>
+<th scope="row">21
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Marc_Gen%C3%A9" title="Marc Gené">Marc Gené</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Fondmetal" title="Fondmetal">Fondmetal</a>
+</td>
+<td>1:23.721
+</td>
+<td>+4.246
+</td></tr>
+<tr>
+<th scope="row">22
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Gast%C3%B3n_Mazzacane" title="Gastón Mazzacane">Gastón Mazzacane</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Fondmetal" title="Fondmetal">Fondmetal</a>
+</td>
+<td>1:23.794
+</td>
+<td>+4.319
+</td></tr>
+<tr>
+<th colspan="8"><a href="/wiki/107%25_rule" title="107% rule">107% time</a>: 1:25.038
+</th></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Source:<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></div>
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Warm-up">Warm-up</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: Warm-up">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The drivers took to the track at 09:30 <a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">Central European Summer Time</a> (<a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2) for a 30-minute warm-up session.<sup id="cite_ref-regulations_11-2" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> It took place in dry and warm weather conditions. Both Ferrari drivers maintained their good performance from qualifying; Barrichello had the fastest time of 1:22.251. Michael Schumacher set the second fastest time. Ralf Schumacher recorded the third fastest time with Coulthard rounding out the top four.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The session was disrupted by an incident which involved de la Rosa when he struck the barriers at turn 12 – the session was prematurely ended as <a href="/wiki/Motorsport_marshal" title="Motorsport marshal">marshals</a> were required to clear the track – and Herbert clipped the tyre barrier at turn 14 after spinning on oil on the circuit.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Race">Race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=6" title="Edit section: Race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:David_Coulthard_at_the_1995_British_GP,_Silverstone_(49713882947).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg/170px-David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg" decoding="async" width="170" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg/255px-David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg/340px-David_Coulthard_at_the_1995_British_GP%2C_Silverstone_%2849713882947%29.jpg 2x" data-file-width="1605" data-file-height="1514" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:David_Coulthard_at_the_1995_British_GP,_Silverstone_(49713882947).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a> (pictured in 1995) won his second race of the season at Monaco.</div></div></div>
+<p>The race started at 14:00 local time. The conditions on the grid were dry before the race; the air temperature was 24&#160;°C (75&#160;°F) and the track temperature was 42&#160;°C (108&#160;°F).<sup id="cite_ref-temp_17-1" class="reference"><a href="#cite_note-temp-17">&#91;17&#93;</a></sup> At the start of the <a href="/wiki/Parade_lap" title="Parade lap">parade lap</a> Diniz was unable to get away and was forced to start at the back of the grid. At the starting procedure Wurz's car suffered an engine failure and the start was aborted.<sup id="cite_ref-fiarace_22-0" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Diniz, meanwhile, was allowed to start from his qualifying position after Wurz's engine issues.<sup id="cite_ref-gprace_23-0" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> Michael Schumacher maintained his lead heading into the first corner, whilst Trulli, behind him, remained in second position. Immediately afterwards a glitch in the <a href="/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l&#39;Automobile">FIA</a> computer software called for the race to be suspended, however marshals did not wave <a href="/wiki/Racing_flags#Red_flag" title="Racing flags">red flags</a> across the circuit, except for the start/finish line. At the <a href="/wiki/Hairpin_turn" title="Hairpin turn">hairpin</a> de la Rosa attempted to overtake Button and the latter sent de la Rosa into a spin. The result created a traffic jam for cars who were behind the two drivers and led to an actual <a href="/wiki/Racing_flags#Red_flag" title="Racing flags">red flag</a> period, during which Button, Zonta, Heidfeld, Diniz and Gené got into their team's spare cars, and were thus required to start from the pit lane. de la Rosa, however, did not have a spare car available and could not take the restart.<sup id="cite_ref-fiarace_22-1" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup>
+</p><p>At the restart, Michael Schumacher and Trulli again held their positions, whilst Ralf Schumacher made the best start in the field moving from 9th to 6th place by the end of the first lap. Barrichello had lost two positions over the same distance.<sup id="cite_ref-gprace_23-1" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> At the conclusion of the first lap, the order was Michael Schumacher, Trulli, Coulthard, Frentzen, Häkkinen, Ralf Schumacher, Alesi, Barrichello, Fisichella, Herbert, Irvine, Salo, Verstappen, Diniz, Villeneuve, Zonta, Mazzacane, Wurz, Button, Gené and Heidfeld.<sup id="cite_ref-lapchart_24-0" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Michael Schumacher began to immediately pull clear from Trulli as he began setting consecutive fastest laps.<sup id="cite_ref-lapchart_24-1" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Häkkinen started to challenge Frentzen for fourth position on lap two.<sup id="cite_ref-f1comrace_25-0" class="reference"><a href="#cite_note-f1comrace-25">&#91;25&#93;</a></sup> By the eleventh lap, Michael Schumacher had built up his lead to Trulli over eleven seconds as Wurz performed the race's first overtake when he passed Mazzacane for 17th position.<sup id="cite_ref-fiarace_22-2" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup><sup id="cite_ref-lapchart_24-2" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Button pulled over to the side of the track with engine problems and retired on lap 16.<sup id="cite_ref-gprace_23-2" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> Michael Schumacher continued to increase his lead to Trulli to 19.5 seconds by lap 19. Trulli was in turn 0.7 seconds ahead of Coulthard. Frentzen was a further 2.1 seconds behind  Coulthard and continued to battle the latter's teammate Häkkinen for fifth.<sup id="cite_ref-lapchart_24-3" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup>
+</p><p>On the same lap Irvine overtook his teammate Herbert for tenth position.<sup id="cite_ref-fiarace_22-3" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Wurz crashed into the barriers at turn 1 and was forced to retire.<sup id="cite_ref-gprace_23-3" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> Gené retired on lap 22 with a gearbox issue as his teammate Mazzacane subsequently collided with the barriers at turn one on the same lap and had to retire from the event.<sup id="cite_ref-fiarace_22-4" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Herbert became the first driver to make a <a href="/wiki/Pit_stop" title="Pit stop">pit stop</a> on lap 27 although his pit crew came unprepared and Herbert was stationary for half a minute before he exited in 17th position.<sup id="cite_ref-gprace_23-4" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup><sup id="cite_ref-lapchart_24-4" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> On the 31st lap, Diniz made contact with the barriers at turn one and he damaged his left rear wheel, causing him to retire.<sup id="cite_ref-fiarace_22-5" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Häkkinen's pace was reduced by lap 36 as he slowed with an blockage on his brake pedal and made an unscheduled pit stop. His team's mechanics opened his car's inspection hatch and rearranged radio cables.<sup id="cite_ref-gprace_23-5" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> They subsequently removed a data transmitter which was the cause the blockage and Häkkinen rejoined in 9th.<sup id="cite_ref-lapchart_24-5" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup><sup id="cite_ref-mclarenrace_26-0" class="reference"><a href="#cite_note-mclarenrace-26">&#91;26&#93;</a></sup> Trulli became the next retirement of the race when he pulled to the side of the track with a gearbox problem on the following lap.<sup id="cite_ref-gprace_23-6" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Barrichello_2002.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Barrichello_2002.jpg/170px-Barrichello_2002.jpg" decoding="async" width="170" height="298" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Barrichello_2002.jpg/255px-Barrichello_2002.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Barrichello_2002.jpg/340px-Barrichello_2002.jpg 2x" data-file-width="1128" data-file-height="1975" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Barrichello_2002.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a> (pictured in 2002) finished second.</div></div></div>
+<p>Ralf Schumacher, who was running fourth, crashed heavily into the turn one barriers on the 38th lap.<sup id="cite_ref-gprace_23-7" class="reference"><a href="#cite_note-gprace-23">&#91;23&#93;</a></sup> He suffered a deep cut to his leg and was taken to hospital.<sup id="cite_ref-fiarace_22-6" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Michael Schumacher held a 36-second lead over Coulthard by lap 38 and the latter lapped consistently in the low 1:22 range to close the gap.<sup id="cite_ref-lapchart_24-6" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Verstappen made the first scheduled pit stop on lap 41,<sup id="cite_ref-fiarace_22-7" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> five laps in front of Zonta and Heidfeld.<sup id="cite_ref-lapchart_24-7" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Michael Schumacher made a pit stop on lap 49 and retained the first position. Fisichella made a pit stop earlier than expected on lap 51 as he had a slow <a href="https://en.wiktionary.org/wiki/puncture" class="extiw" title="wikt:puncture">puncture</a> developing.<sup id="cite_ref-fiarace_22-8" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Frentzen, Barrichello, Salo, Villeneuve and Coulthard made pit stops over the following six laps.<sup id="cite_ref-lapchart_24-8" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> After Coulthard emerged from the pit lane, Michael Schumacher's car suffered a broken exhaust which broke his left rear suspension and Schumacher was forced to retire.<sup id="cite_ref-fiarace_22-9" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup>
+</p><p>At the completion of lap 57, with the scheduled pit stops completed, the order was Coulthard, Frentzen, Barrichello, Fisichella, Irvine, Salo, Häkkinen, Villeneuve, Verstappen, Heidfeld and Herbert.<sup id="cite_ref-lapchart_24-9" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Häkkinen set the fastest lap of the race on the same lap, a 1:21.571 as he closed the gap to Salo in seventh.<sup id="cite_ref-lapchart_24-10" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Verstappen, who was fending off Heidfeld for ninth place, spun into retirement at turn twelve on lap 61. On the 71st lap, Frentzen became the final retirement of the race when he broke his rear suspension in a crash at turn 1.<sup id="cite_ref-fiarace_22-10" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup> Häkkinen started to reduce his pace on lap 74 ending his battle with Salo but managed to stay ahead of Villeneuve in seventh.<sup id="cite_ref-fiarace_22-11" class="reference"><a href="#cite_note-fiarace-22">&#91;22&#93;</a></sup><sup id="cite_ref-lapchart_24-11" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup> Coulthard opened the gap to 17.4 seconds and crossed the finish line on lap 78 to take his second victory of the season and the eighth of his career in a time of 1:49:28.213,<sup id="cite_ref-lapchart_24-12" class="reference"><a href="#cite_note-lapchart-24">&#91;24&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> at an average speed of 89.522 miles per hour (144.072&#160;km/h).<sup id="cite_ref-results_28-0" class="reference"><a href="#cite_note-results-28">&#91;28&#93;</a></sup> Coulthard was the first British driver to win the Monaco Grand Prix since <a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> in <a href="/wiki/1973_Monaco_Grand_Prix" title="1973 Monaco Grand Prix">1973</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> Barrichello finished second in his Ferrari, ahead of Fisichella in third. Irvine finished in fourth, Salo in fifth and Häkkinen rounded out the points-scoring positions in sixth. Villeneuve, Heidfeld and Herbert filled the next three positions, with Frentzen last of the classified finishers despite his crash.<sup id="cite_ref-results_28-1" class="reference"><a href="#cite_note-results-28">&#91;28&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-race">Post-race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=7" title="Edit section: Post-race">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quotebox pullquote floatright" style="width:33%;&#32;;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r887775652"/>
+<div class="quotebox-quote left-aligned" style="">'I have always said that there are a few Grands Prix, which are very special to me, and Monaco is definitely one of them. The track is probably the most technically challenging and I'm very happy both for the team and myself. I have felt confident all weekend and the car was very good throughout the race. Initially I got stuck behind Trulli but I was constantly pushing him and when he retired I tried hard to catch Schumacher even through there was a significant gap, because you never know what might happen.</div>
+<p><cite class="left-aligned" style="">David Coulthard, speaking after the race.<sup id="cite_ref-mclarenrace_26-1" class="reference"><a href="#cite_note-mclarenrace-26">&#91;26&#93;</a></sup></cite>
+</p>
+</div>
+<p>The top three drivers appeared in <a href="/wiki/Rainier_III,_Prince_of_Monaco" title="Rainier III, Prince of Monaco">Prince Rainier III of Monaco</a>'s Royal box to collect their trophies and in the subsequent <a href="/wiki/News_conference" class="mw-redirect" title="News conference">press conference</a>.<sup id="cite_ref-regulations_11-3" class="reference"><a href="#cite_note-regulations-11">&#91;11&#93;</a></sup> Coulthard was delighted as securing victory at the Grand Prix which he considered as one of the races he wanted to win during his career because of the challenges the drivers take on the circuit.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> He also commented that he wanted to wait until the pit stop stages to get ahead of Michael Schumacher and Trulli to prevent unnecessary repairs to his car.<sup id="cite_ref-pressconf_31-0" class="reference"><a href="#cite_note-pressconf-31">&#91;31&#93;</a></sup> Barrichello revealed that he was conserving his tyres and fuel, as well as being informed by Ferrari technical director <a href="/wiki/Ross_Brawn" title="Ross Brawn">Ross Brawn</a> to reduce his pace towards the race's latter stages.<sup id="cite_ref-pressconf_31-1" class="reference"><a href="#cite_note-pressconf-31">&#91;31&#93;</a></sup> Fisichella said that he was pleased at taking third place.<sup id="cite_ref-pressconf_31-2" class="reference"><a href="#cite_note-pressconf-31">&#91;31&#93;</a></sup> He also revealed that he wanted to remain at Benetton for the <a href="/wiki/2001_Formula_One_season" class="mw-redirect" title="2001 Formula One season">2001 season</a> after his strong result.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p><p>Irvine scored the first points for the Jaguar team in the race, having failed to score up to that point. He described the race as one of the hardest in his Formula One career as his drink bottle did not function correctly along with suffering a blistered foot.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> He also said that the team's issues were not fully rectified and it would take "six months or so to solve... hopefully we can do it quicker."<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> Salo said that his hands were bruised during the race as his car had no <a href="/wiki/Power_steering" title="Power steering">power steering</a> equipped.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> Michael Schumacher admitted to feeling disappointed after the race, having led the majority of the race until his lap 56 retirement. He stated: "The exhaust was too hot and that was why the rest went wrong. It basically cooked the suspension. I felt a few laps before that something was wrong but there was nothing I could do about it."<sup id="cite_ref-schumachers_36-0" class="reference"><a href="#cite_note-schumachers-36">&#91;36&#93;</a></sup>
+</p><p>Ralf Schumacher suffered a three-inch gash on his left calf. He was taken to Princess Grace Hospital for a routine check-up and his cut was stitched.<sup id="cite_ref-ralfinjurybbc_37-0" class="reference"><a href="#cite_note-ralfinjurybbc-37">&#91;37&#93;</a></sup> Ralf Schumacher was later cleared to race in the next Grand Prix, two weeks later.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> He said that he had no prior indication of where his injuries originated from.<sup id="cite_ref-schumachers_36-1" class="reference"><a href="#cite_note-schumachers-36">&#91;36&#93;</a></sup> Williams had their test driver <a href="/wiki/Bruno_Junqueira" title="Bruno Junqueira">Bruno Junqueira</a> to fill in for Ralf Schumacher should the need arise.<sup id="cite_ref-ralfinjurybbc_37-1" class="reference"><a href="#cite_note-ralfinjurybbc-37">&#91;37&#93;</a></sup>
+</p><p>As a consequence of the race, Michael Schumacher's remained the leader in the World Drivers' Championship though his lead was reduced by ten points to twelve. Coulthard's victory moved him into second place on 34 points, ahead of teammate Häkkinen on 29 points. Barrichello and Fisichella remained fourth and fifth, with 22 and 14 points respectively.<sup id="cite_ref-points_3-3" class="reference"><a href="#cite_note-points-3">&#91;3&#93;</a></sup> In the World Constructors' Championship, McLaren reduced the lead of Ferrari to five points. Benetton in fourth closed the points gap to their rivals Williams to one point. Jordan remained fifth on 9 points, with ten races of the season remaining.<sup id="cite_ref-points_3-4" class="reference"><a href="#cite_note-points-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Race_classification">Race classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=8" title="Edit section: Race classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th scope="col"><abbr title="Position">Pos</abbr>
+</th>
+<th scope="col"><abbr title="Car number">No</abbr>
+</th>
+<th scope="col">Driver
+</th>
+<th scope="col">Constructor
+</th>
+<th scope="col"><abbr title="Laps completed">Laps</abbr>
+</th>
+<th scope="col">Time/Retired
+</th>
+<th scope="col"><abbr title="Final starting position">Grid</abbr>
+</th>
+<th scope="col">Points
+</th></tr>
+<tr>
+<th scope="row">1
+</th>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a></b>
+</td>
+<td><b><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></b>
+</td>
+<td>78
+</td>
+<td>1:49:28.213
+</td>
+<td>3
+</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<th scope="row">2
+</th>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a></b>
+</td>
+<td><b><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></b>
+</td>
+<td>78
+</td>
+<td>+15.889
+</td>
+<td>6
+</td>
+<td><b>6</b>
+</td></tr>
+<tr>
+<th scope="row">3
+</th>
+<td>11
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a></b>
+</td>
+<td><b><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a></b>
+</td>
+<td>78
+</td>
+<td>+18.522
+</td>
+<td>8
+</td>
+<td><b>4</b>
+</td></tr>
+<tr>
+<th scope="row">4
+</th>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <b><a href="/wiki/Eddie_Irvine" title="Eddie Irvine">Eddie Irvine</a></b>
+</td>
+<td><b><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a></b>
+</td>
+<td>78
+</td>
+<td>+1:05.924
+</td>
+<td>10
+</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<th scope="row">5
+</th>
+<td>17
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Mika_Salo" title="Mika Salo">Mika Salo</a></b>
+</td>
+<td><b><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a></b>
+</td>
+<td>78
+</td>
+<td>+1:20.775
+</td>
+<td>13
+</td>
+<td><b>2</b>
+</td></tr>
+<tr>
+<th scope="row">6
+</th>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <b><a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a></b>
+</td>
+<td><b><a href="/wiki/Team_McLaren" class="mw-redirect" title="Team McLaren">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a></b>
+</td>
+<td>77
+</td>
+<td>+1 Lap
+</td>
+<td>5
+</td>
+<td><b>1</b>
+</td></tr>
+<tr>
+<th scope="row">7
+</th>
+<td>22
+</td>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Villeneuve" title="Jacques Villeneuve">Jacques Villeneuve</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>77
+</td>
+<td>+1 Lap
+</td>
+<td>17
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">8
+</th>
+<td>15
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>
+</td>
+<td><a href="/wiki/Prost_Grand_Prix" title="Prost Grand Prix">Prost</a>-<a href="/wiki/Peugeot" title="Peugeot">Peugeot</a>
+</td>
+<td>77
+</td>
+<td>+1 Lap
+</td>
+<td>18
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">9
+</th>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Johnny_Herbert" title="Johnny Herbert">Johnny Herbert</a>
+</td>
+<td><a href="/wiki/Jaguar_Racing" title="Jaguar Racing">Jaguar</a>-<a href="/wiki/Cosworth" title="Cosworth">Cosworth</a>
+</td>
+<td>76
+</td>
+<td>+2 Laps
+</td>
+<td>11
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">10
+</th>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Mugen-Honda" class="mw-redirect" title="Mugen-Honda">Mugen-Honda</a>
+</td>
+<td>70
+</td>
+<td>Accident Damage
+</td>
+<td>4
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>19
+</td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jos_Verstappen" title="Jos Verstappen">Jos Verstappen</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Supertec" title="Supertec">Supertec</a>
+</td>
+<td>60
+</td>
+<td>Spun off
+</td>
+<td>15
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td><a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>55
+</td>
+<td>Exhaust/Suspension
+</td>
+<td>1
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>23
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Ricardo_Zonta" title="Ricardo Zonta">Ricardo Zonta</a>
+</td>
+<td><a href="/wiki/British_American_Racing" title="British American Racing">BAR</a>-<a href="/wiki/Honda_Racing_F1" class="mw-redirect" title="Honda Racing F1">Honda</a>
+</td>
+<td>48
+</td>
+<td>Spun off
+</td>
+<td>20
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Ralf_Schumacher" title="Ralf Schumacher">Ralf Schumacher</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>37
+</td>
+<td>Accident
+</td>
+<td>9
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Jarno_Trulli" title="Jarno Trulli">Jarno Trulli</a>
+</td>
+<td><a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Mugen-Honda" class="mw-redirect" title="Mugen-Honda">Mugen-Honda</a>
+</td>
+<td>36
+</td>
+<td>Gearbox
+</td>
+<td>2
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>16
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Pedro_Diniz" title="Pedro Diniz">Pedro Diniz</a>
+</td>
+<td><a href="/wiki/Sauber" class="mw-redirect" title="Sauber">Sauber</a>-<a href="/wiki/Sauber_Petronas_Engineering" title="Sauber Petronas Engineering">Petronas</a>
+</td>
+<td>30
+</td>
+<td>Tyre
+</td>
+<td>19
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>14
+</td>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean_Alesi" title="Jean Alesi">Jean Alesi</a>
+</td>
+<td><a href="/wiki/Prost_Grand_Prix" title="Prost Grand Prix">Prost</a>-<a href="/wiki/Peugeot" title="Peugeot">Peugeot</a>
+</td>
+<td>29
+</td>
+<td>Transmission
+</td>
+<td>7
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>21
+</td>
+<td><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Gast%C3%B3n_Mazzacane" title="Gastón Mazzacane">Gastón Mazzacane</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Fondmetal" title="Fondmetal">Fondmetal</a>
+</td>
+<td>22
+</td>
+<td>Accident
+</td>
+<td>22
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>20
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Marc_Gen%C3%A9" title="Marc Gené">Marc Gené</a>
+</td>
+<td><a href="/wiki/Minardi" title="Minardi">Minardi</a>-<a href="/wiki/Fondmetal" title="Fondmetal">Fondmetal</a>
+</td>
+<td>21
+</td>
+<td>Gearbox
+</td>
+<td>21
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>12
+</td>
+<td><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alexander_Wurz" title="Alexander Wurz">Alexander Wurz</a>
+</td>
+<td><a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a>
+</td>
+<td>18
+</td>
+<td>Accident
+</td>
+<td>12
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">Ret
+</th>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a>
+</td>
+<td><a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td>16
+</td>
+<td>Engine
+</td>
+<td>14
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th scope="row">DNS
+</th>
+<td>18
+</td>
+<td><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pedro_de_la_Rosa" title="Pedro de la Rosa">Pedro de la Rosa</a>
+</td>
+<td><a href="/wiki/Arrows_Grand_Prix_International" title="Arrows Grand Prix International">Arrows</a>-<a href="/wiki/Supertec" title="Supertec">Supertec</a>
+</td>
+<td>0
+</td>
+<td>Collision<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;nb 1&#93;</a></sup>*
+</td>
+<td>16
+</td>
+<td>&#160;
+</td></tr>
+<tr>
+<th colspan="8"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">Sources:<sup id="cite_ref-results_28-2" class="reference"><a href="#cite_note-results-28">&#91;28&#93;</a></sup><sup id="cite_ref-formula1.com-officialresult_40-0" class="reference"><a href="#cite_note-formula1.com-officialresult-40">&#91;39&#93;</a></sup></div>
+</th></tr>
+</tbody></table>
+<ul><li>* Failed to restart</li></ul>
+<h2><span class="mw-headline" id="Championship_standings_after_the_race">Championship standings after the race</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=9" title="Edit section: Championship standings after the race">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Drivers' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th scope="col"><abbr title="Position">Pos</abbr>
+</th>
+<th scope="col">Driver
+</th>
+<th scope="col">Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Michael_Schumacher" title="Michael Schumacher">Michael Schumacher</a>
+</td>
+<td align="right">46
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/David_Coulthard" title="David Coulthard">David Coulthard</a>
+</td>
+<td align="right">34
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1downarrow_red.svg" class="image"><img alt="1downarrow red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/10px-1downarrow_red.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/15px-1downarrow_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/1downarrow_red.svg/20px-1downarrow_red.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>
+</td>
+<td align="right">29
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Rubens_Barrichello" title="Rubens Barrichello">Rubens Barrichello</a>
+</td>
+<td align="right">22
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1uparrow_green.svg" class="image"><img alt="1uparrow green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/10px-1uparrow_green.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/15px-1uparrow_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/1uparrow_green.svg/20px-1uparrow_green.svg.png 2x" data-file-width="480" data-file-height="480" /></a> 1
+</td>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giancarlo_Fisichella" title="Giancarlo Fisichella">Giancarlo Fisichella</a>
+</td>
+<td align="right">14
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-Championship_41-0" class="reference"><a href="#cite_note-Championship-41">&#91;40&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Constructors' Championship standings</dt></dl>
+<table class="wikitable" style="font-size: 95%;">
+
+<tbody><tr>
+<th>
+</th>
+<th scope="col"><abbr title="Position">Pos</abbr>
+</th>
+<th scope="col">Constructor
+</th>
+<th scope="col">Points
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td align="right">68
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes-Benz_HighPerformanceEngines" class="mw-redirect" title="Mercedes-Benz HighPerformanceEngines">Mercedes</a>
+</td>
+<td align="right">63
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/WilliamsF1" class="mw-redirect" title="WilliamsF1">Williams</a>-<a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW</a>
+</td>
+<td align="right">15
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Benetton_Formula" title="Benetton Formula">Benetton</a>-<a href="/wiki/Playlife" title="Playlife">Playlife</a>
+</td>
+<td align="right">14
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/File:1rightarrow_blue.svg" class="image"><img alt="1rightarrow blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/10px-1rightarrow_blue.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/15px-1rightarrow_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1rightarrow_blue.svg/20px-1rightarrow_blue.svg.png 2x" data-file-width="480" data-file-height="480" /></a>
+</td>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jordan_Grand_Prix" title="Jordan Grand Prix">Jordan</a>-<a href="/wiki/Mugen-Honda" class="mw-redirect" title="Mugen-Honda">Mugen-Honda</a>
+</td>
+<td align="right">9
+</td></tr>
+<tr>
+<th colspan="4">Source:<sup id="cite_ref-Championship_41-1" class="reference"><a href="#cite_note-Championship-41">&#91;40&#93;</a></sup>
+</th></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<ul><li><small><b>Note</b>: Only the top five positions are included for both sets of standings.</small></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">de la Rosa is listed as Did Not Start in the official results, despite having taken the first start prior to the race being stopped. Regulations at the time were such that in the event of a stoppage being ordered on the first lap, that start would be deemed null-and-void, and the second start would take place as if the first had never occurred. As this driver didn't make the second start, he is classified DNS.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2000_Monaco_Grand_Prix&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-entrants-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-entrants_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-entrants_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20000622031102/http://www.fia.com/presse/Teams-a/F1teams-a.htm">"Formula One Teams and Drivers (2000)"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/presse/Teams-a/F1teams-a.htm">the original</a> on 22 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Formula+One+Teams+and+Drivers+%282000%29&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fpresse%2FTeams-a%2FF1teams-a.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFTytler2000" class="citation web cs1">Tytler, Ewan (31 May 2000). <a rel="nofollow" class="external text" href="http://www.atlasf1.com/2000/mon/preview/tytler.html">"The Monaco GP Preview"</a>. <i><a href="/wiki/Autosport" title="Autosport">Atlas F1</a></i>. <a href="/wiki/Haymarket_Media_Group" title="Haymarket Media Group">Haymarket Publications</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=The+Monaco+GP+Preview&amp;rft.date=2000-05-31&amp;rft.aulast=Tytler&amp;rft.aufirst=Ewan&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2F2000%2Fmon%2Fpreview%2Ftytler.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-points-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-points_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-points_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-points_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-points_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-points_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150711102519/http://www.crash.net/f1/2000/championship/content.html">"F1 Driver's Championship Table 2000"</a>. <i>crash.net</i>. Crash Media Group. Archived from <a rel="nofollow" class="external text" href="https://www.crash.net/f1/2000/championship/content.html">the original</a> on 11 July 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=crash.net&amp;rft.atitle=F1+Driver%27s+Championship+Table+2000&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2F2000%2Fchampionship%2Fcontent.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-testing-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-testing_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-testing_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-testing_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-testing_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://archive.atlasf1.com/news/2000/features/testing/may.html">"2000 May Testing"</a>. <i>Atlas F1</i>. Haymarket Publications<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=2000+May+Testing&amp;rft_id=http%3A%2F%2Farchive.atlasf1.com%2Fnews%2F2000%2Ffeatures%2Ftesting%2Fmay.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010618225230/http://www.formula1.com/news/headlines00/luxembourg/s2186.html">"Drivers express opinions on new Valencia track"</a>. <i>Formula1.com</i>. Formula1.com Limited. 24 May 2000. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines00/luxembourg/s2186.html">the original</a> on 18 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Drivers+express+opinions+on+new+Valencia+track&amp;rft.date=2000-05-24&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines00%2Fluxembourg%2Fs2186.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010603113643/http://www.formula1.com/news/headlines00/luxembourg/s2188.html">"Fisichella crashes out of testing"</a>. <i>Formula1.com</i>. Formula1.com Limited. 24 May 2000. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines00/luxembourg/s2188.html">the original</a> on 3 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Fisichella+crashes+out+of+testing&amp;rft.date=2000-05-24&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines00%2Fluxembourg%2Fs2188.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/may/2453.htm">"Verstappen Fastest at Valencia Testing – Day Two"</a>. <i>Atlas F1</i>. Haymarket Publications. 25 May 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Verstappen+Fastest+at+Valencia+Testing+%E2%80%93+Day+Two&amp;rft.date=2000-05-25&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fmay%2F2453.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-testing2-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-testing2_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-testing2_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-testing2_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-testing2_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010604123433/http://www.fia.com/presse/f1updt-a/26-05-00.htm">"Formula One Update: 26 May 2000"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 26 May 2000. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/presse/f1updt-a/26-05-00.htm">the original</a> on 4 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Formula+One+Update%3A+26+May+2000&amp;rft.date=2000-05-26&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fpresse%2Ff1updt-a%2F26-05-00.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010618140622/http://www.formula1.com/news/headlines00/luxembourg/s2207.html">"Testing May 27th: Fiorano Day 5"</a>. <i>Formula1.com</i>. Formula1.com Limited. 30 May 2000. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/news/headlines00/luxembourg/s2207.html">the original</a> on 18 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=Testing+May+27th%3A+Fiorano+Day+5&amp;rft.date=2000-05-30&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fnews%2Fheadlines00%2Fluxembourg%2Fs2207.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/6241/symonds-previews-monaco-grand-prix-for-benetton/">"Symonds previews Monaco Grand Prix for Benetton"</a>. <i>GPUpdate</i>. JHED Media BV. 27 May 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=Symonds+previews+Monaco+Grand+Prix+for+Benetton&amp;rft.date=2000-05-27&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F6241%2Fsymonds-previews-monaco-grand-prix-for-benetton%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-regulations-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-regulations_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-regulations_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-regulations_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-regulations_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20001205154600/http://www.fia.com/regle/reg_spt/F1spt-a.htm">"2000 Formula One Sporting Regulations"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 24 January 2000. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/regle/reg_spt/F1spt-a.htm">the original</a> on 5 December 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=2000+Formula+One+Sporting+Regulations&amp;rft.date=2000-01-24&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fregle%2Freg_spt%2FF1spt-a.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fiathursday-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiathursday_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiathursday_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fiathursday_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010604123433/http://www.fia.com/presse/F1NEWS-A/monaco-2000-1.htm">"Free Practice – 2 Bulletins"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 1 June 2000. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/presse/F1NEWS-A/monaco-2000-1.htm">the original</a> on 4 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Free+Practice+%E2%80%93+2+Bulletins&amp;rft.date=2000-06-01&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fpresse%2FF1NEWS-A%2Fmonaco-2000-1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/jun/report.php?id=2467">"Thursday First Free Practice – Monaco GP"</a>. <i>Atlas F1</i>. Haymarket Publications. 1 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Thursday+First+Free+Practice+%E2%80%93+Monaco+GP&amp;rft.date=2000-06-01&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fjun%2Freport.php%3Fid%3D2467&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fiasaturday-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiasaturday_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-fiasaturday_14-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010604123433/http://www.fia.com/presse/f1news-a/monaco-2000-2.htm">"Free Practice + Qualifying"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 3 June 2000. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/presse/f1news-a/monaco-2000-2.htm">the original</a> on 4 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Free+Practice+%2B+Qualifying&amp;rft.date=2000-06-03&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fpresse%2Ff1news-a%2Fmonaco-2000-2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070728164633/http://dbs.galeforcef1.com/event_times.asp?s=2000&amp;e=07&amp;p=f2t">"Session Times: Free 2"</a>. Gale Force F1. 3 June 2000. Archived from <a rel="nofollow" class="external text" href="http://dbs.galeforcef1.com/event_times.asp?s=2000&amp;e=07&amp;p=f2t">the original</a> on 28 July 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Session+Times%3A+Free+2&amp;rft.pub=Gale+Force+F1&amp;rft.date=2000-06-03&amp;rft_id=http%3A%2F%2Fdbs.galeforcef1.com%2Fevent_times.asp%3Fs%3D2000%26e%3D07%26p%3Df2t&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.motorsport.com/f1/news/monaco-gp-ferrari-saturday-notes/?v=11&amp;s=1">"Monaco GP Ferrari Saturday notes"</a>. <i>motorsport.com</i>. Motorsport.com, Inc. 3 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=motorsport.com&amp;rft.atitle=Monaco+GP+Ferrari+Saturday+notes&amp;rft.date=2000-06-03&amp;rft_id=http%3A%2F%2Fwww.motorsport.com%2Ff1%2Fnews%2Fmonaco-gp-ferrari-saturday-notes%2F%3Fv%3D11%26s%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-temp-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-temp_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-temp_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060610125519/http://dbs.galeforcef1.com/event.asp?e=07&amp;s=2000">"Grand Prix of Monaco"</a>. Gale Force F1. 4 June 2000. Archived from <a rel="nofollow" class="external text" href="http://dbs.galeforcef1.com/event.asp?e=07&amp;s=2000">the original</a> on 10 June 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grand+Prix+of+Monaco&amp;rft.pub=Gale+Force+F1&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fdbs.galeforcef1.com%2Fevent.asp%3Fe%3D07%26s%3D2000&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-bbcquali-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbcquali_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbcquali_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bbcquali_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bbcquali_18-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sport/motorsport/775618.stm">"Polished Schu cruises in qualifying"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 3 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Polished+Schu+cruises+in+qualifying&amp;rft.date=2000-06-03&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsport%2Fmotorsport%2F775618.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.motorsport.com/f1/news/monaco-gp-saturday-qualifying-2002-04-15/?v=11&amp;s=1">"Monaco GP Saturday qualifying"</a>. <i>motorsport.com</i>. Motorsport.com, Inc. 3 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">30 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=motorsport.com&amp;rft.atitle=Monaco+GP+Saturday+qualifying&amp;rft.date=2000-06-03&amp;rft_id=http%3A%2F%2Fwww.motorsport.com%2Ff1%2Fnews%2Fmonaco-gp-saturday-qualifying-2002-04-15%2F%3Fv%3D11%26s%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sport/motorsport/776627.stm">"Ferrari hit form before race"</a>. <i>BBC News</i>. BBC. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Ferrari+hit+form+before+race&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsport%2Fmotorsport%2F776627.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.crash.net/f1/news/36034/1/barrichello-hottest-in-monaco-warmup.html">"Barrichello hottest in Monaco warm-up"</a>. <i>crash.net</i>. Crash Media Group. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=crash.net&amp;rft.atitle=Barrichello+hottest+in+Monaco+warm-up&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.crash.net%2Ff1%2Fnews%2F36034%2F1%2Fbarrichello-hottest-in-monaco-warmup.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fiarace-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-fiarace_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fiarace_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fiarace_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fiarace_22-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fiarace_22-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-fiarace_22-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-fiarace_22-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-fiarace_22-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-fiarace_22-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-fiarace_22-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-fiarace_22-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-fiarace_22-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010604123433/http://www.fia.com/presse/F1NEWS-A/monaco-2000-4.htm">"Race Facts"</a>. <i>FIA.com</i>. Fédération Internationale de l'Automobile. 4 June 2000. Archived from <a rel="nofollow" class="external text" href="http://www.fia.com/presse/F1NEWS-A/monaco-2000-4.htm">the original</a> on 4 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIA.com&amp;rft.atitle=Race+Facts&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.fia.com%2Fpresse%2FF1NEWS-A%2Fmonaco-2000-4.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-gprace-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-gprace_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gprace_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gprace_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gprace_23-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-gprace_23-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-gprace_23-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-gprace_23-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-gprace_23-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grandprix.com/gpe/rr653.html">"Grand Prix Results: Monaco GP, 2000"</a>. <i>GrandPrix.com</i>. Inside F1, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GrandPrix.com&amp;rft.atitle=Grand+Prix+Results%3A+Monaco+GP%2C+2000&amp;rft_id=http%3A%2F%2Fwww.grandprix.com%2Fgpe%2Frr653.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-lapchart-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-lapchart_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lapchart_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-lapchart_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-lapchart_24-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-lapchart_24-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-lapchart_24-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-lapchart_24-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-lapchart_24-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-lapchart_24-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-lapchart_24-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-lapchart_24-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-lapchart_24-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-lapchart_24-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060518072608/http://dbs.galeforcef1.com/laps_2000/lbl_mc_laps.html">"Lap-by-Lap: Grand Prix of Monaco 2000"</a>. Gale Force F1. 4 June 2000. Archived from <a rel="nofollow" class="external text" href="http://dbs.galeforcef1.com/laps_2000/lbl_mc_laps.html">the original</a> on 18 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lap-by-Lap%3A+Grand+Prix+of+Monaco+2000&amp;rft.pub=Gale+Force+F1&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fdbs.galeforcef1.com%2Flaps_2000%2Flbl_mc_laps.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-f1comrace-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-f1comrace_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20010610062748/http://www.formula1.com/races/racenews00/monaco/race.html">"2000 Round 7 Monaco: Monte Carlo"</a>. <i>Formula1.com</i>. Formula1.com Limited. 4 June 2000. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/races/racenews00/monaco/race.html">the original</a> on 10 June 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2000+Round+7+Monaco%3A+Monte+Carlo&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fraces%2Fracenews00%2Fmonaco%2Frace.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-mclarenrace-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-mclarenrace_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mclarenrace_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.motorsport.com/f1/news/monaco-gp-mclaren-race-notes/">"Monaco GP McLaren race notes"</a>. <i>motorsport.com</i>. Motorsport.com, Inc. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=motorsport.com&amp;rft.atitle=Monaco+GP+McLaren+race+notes&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.motorsport.com%2Ff1%2Fnews%2Fmonaco-gp-mclaren-race-notes%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="http://go.galegroup.com/ps/i.do?p=GPS&amp;sw=w&amp;u=wikipedia&amp;v=2.1&amp;id=GALE%7CA441033816&amp;it=r&amp;asid=8d61de65e053f08ef2484bb2ec172939">"Coulthard win Monaco Grand Prix"</a></span>. <a href="/wiki/United_Press_International" title="United Press International">United Press International</a>. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2017</span> &#8211; via General OneFile.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Coulthard+win+Monaco+Grand+Prix&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fgo.galegroup.com%2Fps%2Fi.do%3Fp%3DGPS%26sw%3Dw%26u%3Dwikipedia%26v%3D2.1%26id%3DGALE%257CA441033816%26it%3Dr%26asid%3D8d61de65e053f08ef2484bb2ec172939&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-results-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-results_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-results_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-results_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chicanef1.com/race.pl?year=2000&amp;gp=Monaco%20GP&amp;r=1&amp;type=res">"2000 Monaco GP – Classification"</a>. ChicaneF1<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2000+Monaco+GP+%E2%80%93+Classification&amp;rft.pub=ChicaneF1&amp;rft_id=http%3A%2F%2Fwww.chicanef1.com%2Frace.pl%3Fyear%3D2000%26gp%3DMonaco%2520GP%26r%3D1%26type%3Dres&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFEason2000" class="citation news cs1">Eason, Kevin (3 June 2000). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="http://go.galegroup.com/ps/i.do?p=GPS&amp;sw=w&amp;u=wikipedia&amp;v=2.1&amp;id=GALE%7CA62490415&amp;it=r&amp;asid=0ed823e07d7fe18b37ef48d207a90e4f">"Coulthard puts Monaco at top of his list; Monaco Grand Prix"</a></span>. <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>. p.&#160;38<span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2017</span> &#8211; via Academic OneFile.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=Coulthard+puts+Monaco+at+top+of+his+list%3B+Monaco+Grand+Prix&amp;rft.pages=38&amp;rft.date=2000-06-03&amp;rft.aulast=Eason&amp;rft.aufirst=Kevin&amp;rft_id=http%3A%2F%2Fgo.galegroup.com%2Fps%2Fi.do%3Fp%3DGPS%26sw%3Dw%26u%3Dwikipedia%26v%3D2.1%26id%3DGALE%257CA62490415%26it%3Dr%26asid%3D0ed823e07d7fe18b37ef48d207a90e4f&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/6552/coulthard-comments-on-monaco-win/">"Coulthard comments on Monaco win"</a>. <i>GPUpdate</i>. JHED Media BV. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=Coulthard+comments+on+Monaco+win&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F6552%2Fcoulthard-comments-on-monaco-win%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-pressconf-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-pressconf_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pressconf_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pressconf_31-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/jun/report.php?id=2496">"Post-Race Press Conference – Monaco GP"</a>. <i>Atlas F1</i>. Haymarket Publications. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Post-Race+Press+Conference+%E2%80%93+Monaco+GP&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fjun%2Freport.php%3Fid%3D2496&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/6788/fisichella-willing-to-stay-at-enstone/">"Fisichella willing to stay at Enstone"</a>. <i>GPUpdate</i>. JHED Media BV. 6 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=Fisichella+willing+to+stay+at+Enstone&amp;rft.date=2000-06-06&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F6788%2Ffisichella-willing-to-stay-at-enstone%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/jun/report.php?id=2497">"Jaguar Celebrate First Points in Formula One"</a>. <i>Atlas F1</i>. Haymarket Publications. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Jaguar+Celebrate+First+Points+in+Formula+One&amp;rft.date=2000-06-04&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fjun%2Freport.php%3Fid%3D2497&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpupdate.net/en/f1-news/6653/eddie-glum-despite-scoring/">"Eddie glum despite scoring"</a>. <i>GPUpdate</i>. JHED Media BV. 6 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GPUpdate&amp;rft.atitle=Eddie+glum+despite+scoring&amp;rft.date=2000-06-06&amp;rft_id=http%3A%2F%2Fwww.gpupdate.net%2Fen%2Ff1-news%2F6653%2Feddie-glum-despite-scoring%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/jun/report.php?id=2511">"Salo has Sore Hands"</a>. <i>Atlas F1</i>. Haymarket Publications. 9 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Salo+has+Sore+Hands&amp;rft.date=2000-06-09&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fjun%2Freport.php%3Fid%3D2511&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-schumachers-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-schumachers_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-schumachers_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://espn.go.com/auto/formulaone/news/2000/0604/566929.html">"Schumachers struggle in Monte Carlo"</a>. <i>ESPN</i>. ESPN Internet Ventures. 4 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">30 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESPN&amp;rft.atitle=Schumachers+struggle+in+Monte+Carlo&amp;rft.date=2000-06-04&amp;rft_id=https%3A%2F%2Fespn.go.com%2Fauto%2Fformulaone%2Fnews%2F2000%2F0604%2F566929.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-ralfinjurybbc-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-ralfinjurybbc_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ralfinjurybbc_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sport/motorsport/780240.stm">"Schumacher injury doubt"</a>. <i>BBC Sport</i>. BBC. 6 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Schumacher+injury+doubt&amp;rft.date=2000-06-06&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsport%2Fmotorsport%2F780240.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atlasf1.com/news/2000/jun/report.php?id=2531">"Ralf Schumacher Declared Fit to Race"</a>. <i>Atlas F1</i>. Haymarket Publications. 16 June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+F1&amp;rft.atitle=Ralf+Schumacher+Declared+Fit+to+Race&amp;rft.date=2000-06-16&amp;rft_id=http%3A%2F%2Fwww.atlasf1.com%2Fnews%2F2000%2Fjun%2Freport.php%3Fid%3D2531&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-formula1.com-officialresult-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-formula1.com-officialresult_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141010081417/http://www.formula1.com/results/season/2000/57/">"2000 Monaco Grand Prix"</a>. <i>Formula1.com</i>. Formula1.com Limited. Archived from <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/2000/57/">the original</a> on 10 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Formula1.com&amp;rft.atitle=2000+Monaco+Grand+Prix&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F2000%2F57%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Championship-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Championship_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Championship_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.statsf1.com/en/2000/monaco/championnat.aspx">"Monaco 2000 – Championship • STATS F1"</a>. <i>www.statsf1.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statsf1.com&amp;rft.atitle=Monaco+2000+%E2%80%93+Championship+%E2%80%A2+STATS+F1&amp;rft_id=https%3A%2F%2Fwww.statsf1.com%2Fen%2F2000%2Fmonaco%2Fchampionnat.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+Monaco+Grand+Prix" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:2000_Monaco_Grand_Prix" class="extiw" title="commons:Category:2000 Monaco Grand Prix"><span style="">2000 Monaco Grand Prix</span></a></b></i>.</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">2000 European Grand Prix</a></b>
+</td>
+<td width="30%"><b><span class="nowrap"><a href="/wiki/Formula_One" title="Formula One">FIA Formula One World Championship</a></span><br /><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000 season</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">2000 Canadian Grand Prix</a></b>
+</td></tr>
+<tr style="text-align:center">
+<td width="35%">Previous&#160;race:<br /><b><a href="/wiki/1999_Monaco_Grand_Prix" title="1999 Monaco Grand Prix">1999 Monaco Grand Prix</a></b>
+</td>
+<td width="30%"><b><a href="/wiki/Monaco_Grand_Prix" title="Monaco Grand Prix">Monaco Grand Prix</a></b>
+</td>
+<td width="35%">Next&#160;race:<br /><b><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">2001 Monaco Grand Prix</a></b>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Monaco_Grand_Prix" style="width:auto; min-width:33em;padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Monaco_Grand_Prix" title="Template:Monaco Grand Prix"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Monaco_Grand_Prix" title="Template talk:Monaco Grand Prix"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Monaco_Grand_Prix&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Monaco_Grand_Prix" style="font-size:114%;margin:0 4em"><a href="/wiki/Monaco_Grand_Prix" title="Monaco Grand Prix">Monaco Grand Prix</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1929_Monaco_Grand_Prix" title="1929 Monaco Grand Prix">1929</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1930_Monaco_Grand_Prix" title="1930 Monaco Grand Prix">1930</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1931_Monaco_Grand_Prix" title="1931 Monaco Grand Prix">1931</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1932_Monaco_Grand_Prix" title="1932 Monaco Grand Prix">1932</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1933_Monaco_Grand_Prix" title="1933 Monaco Grand Prix">1933</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1934_Monaco_Grand_Prix" title="1934 Monaco Grand Prix">1934</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1935_Monaco_Grand_Prix" title="1935 Monaco Grand Prix">1935</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1936_Monaco_Grand_Prix" title="1936 Monaco Grand Prix">1936</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1937_Monaco_Grand_Prix" title="1937 Monaco Grand Prix">1937</a></td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%"><a href="/wiki/1948_Monaco_Grand_Prix" title="1948 Monaco Grand Prix">1948</a></td>
+<td style="text-align:center;width:10%">NH</td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1950_Monaco_Grand_Prix" title="1950 Monaco Grand Prix">1950</a></td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%"><a href="/wiki/1952_Monaco_Grand_Prix" title="1952 Monaco Grand Prix">1952</a></td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%">NH</td>
+<td style="text-align:center;width:10%"><a href="/wiki/1955_Monaco_Grand_Prix" title="1955 Monaco Grand Prix">1955</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1956_Monaco_Grand_Prix" title="1956 Monaco Grand Prix">1956</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1957_Monaco_Grand_Prix" title="1957 Monaco Grand Prix">1957</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1958_Monaco_Grand_Prix" title="1958 Monaco Grand Prix">1958</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1959_Monaco_Grand_Prix" title="1959 Monaco Grand Prix">1959</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1960_Monaco_Grand_Prix" title="1960 Monaco Grand Prix">1960</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1961_Monaco_Grand_Prix" title="1961 Monaco Grand Prix">1961</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1962_Monaco_Grand_Prix" title="1962 Monaco Grand Prix">1962</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1963_Monaco_Grand_Prix" title="1963 Monaco Grand Prix">1963</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1964_Monaco_Grand_Prix" title="1964 Monaco Grand Prix">1964</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1965_Monaco_Grand_Prix" title="1965 Monaco Grand Prix">1965</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1966_Monaco_Grand_Prix" title="1966 Monaco Grand Prix">1966</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1967_Monaco_Grand_Prix" title="1967 Monaco Grand Prix">1967</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1968_Monaco_Grand_Prix" title="1968 Monaco Grand Prix">1968</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1969_Monaco_Grand_Prix" title="1969 Monaco Grand Prix">1969</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1970_Monaco_Grand_Prix" title="1970 Monaco Grand Prix">1970</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1971_Monaco_Grand_Prix" title="1971 Monaco Grand Prix">1971</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1972_Monaco_Grand_Prix" title="1972 Monaco Grand Prix">1972</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1973_Monaco_Grand_Prix" title="1973 Monaco Grand Prix">1973</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1974_Monaco_Grand_Prix" title="1974 Monaco Grand Prix">1974</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1975_Monaco_Grand_Prix" title="1975 Monaco Grand Prix">1975</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1976_Monaco_Grand_Prix" title="1976 Monaco Grand Prix">1976</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1977_Monaco_Grand_Prix" title="1977 Monaco Grand Prix">1977</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1978_Monaco_Grand_Prix" title="1978 Monaco Grand Prix">1978</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1979_Monaco_Grand_Prix" title="1979 Monaco Grand Prix">1979</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1980_Monaco_Grand_Prix" title="1980 Monaco Grand Prix">1980</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1981_Monaco_Grand_Prix" title="1981 Monaco Grand Prix">1981</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1982_Monaco_Grand_Prix" title="1982 Monaco Grand Prix">1982</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1983_Monaco_Grand_Prix" title="1983 Monaco Grand Prix">1983</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1984_Monaco_Grand_Prix" title="1984 Monaco Grand Prix">1984</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1985_Monaco_Grand_Prix" title="1985 Monaco Grand Prix">1985</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1986_Monaco_Grand_Prix" title="1986 Monaco Grand Prix">1986</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1987_Monaco_Grand_Prix" title="1987 Monaco Grand Prix">1987</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1988_Monaco_Grand_Prix" title="1988 Monaco Grand Prix">1988</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1989_Monaco_Grand_Prix" title="1989 Monaco Grand Prix">1989</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/1990_Monaco_Grand_Prix" title="1990 Monaco Grand Prix">1990</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1991_Monaco_Grand_Prix" title="1991 Monaco Grand Prix">1991</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1992_Monaco_Grand_Prix" title="1992 Monaco Grand Prix">1992</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1993_Monaco_Grand_Prix" title="1993 Monaco Grand Prix">1993</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1994_Monaco_Grand_Prix" title="1994 Monaco Grand Prix">1994</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1995_Monaco_Grand_Prix" title="1995 Monaco Grand Prix">1995</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1996_Monaco_Grand_Prix" title="1996 Monaco Grand Prix">1996</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1997_Monaco_Grand_Prix" title="1997 Monaco Grand Prix">1997</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1998_Monaco_Grand_Prix" title="1998 Monaco Grand Prix">1998</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/1999_Monaco_Grand_Prix" title="1999 Monaco Grand Prix">1999</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a class="mw-selflink selflink">2000</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">2001</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">2002</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">2003</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">2004</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">2005</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">2006</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">2007</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">2008</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">2009</a></td></tr></tbody></table>
+<table style="width:100%;padding:0"><tbody><tr>
+<td style="text-align:center;width:10%"><a href="/wiki/2010_Monaco_Grand_Prix" title="2010 Monaco Grand Prix">2010</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2011_Monaco_Grand_Prix" title="2011 Monaco Grand Prix">2011</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2012_Monaco_Grand_Prix" title="2012 Monaco Grand Prix">2012</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2013_Monaco_Grand_Prix" title="2013 Monaco Grand Prix">2013</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2014_Monaco_Grand_Prix" title="2014 Monaco Grand Prix">2014</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2015_Monaco_Grand_Prix" title="2015 Monaco Grand Prix">2015</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2016_Monaco_Grand_Prix" title="2016 Monaco Grand Prix">2016</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2017_Monaco_Grand_Prix" title="2017 Monaco Grand Prix">2017</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2018_Monaco_Grand_Prix" title="2018 Monaco Grand Prix">2018</a></td>
+<td style="text-align:center;width:10%"><a href="/wiki/2019_Monaco_Grand_Prix" title="2019 Monaco Grand Prix">2019</a></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Circuit de Monaco</a></li>
+<li><a href="/wiki/Monaco_Grand_Prix_Formula_Three_support_race" class="mw-redirect" title="Monaco Grand Prix Formula Three support race">Formula Three</a></li>
+<li><a href="/wiki/Historic_Grand_Prix_of_Monaco" title="Historic Grand Prix of Monaco">Historic Grand Prix</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F1GP_2000%E2%80%9309" title="Template:F1GP 2000–09"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F1GP_2000%E2%80%9309" title="Template talk:F1GP 2000–09"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:F1GP_2000%E2%80%9309&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="«_previous_Formula_One_Grands_Prix_(2000–09)_next_»" style="font-size:114%;margin:0 4em"><div style="float: left;"><a href="/wiki/Template:F1GP_1990%E2%80%9399" title="Template:F1GP 1990–99">«&#160;<span style="font-size:85%;">previous</span></a></div> <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">Formula One Grands Prix</a> (2000–09) <div style="float: right;"><a href="/wiki/Template:F1GP_2010%E2%80%9319" title="Template:F1GP 2010–19"><span style="font-size:85%;">next</span>&#160;»</a></div></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2009_Formula_One_World_Championship" title="2009 Formula One World Championship">2009</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2008_Formula_One_World_Championship" title="2008 Formula One World Championship">2008</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2008_Australian_Grand_Prix" title="2008 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2008_Malaysian_Grand_Prix" title="2008 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2008_Bahrain_Grand_Prix" title="2008 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2008_Spanish_Grand_Prix" title="2008 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2008_Turkish_Grand_Prix" title="2008 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2008_Monaco_Grand_Prix" title="2008 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2008_Canadian_Grand_Prix" title="2008 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2008_French_Grand_Prix" title="2008 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2008_British_Grand_Prix" title="2008 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2008_German_Grand_Prix" title="2008 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2008_Hungarian_Grand_Prix" title="2008 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2008_European_Grand_Prix" title="2008 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2008_Belgian_Grand_Prix" title="2008 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2008_Italian_Grand_Prix" title="2008 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2008_Singapore_Grand_Prix" title="2008 Singapore Grand Prix">SIN</a></li>
+<li><a href="/wiki/2008_Japanese_Grand_Prix" title="2008 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2008_Chinese_Grand_Prix" title="2008 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2008_Brazilian_Grand_Prix" title="2008 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2007_Formula_One_World_Championship" title="2007 Formula One World Championship">2007</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2007_Australian_Grand_Prix" title="2007 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2007_Malaysian_Grand_Prix" title="2007 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2007_Bahrain_Grand_Prix" title="2007 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2007_Spanish_Grand_Prix" title="2007 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2007_Monaco_Grand_Prix" title="2007 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2007_Canadian_Grand_Prix" title="2007 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2007_United_States_Grand_Prix" title="2007 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2007_French_Grand_Prix" title="2007 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2007_British_Grand_Prix" title="2007 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2007_European_Grand_Prix" title="2007 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2007_Hungarian_Grand_Prix" title="2007 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2007_Turkish_Grand_Prix" title="2007 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2007_Italian_Grand_Prix" title="2007 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2007_Belgian_Grand_Prix" title="2007 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2007_Japanese_Grand_Prix" title="2007 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2007_Chinese_Grand_Prix" title="2007 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2007_Brazilian_Grand_Prix" title="2007 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2006_Formula_One_World_Championship" title="2006 Formula One World Championship">2006</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2006_Bahrain_Grand_Prix" title="2006 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2006_Malaysian_Grand_Prix" title="2006 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2006_Australian_Grand_Prix" title="2006 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2006_San_Marino_Grand_Prix" title="2006 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2006_European_Grand_Prix" title="2006 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2006_Spanish_Grand_Prix" title="2006 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2006_Monaco_Grand_Prix" title="2006 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2006_British_Grand_Prix" title="2006 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2006_Canadian_Grand_Prix" title="2006 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2006_United_States_Grand_Prix" title="2006 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2006_French_Grand_Prix" title="2006 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2006_German_Grand_Prix" title="2006 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2006_Hungarian_Grand_Prix" title="2006 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2006_Turkish_Grand_Prix" title="2006 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2006_Italian_Grand_Prix" title="2006 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2006_Chinese_Grand_Prix" title="2006 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2006_Japanese_Grand_Prix" title="2006 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2006_Brazilian_Grand_Prix" title="2006 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2005_Formula_One_World_Championship" title="2005 Formula One World Championship">2005</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2005_Australian_Grand_Prix" title="2005 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2005_Malaysian_Grand_Prix" title="2005 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2005_Bahrain_Grand_Prix" title="2005 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2005_San_Marino_Grand_Prix" title="2005 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2005_Spanish_Grand_Prix" title="2005 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2005_Monaco_Grand_Prix" title="2005 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2005_European_Grand_Prix" title="2005 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2005_Canadian_Grand_Prix" title="2005 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2005_United_States_Grand_Prix" title="2005 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2005_French_Grand_Prix" title="2005 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2005_British_Grand_Prix" title="2005 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2005_German_Grand_Prix" title="2005 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2005_Hungarian_Grand_Prix" title="2005 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2005_Turkish_Grand_Prix" title="2005 Turkish Grand Prix">TUR</a></li>
+<li><a href="/wiki/2005_Italian_Grand_Prix" title="2005 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2005_Belgian_Grand_Prix" title="2005 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2005_Brazilian_Grand_Prix" title="2005 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2005_Japanese_Grand_Prix" title="2005 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2005_Chinese_Grand_Prix" title="2005 Chinese Grand Prix">CHN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2004_Formula_One_World_Championship" title="2004 Formula One World Championship">2004</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2004_Australian_Grand_Prix" title="2004 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2004_Malaysian_Grand_Prix" title="2004 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2004_Bahrain_Grand_Prix" title="2004 Bahrain Grand Prix">BHR</a></li>
+<li><a href="/wiki/2004_San_Marino_Grand_Prix" title="2004 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2004_Spanish_Grand_Prix" title="2004 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2004_Monaco_Grand_Prix" title="2004 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2004_European_Grand_Prix" title="2004 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2004_Canadian_Grand_Prix" title="2004 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2004_United_States_Grand_Prix" title="2004 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2004_French_Grand_Prix" title="2004 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2004_British_Grand_Prix" title="2004 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2004_German_Grand_Prix" title="2004 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2004_Hungarian_Grand_Prix" title="2004 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2004_Belgian_Grand_Prix" title="2004 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2004_Italian_Grand_Prix" title="2004 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2004_Chinese_Grand_Prix" title="2004 Chinese Grand Prix">CHN</a></li>
+<li><a href="/wiki/2004_Japanese_Grand_Prix" title="2004 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2004_Brazilian_Grand_Prix" title="2004 Brazilian Grand Prix">BRA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2003_Formula_One_World_Championship" title="2003 Formula One World Championship">2003</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2003_Australian_Grand_Prix" title="2003 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2003_Malaysian_Grand_Prix" title="2003 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2003_Brazilian_Grand_Prix" title="2003 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2003_San_Marino_Grand_Prix" title="2003 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2003_Spanish_Grand_Prix" title="2003 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2003_Austrian_Grand_Prix" title="2003 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2003_Monaco_Grand_Prix" title="2003 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2003_Canadian_Grand_Prix" title="2003 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2003_European_Grand_Prix" title="2003 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2003_French_Grand_Prix" title="2003 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2003_British_Grand_Prix" title="2003 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2003_German_Grand_Prix" title="2003 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2003_Hungarian_Grand_Prix" title="2003 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2003_Italian_Grand_Prix" title="2003 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2003_United_States_Grand_Prix" title="2003 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2003_Japanese_Grand_Prix" title="2003 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2002_Formula_One_World_Championship" title="2002 Formula One World Championship">2002</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2002_Australian_Grand_Prix" title="2002 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2002_Malaysian_Grand_Prix" title="2002 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2002_Brazilian_Grand_Prix" title="2002 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2002_San_Marino_Grand_Prix" title="2002 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2002_Spanish_Grand_Prix" title="2002 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2002_Austrian_Grand_Prix" title="2002 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2002_Monaco_Grand_Prix" title="2002 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2002_Canadian_Grand_Prix" title="2002 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2002_European_Grand_Prix" title="2002 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2002_British_Grand_Prix" title="2002 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2002_French_Grand_Prix" title="2002 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2002_German_Grand_Prix" title="2002 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2002_Hungarian_Grand_Prix" title="2002 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2002_Belgian_Grand_Prix" title="2002 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2002_Italian_Grand_Prix" title="2002 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2002_United_States_Grand_Prix" title="2002 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2002_Japanese_Grand_Prix" title="2002 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2001_Formula_One_World_Championship" title="2001 Formula One World Championship">2001</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_Australian_Grand_Prix" title="2001 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2001_Malaysian_Grand_Prix" title="2001 Malaysian Grand Prix">MAL</a></li>
+<li><a href="/wiki/2001_Brazilian_Grand_Prix" title="2001 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2001_San_Marino_Grand_Prix" title="2001 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2001_Spanish_Grand_Prix" title="2001 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2001_Austrian_Grand_Prix" title="2001 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2001_Monaco_Grand_Prix" title="2001 Monaco Grand Prix">MON</a></li>
+<li><a href="/wiki/2001_Canadian_Grand_Prix" title="2001 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2001_European_Grand_Prix" title="2001 European Grand Prix">EUR</a></li>
+<li><a href="/wiki/2001_French_Grand_Prix" title="2001 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2001_British_Grand_Prix" title="2001 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2001_German_Grand_Prix" title="2001 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2001_Hungarian_Grand_Prix" title="2001 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2001_Belgian_Grand_Prix" title="2001 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2001_Italian_Grand_Prix" title="2001 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2001_United_States_Grand_Prix" title="2001 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2001_Japanese_Grand_Prix" title="2001 Japanese Grand Prix">JPN</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2000_Formula_One_World_Championship" title="2000 Formula One World Championship">2000</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000_Australian_Grand_Prix" title="2000 Australian Grand Prix">AUS</a></li>
+<li><a href="/wiki/2000_Brazilian_Grand_Prix" title="2000 Brazilian Grand Prix">BRA</a></li>
+<li><a href="/wiki/2000_San_Marino_Grand_Prix" title="2000 San Marino Grand Prix">SMR</a></li>
+<li><a href="/wiki/2000_British_Grand_Prix" title="2000 British Grand Prix">GBR</a></li>
+<li><a href="/wiki/2000_Spanish_Grand_Prix" title="2000 Spanish Grand Prix">ESP</a></li>
+<li><a href="/wiki/2000_European_Grand_Prix" title="2000 European Grand Prix">EUR</a></li>
+<li><a class="mw-selflink selflink">MON</a></li>
+<li><a href="/wiki/2000_Canadian_Grand_Prix" title="2000 Canadian Grand Prix">CAN</a></li>
+<li><a href="/wiki/2000_French_Grand_Prix" title="2000 French Grand Prix">FRA</a></li>
+<li><a href="/wiki/2000_Austrian_Grand_Prix" title="2000 Austrian Grand Prix">AUT</a></li>
+<li><a href="/wiki/2000_German_Grand_Prix" title="2000 German Grand Prix">GER</a></li>
+<li><a href="/wiki/2000_Hungarian_Grand_Prix" title="2000 Hungarian Grand Prix">HUN</a></li>
+<li><a href="/wiki/2000_Belgian_Grand_Prix" title="2000 Belgian Grand Prix">BEL</a></li>
+<li><a href="/wiki/2000_Italian_Grand_Prix" title="2000 Italian Grand Prix">ITA</a></li>
+<li><a href="/wiki/2000_United_States_Grand_Prix" title="2000 United States Grand Prix">USA</a></li>
+<li><a href="/wiki/2000_Japanese_Grand_Prix" title="2000 Japanese Grand Prix">JPN</a></li>
+<li><a href="/wiki/2000_Malaysian_Grand_Prix" title="2000 Malaysian Grand Prix">MAL</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Motorsport_current_event.svg" class="image"><img alt="Motorsport current event.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Motorsport_current_event.svg/21px-Motorsport_current_event.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Motorsport_current_event.svg/32px-Motorsport_current_event.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Motorsport_current_event.svg/42px-Motorsport_current_event.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span><a href="/wiki/Portal:Formula_One" title="Portal:Formula One">Formula One portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Sports_icon.png" class="image"><img alt="Sports icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/23px-Sports_icon.png" decoding="async" width="23" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/36px-Sports_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/47px-Sports_icon.png 2x" data-file-width="251" data-file-height="226" /></a></span><a href="/wiki/Portal:Sports" title="Portal:Sports">Sports portal</a></span></li></ul></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=2000_Monaco_Grand_Prix&amp;params=43_44_4.74_N_7_25_16.8_E_scale:1563_type:landmark_region:MC"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°44′4.74″N</span> <span class="longitude">7°25′16.8″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.7346500°N 7.421333°E</span><span style="display:none">&#xfeff; / <span class="geo">43.7346500; 7.421333</span></span></span></a></span></span></span>
+</p></div>
